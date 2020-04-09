@@ -8,6 +8,7 @@ This is a generalized scraper that I've created for some seperate retro gaming p
 I make no claims on how good or bad this is, and it's really made for a specific purpose.  It's likely not going to be modified for an out of scope project and it's not a production piece of software.  It's not perfect, but it's mine...
 
 There are so many retro game scrapers and retro game databases out there.  Here's a small list of just some:
+
 File / Dump Databases:
 - [No-Intro](https://datomatic.no-intro.org/)
 - [Goodtools](https://emulation.gametechwiki.com/index.php/GoodTools)
@@ -15,7 +16,7 @@ File / Dump Databases:
 - [TOSEC](https://www.tosecdev.org/)
 - [MAME/FBNeo/CLR Generalized Format](http://www.progettosnaps.net/dats/)
 
-Game Metadata Databases
+Game Metadata Databases:
 - [Arcade Italia](http://adb.arcadeitalia.net/) (Arcade)
 - [Hyperspin](https://hyperlist.hyperspin-fe.com/) (Multi-System)
 - [Launchbox](https://gamesdb.launchbox-app.com/) (Multi-System)
@@ -34,7 +35,7 @@ And thats just the ones most people are familiar with.  There are a _ton_ of the
 The scraper uses a swiss cheese kind of model.  Using all the metadata possible, we look for matching games by a specified key, if a match is found then the metadata is populated, if not hopefully a match is found in the next source.  The more sources we use the better our chances of finding a match and the maximum amount of metadata possible (which is the goal for ARGDB, to generate a static database file for each game with a conglomerate of metadata from each source)
 ![ARGDB Scraper Model](https://i.imgur.com/j7m25WY.png)
 
-As a nice side effect, I've used this scraper to generate IAGL game xml files.
+As a nice side effect, I've used this scraper to generate IAGL game xml files.  Thats likely what you'll use it for too.
 
 One key part of the main scraper is that it does *not* pull metadata from the internet at runtime (I have other scripts that do that).  Pulling data from the net for a full game set as I'm sure you're aware is painfully slow.  The data for this scraper is all available locally, and in many cases already parsed into the correct format and saved as json cache.
 
@@ -59,7 +60,7 @@ from urllib.parse import unquote as url_unquote
 from lxml import etree as lxml_etree
 ```
 
-In addition, to upload this to github, several of the supporting files in dat_files_raw had to be compressed to be able to upload to github.  You'll need to unzip these files in order to use them in the tool.  You'll see a handy ```Unzip_these_files.txt``` file in the folder.
+In addition, to upload this to github, several of the supporting files in dat_files_raw had to be compressed to be able to upload to github.  You'll need to unzip these files in order to use them in the tool.  You'll see a handy ```Unzip_these_files.txt``` file in the folder.  The goal though is for you the scraper to add your own files to the correct folder after having scoured the internet for that sweet sweet metadata.
 
 ## Example usage
 
@@ -222,7 +223,7 @@ Other commands of interest:
 
 ### 1.  Simplest example.  A list of three games with no metadata
 
-Running the script simple_example1.py will result in the xml output NES_PD_GAMES.xml
+Running the script [simple_example1.py](https://github.com/zach-morris/argdb_scraper/blob/main/simple_example1.py) will result in the xml output [NES_PD_GAMES.xml](https://github.com/zach-morris/argdb_scraper/blob/main/resources/output/NES_PD_GAMES.xml)
 
 ### 2.  Simple list of games, made up of only the URL you have for the source, then scrape against one metadata source for exact filename matches (OVGDB for example)
 

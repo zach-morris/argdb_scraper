@@ -89,7 +89,7 @@ parsing_settings = {'logging':'debug', #Use 'debug' or 'info' based on how much 
 	'use_converted_files':True, #Use the converted version of the file if it already exists
 	'common_platforms':['Nintendo Entertainment System'], #A common name for the platform your scraping
 	}
-output_settings = {	'type':'IAGL', #Dat type to output.  This is currently the only option.  ARGDB will be added later
+output_settings = {'type':'IAGL', #Dat type to output.  This is currently the only option.  ARGDB will be added later
 	'output_filename':'NES_Example', #Filename to output
 	'header_name': 'Nintendo Entertainment System', #IAGL header will be populated with this
 	'save_output':True, #Simple trigger to turn on and of file saving after parsing
@@ -107,10 +107,10 @@ argdb_scraper = argdb_scraper(parsing_settings=parsing_settings,output_settings=
 Now we'll  define all the dats to pull from to gather the metadata with a dat info dict
 ```
 dat_info = [{'type': xyz, #See list of types of dat files that are parsable above
-			'filename': myfilename.xyz, #filename of the dat file 
-			'platform':['all'], #Auto filter to a specific plaform or platforms from the dat file
-			'save_conversion':True, #The parser will convert these dat files into a common format, if the conversion is saved then it can be reused without rescraping
-			}]
+	'filename': myfilename.xyz, #filename of the dat file 
+	'platform':['all'], #Auto filter to a specific plaform or platforms from the dat file
+	'save_conversion':True, #The parser will convert these dat files into a common format, if the conversion is saved then it can be reused without rescraping
+	}]
 ```
 
 Available dat_info Types:

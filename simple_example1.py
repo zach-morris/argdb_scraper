@@ -26,9 +26,9 @@ output_settings = {	'type':'IAGL', #Dat type to output.  This is currently the o
 					}
 
 #Here's my 3 files
-files = ['https://drive.google.com/uc?export=download&id=11-S0be1FQqV_Lvn0e3st9AUtvimStZDg&name=/2048.nes',
-		'https://drive.google.com/uc?export=download&id=1lvwzcqBCrm4ODPEY9P6ih03uN7SyAiDe&name=/BladeBuster.nes',
-		'https://drive.google.com/uc?export=download&id=13_QczPj-5faspIj_kB2nNW8BUtE7yBP7&name=/dpadhero2.nes']
+files = ['uc?export=download&id=11-S0be1FQqV_Lvn0e3st9AUtvimStZDg&name=/2048.nes',
+		'uc?export=download&id=1lvwzcqBCrm4ODPEY9P6ih03uN7SyAiDe&name=/BladeBuster.nes',
+		'uc?export=download&id=13_QczPj-5faspIj_kB2nNW8BUtE7yBP7&name=/dpadhero2.nes']
 
 #Define your argdb scraper object
 argdb_scraper = argdb_scraper(parsing_settings=parsing_settings,output_settings=output_settings)

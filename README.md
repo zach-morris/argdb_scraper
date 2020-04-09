@@ -144,21 +144,21 @@ Here's an example of a completed dat_info dict with 1 source file (that contains
 
 ```
 dat_info = [
-			{'type': 'archive_org','filename':'MyGame_files.xml','platform':['all'],'save_conversion':True}, #0
-			{'type': 'billyc999','filename':'Nintendo GameCube.xml','platform':['all'],'save_conversion':True}, #1
- 			{'type': 'goodtools','filename':'Atari - 2600.dat','platform':['all'],'save_conversion':True}, #2
- 			{'type': 'hyperspin','filename':'Commodore Amiga.xml','platform':['all'],'save_conversion':True}, #3
- 			{'type': 'IAGL','filename':'Sega_Saturn_ZachMorris.xml','platform':['all'],'save_conversion':True}, #4
-			{'type': 'launchbox','filename':'Metadata.xml','platform':['all'],'save_conversion':True}, #5
-			{'type': 'libretro','filename':'Nintendo - GameCube.xml','platform':['all'],'save_conversion':True}, #6
-			{'type': 'MAME','filename':'MAME 0.217.dat','platform':['all'],'save_conversion':True}, #7
-			{'type': 'progretto_snaps','filename':'MAME_217','platform':['all'],'save_conversion':True}, #8
-			{'type': 'maybe_intro','filename':'Nintendo Super Famicom [T-En] (20121007).dat','platform':['all'],'save_conversion':True}, #9
-			{'type': 'mobygames','filename':'mobygames_012020.json','platform':['all'],'save_conversion':True}, #10
-			{'type': 'no_intro','filename':'Nintendo - Nintendo Entertainment System (20180911-151940).dat','platform':['all'],'save_conversion':True}, #11
-			{'type': 'OVGDB','filename':'OpenVGDB 28.0.sqlite','platform':['all'],'save_conversion':True}, #12
-			{'type': 'thegamesdb','filename':'dump_102419','platform':['all'],'save_conversion':True}, #13
-			]
+	{'type': 'archive_org','filename':'MyGame_files.xml','platform':['all'],'save_conversion':True}, #0
+	{'type': 'billyc999','filename':'Nintendo GameCube.xml','platform':['all'],'save_conversion':True}, #1
+		{'type': 'goodtools','filename':'Atari - 2600.dat','platform':['all'],'save_conversion':True}, #2
+		{'type': 'hyperspin','filename':'Commodore Amiga.xml','platform':['all'],'save_conversion':True}, #3
+		{'type': 'IAGL','filename':'Sega_Saturn_ZachMorris.xml','platform':['all'],'save_conversion':True}, #4
+	{'type': 'launchbox','filename':'Metadata.xml','platform':['all'],'save_conversion':True}, #5
+	{'type': 'libretro','filename':'Nintendo - GameCube.xml','platform':['all'],'save_conversion':True}, #6
+	{'type': 'MAME','filename':'MAME 0.217.dat','platform':['all'],'save_conversion':True}, #7
+	{'type': 'progretto_snaps','filename':'MAME_217','platform':['all'],'save_conversion':True}, #8
+	{'type': 'maybe_intro','filename':'Nintendo Super Famicom [T-En] (20121007).dat','platform':['all'],'save_conversion':True}, #9
+	{'type': 'mobygames','filename':'mobygames_012020.json','platform':['all'],'save_conversion':True}, #10
+	{'type': 'no_intro','filename':'Nintendo - Nintendo Entertainment System (20180911-151940).dat','platform':['all'],'save_conversion':True}, #11
+	{'type': 'OVGDB','filename':'OpenVGDB 28.0.sqlite','platform':['all'],'save_conversion':True}, #12
+	{'type': 'thegamesdb','filename':'dump_102419','platform':['all'],'save_conversion':True}, #13
+	]
 ```
 
 You can parse the dat files defined in dat_info, without any post processing using ```parse_input_file()```

@@ -1,7 +1,6 @@
 #Simplest Example
 
 from resources.lib.argdb_scraper import *
-import logging
 
 #Settings
 parsing_settings = {'logging':'info', #Use 'debug' or 'info' based on how much log info you want on the progress

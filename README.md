@@ -64,14 +64,16 @@ In addition, to upload this to github, several of the supporting files in dat_fi
 
 ## Example usage
 
-Suggestion, see the example files provided and work from those.  I will likely be of little further help.
+Suggestion, see the example files provided and work from those.
+
+
+Import the main scraper
 
 ```
 from resources.lib.argdb_scraper import *
-import logging
 ```
 
-First define the parsing settings and output settings
+Next define the parsing settings and output settings
 
 ```
 parsing_settings = {'logging':'debug', #Use 'debug' or 'info' based on how much log info you want on the progress

@@ -65,7 +65,7 @@ from urllib.parse import unquote as url_unquote
 from lxml import etree as lxml_etree
 ```
 
-In addition, to upload this to github, several of the supporting files in dat_files_raw had to be compressed to be able to upload to github.  You'll need to unzip these files in order to use them in the tool.  You'll see a handy ```Unzip_these_files.txt``` file in the folder.  The goal though is for you the scraper to add your own files to the correct folder after having scoured the internet for that sweet sweet metadata.
+In addition, to upload this to github, several of the supporting files in dat_files_raw had to be compressed to be able to upload to github.  You'll need to unzip these files in order to use them in the tool.  You'll see a handy ```Unzip_these_files.txt``` file in the folder.  The goal though is for you to add your own files to the correct folder after having scoured the internet for that sweet sweet metadata.
 
 ## Example usage
 

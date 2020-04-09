@@ -77,25 +77,25 @@ Next define the parsing settings and output settings
 
 ```
 parsing_settings = {'logging':'debug', #Use 'debug' or 'info' based on how much log info you want on the progress
-		'log_to_file':False, #For debugging purposes, logging to a file if necessary
-		'concurrent_processes':3, #Not used yet
-		'overwrite_locals':False, #For efficiency, overwrite local variables when running script, or reuse available local variables in memory
-		'overwrite_conversions':False, #Saving the parsed file conversions can be saved and is usually not overwritten, this will override that
-		'match_response':'query', #How to respond to match decisions:  best (highest ratio=default) or query (it will ask you to choose)
-		'keep_no_matches':True, #If no match is found, return same game dict with no merged data.  If false, nothing will be added to the merged dict (i.e. the game will be thrown out)
-		'fuzzy_match_ratio':90.9, #only consider fuzzy matches with at least this score.  In testing, I've found anything higher than 90 is a prety close match
-		'fuzzy_scoring_type':'token_set_ratio', #scoring ratio to use, see fuzzywuzzy manual for the scoring methods
-		'max_fuzzy_matches':5, #Max number of matches for a fuzzy match.  For query matching it will give you this many choices to look at
-		'use_converted_files':True, #Use the converted version of the file if it already exists
-		'common_platforms':['Nintendo Entertainment System'], #A common name for the platform your scraping
-		}
+	'log_to_file':False, #For debugging purposes, logging to a file if necessary
+	'concurrent_processes':3, #Not used yet
+	'overwrite_locals':False, #For efficiency, overwrite local variables when running script, or reuse available local variables in memory
+	'overwrite_conversions':False, #Saving the parsed file conversions can be saved and is usually not overwritten, this will override that
+	'match_response':'query', #How to respond to match decisions:  best (highest ratio=default) or query (it will ask you to choose)
+	'keep_no_matches':True, #If no match is found, return same game dict with no merged data.  If false, nothing will be added to the merged dict (i.e. the game will be thrown out)
+	'fuzzy_match_ratio':90.9, #only consider fuzzy matches with at least this score.  In testing, I've found anything higher than 90 is a prety close match
+	'fuzzy_scoring_type':'token_set_ratio', #scoring ratio to use, see fuzzywuzzy manual for the scoring methods
+	'max_fuzzy_matches':5, #Max number of matches for a fuzzy match.  For query matching it will give you this many choices to look at
+	'use_converted_files':True, #Use the converted version of the file if it already exists
+	'common_platforms':['Nintendo Entertainment System'], #A common name for the platform your scraping
+	}
 output_settings = {	'type':'IAGL', #Dat type to output.  This is currently the only option.  ARGDB will be added later
-		'output_filename':'NES_Example', #Filename to output
-		'header_name': 'Nintendo Entertainment System', #IAGL header will be populated with this
-		'save_output':True, #Simple trigger to turn on and of file saving after parsing
-		'author':'Zach Morris', #Author for the IAGL header
-		'base_url':'https://archive.org/download/', #Base URL for the IAGL header
-		}
+	'output_filename':'NES_Example', #Filename to output
+	'header_name': 'Nintendo Entertainment System', #IAGL header will be populated with this
+	'save_output':True, #Simple trigger to turn on and of file saving after parsing
+	'author':'Zach Morris', #Author for the IAGL header
+	'base_url':'https://archive.org/download/', #Base URL for the IAGL header
+	}
 ```
 
 Create your parsing utility class object
@@ -146,9 +146,9 @@ Here's an example of a completed dat_info dict with 1 source file (that contains
 dat_info = [
 	{'type': 'archive_org','filename':'MyGame_files.xml','platform':['all'],'save_conversion':True}, #0
 	{'type': 'billyc999','filename':'Nintendo GameCube.xml','platform':['all'],'save_conversion':True}, #1
-		{'type': 'goodtools','filename':'Atari - 2600.dat','platform':['all'],'save_conversion':True}, #2
-		{'type': 'hyperspin','filename':'Commodore Amiga.xml','platform':['all'],'save_conversion':True}, #3
-		{'type': 'IAGL','filename':'Sega_Saturn_ZachMorris.xml','platform':['all'],'save_conversion':True}, #4
+	{'type': 'goodtools','filename':'Atari - 2600.dat','platform':['all'],'save_conversion':True}, #2
+	{'type': 'hyperspin','filename':'Commodore Amiga.xml','platform':['all'],'save_conversion':True}, #3
+	{'type': 'IAGL','filename':'Sega_Saturn_ZachMorris.xml','platform':['all'],'save_conversion':True}, #4
 	{'type': 'launchbox','filename':'Metadata.xml','platform':['all'],'save_conversion':True}, #5
 	{'type': 'libretro','filename':'Nintendo - GameCube.xml','platform':['all'],'save_conversion':True}, #6
 	{'type': 'MAME','filename':'MAME 0.217.dat','platform':['all'],'save_conversion':True}, #7
@@ -186,12 +186,12 @@ dat_file_merge_from=converted_dat_files[0],  #Which converted dat file should be
 dat_file_merge_into=converted_dat_files[1],  #Which converted dat file should be used to merge data into i.e. converted_dat_files[0] -> converted_dat_files[1]
 merge_indices=None, #Used to filter which game indices should be merged.  Typically used if you've already found an exact match and have moved onto fuzzy matches, see examples below
 merge_settings={'match_type':['exact'], #Can be exact or fuzzy_automatic (i.e. no input required) or fuzzy_manual (ask you which match is best)
-				'match_keys':['key1|key2'],  #the keys in the dat file to use for matching  dat_file_from_key|dat_file_into_key
-				'keys_to_populate':['key1','key2','key3'],  #Which keys in the dat_file_from should be populated into the dat_file_into if they are not yet populated
-				'keys_to_overwrite':None, #Which keys in the dat_file_from should be populated into the dat_file_into regardless if they are already populated or not, even if the dat_file_from data is None
-				'keys_to_overwrite_if_populated':None,  #Only overwrite if the dat_file_from is not None
-				'keys_to_append':None, #Will append data to make the metadata a list.  Typically you only want to do this for fields that can be lists (like genre or similar)
-				}
+	'match_keys':['key1|key2'],  #the keys in the dat file to use for matching  dat_file_from_key|dat_file_into_key
+	'keys_to_populate':['key1','key2','key3'],  #Which keys in the dat_file_from should be populated into the dat_file_into if they are not yet populated
+	'keys_to_overwrite':None, #Which keys in the dat_file_from should be populated into the dat_file_into regardless if they are already populated or not, even if the dat_file_from data is None
+	'keys_to_overwrite_if_populated':None,  #Only overwrite if the dat_file_from is not None
+	'keys_to_append':None, #Will append data to make the metadata a list.  Typically you only want to do this for fields that can be lists (like genre or similar)
+	}
 ```
 
 Examples:

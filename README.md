@@ -29,7 +29,11 @@ Game Metadata Databases:
 - [BillyC999](https://github.com/billyc999/Game-database-info) (Multi-System)
 - [ScreenScraper](https://www.screenscraper.fr/) (Multi-System)
 
-And thats just the ones most people are familiar with.  There are a _ton_ of them.  If you have another good one I'm not aware of please let me know!
+And thats just the ones most people are familiar with.  There are a _ton_ of them (If you have another good one I'm not aware of please let me know!).  
+
+This is a tool just to make yet **A**nother game database.  The benefit of this ARDGDB though will be that:
+- The database is contained in just straight xml/json files (no fancy, yet slow API to deal with).  Client side scraping can be done by downloading one big file and parsing that for their rom set of 5000+ games, rather than hitting an API 5000 times.
+- The database contains data from all the other ones (more is better?)
 
 ## How does it work
 The scraper uses a swiss cheese kind of model.  Using all the metadata possible, we look for matching games by a specified key, if a match is found then the metadata is populated, if not hopefully a match is found in the next source.  The more sources we use the better our chances of finding a match and the maximum amount of metadata possible (which is the goal for ARGDB, to generate a static database file for each game with a conglomerate of metadata from each source)

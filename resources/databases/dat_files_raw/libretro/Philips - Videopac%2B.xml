@@ -1,0 +1,258 @@
+<datafile>
+  <game name="Air Battle (Europe)">
+    <description>Air Battle (Europe)</description>
+    <title_clean>Air Battle</title_clean>
+    <title_search>air battle</title_search>
+    <image ext="png" id="Air Battle (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Air Battle (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Air Battle (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Billard Americain (France)">
+    <description>Billard Americain (France)</description>
+    <title_clean>Billard Americain</title_clean>
+    <title_search>billard americain</title_search>
+    <image ext="png" id="Billard Americain (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Billard Americain (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Billard Americain (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Billard Electrique (France)">
+    <description>Billard Electrique (France)</description>
+    <title_clean>Billard Electrique</title_clean>
+    <title_search>billard electrique</title_search>
+    <image ext="png" id="Billard Electrique (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Billard Electrique (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Billard Electrique (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chez Maxime (France)">
+    <description>Chez Maxime (France)</description>
+    <title_clean>Chez Maxime</title_clean>
+    <title_search>chez maxime</title_search>
+    <image ext="png" id="Chez Maxime (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chez Maxime (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chez Maxime (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Clay Pigeon (Europe) (Proto)">
+    <description>Clay Pigeon (Europe) (Proto)</description>
+    <title_clean>Clay Pigeon</title_clean>
+    <title_search>clay pigeon</title_search>
+    <image ext="png" id="Clay Pigeon (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Clay Pigeon (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Clay Pigeon (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Clay Pigeon (Europe) (Proto) (Alt 1)">
+    <description>Clay Pigeon (Europe) (Proto) (Alt 1)</description>
+    <title_clean>Clay Pigeon</title_clean>
+    <title_search>clay pigeon</title_search>
+    <image ext="png" id="Clay Pigeon (Europe) (Proto) (Alt 1)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Clay Pigeon (Europe) (Proto) (Alt 1)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Clay Pigeon (Europe) (Proto) (Alt 1)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cosmic Conflict (Europe)">
+    <description>Cosmic Conflict (Europe)</description>
+    <title_clean>Cosmic Conflict</title_clean>
+    <title_search>cosmic conflict</title_search>
+    <image ext="png" id="Cosmic Conflict (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cosmic Conflict (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cosmic Conflict (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Course de Voitures + Autodrome + Cryptogramme (France)">
+    <description>Course de Voitures + Autodrome + Cryptogramme (France)</description>
+    <title_clean>Course de Voitures + Autodrome + Cryptogramme</title_clean>
+    <title_search>course de voitures autodrome cryptogramme</title_search>
+    <image ext="png" id="Course de Voitures + Autodrome + Cryptogramme (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Course de Voitures + Autodrome + Cryptogramme (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Course de Voitures + Autodrome + Cryptogramme (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Demon Attack (France)">
+    <description>Demon Attack (France)</description>
+    <title_clean>Demon Attack</title_clean>
+    <title_search>demon attack</title_search>
+    <image ext="png" id="Demon Attack (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Demon Attack (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Demon Attack (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Electronic Billiards (Europe) (Proto)">
+    <description>Electronic Billiards (Europe) (Proto)</description>
+    <title_clean>Electronic Billiards</title_clean>
+    <title_search>electronic billiards</title_search>
+    <image ext="png" id="Electronic Billiards (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Electronic Billiards (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Electronic Billiards (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Exojet (France)">
+    <description>Exojet (France)</description>
+    <title_clean>Exojet</title_clean>
+    <title_search>exojet</title_search>
+    <image ext="png" id="Exojet (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Exojet (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Exojet (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Flipper Game (Europe) (Proto)">
+    <description>Flipper Game (Europe) (Proto)</description>
+    <title_clean>Flipper Game</title_clean>
+    <title_search>flipper game</title_search>
+    <image ext="png" id="Flipper Game (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Flipper Game (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Flipper Game (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Freedom Fighters (Europe)">
+    <description>Freedom Fighters (Europe)</description>
+    <title_clean>Freedom Fighters</title_clean>
+    <title_search>freedom fighters</title_search>
+    <image ext="png" id="Freedom Fighters (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Freedom Fighters (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Freedom Fighters (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Guerre de l'Espace (France)">
+    <description>Guerre de l'Espace (France)</description>
+    <title_clean>Guerre de l'Espace</title_clean>
+    <title_search>guerre de lespace</title_search>
+    <image ext="png" id="Guerre de l'Espace (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Guerre de l'Espace (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Guerre de l'Espace (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Helicopter Rescue (Europe)">
+    <description>Helicopter Rescue (Europe)</description>
+    <title_clean>Helicopter Rescue</title_clean>
+    <title_search>helicopter rescue</title_search>
+    <image ext="png" id="Helicopter Rescue (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Helicopter Rescue (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Helicopter Rescue (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jeu de Quilles + Basketball (France)">
+    <description>Jeu de Quilles + Basketball (France)</description>
+    <title_clean>Jeu de Quilles + Basketball</title_clean>
+    <title_search>jeu de quilles basketball</title_search>
+    <image ext="png" id="Jeu de Quilles + Basketball (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jeu de Quilles + Basketball (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jeu de Quilles + Basketball (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Killer Bees (Europe)">
+    <description>Killer Bees (Europe)</description>
+    <title_clean>Killer Bees</title_clean>
+    <title_search>killer bees</title_search>
+    <image ext="png" id="Killer Bees (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Killer Bees (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Killer Bees (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Loony Balloon (Europe)">
+    <description>Loony Balloon (Europe)</description>
+    <title_clean>Loony Balloon</title_clean>
+    <title_search>loony balloon</title_search>
+    <image ext="png" id="Loony Balloon (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Loony Balloon (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Loony Balloon (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Moto-Crash (France)">
+    <description>Moto-Crash (France)</description>
+    <title_clean>Moto-Crash</title_clean>
+    <title_search>motocrash</title_search>
+    <image ext="png" id="Moto-Crash (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Moto-Crash (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Moto-Crash (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Neutron Star (Europe)">
+    <description>Neutron Star (Europe)</description>
+    <title_clean>Neutron Star</title_clean>
+    <title_search>neutron star</title_search>
+    <image ext="png" id="Neutron Star (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Neutron Star (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Neutron Star (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nightmare (Europe)">
+    <description>Nightmare (Europe)</description>
+    <title_clean>Nightmare</title_clean>
+    <title_search>nightmare</title_search>
+    <image ext="png" id="Nightmare (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Nightmare (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nightmare (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Norseman (Europe)">
+    <description>Norseman (Europe)</description>
+    <title_clean>Norseman</title_clean>
+    <title_search>norseman</title_search>
+    <image ext="png" id="Norseman (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Norseman (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Norseman (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pickaxe Pete (Europe)">
+    <description>Pickaxe Pete (Europe)</description>
+    <title_clean>Pickaxe Pete</title_clean>
+    <title_search>pickaxe pete</title_search>
+    <image ext="png" id="Pickaxe Pete (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pickaxe Pete (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pickaxe Pete (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Race + Spin-out + Cryptogram (Europe)">
+    <description>Race + Spin-out + Cryptogram (Europe)</description>
+    <title_clean>Race + Spin-out + Cryptogram</title_clean>
+    <title_search>race spinout cryptogram</title_search>
+    <image ext="png" id="Race + Spin-out + Cryptogram (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Race + Spin-out + Cryptogram (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Race + Spin-out + Cryptogram (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ruche Infernale, La (France)">
+    <description>Ruche Infernale, La (France)</description>
+    <title_clean>Ruche Infernale, La</title_clean>
+    <title_search>ruche infernale la</title_search>
+    <image ext="png" id="Ruche Infernale, La (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ruche Infernale, La (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ruche Infernale, La (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Satellite Attack (Europe)">
+    <description>Satellite Attack (Europe)</description>
+    <title_clean>Satellite Attack</title_clean>
+    <title_search>satellite attack</title_search>
+    <image ext="png" id="Satellite Attack (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Satellite Attack (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Satellite Attack (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Stone Sling (Europe)">
+    <description>Stone Sling (Europe)</description>
+    <title_clean>Stone Sling</title_clean>
+    <title_search>stone sling</title_search>
+    <image ext="png" id="Stone Sling (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Stone Sling (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Stone Sling (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Syracuse (France)">
+    <description>Syracuse (France)</description>
+    <title_clean>Syracuse</title_clean>
+    <title_search>syracuse</title_search>
+    <image ext="png" id="Syracuse (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Syracuse (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Syracuse (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tenpin Bowling + Basketball (Europe) (Proto)">
+    <description>Tenpin Bowling + Basketball (Europe) (Proto)</description>
+    <title_clean>Tenpin Bowling + Basketball</title_clean>
+    <title_search>tenpin bowling basketball</title_search>
+    <image ext="png" id="Tenpin Bowling + Basketball (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tenpin Bowling + Basketball (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tenpin Bowling + Basketball (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Terrahawks (Europe)">
+    <description>Terrahawks (Europe)</description>
+    <title_clean>Terrahawks</title_clean>
+    <title_search>terrahawks</title_search>
+    <image ext="png" id="Terrahawks (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Terrahawks (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Terrahawks (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Trans American Rally (Europe)">
+    <description>Trans American Rally (Europe)</description>
+    <title_clean>Trans American Rally</title_clean>
+    <title_search>trans american rally</title_search>
+    <image ext="png" id="Trans American Rally (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Trans American Rally (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Trans American Rally (Europe)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tresor Englouti, Le (France)">
+    <description>Tresor Englouti, Le (France)</description>
+    <title_clean>Tresor Englouti, Le</title_clean>
+    <title_search>tresor englouti le</title_search>
+    <image ext="png" id="Tresor Englouti, Le (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tresor Englouti, Le (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tresor Englouti, Le (France)" source="https://github.com/libretro-thumbnails/Philips_-_Videopac%2B/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

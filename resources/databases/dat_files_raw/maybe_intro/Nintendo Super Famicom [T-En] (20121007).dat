@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Super Famicom [T-En]</name>
+		<description>Nintendo Super Famicom [T-En]</description>
+		<category>English Translations</category>
+		<version>20121007</version>
+		<date>20121007</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Nintendo Super Famicom [T-En] Docs">
+		<description>_Nintendo Super Famicom [T-En] Docs</description>
+		<rom name="Accele Brid (Japan) [T-En by Aeon Genesis v1.00].txt" size="2163" crc="e364eb72" md5="5724897020c31ab0d1011461fbafa16f" sha1="fe7b65167c23fbb546cbce623aec8e441b2fc357"/>
+		<rom name="Actraiser (Japan) [T-En by Aeon Genesis v1.00].txt" size="4543" crc="b3f91e21" md5="2f6250ed3acdf0e23af3a101f4a1e401" sha1="96b06b3a862ec71d0813a088bacc9afe6bf41670"/>
+		<rom name="Adventures of Hourai High, The - Transfer Student Dramabomb (Japan) [T-En by Aeon Genesis v1.00] [n] - Satsu's Notes.txt" size="11939" crc="e76b1c79" md5="51c0adf3a5badf1a74cba22709dc15e0" sha1="b537ec7a5cc2412b995e5f88c37eca5b51f4d753"/>
+		<rom name="Adventures of Hourai High, The - Transfer Student Dramabomb (Japan) [T-En by Aeon Genesis v1.00] [n].txt" size="2283" crc="a2973bed" md5="1c3d2354c06d6e9a707d8353eddf35ff" sha1="af8a9fcfe9732ce3a4febcfe19d219752e1c2c0d"/>
+		<rom name="Aim for the Ace! - Ace Tennis (Japan) [T-En by RPGOne v1.2] [n].txt" size="7000" crc="254a3c2a" md5="2a11dab2b20df9bf602c8694c78d0f98" sha1="f1b284bb4f17c28d96af61a65ce00f40992ef078"/>
+		<rom name="Alcahest (Japan) [T-En by FH v1.0b].txt" size="5348" crc="fd18bf02" md5="0eb56df909baa2e14a7d04887e5fc54b" sha1="1041ff8728104022ef639da1e9423d85c8cec375"/>
+		<rom name="Ancient Magic - Bazoo! World of Magic (Japan) [T-En by Aeon Genesis v1.00] [n].txt" size="2655" crc="d486e36c" md5="3a6564a87c0886423f5bda89ccb41283" sha1="a04a5f92781bcb5714b01f22df4dc53e8bbfb40f"/>
+		<rom name="Assault Suits Valken (Japan) [T-En by Aeon Genesis v1.00] [n].txt" size="3487" crc="1b62ba91" md5="f97219db85199c210cb31e5dc1553d55" sha1="210fd31446aa98bbb1cf0e7e0b7b97defdb7923e"/>
+		<rom name="Bahamut Lagoon (Japan) [T-En by DeJap+Neill Corlett+Tomato v1.3] (1).txt" size="115" crc="e0f37792" md5="ac7df587172fb8af23c2476f229aa97e" sha1="1deafc1c7595919f216b5080c3957bf80bc2b5f5"/>
+		<rom name="Bahamut Lagoon (Japan) [T-En by DeJap+Neill Corlett+Tomato v1.3] (Emulation Hack).txt" size="118" crc="a38a0e01" md5="c80c25b9a807a9bc362c009b24b82d10" sha1="48001ff3682f2a9b6cf9f2f8b6e1933a4e31ac33"/>
+		<rom name="Bahamut Lagoon (Japan) [T-En by DeJap+Neill Corlett+Tomato v1.3].txt" size="46844" crc="151de91b" md5="0b7be7768d4dc0e6c29e7da4111c1ca1" sha1="d278c0f1fbd43cfa1f4f875656b9759c37c53e25"/>
+		<rom name="Ball Bullet Gun (Japan) [T-En by Aeon Genesis v1.00].txt" size="4053" crc="d4a1055f" md5="24f506b5310426ad87e4b8880d9bb297" sha1="a52c44aacd80de1672d8f9c9b405b2c2e3e58a4a"/>
+		<rom name="Bastard!! - Dark God of Destruction (Japan) [T-En by DeJap v1.0] [n].txt" size="3452" crc="c8149790" md5="681b71c33117c25fb50e98811b7a3b0e" sha1="c0ba4b72bf1457604d01cf7931dad6d36e17147c"/>
+		<rom name="Battle Soccer - Field no Hasha (Japan) [T-En by Hurkey Translations v1.0].txt" size="2629" crc="76b257a8" md5="9f97f03a47de9fcc23d320723cf46268" sha1="636718aa297d48f0ca8740bcec64a9bcb31ae8df"/>
+		<rom name="Brandish 2 - The Planet Buster (Japan) [T-En by Synchronicity v1.0].txt" size="5864" crc="d5e4ef50" md5="b1fdbff5dc3d47a57ee97772ff58cd69" sha1="527857240fee49bfe82d614d379eedd9c648c277"/>
+		<rom name="Breath of Fire II - The Fated Child (USA) [T-En by Watercrown Productions v1.2b] [n] - Extras.txt" size="476" crc="dd9ebc3e" md5="d47673d25d08f4a1e47f4995154cfd7c" sha1="a05d88887ac5dccfb01a5153e4329a7abfb70b03"/>
+		<rom name="Breath of Fire II - The Fated Child (USA) [T-En by Watercrown Productions v1.2b] [n] - Translator's Notes.txt" size="46882" crc="382ac964" md5="16d0947e901a687eb0aeba7093b46385" sha1="bb54f233f2b2bef0d2307d44ca527af1b8d62c21"/>
+		<rom name="Breath of Fire II - The Fated Child (USA) [T-En by Watercrown Productions v1.2b] [n].txt" size="10917" crc="17934771" md5="89cd2de518a8e13b04224d6ec62708ed" sha1="b3ec24c1fc863dfa9dc15be7b05e01af39643bd4"/>
+		<rom name="BS The Legend of Zelda (Japan) (BS) [Hack+T-En by MottZilla v0.95] [n].txt" size="6013" crc="48712491" md5="359bd967aac8aae1fee1e21a03bc8a6d" sha1="4cd052a04ca8b249929b3da66077efc757d3af9d"/>
+		<rom name="Burning Heroes (Japan) [T-En by Dynamic Designs v1.00] [n].rtf" size="133619" crc="fb482e95" md5="eacaa850faa97cdc4067b76b5be390f7" sha1="78a0f42cccbd9e0f59a5ba3989703d9abdbc05ae"/>
+		<rom name="Chrono Trigger (USA) [T-En by Chrono Compendium v1.01].txt" size="12159" crc="1db5ab41" md5="d0895b3e869e2e419239b38c11f2a18d" sha1="4b462fdb65fbc0a5e2f09a067be1c181b32daac5"/>
+		<rom name="Chrono Trigger (USA) [T-En by Doctor L v1.01].txt" size="7689" crc="e694d6e1" md5="1d164c52778731c9061074b1ae0ec49c" sha1="5f9c61c0979cc071acb81fb51107b4304ee12fa6"/>
+		<rom name="Chrono Trigger - Music Library (Japan) (BS) [T-En by Terminus Traduction v1.00e].txt" size="3323" crc="d84a267a" md5="938219120bbda667b0c85dba77bdbfa2" sha1="5a2d5736ba7463cdbc2cbd5843e63e0e7f838932"/>
+		<rom name="Clock Tower (Japan) [T-En by Aeon Genesis v1.01].txt" size="4409" crc="ec8c70c7" md5="8a9af3eca3d9fe71ef2fbba4fae475ef" sha1="0f54095e54b27c3a18d7d2f437f3a778747844ed"/>
+		<rom name="Crystal Beans from Dungeon Explorer (Japan) [T-En by Hiei+Neige v1.0].txt" size="2876" crc="8619f45d" md5="6f5f6631db903d0117d169567ab16cc2" sha1="1b56adbddd5ec3e99c73be0b47fd18ca450a3a48"/>
+		<rom name="Cu-On-Pa SFC (Japan) [T-En by Aeon Genesis v1.00].txt" size="1649" crc="041831e1" md5="bcac25d2831670e8ef173c956e600ff0" sha1="4b9cb0c01f0673a5004162f6cb99e28a0d3eefdd"/>
+		<rom name="Cyber Knight (Japan) [T-En by Aeon Genesis v1.01].txt" size="4168" crc="08d06ebb" md5="04a50063569138b8b7c6becbdda94bc5" sha1="6e46245dce983f93569e56b1a16d53ff08d0b71b"/>
+		<rom name="Cyber Knight II - Ambitions of the Terran Empire (Japan) [T-En by Aeon Genesis v1.00] [n] - Manual.txt" size="32460" crc="0086f282" md5="89c479bf9c21a3dbb4d3c980b291db14" sha1="f2636a73d2b1658ac6c235df710af0ddc0d2f9b0"/>
+		<rom name="Cyber Knight II - Ambitions of the Terran Empire (Japan) [T-En by Aeon Genesis v1.00] [n].txt" size="4991" crc="8fa34d24" md5="9d3c06dad3345fda865ae0c4abf358e5" sha1="09733bb661fdf6b4ee6ba1b9d713de63b6315fe3"/>
+		<rom name="Cyborg 009 (Japan) [T-En by Aeon Genesis+J2e Translations v1.00].txt" size="3323" crc="4e031263" md5="ee7a0858e82a73818e4bbd1ebb2539cc" sha1="a1f96cc6f2ac2a66411c705be2a77919cf296d94"/>
+		<rom name="Dark Half (Japan) [T-En by Klepto Software v0.60] [i].txt" size="2438" crc="1ca0510b" md5="e861368e8f69d91384984080a1ef45a8" sha1="6e86e213e744ebe144eec62e5d82fbebaf44da52"/>
+		<rom name="Dark Law - Meaning of Death (Japan) [T-En by Aeon Genesis v1.00].txt" size="4834" crc="665f121c" md5="d8c7d788535afea96037de366f42c40a" sha1="c6955542b7d8f0eaa9d3616ce38c46a15275e26f"/>
+		<rom name="Dezaemon (Japan) [T-En by Aeon Genesis v1.00] [n].txt" size="2592" crc="1c379117" md5="f92c17ce7ae97d4ef29900d114c7747d" sha1="1ee5fe4223936244afe3fdd912560864f17f5c2a"/>
+		<rom name="Do-Re-Mi Fantasy - Milon's Quest (Japan) [T-En by Gaijin Productions+RPGOne v1.0] [n].txt" size="1908" crc="4e1820b1" md5="b93d1fcc4f4135674efeb1560f00865c" sha1="113e81f81f0021a747e610ae04959ba550932149"/>
+		<rom name="Doraemon 4 - In the Moon Kingdom (Japan) [T-En by Sgt. Bowhack v0.94b] [n].txt" size="1256" crc="a4abb38b" md5="0ca2ff2d7dc80392ab60e0eae4fbe3d0" sha1="3cc14a93493f04cbceec53e80a45578b4346518c"/>
+		<rom name="Dossun! Stone Battle (Japan) [T-En by Aeon Genesis v1.00] [n].txt" size="1232" crc="4ae95cb9" md5="5478d2025694b0d26c392148c9898f08" sha1="0a56c4e77efc57f090bd6ef52f984a2118f9eec2"/>
+		<rom name="Dragon Ball Z - Hyper Dimension (Japan) [T-En by Twilight Translations v1.00].txt" size="10778" crc="a176c10e" md5="48d69a6d39cdaa5d0ce06d9558df40f7" sha1="c3bca01bf898805f52bdfad950f2764f8562fcb6"/>
+		<rom name="Dragon Ball Z - Legend of the Saiyans (Japan) (Rev 1) [T-En by Klepto Software v1.01] [n].txt" size="3372" crc="146366f0" md5="d489dcf3d65e7834df777fbb9baf9153" sha1="f2a111fdf93be20d021f5185ca86ab3e411dacc9"/>
+		<rom name="Dragon Ball Z - Super Butouden (France) [T-En by Aeon Genesis v0.98] [i].txt" size="1029" crc="412e6ed0" md5="8497f13db5f94f03f421846d10d8ddfd" sha1="a909187028188bd57ac6538d2713c16517feca72"/>
+		<rom name="Dragon Ball Z - Super Butouden 3 (France) [T-En by Aeon Genesis v1.00] [i] [n].txt" size="1035" crc="eadb361d" md5="c8399f007c15e1c5074fbbf3bdff9f30" sha1="b8230802752c488774575c72803455eecf8eb7e6"/>
+		<rom name="Dragon Ball Z - Super Butouden 3 (France) [T-En by Saiya Translations+Vice Translations v1.01] [i] [n].txt" size="8674" crc="e5f7c48c" md5="428c561508d0192d66f6ebcd16efb418" sha1="89a2842badfa946712d0c4930e36708050276d0e"/>
+		<rom name="Dragon Ball Z - Super Goku Legend - Part 1 (Japan) [T-En by Kakkoii Translations v3.13] [i] [n].txt" size="1628" crc="a7eb3b52" md5="76930967afe467a12da8a640cf42dd5b" sha1="0eda9a0c78ae18c4683aece9baece460ad480119"/>
+		<rom name="Dragon Ball Z - Super Goku Legend - Part 2 (Japan) [T-En by Commando Ginew v1.0] [i] [n].txt" size="3463" crc="329e388e" md5="4dff14aec033c51c3ebbc66fd89a9c2f" sha1="c1737f54faabf3c0829ad3db6fec7bfd594e1126"/>
+		<rom name="Dragon Quest I &amp; II (Japan) [T-En by RPGOne v2.0].txt" size="15958" crc="9b872b98" md5="5ee8b0bb3731f60b8358f21d4671709f" sha1="8cf6e3c8d2c6114b94cd318fbe949d532bb9f3a1"/>
+		<rom name="Dragon Quest III - And into the Legend... (Japan) [T-En by DQ Translations v1.1] [n].txt" size="8809" crc="e08c6857" md5="3ed6788be60f73bf2754a82d22266e14" sha1="06ac2b6dd079b960222888648f6a1bf2181732cf"/>
+		<rom name="Dragon Quest V - Hand of the Heavenly Bride (Japan) [T-En by byuu+spSpiff v0.91] [n].txt" size="7302" crc="b9e572d7" md5="1c68103524d12a313a0442d4b3b748ce" sha1="f1250081b745c7b871478ad64f9e81698c19a5a5"/>
+		<rom name="Dragon Quest VI - Realms of Revelation (Japan) [T-En by NoPrgress v0.90b2] [n].txt" size="2315" crc="5579d3a1" md5="0b0def1f0a18220ef3e914feb68d30a7" sha1="4107936f25353ea90f44a9b1ec3c4ef37be4d45b"/>
+		<rom name="Dragon Squadron Danzarb (Japan) [T-En by Aeon Genesis v1.00] [n].txt" size="2635" crc="c2648554" md5="36136eecde6e8fd9743ee1b8bd8a3df5" sha1="12a31209dc746e72dc9baaa0930d47a0f2c03b82"/>
+		<rom name="Dragon Warrior V (Japan) [T-En by DeJap+Partial Translations v2.01] [n].txt" size="6767" crc="ea3f5589" md5="dca5512e834c54ef91de0f3eb8c3e31e" sha1="b95155e18fdaedd2768f6a14c9fa8ff1af59a79a"/>
+		<rom name="Dream Maze - The Kigurumi Adventure (Japan) [T-En by KingMike Translations v1.0b] [n].txt" size="5438" crc="99d112a8" md5="b331623c93c52604716208d9bb43c8d0" sha1="6dc5086a6a63c180e31217b8e25af80e28603257"/>
+		<rom name="Dual Orb II (Japan) [T-En by Translation Corporation v1.5] - Barrel Puzzle Solution.txt" size="529" crc="624062ac" md5="62906c7f807d2e7c5b03022f669e3199" sha1="284441578ad1f680c0ad79bfacb53e6049e631b3"/>
+		<rom name="Dual Orb II (Japan) [T-En by Translation Corporation v1.5].txt" size="10917" crc="307c5452" md5="4ee6d3fcfa4aa138847e85aff7b004a1" sha1="8eaa603fcb5905e7005fca709e3a28226b2a750d"/>
+		<rom name="Emerald Dragon (Japan) [T-En by Translation Corporation v1.1].txt" size="14803" crc="44f87878" md5="2609281cf71309dca1b19377c46bbac2" sha1="0ec01f5218c5f417ca5201c7be1561af6c0d92b0"/>
+		<rom name="Energy Breaker (Japan) [T-En by Disnesquick+Satsu v1.02].txt" size="20400" crc="92209211" md5="227f1b18dabcb3866d71862df1366e31" sha1="98dd2c8fd510d0d72b9d1a53855dcfac11961d4f"/>
+		<rom name="Eternal Filena (Japan) [T-En by Satsu v0.98] [n].txt" size="11390" crc="3afd241a" md5="62070cdbfe1a39be3c35e938a0f36846" sha1="b3b3423e44dbd15ae80a04f42bb911162663b9f9"/>
+		<rom name="Famicom Detective Club Part II (Japan) (NP) [T-En by Demiforce v1.00] [n] (1).txt" size="324" crc="5e9f5fb2" md5="bee0e0430d273bdbc65dbb4ee58d7dfd" sha1="32041ced1af287a17295277519aa7b790624b9c0"/>
+		<rom name="Famicom Detective Club Part II (Japan) (NP) [T-En by Demiforce v1.00] [n].txt" size="20520" crc="e36478b7" md5="4dd303aea94bfc0d7fb395a7e3fe3ef1" sha1="539f1b7b9fbeb691df0eab798ceb1cb218c6b6ee"/>
+		<rom name="Feda - The Emblem of Justice (Japan) [T-En by Dynamic Designs v1.02] - Emblem Chart.jpg" size="164267" crc="cbc2bdc9" md5="31aeb7b9b7917d8f71f66f2a509339e9" sha1="7ce46ee295dfb089784021f623e7eb3dbf3cf8c4"/>
+		<rom name="Feda - The Emblem of Justice (Japan) [T-En by Dynamic Designs v1.02].doc" size="82432" crc="d6876728" md5="478d06bf46392288ff533326fce9b5dc" sha1="7c83f90c59c6bd759e7f1d9e2e887d13b40eacd9"/>
+		<rom name="Final Fantasy IV (Japan) (Rev 1) [T-En by J2e Translations v3.21].txt" size="8571" crc="22c29a4f" md5="1998346fb2bb01bccf781e91f254d583" sha1="32ffdde4f7f7fc29809856b0d96ec35075a24032"/>
+		<rom name="Final Fantasy V (Japan) [T-En by RPGe v1.10].txt" size="5759" crc="03d02206" md5="d5919210e0e25476c093d2bd1a253e53" sha1="474f08f00526fa670ae7451b3b2a1e1bda2e333d"/>
+		<rom name="Final Fantasy VI (Japan) [T-En by RPGOne v1.2b].txt" size="39760" crc="dd831ce4" md5="12faee6c0fc052ad9dba3fa3edde2e24" sha1="5762411b8404591f8818398a25d31e9fa3ef5b1a"/>
+		<rom name="Fire Emblem - Genealogy of Holy War (Japan) [T-En by Dark Twilkitri Net v0.87d] [i] [n].txt" size="2089" crc="c7c9bf82" md5="1af9b674fe7e184ac49f6f25444a1ef6" sha1="e52c168943b95fb9f2f5116ee47c819e5f131bb0"/>
+		<rom name="Fire Emblem - Mystery of the Emblem (Japan) [T-En by RPGuy96+VincentASM v0.98][n].txt" size="1640" crc="b0f6f29c" md5="58447c7f94c4dc187353d47965664a2c" sha1="6e182530db4ea625566087f7843d93a805626f9c"/>
+		<rom name="Fire Emblem - Thracia 776 (Japan) [T-En by Shaya v00.06] [i].txt" size="808" crc="f49c5d73" md5="d12d1431aa6f6023810ebfbc62eb62a3" sha1="7a88aec5d36cfbf668a61e0c756bd0e24bf01c34"/>
+		<rom name="Flying Hero - Bugyuru's Adventure (Japan) [T-En by KingMike Translations v1.0] [n].txt" size="4163" crc="d3a08916" md5="5d96d0d66b62d8d158a34ab91114f8b1" sha1="ee103b77096d5292ea57cda4c5e208d89ae4da1a"/>
+		<rom name="Front Mission (Japan) [T-En by FH v1.0b].txt" size="5744" crc="9c152d14" md5="48c17ab2e90619f705fbf8db8afd5880" sha1="21b49272fe6cf0d0c2ed7f40f34b9e5152e0c7fd"/>
+		<rom name="Front Mission Series - Gun Hazard (Japan) [T-En by Aeon Genesis v1.01].txt" size="6243" crc="914e0388" md5="13157f260f7f4b544fe41dd08f173dbd" sha1="7850e84dac26b8184a1b6c5b4428cdacc27811f4"/>
+		<rom name="Funaki Masakatsu Hybrid Wrestler - Tougi Denshou (Japan) [T-En by Phil v1.0].txt" size="3172" crc="1146a74f" md5="8dc7a9d1350e00b0352f39aa211404c0" sha1="4e99835a379f90cc05080b446c6498b8bd8d14eb"/>
+		<rom name="Gekitou Burning Pro Wres (Japan) [T-En by Phil v1.0].txt" size="4053" crc="499c2e15" md5="027a567d62beb8f94b5ff4e7bf72036d" sha1="364c5186f58354af3dff4678de0a10b34ce17fb2"/>
+		<rom name="Glory of Heracles III, The - Silence of the Gods (Japan) [T-En by DQ Translations v1.0a] [n].txt" size="11679" crc="9038ed1b" md5="a584faa51d18629609fbd43fee5d51d2" sha1="05f3c1ab2d293a8d0aafe4509f8fcafc28e96dc1"/>
+		<rom name="Go Go Ackman (Japan) [T-En by Ackman Translations v1.0].txt" size="596" crc="3865221a" md5="5bf24664205a8d38478c73359ff2d6bc" sha1="99c2f224c78140033358114e23ddf530797f1ea1"/>
+		<rom name="Gourmet Squadron Barayarou (Japan) [T-En by Aeon Genesis v0.80] [i] [n].txt" size="1080" crc="7bb421de" md5="9a775d40b9cabb76feb543baf63559e0" sha1="6dd2d38925e0a4d89644525d8d84fac94ebab8cb"/>
+		<rom name="Gulliver Boy (Japan) [T-En by Dynamic Designs v0.99a] [n].txt" size="2148" crc="4ab66956" md5="a18a01d8175aa313125049e8a2cd75ed" sha1="867a403d50ac1a836f7eba28c558f32ee74c47c7"/>
+		<rom name="Gunman's Proof (Japan) [T-En by Aeon Genesis v1.03] [n].txt" size="3202" crc="bd0fcc6e" md5="93412f1422e1bf2374f07f091d52fe48" sha1="2cb9772b3f0f9d0984c15a705d5d7f38160813c7"/>
+		<rom name="Hiouden - Legend of the Scarlet King - The Demonic Oath (Japan) [T-En by Aeon Genesis v1.00] [n].txt" size="3660" crc="938a3f71" md5="f013f641b49c54e17118f6375d4e641b" sha1="41d1e5dd59ec1f0f0995bd4d704650cf20b7728c"/>
+		<rom name="Holy Umbrella - Dondera's Wild!! (Japan) [T-En by Aeon Genesis v1.00] [n].txt" size="2671" crc="5f0f027e" md5="626a3a39c56839c4400e1e48ba2ecc37" sha1="5d5afadba0daf04fd2d6951b523dc7e8afe29984"/>
+		<rom name="Jelly Boy 2 (Japan) (Proto) [T-En by Chris Covell+KingMike Translations v1.0].txt" size="8262" crc="c5532daa" md5="7161e055eec2d793feaa599a8c363752" sha1="beaa8b58291c67864b7050925e1276eedd883f2c"/>
+		<rom name="Jerry Boy (Japan) [Alt Font+Controls Hack by KingMike v1.0].txt" size="1588" crc="39d51381" md5="c82fd466482b34c9ce7d3239c5ed8274" sha1="ca5dcbf954099b5695c534fad33e1cee166b3724"/>
+		<rom name="Jerry Boy (Japan) [T-En by Chris Covell v1.0].txt" size="3980" crc="c4d48703" md5="485794d5dfa1317f1ac04dc761d4d225" sha1="881513fc5853b9b7ebc5369854057d42ed0313f1"/>
+		<rom name="Jikkyou Power Pro Wrestling '96 - Max Voltage (Japan) [T-En by Phil v1.0] [i] - Moves List.html" size="14798" crc="4ec5cd93" md5="acede118b48d48cd77a64bda35b257d6" sha1="868385981e5d16b32843dd64ea6596da540e246c"/>
+		<rom name="Jikkyou Power Pro Wrestling '96 - Max Voltage (Japan) [T-En by Phil v1.0] [i].txt" size="5575" crc="bfe9a798" md5="3a7169d2e2c44e84ea26bf06d269c779" sha1="f559b133629697dce8d84b4df2a87d73996bbe05"/>
+		<rom name="Jutei Senki (Japan) [T-En by Aeon Genesis v1.00].txt" size="3144" crc="5b613643" md5="b0f37b69006656ffc4cb9a5a3a0599ba" sha1="c6ace3cd9bb80d9a4e1bc0e0780cc54db9b314b4"/>
+		<rom name="King of Demons (Japan) [T-En by Aeon Genesis v1.01] [n].txt" size="3933" crc="7968de68" md5="5f7dacd12b6b58db78402cc651e73113" sha1="682c0ef6f2ff55b7d63c382183a7e268b9d528d2"/>
+		<rom name="Kouryuu no Mimi (Japan) [T-En by RPGOne v1.0].txt" size="5034" crc="28fbcfae" md5="0c027eec9104188f7a8f6a2fac43cf2f" sha1="d129c3d92bc6b677dc421aee4e0d0b99798d9efd"/>
+		<rom name="Kunio's Dodge Ball (Japan) [T-En by Azelistic v1.0] [n].txt" size="33734" crc="a1fda7b6" md5="1108dc9346b251f35dc7afc6a3ce01fd" sha1="61f4a909e14407e0e6934f81a3dad97ee85309a8"/>
+		<rom name="Langrisser, Der (Japan) (Rev 1) [T-En by byuu+Derrick Sobodash v1.02] - Manual (Hi-Res).pdf" size="4718658" crc="909f5386" md5="f44b4166e063d803da58a18479f26c2d" sha1="d82db0fd8bd79711c6952d2dbb86bb0b494ccb1c"/>
+		<rom name="Langrisser, Der (Japan) (Rev 1) [T-En by byuu+Derrick Sobodash v1.02] - Manual (Printable).pdf" size="4731464" crc="a83d83c7" md5="bb9c70f3c2c4a7132986e1d34e981e4f" sha1="b9a8cecc32a7ebce4f84a9b35d85a8b2f26a838c"/>
+		<rom name="Langrisser, Der (Japan) (Rev 1) [T-En by byuu+Derrick Sobodash v1.02] - Manual.pdf" size="974687" crc="8b589105" md5="fa96d305f119f65e2023a038c15e78f2" sha1="819771787c94b620cdfb060d253dd2bc090c6fb1"/>
+		<rom name="Langrisser, Der (Japan) (Rev 1) [T-En by byuu+Derrick Sobodash v1.02].bsnes.cht" size="1711" crc="b8f6e0dd" md5="71ddd8cf785c484a507b9aee911134a6" sha1="7fa67ef4ec038c52e6b1c297978840712ddc4021"/>
+		<rom name="Langrisser, Der (Japan) (Rev 1) [T-En by byuu+Derrick Sobodash v1.02].txt" size="5766" crc="037d5721" md5="f3e69a52cb510ab43040b38efa435f07" sha1="7d5bf8d083831fcef53819680b346ea70fda1d59"/>
+		<rom name="Langrisser, Der (Japan) (Rev 1) [T-En by byuu+Derrick Sobodash v1.02].zsnes.cht" size="980" crc="8ee59db2" md5="5f0483a42c4c127477aaf6a1d757f2cf" sha1="6d6ab839a55250c133a48b87f360063506d3bce6"/>
+		<rom name="Laplace's Demon (Japan) [T-En by Aeon Genesis v0.95b] [n].txt" size="2863" crc="2c0b5309" md5="e9439d0cecd2b637641376881813eb80" sha1="22e1400b1f25d3c3bfed5df94813f94fcdf8a1b7"/>
+		<rom name="Lennus II - The Apostles of the Seals (Japan) [T-En by Dynamic Designs v1.04] [n] - Spoiler Hints and Tips.doc" size="53760" crc="459b83de" md5="f816b71ddc4a5fbc2236a3162ee628b9" sha1="afa747d0a70073ab2a48cd979a986190b116194c"/>
+		<rom name="Lennus II - The Apostles of the Seals (Japan) [T-En by Dynamic Designs v1.04] [n].doc" size="86528" crc="b09aa2bd" md5="30b3e6ca8324cb47519f87d5d5a42fd1" sha1="62ed2de89f5b1de0185e80ea1946dd7ef4be8b1b"/>
+		<rom name="Little Magic (Japan) [T-En by Aeon Genesis v1.00b].txt" size="1936" crc="3b0a8358" md5="927d511823dc98f36714054baa0a2f1a" sha1="991ffdb583868e8a2b7bdcb22c88d51abcca54f4"/>
+		<rom name="Live A Live (Japan) [T-En by Aeon Genesis v2.00 Deluxe].txt" size="6227" crc="423e122e" md5="9765c7b88d1c51ab0696e264c2595493" sha1="9a85ef72581c8b1f2c3324b533eb2cd3a9c2fbe7"/>
+		<rom name="Madou Monogatari - Big Kindergarten Kids (Japan) [T-En by Aeon Genesis v1.01] [n].txt" size="8698" crc="3792337e" md5="2d9f689357ba00e4db5f86ff14e08a4b" sha1="9eeb08424cda1dfba96fa136c857178190d067e0"/>
+		<rom name="Magic Knight Rayearth (Japan) [T-En by RPGe v1.01].txt" size="6770" crc="cbbb32df" md5="562dd899c0e7aed29ef20ce17407fa79" sha1="9ae5e762a3afa2c07486435fc84eb5f50a5db882"/>
+		<rom name="Magic Poipoi Poitto! (Japan) [T-En by KingMike v1.0] [n].txt" size="3038" crc="5c66e085" md5="4ffb4ae155c916c4e421b6ec91d109b8" sha1="06006ff3294b1d50f7b5da2868520640461a098e"/>
+		<rom name="Magical Drop (Japan) [T-En by Aeon Genesis v0.95b].txt" size="1936" crc="924a2f0a" md5="4e9ac2a10ca8e4019e4774efaa9bd424" sha1="c18c65f4608608ca522d49d73674c500edf34531"/>
+		<rom name="Magical Land of Wozz, The (Japan) [T-En by Translation Corporation v1.0] [n] - Intro Manga (1).jpg" size="244050" crc="cd12d9fc" md5="f817ca816ebdaf2bcc9caa56d2f7feca" sha1="7da07aec0653e2e9244f10058b5010a4b5fe8f75"/>
+		<rom name="Magical Land of Wozz, The (Japan) [T-En by Translation Corporation v1.0] [n] - Intro Manga (2).jpg" size="273874" crc="0ec8cfac" md5="33a54e5912ac4275698a7a3fe8d67fe8" sha1="deb4078c9a8f73337b4fcecf85872c04aaa53b73"/>
+		<rom name="Magical Land of Wozz, The (Japan) [T-En by Translation Corporation v1.0] [n] - Intro Manga (3).jpg" size="262727" crc="6ec75e02" md5="0127a7074aeeead75f31a86a9139fd45" sha1="d668e1e35236f7056654e1e3221babbe65d992f7"/>
+		<rom name="Magical Land of Wozz, The (Japan) [T-En by Translation Corporation v1.0] [n] - Intro Manga (4).jpg" size="276283" crc="d7637c81" md5="8961b28eb504d128c9e3fe00d3ae51f7" sha1="9185b1563d2769e189ca9631ea469c01ad374d5f"/>
+		<rom name="Magical Land of Wozz, The (Japan) [T-En by Translation Corporation v1.0] [n] - Manual Bios.txt" size="7321" crc="364eb3ad" md5="7f7eea19642e58b6159fefd0626f35d1" sha1="38a86617c7286309324f19c5ba9907bb8b2ca726"/>
+		<rom name="Magical Land of Wozz, The (Japan) [T-En by Translation Corporation v1.0] [n] - Manual Intro.txt" size="2265" crc="cd466315" md5="4811d8231018b898184f6d7128ebf1d7" sha1="614b21c2e9d5dc0abb5e7444bba7c1990bd5e872"/>
+		<rom name="Magical Land of Wozz, The (Japan) [T-En by Translation Corporation v1.0] [n].txt" size="13324" crc="a4729d42" md5="07bbaddff957844232ce80e904832621" sha1="54e17cda8431d5e86dabc6b2576c22b12f3b628d"/>
+		<rom name="Magical Pop'n (Japan) [T-En by Aeon Genesis v1.01].txt" size="2307" crc="0da38558" md5="493b82c366bb5172fe1aedb1e9365976" sha1="32dda42e98e60236f649f46d3cdf5f58e5b89ab4"/>
+		<rom name="Magna Braban - The Wandering Hero (Japan) [T-En by KingMike Translations v1.0] [n] - Equipment List.txt" size="6419" crc="14c87412" md5="a522f484cee6a83528e85008d53466de" sha1="b3e07379f4759cb3e90b39cc4a94600ae4be4649"/>
+		<rom name="Magna Braban - The Wandering Hero (Japan) [T-En by KingMike Translations v1.0] [n] - Items List.txt" size="1569" crc="c99c00b8" md5="829d6136f0c2ff8f3f82def2a055fa4e" sha1="ee0ccbb1bb2df76e70be63c56590c1538c4b4740"/>
+		<rom name="Magna Braban - The Wandering Hero (Japan) [T-En by KingMike Translations v1.0] [n] - Spells List.txt" size="1932" crc="2c9ba695" md5="c36e6a38c4f33b9543e955cd3afaf9ed" sha1="48ebd6d60cfea7ba575f437717f0f292efe43e7c"/>
+		<rom name="Magna Braban - The Wandering Hero (Japan) [T-En by KingMike Translations v1.0] [n].txt" size="4270" crc="68ea6e89" md5="9fac8d9dfe4daf37e0e5763c7aa036b7" sha1="c5d6761edcaa4ba334e87a2d49f446f1ac495480"/>
+		<rom name="Metal Max Returns (Japan) [T-En by Aeon Genesis v1.00].txt" size="2851" crc="3e3ebaf7" md5="8de8e598460607d4035498f4129e62e4" sha1="ccc23832360a5f7bebb9d2d6b7556b22e4c244d9"/>
+		<rom name="Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.1] [n].txt" size="4725" crc="c2b80bce" md5="e372db390ed156e2bac3e0dc9f4032fc" sha1="2c23cc7747f153727f7d21095c4d5975d252307e"/>
+		<rom name="Miracle Girls (Japan) [T-En by RPGOne v1.0].txt" size="6510" crc="6fd9ec9e" md5="9d9d308c19b85f08b447f95f9fd460cf" sha1="4536e1b346dd31bb220eeaf5f82d35842c631253"/>
+		<rom name="Mobile Fighter G Gundam (Japan) [T-En by Aeon Genesis v1.00] [n].txt" size="2949" crc="0915b56b" md5="eb1ac42918ea2b45acfa8dc44390ea66" sha1="72d22ae1f9d4dbff587147ee30afb5e8478f5f58"/>
+		<rom name="Mobile Suit Gundam - Cross Dimension 0079 (Japan) [T-En by Aeon Genesis v1.00] [n].txt" size="3938" crc="22ad57a1" md5="6f58edc8ac662163d2fc1890e9709d72" sha1="6293bb82a3912b7d74c1438bbe30781f81e375cb"/>
+		<rom name="Mobile Suit Gundam F91 - Formula Wars 0122 (Japan) [T-En by Twilight Translations v1.00] [n].txt" size="6113" crc="4500677e" md5="34d5117451e5e573671637f80c9531a9" sha1="55705b3384c1039e00751757cd98eaa61be64fe5"/>
+		<rom name="Mobile Suit Gundam Wing - Endless Duel (Japan) [T-En by Aeon Genesis v1.00] [n].txt" size="2332" crc="d8514872" md5="9ee273cc1c6680ecd5f04884831ad4d1" sha1="f7dbc038f00520cdedecbf9c301f44f561abb88e"/>
+		<rom name="Mobile Suit V Gundam (Japan) [T-En by Twilight Translations v1.00] [n].txt" size="5528" crc="6505afe7" md5="2359e1b717cd31c7138fea414278cc1d" sha1="1595548a6ced9b8e2ec16f99d23db7b6d0f879f6"/>
+		<rom name="Monstania (Japan) [T-En by Aeon Genesis v1.03].txt" size="6786" crc="e0961725" md5="170424a47b8f4ddb891ff6d367bbcc23" sha1="6687072f9272ef567a77d2db3813cf09e9615a9b"/>
+		<rom name="Mysterious Dungeon 2 - Shiren the Wanderer (Japan) [T-En by Aeon Genesis v1.00] [n].txt" size="4722" crc="78d6d98d" md5="23f83d3568f76bf9e8570022b1e5f636" sha1="765c45f4bfdc724bbee5fe36776eb1aa4a8750d5"/>
+		<rom name="Mystic Ark (Japan) [T-En by Aeon Genesis v1.01].txt" size="5856" crc="cd8d9503" md5="4e0edca3d918eb890bf182ddb79987d4" sha1="fc0375bb72be2cdbaa4e5ee4f68ec17652ad9018"/>
+		<rom name="Mystic Ark (Japan) [T-En by Dynamic Designs v1.01].doc" size="74752" crc="cb1022d1" md5="aa6bd388d827be78dcefdc03a7327ad4" sha1="932e2729f632c21be66ddb89d1cd3abe345f7b7e"/>
+		<rom name="Nangoku Shounen Papuwa-kun (Japan) [T-En by FH v1.0b] [i].txt" size="5461" crc="1e30845e" md5="ee36e34c824a1009bb5910e22afee19e" sha1="95860d55a8710155cbdfe67def88908995145c4a"/>
+		<rom name="Neugier - The Journey Home (Japan) [T-En by Haeleth+RPGOne v2.00] [n].txt" size="7631" crc="6e64cf0e" md5="e850510477ea66628505fb76fe72ce82" sha1="741bfe0f11f8229cfcc5a709c4b8fa630ee69137"/>
+		<rom name="Panel de Pon (Japan) [T-En by Zuqkeo v1.0].txt" size="9115" crc="462739b5" md5="049908c00f3951559c178d811418b0e7" sha1="3cdef2276b387099021713bcd7e356df95d1cd3e"/>
+		<rom name="Panic in Nakayoshi World (Japan) [T-En by Project Sailor Moon v1.00] - Manual.txt" size="11426" crc="e7832867" md5="496b134fb8a3c278df709867fe7c9904" sha1="f652d1a4056725696eb2084e2ae7dd80becf9191"/>
+		<rom name="Panic in Nakayoshi World (Japan) [T-En by Project Sailor Moon v1.00].txt" size="1387" crc="15b5d878" md5="8e79228d5602fb96f557eb4b0e0beca7" sha1="f15a08fc167bf4f0cb3b29ba8bfe10de20ac7314"/>
+		<rom name="Popeye - Tale of Teasing Witch Sea Hag (Japan) [T-En by KingMike Translations v1.0] [n].txt" size="5548" crc="f87fb716" md5="68da54126fe7aab35bda3008bbb88fd7" sha1="98fe4b033a39b5d682d5516797022d1b6620f5c6"/>
+		<rom name="Pretty Soldier Sailor Moon - Another Story (Japan) [T-En by FuSoYa v1.00] [n] - Liner Notes.txt" size="8848" crc="f3ddf31f" md5="890d5b736648897b9080906dab148ae9" sha1="6dda9987ee9eb5912531659e0c7fc6958358cad5"/>
+		<rom name="Pretty Soldier Sailor Moon - Another Story (Japan) [T-En by FuSoYa v1.00] [n].txt" size="12980" crc="a41fcd94" md5="b28b619adfbccb80d6beedacfc479ec1" sha1="b4284e32d102a80965b9a848c0f0dd88cbd77af7"/>
+		<rom name="Pretty Soldier Sailor Moon R (Japan) [T-En by FuSoYa v1.00] [n].txt" size="4554" crc="87b00d58" md5="67d521cb2f836da2108f84b9921557be" sha1="eb1e62dd253a78b2dd602ed913a056bf39fd2b64"/>
+		<rom name="Radical Dreamers - Le Tresor Interdit (Japan) (BS) [T-En by Demiforce v1.4] [n] (1).txt" size="323" crc="d471322f" md5="aebc5476b0e73d3a80be42ac68b39be4" sha1="1ecd874e9027821fbbdcf95441510892e266f225"/>
+		<rom name="Radical Dreamers - Le Tresor Interdit (Japan) (BS) [T-En by Demiforce v1.4] [n].txt" size="51253" crc="3971fe5d" md5="aae21a148924354c3113dc39ce8dda17" sha1="faadca8628422d8af2eaed5723e6dabcb03d2b9e"/>
+		<rom name="Ranma 1-2 - Treasure of the Red Cat Gang (Japan) [T-En by Dynamic Designs v0.99] (Manga Version) [n].txt" size="5643" crc="c33d2a8c" md5="e8e305332f4c36b2bd83ff008458c3fd" sha1="57589415d4930dfeaed7bfe84a4a1030c9716a74"/>
+		<rom name="Ranma 1-2 - Treasure of the Red Cat Gang (Japan) [T-En by Dynamic Designs v1.00] (Anime Version) [n].txt" size="5759" crc="9ce41d5e" md5="eb419be0a9081dba42ec269e916be4b8" sha1="958e7ae11baab03d7f4adcb6e4ad69286f4fdab4"/>
+		<rom name="Record of Lodoss War (Japan) [T-En by LNF v0.90] [i] [n].txt" size="5409" crc="85f79789" md5="dbfe6aed66384f652d6bcc5167f2d78f" sha1="d1f61684787d7a2009503548151389240abd4981"/>
+		<rom name="Rockman &amp; Forte ~ Mega Man &amp; Bass (Japan) [T-En by Aeon Genesis v1.00] [n].txt" size="5393" crc="6c2b1ddc" md5="b28c97a9e35ae53bcfb444b3e2c138ae" sha1="d4c0431caf151b04b99dd4b8ba643f39a16a66e0"/>
+		<rom name="Romancing SaGa (Japan) [T-En by Trans Dimension v0.40] [i].txt" size="2965" crc="4c26b2d8" md5="3bead6b858d9dc737f0500725c323ac0" sha1="6b18901742756811f0065815f5e0246a46710b7b"/>
+		<rom name="Romancing SaGa 2 (Japan) [T-En by Gilhide v0.05c] [i].txt" size="1329" crc="79ce0b9a" md5="09b05cd257cfd1bec8f4a71a24e13771" sha1="123fdfe7b2641346239483cf90aee3a2d992465d"/>
+		<rom name="Romancing SaGa 3 (Japan) [T-En by Mana Sword v0.30].txt" size="19438" crc="0d8b981a" md5="7d085f2e99296298a8c6260a99839a04" sha1="282644fc252e880ed3e185bba9465896846174a2"/>
+		<rom name="Sanrio World Smash Ball! (Japan) [T-En by Suicidal Translations v1.00].txt" size="4172" crc="0fec233c" md5="ad591bad31b4d620f6d0060af2b6a4cc" sha1="d7911093ccc60103b2966abe7a7b44e6facd912f"/>
+		<rom name="Secret of Mana (USA) [T-En by FuSoYa v1.00 VWF].txt" size="3530" crc="504b66dc" md5="f481af1199aaa2915c12f82c5148ab65" sha1="3989166678ba4dddaed19b38c566bd0847db37c2"/>
+		<rom name="Seiken Densetsu 3 (Japan) [T-En by LNF+Neill Corlett+SoM2Freak v1.01].txt" size="13304" crc="e8d03f67" md5="4a690016439ac4637673fec8763fad78" sha1="178531ccefb8b382c71c6a7b1c6279aec87bf5f8"/>
+		<rom name="Sengoku (Japan) [T-En by Vice Translations v1.00] [n].txt" size="3983" crc="aa467307" md5="cfde905aa6f1370e4b3414f919cb8894" sha1="acc113981aed4d7bcec119a0bba00399ad7cae75"/>
+		<rom name="Shin Megami Tensei (Japan) [T-En by Aeon Genesis v1.00] - Manual.txt" size="52302" crc="05408b41" md5="8d7c735240ce207cc6116d318740732f" sha1="20cfa655a573da23253f70e68d926d0dec57b511"/>
+		<rom name="Shin Megami Tensei (Japan) [T-En by Aeon Genesis v1.00].txt" size="7060" crc="0d4503a4" md5="52bbf02defad33646d7545f8540e6e82" sha1="3b5d8e362e23b80fe316af445fad86a8e7378312"/>
+		<rom name="Shin Megami Tensei II (Japan) [T-En by Aeon Genesis v1.00] - Tokyo Millennium Civilian Passport.txt" size="66194" crc="458c519e" md5="21f22358886e373208d844b0f71b0838" sha1="858620d7a627d49cbed27b2e9cf22325befe8888"/>
+		<rom name="Shin Megami Tensei II (Japan) [T-En by Aeon Genesis v1.00].txt" size="6346" crc="c9bf781c" md5="c0edf9ae3df5b7b5c8619a52dec53c7c" sha1="235ce2df16f76c0f4b4b512cb74d2183be5cba65"/>
+		<rom name="Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [T-En by Aeon Genesis v1.00].txt" size="2972" crc="3bfe941f" md5="4bfd7252a21ad073be4f5a5d82f9f379" sha1="16b57b897aa9da4dd22c444346dddf680031a068"/>
+		<rom name="Shodai Nekketsu Kouha Kunio-kun (Japan) [T-En by Aeon Genesis v1.00] - Manual.txt" size="1341" crc="a24e5c1e" md5="28c1827a0c23ce37cb0facd9e0ebf2fc" sha1="0a3487d455300e5402e73197baecb86dd72ea92e"/>
+		<rom name="Shodai Nekketsu Kouha Kunio-kun (Japan) [T-En by Aeon Genesis v1.00].txt" size="4199" crc="be6f0176" md5="5e4fdaf84af83514951410a0942f3811" sha1="85576ed00a14bb2af6460050a1d60dc11378b551"/>
+		<rom name="Silva Saga II - The Legend of Light and Darkness (Japan) [T-En by Dynamic Designs v1.00] - Mercenary, Idol, and Spell Guide.txt" size="14014" crc="aa673b0d" md5="4c9c75937d98504f424fbc568b466ead" sha1="079b103e48fe8ad2e0674446eef8e05b8ebd7371"/>
+		<rom name="Silva Saga II - The Legend of Light and Darkness (Japan) [T-En by Dynamic Designs v1.00].rtf" size="19136" crc="6048083e" md5="4b39165b44fc4da9fc08e6d69e23b7d9" sha1="83c24adeabfd45e80f304df5f74f82e763a195e1"/>
+		<rom name="Slayers (Japan) [T-En by Dynamic Designs+Matt's Messy Room v1.01].doc" size="128512" crc="6d153c5b" md5="c892f4f7b5b74e4b80dabc82901a890a" sha1="24e5ef62976ad16c12a4bc254cd3d7fd2fabe799"/>
+		<rom name="Snoopy Concert (Japan) [T-En by Aeon Genesis v1.00].txt" size="3775" crc="6d18b701" md5="3256d59b47eb1e2551a2611301ba743f" sha1="3f5e252d51939cf953c026d923b38d4859545350"/>
+		<rom name="Space Knight Tekkaman Blade (Japan) [T-En by byuu+Derrick Sobodash v1.0] [n].txt" size="4885" crc="5dac437b" md5="36b9e9feb9d40170172fe9892377d45b" sha1="1fb422d8d54c5f6327c5eb7746253cbdd47bfbec"/>
+		<rom name="Star Fox 2 (Japan) (Proto) (Alt 1) [T-En by Aeon Genesis v1.00].txt" size="6198" crc="91a04295" md5="83ab634e7a472cf4e0a957a2d547e3df" sha1="a616183515aee7273dce9e7da826a599a7b8ce1d"/>
+		<rom name="Star Ocean (Japan) [T-En by DeJap v1.0].txt" size="15200" crc="99f9faf4" md5="402d747798251d1bb0ea6a96cbb04ca6" sha1="c3f0d58545fcb728e7c51554e7b33a328664bfb0"/>
+		<rom name="Super Back to the Future Part II (Japan) [T-En by mteam v1.00].txt" size="664" crc="280c4b4f" md5="7992423e9feb27ee28673ab390441296" sha1="d87adff301fc529eab76cccbe60953bd5de89e66"/>
+		<rom name="Super Bomber Man 4 (Japan) [T-En by Svambo v1.0].txt" size="1527" crc="8382d78b" md5="e493ce346bf50fd4e16ab21bbdf4becf" sha1="b7d700ce5b5dc80433dc6fbfd3ef3a916f6612ce"/>
+		<rom name="Super Bonk 2 (Japan) [T-En by Gaijin Productions v1.00] [n].txt" size="2217" crc="e4b3b7d2" md5="8844765c97ea11fb042ccaa35f948ce7" sha1="7057f1bd82e6a4c03080413aeb1210d1206d397a"/>
+		<rom name="Super Fire Pro Wrestling X Premium (Japan) [T-En by Sydra v7].txt" size="6535" crc="b5667f38" md5="db2125b8569b418453a3a22e70be1698" sha1="478a22f5406958ff7974735dc8fe8deb03c0a1a6"/>
+		<rom name="Super Gachapon World - SD Gundam X (Japan) [T-En by Serin9X v1.51] [i].txt" size="1715" crc="116dabb1" md5="0c165a34ff9a1c1de8f19bf3d10241d7" sha1="0d32f7aff2a8cb83cadb72dd74892973849ebe50"/>
+		<rom name="Super Gussun Oyoyo 2 (Japan) [T-En by RPGOne v1.0].txt" size="17652" crc="05d90703" md5="da57037a78d80be1545353b87fe6fbfd" sha1="c98e1e43ee4d1dc8763514a5b4340490b83fe0a1"/>
+		<rom name="Super Puyo Puyo 2 (Japan) [T-En by J2e Translations v1.1] [n].txt" size="3990" crc="7ad9a760" md5="deeeaf4bde39c16081d2e9602f699f9a" sha1="8879a1c70c16ce8248332e90a3e412c8bfebc51d"/>
+		<rom name="Super Robot Wars 3 (Japan) [T-En by Aeon Genesis v1.00] [n] - Manual.txt" size="16055" crc="d9ec1119" md5="acdf7d65bf497a0ffdf6a0ec8369450f" sha1="f8a9c727b3ae99c5470b3a5fcb428379f444dd9a"/>
+		<rom name="Super Robot Wars 3 (Japan) [T-En by Aeon Genesis v1.00] [n].txt" size="3818" crc="5c65fa77" md5="9d327e6639a1ded10e0313bf2600ee2f" sha1="e3f3bc9541e99548b3271a0479acc969802ddf46"/>
+		<rom name="Super Ultra Baseball 2 (Japan) [T-En by VX v1.00] - Manual.pdf" size="485435" crc="b9c99b43" md5="ce9b005d3320225d098cac952e809133" sha1="1bafd9d0492f1536818bf6c23012e2af195f5554"/>
+		<rom name="Super Ultra Baseball 2 (Japan) [T-En by VX v1.00] - Manual.txt" size="28407" crc="4a8e3e6b" md5="f5d566ce28d795f86f87adb4a30fcc69" sha1="42b994684bb4f471b8de626c68e5c4e26e25c95a"/>
+		<rom name="Super Ultra Baseball 2 (Japan) [T-En by VX v1.00].txt" size="5960" crc="0c393823" md5="c1f7d6afb719100964594bde3fa47e45" sha1="7cc3268feed3e63e992439987648a1813ca3d0bb"/>
+		<rom name="Tactics Ogre - Let Us Cling Together (Japan) (Rev 2) [T-En by Aeon Genesis v1.00b].txt" size="3651" crc="cf2e50a8" md5="f478a9cf4b4f48cc2169c75d32193c3e" sha1="6d304c7e69d80a7cb849828cfbe2c9ac21343376"/>
+		<rom name="Tales of Phantasia (Japan) [T-En by DeJap v1.2].txt" size="18843" crc="7e106abc" md5="f982421fd79a4029d541610abbdaf484" sha1="65696b38c342399bc8ffaca288d4bf4fc9d4f0d6"/>
+		<rom name="Taloon's Great Adventure - Mysterious Dungeon (Japan) [T-En by Dynamic Designs v0.99] [n].txt" size="4711" crc="71597e23" md5="471603fe10894a617d14e22d4c19da7e" sha1="2b1f96be4b172d21b43f363b50c7c1237cc09d67"/>
+		<rom name="Tenchi Muyou! - The Game (Japan) [T-En by LNF v0.98] [n].txt" size="5833" crc="900b3779" md5="793cb672765731d98465aff56e63f23a" sha1="e6923e992681ba1cdda98bcb901fe8286b45ea13"/>
+		<rom name="Tomorrow's Joe (Japan) [T-En by Vice Translations v0.99] [n].txt" size="4421" crc="278aa206" md5="d5ad2b58d018663ab5d9d13a43f47e4a" sha1="22cdc9599ea316e1b2ab9d058547e593e2200841"/>
+		<rom name="Treasure of the Rudras (Japan) [T-En by Aeon Genesis v2.00] [n] - Manual.txt" size="34768" crc="3aeb1b13" md5="14ece14c79e1241ff13909f6557bf4de" sha1="bb2cd4947f1527f962fa3d2abf5a9aa5ca8e0b5c"/>
+		<rom name="Treasure of the Rudras (Japan) [T-En by Aeon Genesis v2.00] [n] - Notes.txt" size="16253" crc="c22d7ae7" md5="d294b39fc8d2a1429e43825a7276fba5" sha1="37d76a15c26865913e0d0982e382a48ff44ca3e9"/>
+		<rom name="Treasure of the Rudras (Japan) [T-En by Aeon Genesis v2.00] [n].txt" size="9251" crc="92cd953d" md5="2c938bc89fa9b4612ab350254003b556" sha1="96c746733e9ecc974b4fbea68ac5f6959b24071e"/>
+		<rom name="Ultra Baseball Jitsumei Ban (Japan) [T-En by VX v1.04].txt" size="7417" crc="2cec73ed" md5="acc6990775a129413706ac0ecfa63473" sha1="25f84b65792386f2e56ad7d1a571e5476b50a4b7"/>
+		<rom name="Umihara Kawase (Japan) [T-En by Satsu v0.90].txt" size="5335" crc="1b4c81c8" md5="c336a61942c15404ea353bf24c920e64" sha1="f3812f0a5f19fd2c0eca5e7843a545b5e475530c"/>
+		<rom name="Villgust (Japan) [T-En by Dynamic Designs v1.01] [n].txt" size="12888" crc="6142868c" md5="9ddd78536f50981214b0a280ee6827e3" sha1="df3c72c1c851419053a318866deab82780523966"/>
+		<rom name="Violinist of Hameln, The (Japan) [T-En by J2e Translations v1.00] [n].txt" size="2840" crc="a7372cc6" md5="1eee6eb50f5f1232a374f4bb1706eec9" sha1="0bbc3ea0adc25c102e78a61a0dcb020e57df636c"/>
+		<rom name="Wizardry I-II-III - Story of Llylgamyn (Japan) (NP) [T-En by Aeon Genesis v1.00].txt" size="1745" crc="14ac37d6" md5="7f464475f4b8bfec0f80180203edd598" sha1="29b48908938e9ea9e7431c2929269ee96381a0d6"/>
+		<rom name="Wizardry VI - Bane of the Cosmic Forge (Japan) [T-En by TiCo v0.99] [n].txt" size="1894" crc="7b8c148f" md5="07312d75aaf6f041dd874e37b31c4995" sha1="c6e34aece8106d5a38b54769b010d2c4e30d83e0"/>
+		<rom name="Wonder Project J - Mechanical Boy Pino (Japan) [T-En by WakdHacks v1.04] [n].txt" size="3176" crc="f3d018b1" md5="8d102636b9e85c77648c1520c93bd260" sha1="b01acf0cbe305dec8ccf06892129765732940930"/>
+		<rom name="Ys IV - Mask of the Sun (Japan) [T-En by Aeon Genesis v2.00].txt" size="4932" crc="2f9032a0" md5="9d92446c6e70675330a11c965462ca27" sha1="f237fb125f5804df2c51e015e5862f51a63f7f59"/>
+	</game>
+	<game name="Accele Brid (Japan) [T-En by Aeon Genesis v1.00]">
+		<description>Accele Brid (Japan) [T-En by Aeon Genesis v1.00]</description>
+		<rom name="Accele Brid (Japan) [T-En by Aeon Genesis v1.00].sfc" size="2097152" crc="1c4dc36c" md5="3c99d35a13b77afdc007e9ff37afed26" sha1="26ac301ffc1a77399d9c65662da94f83636eb488"/>
+	</game>
+	<game name="Actraiser (Japan) [T-En by Aeon Genesis v1.00]">
+		<description>Actraiser (Japan) [T-En by Aeon Genesis v1.00]</description>
+		<rom name="Actraiser (Japan) [T-En by Aeon Genesis v1.00].sfc" size="1048576" crc="5a6eb990" md5="c6fbe96b454367fc4d454d50d266f1de" sha1="4ff7329ce5cb8b2b8d93cb303bb5252c090f2978"/>
+	</game>
+	<game name="Adventures of Hourai High, The - Transfer Student Dramabomb (Japan) [T-En by Aeon Genesis v1.00] [n]">
+		<description>Adventures of Hourai High, The - Transfer Student Dramabomb (Japan) [T-En by Aeon Genesis v1.00] [n]</description>
+		<rom name="Hourai Gakuen no Bouken! - Tenkousei Scramble (Japan) [T-En by Aeon Genesis v1.00].sfc" size="3145728" crc="fbb9de0c" md5="c15ce67b3cc15fbc7c5c4fcb9533af7d" sha1="de4c9d9d872b2b8b99bddaa25e6fbee633a84182"/>
+	</game>
+	<game name="Aim for the Ace! - Ace Tennis (Japan) [T-En by RPGOne v1.2] [n]">
+		<description>Aim for the Ace! - Ace Tennis (Japan) [T-En by RPGOne v1.2] [n]</description>
+		<rom name="Ace o Nerae! (Japan) [T-En by RPGOne v1.2].sfc" size="1048576" crc="61177c3c" md5="2b2d894bb166340cb1e61cc5cb4d2498" sha1="057b033c09be17bfe9552f72a04fcfc5ba2e57ce"/>
+	</game>
+	<game name="Alcahest (Japan) [T-En by FH v1.0b]">
+		<description>Alcahest (Japan) [T-En by FH v1.0b]</description>
+		<rom name="Alcahest (Japan) [T-En by FH v1.0b].sfc" size="1179648" crc="9cc9cc01" md5="c8e7c0f25ae51c9a6e5f092c3168d4d9" sha1="c558e75a176bdf226ad74eb5fa7ac33c30b99f69"/>
+	</game>
+	<game name="Ancient Magic - Bazoo! World of Magic (Japan) [T-En by Aeon Genesis v1.00] [n]">
+		<description>Ancient Magic - Bazoo! World of Magic (Japan) [T-En by Aeon Genesis v1.00] [n]</description>
+		<rom name="Bazoe! Mahou Sekai (Japan) [T-En by Aeon Genesis v1.00].sfc" size="2097152" crc="3db23a76" md5="9d33c8299fc374f87a328626b706d1b1" sha1="6fc402115074277b237d4f24d4062f71b30832b4"/>
+	</game>
+	<game name="Assault Suits Valken (Japan) [T-En by Aeon Genesis v1.00] [n]">
+		<description>Assault Suits Valken (Japan) [T-En by Aeon Genesis v1.00] [n]</description>
+		<rom name="Juusou Kihei Valken (Japan) [T-En by Aeon Genesis v1.00].sfc" size="1048576" crc="d618b19f" md5="9344f375fafed6c07dc8db25abca89e8" sha1="c082d3dae05f3a3547cd97131cf418f6793574d3"/>
+	</game>
+	<game name="Bahamut Lagoon (Japan) [T-En by DeJap+Neill Corlett+Tomato v1.3]">
+		<description>Bahamut Lagoon (Japan) [T-En by DeJap+Neill Corlett+Tomato v1.3]</description>
+		<rom name="Bahamut Lagoon (Japan) [T-En by DeJap+Neill Corlett+Tomato v1.3].sfc" size="3145728" crc="58b496a5" md5="496f3f33490a966bb88a4285688988bf" sha1="af462a9ad781e3021c9a786a2b0c557a0f3559ca"/>
+	</game>
+	<game name="Bahamut Lagoon (Japan) [T-En by DeJap+Neill Corlett+Tomato v1.3] (Emulation Hack)">
+		<description>Bahamut Lagoon (Japan) [T-En by DeJap+Neill Corlett+Tomato v1.3] (Emulation Hack)</description>
+		<rom name="Bahamut Lagoon (Japan) [T-En by DeJap+Neill Corlett+Tomato v1.3] (Emulation Hack).sfc" size="3145728" crc="48922837" md5="80cc3ba62d13216e34bdc872542d5f77" sha1="c4399c0f2f4963553245fe1dcd23580c8186f3c4"/>
+	</game>
+	<game name="Ball Bullet Gun (Japan) [T-En by Aeon Genesis v1.00]">
+		<description>Ball Bullet Gun (Japan) [T-En by Aeon Genesis v1.00]</description>
+		<rom name="Ball Bullet Gun (Japan) [T-En by Aeon Genesis v1.00].sfc" size="1572864" crc="b0ad3a59" md5="0000684516676e1b97c614d10af5a5dc" sha1="008f7e816a79c72f41aefd4d892af385d261c728"/>
+	</game>
+	<game name="Bastard!! - Dark God of Destruction (Japan) [T-En by DeJap v1.0] [n]">
+		<description>Bastard!! - Dark God of Destruction (Japan) [T-En by DeJap v1.0] [n]</description>
+		<rom name="Bastard!! - Ankoku no Hakaishin (Japan) [T-En by DeJap v1.0].sfc" size="1572864" crc="fbd39fdc" md5="b24c26185cf8ee924883de6be1e5638d" sha1="c8e698170b6bf36b2382348ad839c2f39a7cd88d"/>
+	</game>
+	<game name="Battle Soccer - Field no Hasha (Japan) [T-En by Hurkey Translations v1.0]">
+		<description>Battle Soccer - Field no Hasha (Japan) [T-En by Hurkey Translations v1.0]</description>
+		<rom name="Battle Soccer - Field no Hasha (Japan) [T-En by Hurkey Translations v1.0].sfc" size="1048576" crc="7eb2bc23" md5="49662898a23a68ba80460c26d06dd63f" sha1="ffb5e718d1d5a6e217ebd39915b725f577c8183b"/>
+	</game>
+	<game name="Brandish 2 - The Planet Buster (Japan) [T-En by Synchronicity v1.0]">
+		<description>Brandish 2 - The Planet Buster (Japan) [T-En by Synchronicity v1.0]</description>
+		<rom name="Brandish 2 - The Planet Buster (Japan) [T-En by Synchronicity v1.0].sfc" size="3145728" crc="9db396ec" md5="340dfb23460a8627891d00d4c82a08b4" sha1="7336158cbea3f922109825b71688efb0c7d95677"/>
+	</game>
+	<game name="Breath of Fire II - The Fated Child (USA) [T-En by Watercrown Productions v1.2b] (Original Title Screen Music) [n]">
+		<description>Breath of Fire II - The Fated Child (USA) [T-En by Watercrown Productions v1.2b] (Original Title Screen Music) [n]</description>
+		<rom name="Breath of Fire II (USA) [T-En by Watercrown Productions v1.2b] (Original Title Screen Music).sfc" size="4194304" crc="1169783e" md5="0d15877595f4d1a3b11e33c801f85b47" sha1="925ba577078b0e83337c7b472111badc6e65196c"/>
+	</game>
+	<game name="Breath of Fire II - The Fated Child (USA) [T-En by Watercrown Productions v1.2b] (Through the Fire and Flames) [n]">
+		<description>Breath of Fire II - The Fated Child (USA) [T-En by Watercrown Productions v1.2b] (Through the Fire and Flames) [n]</description>
+		<rom name="Breath of Fire II (USA) [T-En by Watercrown Productions v1.2b] (Through the Fire and Flames).sfc" size="4194304" crc="efb81e29" md5="07572460a6a305519f6ac3cc97b827ce" sha1="19dfcd38e0ba9fca839135de04ab590c93da82fe"/>
+	</game>
+	<game name="Breath of Fire II - The Fated Child (USA) [T-En by Watercrown Productions v1.2b] [n]">
+		<description>Breath of Fire II - The Fated Child (USA) [T-En by Watercrown Productions v1.2b] [n]</description>
+		<rom name="Breath of Fire II (USA) [T-En by Watercrown Productions v1.2b].sfc" size="4194304" crc="1320298e" md5="299e96968accb96b9e0d9a4154e220a5" sha1="86cf3c2d850b066f099e217f9ad39813b45e9de2"/>
+	</game>
+	<game name="BS The Legend of Zelda (Japan) (BS) [Hack+T-En by MottZilla v0.95] [n]">
+		<description>BS The Legend of Zelda (Japan) (BS) [Hack+T-En by MottZilla v0.95] [n]</description>
+		<rom name="BS Zelda no Densetsu Map 2 - Dai-4-wa (Japan) (BS) [Hack+T-En by MottZilla v0.95].sfc" size="2097152" crc="2c5ccac8" md5="120ba709e4b780af4b3ad565b95e1509" sha1="a55006d4cef4b24cdd2f30dfa6331db830dbb577"/>
+	</game>
+	<game name="Burning Heroes (Japan) [T-En by Dynamic Designs v1.00] [n]">
+		<description>Burning Heroes (Japan) [T-En by Dynamic Designs v1.00] [n]</description>
+		<rom name="Nekketsu Tairiku Burning Heroes (Japan) [T-En by Dynamic Designs v1.00].sfc" size="2621440" crc="a6998eab" md5="539a4a95e95fa890ee35b9988f0da888" sha1="10ce7f82dfa8a663cfda1c9246f96d7666126769"/>
+	</game>
+	<game name="Chrono Trigger (USA) [T-En by Chrono Compendium v1.01]">
+		<description>Chrono Trigger (USA) [T-En by Chrono Compendium v1.01]</description>
+		<rom name="Chrono Trigger (USA) [T-En by Chrono Compendium v1.01].sfc" size="6291456" crc="a9671ea3" md5="3bdc014de7ed0a7de617a872a13cda70" sha1="de6448bee7492bf78109b83bef76b6c9bf484f81"/>
+	</game>
+	<game name="Chrono Trigger (USA) [T-En by Doctor L v1.01]">
+		<description>Chrono Trigger (USA) [T-En by Doctor L v1.01]</description>
+		<rom name="Chrono Trigger (USA) [T-En by Doctor L v1.01].sfc" size="6291456" crc="0eb4d818" md5="b0eb0ad0abc65a73b9df3bbd89a84958" sha1="d0b41fd54bdde17d6691234761facb7f1047600d"/>
+	</game>
+	<game name="Chrono Trigger - Music Library (Japan) (BS) [T-En by Terminus Traduction v1.00e]">
+		<description>Chrono Trigger - Music Library (Japan) (BS) [T-En by Terminus Traduction v1.00e]</description>
+		<rom name="Chrono Trigger - Music Library (Japan) (BS) [T-En by Terminus Traduction v1.00e].sfc" size="524288" crc="f530a415" md5="1611da14e10042879d2b0cc85dfa03e9" sha1="4e77529c1d73e63fc6deb08da5ad3e044aec8fc5"/>
+	</game>
+	<game name="Clock Tower (Japan) [T-En by Aeon Genesis v1.01]">
+		<description>Clock Tower (Japan) [T-En by Aeon Genesis v1.01]</description>
+		<rom name="Clock Tower (Japan) [T-En by Aeon Genesis v1.01].sfc" size="3276800" crc="c484afab" md5="2fdc765967506940945084ea7f42ecaa" sha1="d21ec56f2d9d4796614aab457bfc5c4e340fdfac"/>
+	</game>
+	<game name="Crystal Beans from Dungeon Explorer (Japan) [T-En by Hiei+Neige v1.0]">
+		<description>Crystal Beans from Dungeon Explorer (Japan) [T-En by Hiei+Neige v1.0]</description>
+		<rom name="Crystal Beans from Dungeon Explorer (Japan) [T-En by Hiei+Neige v1.0].sfc" size="1572864" crc="e77b7849" md5="1c78a1d64816f468c3175ec80fe464e1" sha1="26995a791ac986c4349bb8633e660d17b2f0ce57"/>
+	</game>
+	<game name="Cu-On-Pa SFC (Japan) [T-En by Aeon Genesis v1.00]">
+		<description>Cu-On-Pa SFC (Japan) [T-En by Aeon Genesis v1.00]</description>
+		<rom name="Cu-On-Pa SFC (Japan) [T-En by Aeon Genesis v1.00].sfc" size="1048576" crc="fdaac109" md5="fb635d477fc91939f356a59340edd0e9" sha1="0caa0fc21d49f2f683addb7dfb196fd38426064f"/>
+	</game>
+	<game name="Cyber Knight (Japan) [T-En by Aeon Genesis v1.01]">
+		<description>Cyber Knight (Japan) [T-En by Aeon Genesis v1.01]</description>
+		<rom name="Cyber Knight (Japan) [T-En by Aeon Genesis v1.01].sfc" size="1048576" crc="efa08411" md5="4db4f8edb9e66af471d1af2e1d3db1c2" sha1="e9c04204e82c395aaa2f6d512d80af59eec7fda6"/>
+	</game>
+	<game name="Cyber Knight II - Ambitions of the Terran Empire (Japan) [T-En by Aeon Genesis v1.00] [n]">
+		<description>Cyber Knight II - Ambitions of the Terran Empire (Japan) [T-En by Aeon Genesis v1.00] [n]</description>
+		<rom name="Cyber Knight II - Chikyuu Teikoku no Yabou (Japan) [T-En by Aeon Genesis v1.00].sfc" size="2097152" crc="1e147c70" md5="fa15a9db5350f2356d8a9f62501b4318" sha1="63fa81c4115be48da2a2405cb4b90529fba74f3a"/>
+	</game>
+	<game name="Cyborg 009 (Japan) [T-En by Aeon Genesis+J2e Translations v1.00]">
+		<description>Cyborg 009 (Japan) [T-En by Aeon Genesis+J2e Translations v1.00]</description>
+		<rom name="Cyborg 009 (Japan) [T-En by Aeon Genesis+J2e Translations v1.00].sfc" size="1114112" crc="41ebe61b" md5="19853f55cc724d45d21d9136fcdcb20a" sha1="56c9c630e987a2081c1f904d8ef1ac06d89576aa"/>
+	</game>
+	<game name="Dark Half (Japan) [T-En by Klepto Software v0.60] [i]">
+		<description>Dark Half (Japan) [T-En by Klepto Software v0.60] [i]</description>
+		<rom name="Dark Half (Japan) [T-En by Klepto Software v0.60] [i].sfc" size="3211264" crc="a57af72b" md5="591006ed7ee519bd5fbb7f3bef13598b" sha1="035776bc91ef44ce50afc7c19a83e5278b12f5fd"/>
+	</game>
+	<game name="Dark Law - Meaning of Death (Japan) [T-En by Aeon Genesis v1.00]">
+		<description>Dark Law - Meaning of Death (Japan) [T-En by Aeon Genesis v1.00]</description>
+		<rom name="Dark Law - Meaning of Death (Japan) [T-En by Aeon Genesis v1.00].sfc" size="4194304" crc="c383a51c" md5="381c7c7a339f647d193486e6fe7c84a7" sha1="81fcca101b13713b4a822062fd3452d7f5b059cc"/>
+	</game>
+	<game name="Dezaemon (Japan) [T-En by Aeon Genesis v1.00] [n]">
+		<description>Dezaemon (Japan) [T-En by Aeon Genesis v1.00] [n]</description>
+		<rom name="Kaite Tsukutte Asoberu Dezaemon (Japan) [T-En by Aeon Genesis v1.00].sfc" size="524288" crc="df3c62dd" md5="80bd4d60886e4730c1f5ca3d6c1cff3e" sha1="1d0c1a691ddcaeb228b252c214171bc30175cc43"/>
+	</game>
+	<game name="Do-Re-Mi Fantasy - Milon's Quest (Japan) [T-En by Gaijin Productions+RPGOne v1.0] [n]">
+		<description>Do-Re-Mi Fantasy - Milon's Quest (Japan) [T-En by Gaijin Productions+RPGOne v1.0] [n]</description>
+		<rom name="Do-Re-Mi Fantasy - Milon no Dokidoki Daibouken (Japan) [T-En by Gaijin Productions+RPGOne v1.0].sfc" size="2097152" crc="2f2be77f" md5="f39faabb923f1688b96a4e8ee4b333ca" sha1="f63cbd6066a58399d3f101d0314dfe35f5086595"/>
+	</game>
+	<game name="Doraemon 4 - In the Moon Kingdom (Japan) [T-En by Sgt. Bowhack v0.94b] [n]">
+		<description>Doraemon 4 - In the Moon Kingdom (Japan) [T-En by Sgt. Bowhack v0.94b] [n]</description>
+		<rom name="Doraemon 4 - Nobita to Tsuki no Oukoku (Japan) [T-En by Sgt. Bowhack v0.94b].sfc" size="1572864" crc="d44eb94b" md5="bb998b270b3d1e4a507a5b4630b50d0c" sha1="0c655f317ffce133fac714d8a80a0ed93f9aa5fa"/>
+	</game>
+	<game name="Dossun! Stone Battle (Japan) [T-En by Aeon Genesis v1.00] [n]">
+		<description>Dossun! Stone Battle (Japan) [T-En by Aeon Genesis v1.00] [n]</description>
+		<rom name="Dossun! Ganseki Battle (Japan) [T-En by Aeon Genesis v1.00].sfc" size="1048576" crc="223d17d0" md5="fec91b57e125ed353e9cc52c94bee8b4" sha1="95dd00232b92ede517e6ea671c5942acc4a63b82"/>
+	</game>
+	<game name="Dragon Ball Z - Hyper Dimension (Japan) [T-En by Twilight Translations v1.00]">
+		<description>Dragon Ball Z - Hyper Dimension (Japan) [T-En by Twilight Translations v1.00]</description>
+		<rom name="Dragon Ball Z - Hyper Dimension (Japan) [T-En by Twilight Translations v1.00].sfc" size="3145728" crc="971c9513" md5="13cb6c337b29254fdeae278bc2457234" sha1="8f13c3a71e7ad6122432cf2100e6ac86b9484e94"/>
+	</game>
+	<game name="Dragon Ball Z - Legend of the Saiyans (Japan) (Rev 1) [T-En by Klepto Software v1.01] [n]">
+		<description>Dragon Ball Z - Legend of the Saiyans (Japan) (Rev 1) [T-En by Klepto Software v1.01] [n]</description>
+		<rom name="Dragon Ball Z - Super Saiya Densetsu (Japan) (Rev 1) [T-En by Klepto Software v1.01].sfc" size="1048576" crc="d5bb074b" md5="52d7dc365d0ad0d91e930f94b31bbce0" sha1="f9e97d42cac335554c4889bd3207f1154231ec6a"/>
+	</game>
+	<game name="Dragon Ball Z - Super Butouden (France) [T-En by Aeon Genesis v0.98] [i]">
+		<description>Dragon Ball Z - Super Butouden (France) [T-En by Aeon Genesis v0.98] [i]</description>
+		<rom name="Dragon Ball Z - Super Butouden (France) [T-En by Aeon Genesis v0.98] [i].sfc" size="2097152" crc="306c4638" md5="0ae7ff5f3d60749b9bc1fcde312f70e5" sha1="db81428b45a7a10251743492e790465707613a33"/>
+	</game>
+	<game name="Dragon Ball Z - Super Butouden 2 (France) [T-En by Commando Ginew v1.0] [i] [n]">
+		<description>Dragon Ball Z - Super Butouden 2 (France) [T-En by Commando Ginew v1.0] [i] [n]</description>
+		<rom name="Dragon Ball Z - La Legende Saien (France) [T-En by Commando Ginew v1.0] [i].sfc" size="2097152" crc="54cb175f" md5="095ea551652afc9ac8e226008dccd721" sha1="34d4e1d211279f7554e3d0513d2104ef008f5af6"/>
+	</game>
+	<game name="Dragon Ball Z - Super Butouden 3 (France) [T-En by Aeon Genesis v1.00] [i] [n]">
+		<description>Dragon Ball Z - Super Butouden 3 (France) [T-En by Aeon Genesis v1.00] [i] [n]</description>
+		<rom name="Dragon Ball Z - Ultime Menace (France) [T-En by Aeon Genesis v1.00] [i].sfc" size="2097152" crc="c5155d30" md5="cf7ea4a80d5ad1935bc2f450d8f993e6" sha1="55873e167b784a4631a829e9032457962df7c373"/>
+	</game>
+	<game name="Dragon Ball Z - Super Butouden 3 (France) [T-En by Saiya Translations+Vice Translations v1.01] [i] [n]">
+		<description>Dragon Ball Z - Super Butouden 3 (France) [T-En by Saiya Translations+Vice Translations v1.01] [i] [n]</description>
+		<rom name="Dragon Ball Z - Ultime Menace (France) [T-En by Saiya Translations+Vice Translations v1.01] [i].sfc" size="2097152" crc="a44c4df6" md5="4f7b5cae6820aedb2743ff96c9fe4c8e" sha1="b75edee88c1bae00a41caa4501088ea3be8f71e4"/>
+	</game>
+	<game name="Dragon Ball Z - Super Goku Legend - Part 1 (Japan) [T-En by Kakkoii Translations v3.13] [i] [n]">
+		<description>Dragon Ball Z - Super Goku Legend - Part 1 (Japan) [T-En by Kakkoii Translations v3.13] [i] [n]</description>
+		<rom name="Dragon Ball Z - Super Gokuu Den - Totsugeki Hen (Japan) [T-En by Kakkoii Translations v3.13] [i].sfc" size="2097152" crc="63d4e96a" md5="2b740f5bf94c31ae65f1b2aa393de8d7" sha1="d27b266d559aeef525aa058dafe52afe7e488e53"/>
+	</game>
+	<game name="Dragon Ball Z - Super Goku Legend - Part 2 (Japan) [T-En by Commando Ginew v1.0] [i] [n]">
+		<description>Dragon Ball Z - Super Goku Legend - Part 2 (Japan) [T-En by Commando Ginew v1.0] [i] [n]</description>
+		<rom name="Dragon Ball Z - Super Gokuu Den - Kakusei Hen (Japan) [T-En by Commando Ginew v1.0] [i].sfc" size="2097152" crc="67bd2296" md5="ae946c9cb5aecefa9bc6599600f2d022" sha1="061a6241e0c6f2442f594c17b926a8b5282960f3"/>
+	</game>
+	<game name="Dragon Quest I &amp; II (Japan) [T-En by RPGOne v2.0 DQ]">
+		<description>Dragon Quest I &amp; II (Japan) [T-En by RPGOne v2.0 DQ]</description>
+		<rom name="Dragon Quest I &amp; II (Japan) [T-En by RPGOne v2.0 DQ].sfc" size="2097152" crc="b5ae1e89" md5="7dd0c11fedca7ac517c2480533afbecf" sha1="8e868e3c70279d26b37887d9715811fedc69a6f4"/>
+	</game>
+	<game name="Dragon Quest I &amp; II (Japan) [T-En by RPGOne v2.0 DQ] [Ad by Mziab v1.0]">
+		<description>Dragon Quest I &amp; II (Japan) [T-En by RPGOne v2.0 DQ] [Ad by Mziab v1.0]</description>
+		<rom name="Dragon Quest I &amp; II (Japan) [T-En by RPGOne v2.0 DQ] [Ad by Mziab v1.0].sfc" size="2097152" crc="fa0422d4" md5="a5253fa61f54230d692117d803c5f6d5" sha1="65887eba48798a06a9622b192e3465cd1e9e1332"/>
+	</game>
+	<game name="Dragon Quest III - And into the Legend... (Japan) [T-En by DQ Translations v1.1] [n]">
+		<description>Dragon Quest III - And into the Legend... (Japan) [T-En by DQ Translations v1.1] [n]</description>
+		<rom name="Dragon Quest III - Soshite Densetsu e... (Japan) [T-En by DQ Translations v1.1].sfc" size="6291456" crc="07b89251" md5="1dff04776bde5aae152835c0db436f37" sha1="cfa81ed6126a7c467d20066a57c7973b25be0305"/>
+	</game>
+	<game name="Dragon Quest V - Hand of the Heavenly Bride (Japan) [T-En by byuu+spSpiff v0.91] [n]">
+		<description>Dragon Quest V - Hand of the Heavenly Bride (Japan) [T-En by byuu+spSpiff v0.91] [n]</description>
+		<rom name="Dragon Quest V - Tenkuu no Hanayome (Japan) [T-En by byuu+spSpiff v0.91].sfc" size="2097152" crc="5950d93a" md5="54e2e5c9fbdfdcfd550cec8994ccfb7f" sha1="0fa54278c5a1cb3d9588cd7e704dc508e040b3d0"/>
+	</game>
+	<game name="Dragon Quest VI - Realms of Revelation (Japan) [T-En by NoPrgress v0.90b2] [n]">
+		<description>Dragon Quest VI - Realms of Revelation (Japan) [T-En by NoPrgress v0.90b2] [n]</description>
+		<rom name="Dragon Quest VI - Maboroshi no Daichi (Japan) [T-En by NoPrgress v0.90b2].sfc" size="4194304" crc="276d9893" md5="6a081ae0acae2fae2fb2bdb77bb82c21" sha1="30c3ee0ada93480af2ce0e7ab691f8f2d505f70d"/>
+	</game>
+	<game name="Dragon Squadron Danzarb (Japan) [T-En by Aeon Genesis v1.00] [n]">
+		<description>Dragon Squadron Danzarb (Japan) [T-En by Aeon Genesis v1.00] [n]</description>
+		<rom name="Ryuuki Heidan Danzarb (Japan) [T-En by Aeon Genesis v1.00].sfc" size="1572864" crc="e1019337" md5="f16cf49fe6fd0ed4814f1d6efb451c74" sha1="5cd70a38e6f76ca76a7479f4b78043e983b455a6"/>
+	</game>
+	<game name="Dragon Warrior I &amp; II (Japan) [T-En by RPGOne v2.0 DW] [Ad by Mziab v1.0] [n]">
+		<description>Dragon Warrior I &amp; II (Japan) [T-En by RPGOne v2.0 DW] [Ad by Mziab v1.0] [n]</description>
+		<rom name="Dragon Quest I &amp; II (Japan) [T-En by RPGOne v2.0 DW] [Ad by Mziab v1.0].sfc" size="2097152" crc="cf6a44a2" md5="eea44c11376a4e448e795a5511fd6fd6" sha1="678a5eb3d5fdc05f521644f5670744faa612b6c5"/>
+	</game>
+	<game name="Dragon Warrior I &amp; II (Japan) [T-En by RPGOne v2.0 DW] [n]">
+		<description>Dragon Warrior I &amp; II (Japan) [T-En by RPGOne v2.0 DW] [n]</description>
+		<rom name="Dragon Quest I &amp; II (Japan) [T-En by RPGOne v2.0 DW].sfc" size="2097152" crc="80c078ff" md5="153bf4cd05d8f4bdee2ab734a28b8c7f" sha1="8675595cf3a08c1c81d10b3daa43bc80a65c06b5"/>
+	</game>
+	<game name="Dragon Warrior V (Japan) [T-En by DeJap+Partial Translations v2.01] [n]">
+		<description>Dragon Warrior V (Japan) [T-En by DeJap+Partial Translations v2.01] [n]</description>
+		<rom name="Dragon Quest V - Tenkuu no Hanayome (Japan) [T-En by DeJap+Partial Translations v2.01].sfc" size="2097152" crc="9400cb3c" md5="5651c58a1c87c42f6b91519969658a88" sha1="7eb872685fb1428aa81b2ae8eaa5d82db88c14e9"/>
+	</game>
+	<game name="Dream Maze - The Kigurumi Adventure (Japan) [T-En by KingMike Translations v1.0b] [n]">
+		<description>Dream Maze - The Kigurumi Adventure (Japan) [T-En by KingMike Translations v1.0b] [n]</description>
+		<rom name="Dream Maze - Kigurumi Daibouken (Japan) [T-En by KingMike Translations v1.0b].sfc" size="1048576" crc="c5fcafa0" md5="ed57e19126bd7bb98995710951215217" sha1="6819d7353f168fad73b18d4edbf76d5de30fdbd0"/>
+	</game>
+	<game name="Dual Orb II (Japan) [T-En by Translation Corporation v1.5]">
+		<description>Dual Orb II (Japan) [T-En by Translation Corporation v1.5]</description>
+		<rom name="Dual Orb II (Japan) [T-En by Translation Corporation v1.5].sfc" size="4194304" crc="3e3fb1bd" md5="e74b34ca107e1477ea6c7655e566e6b5" sha1="2f39d912fd3bdb1477c21f235a5d1254fbc1513a"/>
+	</game>
+	<game name="Emerald Dragon (Japan) [T-En by Translation Corporation v1.1]">
+		<description>Emerald Dragon (Japan) [T-En by Translation Corporation v1.1]</description>
+		<rom name="Emerald Dragon (Japan) [T-En by Translation Corporation v1.1].sfc" size="3145728" crc="6ad33dc6" md5="1be07f598bafcb69b24333d1f24a0b1a" sha1="5e4b0012b62d3af9f9f57ba5143b4cac6b184b00"/>
+	</game>
+	<game name="Energy Breaker (Japan) [T-En by Disnesquick+Satsu v1.02]">
+		<description>Energy Breaker (Japan) [T-En by Disnesquick+Satsu v1.02]</description>
+		<rom name="Energy Breaker (Japan) [T-En by Disnesquick+Satsu v1.02].sfc" size="4194304" crc="655a1b8c" md5="65e200616fae85e163bb619937826a33" sha1="4ff6c6197bd925421bcd0d6f89b57d4219d4bb9f"/>
+	</game>
+	<game name="Eternal Filena (Japan) [T-En by Satsu v0.98] [n]">
+		<description>Eternal Filena (Japan) [T-En by Satsu v0.98] [n]</description>
+		<rom name="Eien no Filerna (Japan) [T-En by Satsu v0.98].sfc" size="3145728" crc="26a60ed9" md5="6e6cf69daec7cfa9d6c207209762ed0d" sha1="81e5c89c1a6d24ed2fb3c56ceb193b28b6a2024d"/>
+	</game>
+	<game name="Famicom Detective Club Part II (Japan) (NP) [T-En by Demiforce v1.00] [n]">
+		<description>Famicom Detective Club Part II (Japan) (NP) [T-En by Demiforce v1.00] [n]</description>
+		<rom name="Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (NP) [T-En by Demiforce v1.00].sfc" size="4194304" crc="1d7858fe" md5="ce7f04c5cabbe883ac73d90136202c57" sha1="21b1f6017c1a5d2fec6ad95ec0eaf0d735d6e1b8"/>
+	</game>
+	<game name="Feda - The Emblem of Justice (Japan) [T-En by Dynamic Designs v1.02]">
+		<description>Feda - The Emblem of Justice (Japan) [T-En by Dynamic Designs v1.02]</description>
+		<rom name="Feda - The Emblem of Justice (Japan) [T-En by Dynamic Designs v1.02].sfc" size="3145728" crc="64989f79" md5="132e9798aa0e558eb24e7c73144097e9" sha1="f76400c0fb66d2aa84a75f2c470edec268ee7ada"/>
+	</game>
+	<game name="Final Fantasy IV (Japan) (Rev 1) [T-En by J2e Translations v3.21]">
+		<description>Final Fantasy IV (Japan) (Rev 1) [T-En by J2e Translations v3.21]</description>
+		<rom name="Final Fantasy IV (Japan) (Rev 1) [T-En by J2e Translations v3.21].sfc" size="1572864" crc="3b97b364" md5="84a1f4488f5b56f8793a0e12fdcff4b9" sha1="26a860bf54534c2d72668d726d3d7f22037878a3"/>
+	</game>
+	<game name="Final Fantasy V (Japan) [T-En by RPGe v1.10]">
+		<description>Final Fantasy V (Japan) [T-En by RPGe v1.10]</description>
+		<rom name="Final Fantasy V (Japan) [T-En by RPGe v1.10].sfc" size="2621440" crc="17444605" md5="5245a6ed780d896f416cc8824aa36182" sha1="8d5a83770c3d6f2b29b7825b5a17434616ec1c60"/>
+	</game>
+	<game name="Final Fantasy VI (Japan) [T-En by RPGOne v1.2b]">
+		<description>Final Fantasy VI (Japan) [T-En by RPGOne v1.2b]</description>
+		<rom name="Final Fantasy VI (Japan) [T-En by RPGOne v1.2b].sfc" size="4194304" crc="bb80a273" md5="de7c2c41441cc7442d4882101e64a5f3" sha1="1d0d8739e706d3f5fb41a4c0cd03774961354d39"/>
+	</game>
+	<game name="Final Fantasy VI (Japan) [T-En by RPGOne v1.2b] (All Bugs Fix)">
+		<description>Final Fantasy VI (Japan) [T-En by RPGOne v1.2b] (All Bugs Fix)</description>
+		<rom name="Final Fantasy VI (Japan) [T-En by RPGOne v1.2b] (All Bugs Fix).sfc" size="4194304" crc="7ec72a6c" md5="5ae6b02074ccd3b81b1a941c3b38cdf3" sha1="2773801e44947f78e444705aaa9d301e2be6ba36"/>
+	</game>
+	<game name="Fire Emblem - Genealogy of Holy War (Japan) [T-En by Dark Twilkitri Net v0.87d] [i] [n]">
+		<description>Fire Emblem - Genealogy of Holy War (Japan) [T-En by Dark Twilkitri Net v0.87d] [i] [n]</description>
+		<rom name="Fire Emblem - Seisen no Keifu (Japan) [T-En by Dark Twilkitri Net v0.87d] [i].sfc" size="4194304" crc="653e31fc" md5="c5d54f9a75826df2ee41830301227155" sha1="022dd8c7b6c30d5d3171166229fc0436262f7ae0"/>
+	</game>
+	<game name="Fire Emblem - Mystery of the Emblem (Japan) [T-En by RPGuy96+VincentASM v0.98][n]">
+		<description>Fire Emblem - Mystery of the Emblem (Japan) [T-En by RPGuy96+VincentASM v0.98][n]</description>
+		<rom name="Fire Emblem - Monshou no Nazo (Japan) [T-En by RPGuy96+VincentASM v0.98].sfc" size="4194304" crc="3e9aa21a" md5="82365768ebc53eb3278a86ed7630230f" sha1="1dba5f6ec775c3393d4ad981d828a91f56c2372d"/>
+	</game>
+	<game name="Fire Emblem - Thracia 776 (Japan) [T-En by Shaya v00.06] [i]">
+		<description>Fire Emblem - Thracia 776 (Japan) [T-En by Shaya v00.06] [i]</description>
+		<rom name="Fire Emblem - Thracia 776 (Japan) [T-En by Shaya v00.06] [i].sfc" size="4194304" crc="7def0e90" md5="0a9169562898c3d85657d7669edea0ef" sha1="e3b7e8e4a8826b14b197210a7474b69e16785a75"/>
+	</game>
+	<game name="Flying Hero - Bugyuru's Adventure (Japan) [T-En by KingMike Translations v1.0] [n]">
+		<description>Flying Hero - Bugyuru's Adventure (Japan) [T-En by KingMike Translations v1.0] [n]</description>
+		<rom name="Flying Hero - Bugyuru no Daibouken (Japan) [T-En by KingMike Translations v1.0].sfc" size="1048576" crc="24ccf556" md5="fddb22fbc54d3cb56e26715e91e81358" sha1="e64c4e18eb1ececa82a0bd931889a72621063e25"/>
+	</game>
+	<game name="Front Mission (Japan) [T-En by FH v1.0b]">
+		<description>Front Mission (Japan) [T-En by FH v1.0b]</description>
+		<rom name="Front Mission (Japan) [T-En by FH v1.0b].sfc" size="3440640" crc="2b4cd5a3" md5="e744c9bc5e7eb5715a8a24543eecbc88" sha1="7114bd9d09f62d082f9fe43dcb4c144d439c4173"/>
+	</game>
+	<game name="Front Mission Series - Gun Hazard (Japan) [T-En by Aeon Genesis v1.01]">
+		<description>Front Mission Series - Gun Hazard (Japan) [T-En by Aeon Genesis v1.01]</description>
+		<rom name="Front Mission Series - Gun Hazard (Japan) [T-En by Aeon Genesis v1.01].sfc" size="3145728" crc="5847d80f" md5="fd473bc0035cadd46b8eebdfa619275f" sha1="3a87e79b8423dcbeaa295164b363201e42cca0aa"/>
+	</game>
+	<game name="Funaki Masakatsu Hybrid Wrestler - Tougi Denshou (Japan) [T-En by Phil v1.0]">
+		<description>Funaki Masakatsu Hybrid Wrestler - Tougi Denshou (Japan) [T-En by Phil v1.0]</description>
+		<rom name="Funaki Masakatsu Hybrid Wrestler - Tougi Denshou (Japan) [T-En by Phil v1.0].sfc" size="2097152" crc="69911d2d" md5="e7ce54f1ef99afe1166f251b66594cce" sha1="b4a58d5efb7f1872354a04624f58cebd9f4bf8ff"/>
+	</game>
+	<game name="Gekitou Burning Pro Wres (Japan) [T-En by Phil v1.0]">
+		<description>Gekitou Burning Pro Wres (Japan) [T-En by Phil v1.0]</description>
+		<rom name="Gekitou Burning Pro Wres (Japan) [T-En by Phil v1.0].sfc" size="2621440" crc="91a36831" md5="b2e3fb5f44d0d2778698df7891004ee9" sha1="f7288a4aea2d1e427031f526ab7914f1a49bb2c0"/>
+	</game>
+	<game name="Glory of Heracles III, The - Silence of the Gods (Japan) [T-En by DQ Translations v1.0a] [n]">
+		<description>Glory of Heracles III, The - Silence of the Gods (Japan) [T-En by DQ Translations v1.0a] [n]</description>
+		<rom name="Heracles no Eikou III - Kamigami no Chinmoku (Japan) [T-En by DQ Translations v1.0a].sfc" size="2097152" crc="9c2700d5" md5="2593bd17b2c76af859fa7a2668af7e08" sha1="dd048966414eab9d66383291b4f1898bb2359f69"/>
+	</game>
+	<game name="Go Go Ackman (Japan) [T-En by Ackman Translations v1.0]">
+		<description>Go Go Ackman (Japan) [T-En by Ackman Translations v1.0]</description>
+		<rom name="Go Go Ackman (Japan) [T-En by Ackman Translations v1.0].sfc" size="1310720" crc="7a15c55f" md5="6145304b25416eb248193eee331207d0" sha1="ce4d5672a808707b55fa5b60fc0760f62a47d0db"/>
+	</game>
+	<game name="Gourmet Squadron Barayarou (Japan) [T-En by Aeon Genesis v0.80] [i] [n]">
+		<description>Gourmet Squadron Barayarou (Japan) [T-En by Aeon Genesis v0.80] [i] [n]</description>
+		<rom name="Gourmet Sentai Barayarou (Japan) [T-En by Aeon Genesis v0.80] [i].sfc" size="2097152" crc="e22f59b8" md5="56418fe84bd05b9b2eb0c5a21943ee1c" sha1="8b4ef62d677bcc5a7ed61fba790c9382613220d5"/>
+	</game>
+	<game name="Gulliver Boy (Japan) [T-En by Dynamic Designs v0.99a] [Ad by Mziab v2.0] [n]">
+		<description>Gulliver Boy (Japan) [T-En by Dynamic Designs v0.99a] [Ad by Mziab v2.0] [n]</description>
+		<rom name="Kuusou Kagaku Sekai Gulliver Boy (Japan) [T-En by Dynamic Designs v0.99a] [Ad by Mziab v2.0].sfc" size="1572864" crc="924f5596" md5="719dc70d96e40fb2e741549e29834ec0" sha1="fb52a36831c47dab744f57937234abd685581a03"/>
+	</game>
+	<game name="Gulliver Boy (Japan) [T-En by Dynamic Designs v0.99a] [n]">
+		<description>Gulliver Boy (Japan) [T-En by Dynamic Designs v0.99a] [n]</description>
+		<rom name="Kuusou Kagaku Sekai Gulliver Boy (Japan) [T-En by Dynamic Designs v0.99a].sfc" size="1572864" crc="beef1490" md5="8f4447c0d9f259573c04418c0d56e418" sha1="2dfc6c30c3975f8d108bbacaf180148ebd6c506e"/>
+	</game>
+	<game name="Gunman's Proof (Japan) [T-En by Aeon Genesis v1.03] [n]">
+		<description>Gunman's Proof (Japan) [T-En by Aeon Genesis v1.03] [n]</description>
+		<rom name="Ganpuru - Gunman's Proof (Japan) [T-En by Aeon Genesis v1.03].sfc" size="3145728" crc="acdee757" md5="ecdf9d31446ba7c1827c96949514a144" sha1="9ef80a3aa84ff09efbbb36312b4b47813d6688f4"/>
+	</game>
+	<game name="Hiouden - Legend of the Scarlet King - The Demonic Oath (Japan) [T-En by Aeon Genesis v1.00] [n]">
+		<description>Hiouden - Legend of the Scarlet King - The Demonic Oath (Japan) [T-En by Aeon Genesis v1.00] [n]</description>
+		<rom name="Hiouden - Mamono-tachi to no Chikai (Japan) [T-En by Aeon Genesis v1.00].sfc" size="1572864" crc="2b7229a6" md5="da67424cecb9ff0e6a829dff6bdbd3e0" sha1="7431f33aeb80a8166ac1e48256875f7ac974c99d"/>
+	</game>
+	<game name="Holy Umbrella - Dondera's Wild!! (Japan) [T-En by Aeon Genesis v1.00] [n]">
+		<description>Holy Umbrella - Dondera's Wild!! (Japan) [T-En by Aeon Genesis v1.00] [n]</description>
+		<rom name="Holy Umbrella - Dondera no Mubou!! (Japan) [T-En by Aeon Genesis v1.00].sfc" size="3145728" crc="93a77c59" md5="0f85400d016a5e22764c2d66ff6894d5" sha1="9f3562be4dde2ad96f6a2e4019bf3c39a3e66a9b"/>
+	</game>
+	<game name="Jelly Boy 2 (Japan) (Proto) [T-En by Chris Covell+KingMike Translations v1.0]">
+		<description>Jelly Boy 2 (Japan) (Proto) [T-En by Chris Covell+KingMike Translations v1.0]</description>
+		<rom name="Jelly Boy 2 (Japan) (Proto) [T-En by Chris Covell+KingMike Translations v1.0].sfc" size="1572864" crc="d581d4c6" md5="2a0222d97c13139c6341944b15a5de51" sha1="9f29d5d32108edf86cd7604eebe2545a9db62976"/>
+	</game>
+	<game name="Jerry Boy (Japan) [T-En by Chris Covell v1.0]">
+		<description>Jerry Boy (Japan) [T-En by Chris Covell v1.0]</description>
+		<rom name="Jerry Boy (Japan) [T-En by Chris Covell v1.0].sfc" size="1048576" crc="3230ea4f" md5="bd6c161e1e23419960561536994a2e1b" sha1="3ef52da1c3f4ad3ff694cd52d6ff0ffa41d8e5cc"/>
+	</game>
+	<game name="Jerry Boy (Japan) [T-En by Chris Covell v1.0] [Alt Font by KingMike v1.0]">
+		<description>Jerry Boy (Japan) [T-En by Chris Covell v1.0] [Alt Font by KingMike v1.0]</description>
+		<rom name="Jerry Boy (Japan) [T-En by Chris Covell v1.0] [Alt Font by KingMike v1.0].sfc" size="1048576" crc="f23d0061" md5="35748003eb0e3c45a8aa78eb9a7cddb4" sha1="1eba44f841c9da25c0717f24f311ac1b6374964c"/>
+	</game>
+	<game name="Jerry Boy (Japan) [T-En by Chris Covell v1.0] [Alt Font+Controls Hack by KingMike v1.0]">
+		<description>Jerry Boy (Japan) [T-En by Chris Covell v1.0] [Alt Font+Controls Hack by KingMike v1.0]</description>
+		<rom name="Jerry Boy (Japan) [T-En by Chris Covell v1.0] [Alt Font+Controls Hack by KingMike v1.0].sfc" size="1048576" crc="b5ea0d5d" md5="c7b69b646ef705e8559aa3251762ab08" sha1="ddfafeeea28b52bf733eeaa7e3eeeaa2d045ea79"/>
+	</game>
+	<game name="Jerry Boy (Japan) [T-En by Chris Covell v1.0] [Controls Hack by KingMike v1.0]">
+		<description>Jerry Boy (Japan) [T-En by Chris Covell v1.0] [Controls Hack by KingMike v1.0]</description>
+		<rom name="Jerry Boy (Japan) [T-En by Chris Covell v1.0] [Controls Hack by KingMike v1.0].sfc" size="1048576" crc="e1429180" md5="c050c7a75d3531a9c5cc843505760b8e" sha1="cc0b302b382c37e740edec37e91d04560b369635"/>
+	</game>
+	<game name="Jikkyou Power Pro Wrestling '96 - Max Voltage (Japan) [T-En by Phil v1.0] [i]">
+		<description>Jikkyou Power Pro Wrestling '96 - Max Voltage (Japan) [T-En by Phil v1.0] [i]</description>
+		<rom name="Jikkyou Power Pro Wrestling '96 - Max Voltage (Japan) [T-En by Phil v1.0] [i].sfc" size="4194304" crc="8d4c08e6" md5="072507af1ef93c0c9b0b8c257b8996e5" sha1="480986448dfc76de102c95337de3817c37a9a34b"/>
+	</game>
+	<game name="Jutei Senki (Japan) [T-En by Aeon Genesis v1.00]">
+		<description>Jutei Senki (Japan) [T-En by Aeon Genesis v1.00]</description>
+		<rom name="Jutei Senki (Japan) [T-En by Aeon Genesis v1.00].sfc" size="1572864" crc="457f32b5" md5="be33d5c33e1dc7fc33df5cc771d5f5bc" sha1="6b4bc7a3b31216cde31394448ca21120a10b086a"/>
+	</game>
+	<game name="King of Demons (Japan) [T-En by Aeon Genesis v1.01] [n]">
+		<description>King of Demons (Japan) [T-En by Aeon Genesis v1.01] [n]</description>
+		<rom name="Majuu Ou (Japan) [T-En by Aeon Genesis v1.01].sfc" size="1572864" crc="14dcc20d" md5="3e972724ddbac41dec86035f6ebe9fa5" sha1="2147c2b1fd24184e54e774f9afb92059d40ffacb"/>
+	</game>
+	<game name="Kouryuu no Mimi (Japan) [T-En by RPGOne v1.0]">
+		<description>Kouryuu no Mimi (Japan) [T-En by RPGOne v1.0]</description>
+		<rom name="Kouryuu no Mimi (Japan) [T-En by RPGOne v1.0].sfc" size="1572864" crc="d82271d3" md5="069b50c7dab5d87b410b9c5ceaf0cfe7" sha1="11b35898fe2536d66ceb46b557d5edf23e8f7e8d"/>
+	</game>
+	<game name="Kunio's Dodge Ball (Japan) [T-En by Azelistic v1.0] [n]">
+		<description>Kunio's Dodge Ball (Japan) [T-En by Azelistic v1.0] [n]</description>
+		<rom name="Kunio-kun no Dodge Ball Da yo Zenin Shuugou! (Japan) [T-En by Azelistic v1.0].sfc" size="1572864" crc="1be4c0f2" md5="143a81b3435036b64282ec71bb3adedd" sha1="9a1c4efbe925fa3a031fe949afeaddedb455b925"/>
+	</game>
+	<game name="Langrisser, Der (Japan) (Rev 1) [T-En by byuu+Derrick Sobodash v1.02]">
+		<description>Langrisser, Der (Japan) (Rev 1) [T-En by byuu+Derrick Sobodash v1.02]</description>
+		<rom name="Langrisser, Der (Japan) (Rev 1) [T-En by byuu+Derrick Sobodash v1.02].sfc" size="3145728" crc="43c0caa9" md5="0e86c25835287e364bf7f3f6592f4c8f" sha1="532071e03ae92adc616de1ffbb07351b90a94e5e"/>
+	</game>
+	<game name="Laplace's Demon (Japan) [T-En by Aeon Genesis v0.95b] [n]">
+		<description>Laplace's Demon (Japan) [T-En by Aeon Genesis v0.95b] [n]</description>
+		<rom name="Laplace no Ma (Japan) [T-En by Aeon Genesis v0.95b].sfc" size="2097152" crc="6cdb0dae" md5="08a1495d62af1c0461f54f0354793fb7" sha1="b4cfebe7afa6d5fac1f46aa4cb88e2f13189d2b7"/>
+	</game>
+	<game name="Lennus II - The Apostles of the Seals (Japan) [T-En by Dynamic Designs v1.04] [n]">
+		<description>Lennus II - The Apostles of the Seals (Japan) [T-En by Dynamic Designs v1.04] [n]</description>
+		<rom name="Lennus II - Fuuin no Shito (Japan) [T-En by Dynamic Designs v1.04].sfc" size="4194304" crc="fb561d6b" md5="d4b9bc21ebac1de16739dd6daa3ba1c6" sha1="a89bdc2c47ae44960faeaf3647830edf05364c50"/>
+	</game>
+	<game name="Little Magic (Japan) [T-En by Aeon Genesis v1.00b]">
+		<description>Little Magic (Japan) [T-En by Aeon Genesis v1.00b]</description>
+		<rom name="Little Magic (Japan) [T-En by Aeon Genesis v1.00b].sfc" size="524288" crc="2a96d8b2" md5="e1963d748672ace4074bdf24347cc340" sha1="0286244db60ff8c6f0d91545d6297ad460a75e0a"/>
+	</game>
+	<game name="Little Master III - Jewels of the Rainbow (Japan) [T-En by DackR v2b] (Debug Mode) [i] [n]">
+		<description>Little Master III - Jewels of the Rainbow (Japan) [T-En by DackR v2b] (Debug Mode) [i] [n]</description>
+		<rom name="Little Master - Nijiiro no Maseki (Japan) [T-En by DackR v2b] (Debug Mode) [i].sfc" size="2097152" crc="e1e044d0" md5="8db5663d5324b2dda86b8c69c9aa5616" sha1="d4600b4ea5153f16ae14390c23b16c8784b18be6"/>
+	</game>
+	<game name="Little Master III - Jewels of the Rainbow (Japan) [T-En by DackR v2b] [i] [n]">
+		<description>Little Master III - Jewels of the Rainbow (Japan) [T-En by DackR v2b] [i] [n]</description>
+		<rom name="Little Master - Nijiiro no Maseki (Japan) [T-En by DackR v2b] [i].sfc" size="2097152" crc="e656b06f" md5="c5c95e239c2926f3e2af1d436989dea6" sha1="2297b94f381ccc40721d27ee50f3b2a89083d273"/>
+	</game>
+	<game name="Live A Live (Japan) [T-En by Aeon Genesis v2.00 Deluxe]">
+		<description>Live A Live (Japan) [T-En by Aeon Genesis v2.00 Deluxe]</description>
+		<rom name="Live A Live (Japan) [T-En by Aeon Genesis v2.00 Deluxe].sfc" size="2621440" crc="5ad071f3" md5="65884a7aff5949fa171072fd994f29ee" sha1="a4fd4324f36f73f953f42f1677a75b1608b14c9a"/>
+	</game>
+	<game name="Madou Monogatari - Big Kindergarten Kids (Japan) [T-En by Aeon Genesis v1.01] [n]">
+		<description>Madou Monogatari - Big Kindergarten Kids (Japan) [T-En by Aeon Genesis v1.01] [n]</description>
+		<rom name="Madou Monogatari - Hanamaru Daiyouchienji (Japan) [T-En by Aeon Genesis v1.01].sfc" size="2097152" crc="b423c9a5" md5="fe6af670466c1e64538a4d14ad033440" sha1="57071794338a479150ac5e0fb155abc3f8c5ceff"/>
+	</game>
+	<game name="Magic Knight Rayearth (Japan) [T-En by RPGe v1.01]">
+		<description>Magic Knight Rayearth (Japan) [T-En by RPGe v1.01]</description>
+		<rom name="Magic Knight Rayearth (Japan) [T-En by RPGe v1.01].sfc" size="1572864" crc="0c9e7d8e" md5="78357f96b8c13089732b4306ff5eafe3" sha1="d8167670731dbb02372a2783de5b49c194d20554"/>
+	</game>
+	<game name="Magic Knight Rayearth (Japan) [T-En by RPGe v1.01] (Hard Type)">
+		<description>Magic Knight Rayearth (Japan) [T-En by RPGe v1.01] (Hard Type)</description>
+		<rom name="Magic Knight Rayearth (Japan) [T-En by RPGe v1.01] (Hard Type).sfc" size="1572864" crc="6f7a7c7b" md5="d7edb6403d1a41d3399fa56828ba624d" sha1="81cdc7012a363f81713f253bb8e5da2b7d79fcb6"/>
+	</game>
+	<game name="Magic Poipoi Poitto! (Japan) [T-En by KingMike v1.0] [n]">
+		<description>Magic Poipoi Poitto! (Japan) [T-En by KingMike v1.0] [n]</description>
+		<rom name="Mahou Poi Poi Poitto! (Japan) [T-En by KingMike v1.0].sfc" size="1310720" crc="0cab7c4a" md5="85ed4b60f6527e7fa60afb1dfb1e5502" sha1="a7ce9c8d18260edb3865dc0f5a348830ce040894"/>
+	</game>
+	<game name="Magical Drop (Japan) [T-En by Aeon Genesis v0.95b]">
+		<description>Magical Drop (Japan) [T-En by Aeon Genesis v0.95b]</description>
+		<rom name="Magical Drop (Japan) [T-En by Aeon Genesis v0.95b].sfc" size="1048576" crc="737c4472" md5="91481208a6bb5ca43c193ad58484a264" sha1="56827df8ee3045bf1d8eefdd60cda54355997d88"/>
+	</game>
+	<game name="Magical Land of Wozz, The (Japan) [T-En by Translation Corporation v1.0] [n]">
+		<description>Magical Land of Wozz, The (Japan) [T-En by Translation Corporation v1.0] [n]</description>
+		<rom name="Chou Mahou Tairiku Wozz (Japan) [T-En by Translation Corporation v1.0].sfc" size="4194304" crc="9e1cf43f" md5="9e3fbc6b43e493fc73b81b4917c543a5" sha1="7e661b7a769b84782523ad5e4000a2b9ebf11d29"/>
+	</game>
+	<game name="Magical Pop'n (Japan) [T-En by Aeon Genesis v1.01]">
+		<description>Magical Pop'n (Japan) [T-En by Aeon Genesis v1.01]</description>
+		<rom name="Magical Pop'n (Japan) [T-En by Aeon Genesis v1.01].sfc" size="2228224" crc="ac47a435" md5="18e273ec3a83a25986dd8e7763dc62d9" sha1="75dd253e2f5934de0771d0bd4ffef161e9aa6c07"/>
+	</game>
+	<game name="Magna Braban - The Wandering Hero (Japan) [T-En by KingMike Translations v1.0] [Alt Font by DaMarsMan v1.0] [n]">
+		<description>Magna Braban - The Wandering Hero (Japan) [T-En by KingMike Translations v1.0] [Alt Font by DaMarsMan v1.0] [n]</description>
+		<rom name="Magna Braban - Henreki no Yuusha (Japan) [T-En by KingMike Translations v1.0] [Alt Font by DaMarsMan v1.0].sfc" size="1572864" crc="8f51e103" md5="9a03f2dac4c1e610ec832270ab641703" sha1="33da3e0e5b046e4cb651df6a9229c9812071f99f"/>
+	</game>
+	<game name="Magna Braban - The Wandering Hero (Japan) [T-En by KingMike Translations v1.0] [n]">
+		<description>Magna Braban - The Wandering Hero (Japan) [T-En by KingMike Translations v1.0] [n]</description>
+		<rom name="Magna Braban - Henreki no Yuusha (Japan) [T-En by KingMike Translations v1.0].sfc" size="1572864" crc="f405acb5" md5="e3a3351e9b1389c38591746f25bb915c" sha1="e13419260678858a7db2acfa0d93e28db881f2c8"/>
+	</game>
+	<game name="Mega Man &amp; Bass (Japan) [T-En by Aeon Genesis v1.00 MMB] [n]">
+		<description>Mega Man &amp; Bass (Japan) [T-En by Aeon Genesis v1.00 MMB] [n]</description>
+		<rom name="Rockman &amp; Forte (Japan) [T-En by Aeon Genesis v1.00 MMB].sfc" size="4194304" crc="9efaf9b7" md5="57f96c09eaea20382a52f55e5d4c7871" sha1="052f57ed762daa00a22fb7c1532bee7702426206"/>
+	</game>
+	<game name="Metal Max Returns (Japan) [T-En by Aeon Genesis v1.00]">
+		<description>Metal Max Returns (Japan) [T-En by Aeon Genesis v1.00]</description>
+		<rom name="Metal Max Returns (Japan) [T-En by Aeon Genesis v1.00].sfc" size="4194304" crc="c76465a8" md5="5cf0c4d3feabd00eb61964f3792a6f84" sha1="4c2d4df51a54212b8c1469848199bf8ce960b229"/>
+	</game>
+	<game name="Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.1] [n]">
+		<description>Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.1] [n]</description>
+		<rom name="Mickey to Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.1].sfc" size="2621440" crc="45b247f1" md5="abcd02c28e3318827fec1fdaeae982dd" sha1="8573f3e26054ba44590209e85f1eb37151f8cd41"/>
+	</game>
+	<game name="Miracle Girls (Japan) [T-En by RPGOne v1.0]">
+		<description>Miracle Girls (Japan) [T-En by RPGOne v1.0]</description>
+		<rom name="Miracle Girls (Japan) [T-En by RPGOne v1.0].sfc" size="1048576" crc="36d75987" md5="e8c6de9615c7d3ba62630f29da15b413" sha1="a34c5909bf54e4a94a6c4d4e0944be67cccf9fc7"/>
+	</game>
+	<game name="Mobile Fighter G Gundam (Japan) [T-En by Aeon Genesis v1.00] [n]">
+		<description>Mobile Fighter G Gundam (Japan) [T-En by Aeon Genesis v1.00] [n]</description>
+		<rom name="Kidou Butouden G Gundam (Japan) [T-En by Aeon Genesis v1.00].sfc" size="2097152" crc="2d0aa687" md5="c1b656921307c668ebac1d94afe45fc0" sha1="aca75e024700252f473e8acb0fe6fb2169a88855"/>
+	</game>
+	<game name="Mobile Suit Gundam - Cross Dimension 0079 (Japan) [T-En by Aeon Genesis v1.00] [n]">
+		<description>Mobile Suit Gundam - Cross Dimension 0079 (Japan) [T-En by Aeon Genesis v1.00] [n]</description>
+		<rom name="Kidou Senshi Gundam - Cross Dimension 0079 (Japan) [T-En by Aeon Genesis v1.00].sfc" size="1572864" crc="13e0909c" md5="43ff4b3824d59bcabaa933076e385785" sha1="b169704a89212d9737897fc8d8eb6eb74ce63f25"/>
+	</game>
+	<game name="Mobile Suit Gundam F91 - Formula Wars 0122 (Japan) [T-En by Twilight Translations v1.00] [n]">
+		<description>Mobile Suit Gundam F91 - Formula Wars 0122 (Japan) [T-En by Twilight Translations v1.00] [n]</description>
+		<rom name="Kidou Senshi Gundam F91 - Formula Senki 0122 (Japan) [T-En by Twilight Translations v1.00].sfc" size="1048576" crc="0ad5ddc9" md5="fe37b170c0c868c3aa1d67bdcf9df37f" sha1="fa98524793ce31ec5e442d068a55ccc97b96da1a"/>
+	</game>
+	<game name="Mobile Suit Gundam Wing - Endless Duel (Japan) [T-En by Aeon Genesis v1.00] [n]">
+		<description>Mobile Suit Gundam Wing - Endless Duel (Japan) [T-En by Aeon Genesis v1.00] [n]</description>
+		<rom name="Shin Kidou Senki Gundam W - Endless Duel (Japan) [T-En by Aeon Genesis v1.00].sfc" size="2097152" crc="936b6321" md5="3b74c6e1887b1cbf4b5b9ee10e7c2b3c" sha1="cc0de241850e844d42ba512063733633df27a9d8"/>
+	</game>
+	<game name="Mobile Suit V Gundam (Japan) [T-En by Twilight Translations v1.00] [n]">
+		<description>Mobile Suit V Gundam (Japan) [T-En by Twilight Translations v1.00] [n]</description>
+		<rom name="Kidou Senshi V Gundam (Japan) [T-En by Twilight Translations v1.00].sfc" size="1572864" crc="47d88587" md5="700dc755aa0966ab80b256622a237580" sha1="6e6eecaa79191a0b2855b4652af6d6a4c1fca8d2"/>
+	</game>
+	<game name="Monstania (Japan) [T-En by Aeon Genesis v1.03]">
+		<description>Monstania (Japan) [T-En by Aeon Genesis v1.03]</description>
+		<rom name="Monstania (Japan) [T-En by Aeon Genesis v1.03].sfc" size="3145728" crc="afd7c1fa" md5="40ea05f3f1b7ce72ecc83ab213f08c8f" sha1="1816e93c7a797ac366cbefe32540d6b824bb1430"/>
+	</game>
+	<game name="Mysterious Dungeon 2 - Shiren the Wanderer (Japan) [T-En by Aeon Genesis v1.00] [n]">
+		<description>Mysterious Dungeon 2 - Shiren the Wanderer (Japan) [T-En by Aeon Genesis v1.00] [n]</description>
+		<rom name="Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) [T-En by Aeon Genesis v1.00].sfc" size="4194304" crc="f9789079" md5="9b1e8f4be0cecb88741f51ebeb1e05c9" sha1="c342288e97498741ef7438ab9ee4846234a2e3a8"/>
+	</game>
+	<game name="Mystic Ark (Japan) [T-En by Aeon Genesis v1.01]">
+		<description>Mystic Ark (Japan) [T-En by Aeon Genesis v1.01]</description>
+		<rom name="Mystic Ark (Japan) [T-En by Aeon Genesis v1.01].sfc" size="4194304" crc="8dabaedc" md5="b3ca13c8f23c5ea78bdc3ca82124e79c" sha1="9f552a1aa5745506a0c8802c751900099a21bfb3"/>
+	</game>
+	<game name="Mystic Ark (Japan) [T-En by Dynamic Designs v1.01]">
+		<description>Mystic Ark (Japan) [T-En by Dynamic Designs v1.01]</description>
+		<rom name="Mystic Ark (Japan) [T-En by Dynamic Designs v1.01].sfc" size="4194304" crc="b4ebff9c" md5="cd03caa049f8b6fe82d6eb76d73b39a9" sha1="5a666e9cdeb50502254582389b27226483973b02"/>
+	</game>
+	<game name="Nangoku Shounen Papuwa-kun (Japan) [T-En by FH v1.0b] [i]">
+		<description>Nangoku Shounen Papuwa-kun (Japan) [T-En by FH v1.0b] [i]</description>
+		<rom name="Nangoku Shounen Papuwa-kun (Japan) [T-En by FH v1.0b] [i].sfc" size="1114112" crc="4560d91e" md5="5dcff581317ae731289f5deebc1f4295" sha1="133e2cba2ebf4dce792ef3bb9db0b2048e165c9f"/>
+	</game>
+	<game name="Neugier - The Journey Home (Japan) [T-En by Haeleth+RPGOne v2.00] [n]">
+		<description>Neugier - The Journey Home (Japan) [T-En by Haeleth+RPGOne v2.00] [n]</description>
+		<rom name="Neugier - Umi to Kaze no Kodou (Japan) [T-En by Haeleth+RPGOne v2.00].sfc" size="1572864" crc="5497df2a" md5="0d11c1548a1be297d40859340559d2fd" sha1="fecc88cccebea87035927e7f0ad2e1fe42a1948c"/>
+	</game>
+	<game name="Panel de Pon (Japan) [T-En by Zuqkeo v1.0]">
+		<description>Panel de Pon (Japan) [T-En by Zuqkeo v1.0]</description>
+		<rom name="Panel de Pon (Japan) [T-En by Zuqkeo v1.0].sfc" size="1572864" crc="214d7b39" md5="45d7de94c15bd01bc3d02a591469df40" sha1="8c92e0f7af20265c68aba7f0c8fcad5abe5d77de"/>
+	</game>
+	<game name="Panic in Nakayoshi World (Japan) [T-En by Project Sailor Moon v1.00]">
+		<description>Panic in Nakayoshi World (Japan) [T-En by Project Sailor Moon v1.00]</description>
+		<rom name="Panic in Nakayoshi World (Japan) [T-En by Project Sailor Moon v1.00].sfc" size="524288" crc="03af35ce" md5="296472c3f4b3b6d1edc3fa3f38d2bdd5" sha1="fbe338bc7206b5f90faed0f5e3e73ba86c65442a"/>
+	</game>
+	<game name="Popeye - Tale of Teasing Witch Sea Hag (Japan) [T-En by KingMike Translations v1.0] [n]">
+		<description>Popeye - Tale of Teasing Witch Sea Hag (Japan) [T-En by KingMike Translations v1.0] [n]</description>
+		<rom name="Popeye - Ijiwaru Majo Sea Hag no Maki (Japan) [T-En by KingMike Translations v1.0].sfc" size="1572864" crc="749a6f69" md5="e28fab630e73176bdcb8fc18bf30ddab" sha1="53d7d77c823a26d8f078d11ac96b8ccb96927ff1"/>
+	</game>
+	<game name="Pretty Soldier Sailor Moon - Another Story (Japan) [T-En by FuSoYa v1.00] [Ad by Mziab v1.0] [n]">
+		<description>Pretty Soldier Sailor Moon - Another Story (Japan) [T-En by FuSoYa v1.00] [Ad by Mziab v1.0] [n]</description>
+		<rom name="Bishoujo Senshi Sailor Moon - Another Story (Japan) [T-En by FuSoYa v1.00] [Ad by Mziab v1.0].sfc" size="4194304" crc="962c8229" md5="1d271a25dee31eed53b71b63330ff20c" sha1="0c9e01ddf592d286efea7b09c9deed93f0caf072"/>
+	</game>
+	<game name="Pretty Soldier Sailor Moon - Another Story (Japan) [T-En by FuSoYa v1.00] [n]">
+		<description>Pretty Soldier Sailor Moon - Another Story (Japan) [T-En by FuSoYa v1.00] [n]</description>
+		<rom name="Bishoujo Senshi Sailor Moon - Another Story (Japan) [T-En by FuSoYa v1.00].sfc" size="4194304" crc="31092c4d" md5="3eb474b56cc51b54c004334655b08b9f" sha1="ded36c7e12f8585b4b8cf91947b30ed1d2a8085a"/>
+	</game>
+	<game name="Pretty Soldier Sailor Moon R (Japan) [T-En by FuSoYa v1.00] [n]">
+		<description>Pretty Soldier Sailor Moon R (Japan) [T-En by FuSoYa v1.00] [n]</description>
+		<rom name="Bishoujo Senshi Sailor Moon R (Japan) [T-En by FuSoYa v1.00].sfc" size="3145728" crc="4229f61d" md5="e9edb964870c5435ca45a51c26905612" sha1="96e8e1ea8b3e520e9576d30893da5c4b7a3f6d45"/>
+	</game>
+	<game name="Radical Dreamers - Le Tresor Interdit (Japan) (BS) [T-En by Demiforce v1.4] [n]">
+		<description>Radical Dreamers - Le Tresor Interdit (Japan) (BS) [T-En by Demiforce v1.4] [n]</description>
+		<rom name="Radical Dreamers - Nusume Nai Houseki (Japan) (BS) [T-En by Demiforce v1.4].sfc" size="2097152" crc="a2664b10" md5="55c5baaedffcf4fd022361c531c72178" sha1="d06a13524a907e5834a755e3a710fb30adb33c49"/>
+	</game>
+	<game name="Ranma 1-2 - Treasure of the Red Cat Gang (Japan) [T-En by Dynamic Designs v0.99] (Manga Version) [n]">
+		<description>Ranma 1-2 - Treasure of the Red Cat Gang (Japan) [T-En by Dynamic Designs v0.99] (Manga Version) [n]</description>
+		<rom name="Ranma 1-2 - Akanekodan Teki Hihou (Japan) [T-En by Dynamic Designs v0.99] (Manga Version).sfc" size="1572864" crc="262728ab" md5="a12da4c6fb80f84991163a3986b4535e" sha1="ac578e2297a14b77f608a59774b8f8bf6fc9a28e"/>
+	</game>
+	<game name="Ranma 1-2 - Treasure of the Red Cat Gang (Japan) [T-En by Dynamic Designs v1.00] (Anime Version) [n]">
+		<description>Ranma 1-2 - Treasure of the Red Cat Gang (Japan) [T-En by Dynamic Designs v1.00] (Anime Version) [n]</description>
+		<rom name="Ranma 1-2 - Akanekodan Teki Hihou (Japan) [T-En by Dynamic Designs v1.00] (Anime Version).sfc" size="1572864" crc="4bcdb8b3" md5="e61a63d723196121e62a7f9cba819455" sha1="459b9c5c090499ca4905785cfe396145cc40f196"/>
+	</game>
+	<game name="Record of Lodoss War (Japan) [T-En by LNF v0.90] [i] [n]">
+		<description>Record of Lodoss War (Japan) [T-En by LNF v0.90] [i] [n]</description>
+		<rom name="Lodoss-tou Senki (Japan) [T-En by LNF v0.90] [i].sfc" size="4194304" crc="fe117c8f" md5="695c334a49e3e636ce65567d8840b300" sha1="5a185dee0cb22d48f8e02ebfed13568525e2588d"/>
+	</game>
+	<game name="Rockman &amp; Forte (Japan) [T-En by Aeon Genesis v1.00 RMF]">
+		<description>Rockman &amp; Forte (Japan) [T-En by Aeon Genesis v1.00 RMF]</description>
+		<rom name="Rockman &amp; Forte (Japan) [T-En by Aeon Genesis v1.00 RMF].sfc" size="4194304" crc="bc12734c" md5="4eb262177b69764730614671bfeb1e51" sha1="03727b52447ce9ff79a945d3cae8273d195937c2"/>
+	</game>
+	<game name="Romancing SaGa (Japan) [T-En by Trans Dimension v0.40] [i]">
+		<description>Romancing SaGa (Japan) [T-En by Trans Dimension v0.40] [i]</description>
+		<rom name="Romancing SaGa (Japan) [T-En by Trans Dimension v0.40] [i].sfc" size="1048576" crc="0a1e0283" md5="32bca37c2a782c1f9db99a1e4c5dffc6" sha1="ef9cd0f01c8d6ac7c317e87cfa922fafe8454fbc"/>
+	</game>
+	<game name="Romancing SaGa 2 (Japan) [T-En by Gilhide v0.05c] [i]">
+		<description>Romancing SaGa 2 (Japan) [T-En by Gilhide v0.05c] [i]</description>
+		<rom name="Romancing SaGa 2 (Japan) [T-En by Gilhide v0.05c] [i].sfc" size="2097152" crc="e292acf8" md5="c7276ffd10068e5dd6faa556d186010d" sha1="c83cc595852c65f874659fb3d210d5dcf270afb6"/>
+	</game>
+	<game name="Romancing SaGa 3 (Japan) (Rev 1) [T-En by Mana Sword v0.30]">
+		<description>Romancing SaGa 3 (Japan) (Rev 1) [T-En by Mana Sword v0.30]</description>
+		<rom name="Romancing SaGa 3 (Japan) (Rev 1) [T-En by Mana Sword v0.30].sfc" size="4194304" crc="a5872a6d" md5="435772f649de222e23f79c2dd38ea946" sha1="e7cd422327160c8d3cbc6c6a2c970aa997dc8188"/>
+	</game>
+	<game name="Romancing SaGa 3 (Japan) [T-En by Mana Sword v0.30]">
+		<description>Romancing SaGa 3 (Japan) [T-En by Mana Sword v0.30]</description>
+		<rom name="Romancing SaGa 3 (Japan) [T-En by Mana Sword v0.30].sfc" size="4194304" crc="42c664c2" md5="76392496342324275295e60f6e694612" sha1="6032d87da8126413bd0b5d53e4ece04a29881647"/>
+	</game>
+	<game name="Sanrio World Smash Ball! (Japan) [T-En by Suicidal Translations v1.00]">
+		<description>Sanrio World Smash Ball! (Japan) [T-En by Suicidal Translations v1.00]</description>
+		<rom name="Sanrio World Smash Ball! (Japan) [T-En by Suicidal Translations v1.00].sfc" size="294912" crc="6a3cd3b1" md5="991b24ad37b6c6afd59b4bdbbec0f5cd" sha1="cd10c2542df4579be57d5033a980dbf6e2c1547e"/>
+	</game>
+	<game name="Secret of Mana (USA) [T-En by FuSoYa v1.00 VWF]">
+		<description>Secret of Mana (USA) [T-En by FuSoYa v1.00 VWF]</description>
+		<rom name="Secret of Mana (USA) [T-En by FuSoYa v1.00 VWF].sfc" size="3145728" crc="d36f5341" md5="833ec401b570a0879cea44a38c4bef49" sha1="312cb519e897ed9f99bde2fec4f4fe1e337046ad"/>
+	</game>
+	<game name="Seiken Densetsu 3 (Japan) [T-En by LNF+Neill Corlett+SoM2Freak v1.01]">
+		<description>Seiken Densetsu 3 (Japan) [T-En by LNF+Neill Corlett+SoM2Freak v1.01]</description>
+		<rom name="Seiken Densetsu 3 (Japan) [T-En by LNF+Neill Corlett+SoM2Freak v1.01].sfc" size="4194304" crc="7dbde871" md5="5a0a3460ed4f02e649dbcd42089f9e03" sha1="4a8d8bd431959d42e2ba4d953bfd11d042216a34"/>
+	</game>
+	<game name="Sengoku (Japan) [T-En by Vice Translations v1.00] [n]">
+		<description>Sengoku (Japan) [T-En by Vice Translations v1.00] [n]</description>
+		<rom name="Sengoku Denshou (Japan) [T-En by Vice Translations v1.00].sfc" size="1048576" crc="0b3d1f0b" md5="438ace40f2366ef209f839a8f1d57b21" sha1="3ad1f8740a16c6608f31e22f3af068253577f477"/>
+	</game>
+	<game name="Shin Megami Tensei (Japan) [T-En by Aeon Genesis v1.00]">
+		<description>Shin Megami Tensei (Japan) [T-En by Aeon Genesis v1.00]</description>
+		<rom name="Shin Megami Tensei (Japan) [T-En by Aeon Genesis v1.00].sfc" size="2097152" crc="1afe71a8" md5="e0450bd7cae39aed72cb8535fc39048c" sha1="8baf25db85c711db265dce027d6802ade2c98e86"/>
+	</game>
+	<game name="Shin Megami Tensei II (Japan) [T-En by Aeon Genesis v1.00]">
+		<description>Shin Megami Tensei II (Japan) [T-En by Aeon Genesis v1.00]</description>
+		<rom name="Shin Megami Tensei II (Japan) [T-En by Aeon Genesis v1.00].sfc" size="2621440" crc="6a49a51a" md5="a4d4948cefa09efcbfe4a288f66e5347" sha1="6dc67c659f36bea861f0fbfd251e06c5557ba855"/>
+	</game>
+	<game name="Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [T-En by Aeon Genesis v1.00]">
+		<description>Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [T-En by Aeon Genesis v1.00]</description>
+		<rom name="Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [T-En by Aeon Genesis v1.00].sfc" size="2097152" crc="6c4d68c8" md5="fa61d22a6ecfbc59369726807c4be474" sha1="7856d9a20db2b5f233938a4fbdf07df84cba88a7"/>
+	</game>
+	<game name="Shodai Nekketsu Kouha Kunio-kun (Japan) [T-En by Aeon Genesis v1.00]">
+		<description>Shodai Nekketsu Kouha Kunio-kun (Japan) [T-En by Aeon Genesis v1.00]</description>
+		<rom name="Shodai Nekketsu Kouha Kunio-kun (Japan) [T-En by Aeon Genesis v1.00].sfc" size="1179648" crc="293279af" md5="ed3f20554b52bb0e1db1580636abedc8" sha1="ce6dbf3b38f897e1916e53ff5db8ec423a20cea7"/>
+	</game>
+	<game name="Silva Saga II - The Legend of Light and Darkness (Japan) [T-En by Dynamic Designs v1.00]">
+		<description>Silva Saga II - The Legend of Light and Darkness (Japan) [T-En by Dynamic Designs v1.00]</description>
+		<rom name="Silva Saga II - The Legend of Light and Darkness (Japan) [T-En by Dynamic Designs v1.00].sfc" size="3145728" crc="bc3df046" md5="5129029c23c88760e64683814f6f0508" sha1="57a584ad48dd38b1c9f298164d93636104f3812c"/>
+	</game>
+	<game name="Slayers (Japan) [T-En by Dynamic Designs+Matt's Messy Room v1.01]">
+		<description>Slayers (Japan) [T-En by Dynamic Designs+Matt's Messy Room v1.01]</description>
+		<rom name="Slayers (Japan) [T-En by Dynamic Designs+Matt's Messy Room v1.01].sfc" size="2097152" crc="123f02b9" md5="c7f2d0e90aadb68e0aa0ffe7564a95c6" sha1="a9060712e0f618a0431824d49d9fa8de2a1c7df2"/>
+	</game>
+	<game name="Snoopy Concert (Japan) [T-En by Aeon Genesis v1.00]">
+		<description>Snoopy Concert (Japan) [T-En by Aeon Genesis v1.00]</description>
+		<rom name="Snoopy Concert (Japan) [T-En by Aeon Genesis v1.00].sfc" size="2097152" crc="8ad05744" md5="b3797d105b8f1fb60f5564077c634a35" sha1="445da5bf494eb84d4aca89dea661c551dae73da1"/>
+	</game>
+	<game name="Space Knight Tekkaman Blade (Japan) [T-En by byuu+Derrick Sobodash v1.0] [n]">
+		<description>Space Knight Tekkaman Blade (Japan) [T-En by byuu+Derrick Sobodash v1.0] [n]</description>
+		<rom name="Uchuu no Kishi Tekkaman Blade (Japan) [T-En by byuu+Derrick Sobodash v1.0].sfc" size="1572864" crc="da833bce" md5="62c47b1812fe293316b78d4a36870f8d" sha1="35fea7842dcf6f4b081caf0068ea5e138a614dc0"/>
+	</game>
+	<game name="Star Fox 2 (Japan) (Proto) (Alt 1) [T-En by Aeon Genesis v1.00] (Debug Version)">
+		<description>Star Fox 2 (Japan) (Proto) (Alt 1) [T-En by Aeon Genesis v1.00] (Debug Version)</description>
+		<rom name="Star Fox 2 (Japan) (Proto) (Alt 1) [T-En by Aeon Genesis v1.00] (Debug Version).sfc" size="1048576" crc="4ac307f6" md5="ee549e87262eef441f2add6ce207ff75" sha1="c857e9a6579d424c0973e73ac0978379682e1111"/>
+	</game>
+	<game name="Star Fox 2 (Japan) (Proto) (Alt 1) [T-En by Aeon Genesis v1.00] (Final Version)">
+		<description>Star Fox 2 (Japan) (Proto) (Alt 1) [T-En by Aeon Genesis v1.00] (Final Version)</description>
+		<rom name="Star Fox 2 (Japan) (Proto) (Alt 1) [T-En by Aeon Genesis v1.00] (Final Version).sfc" size="1048576" crc="a797f974" md5="e27fb54db09b3bc1cbb6d05b8f42ddbf" sha1="e6a66a8e6c929f569c8d3d625a571d8790866b42"/>
+	</game>
+	<game name="Star Ocean (Japan) [T-En by DeJap v1.0]">
+		<description>Star Ocean (Japan) [T-En by DeJap v1.0]</description>
+		<rom name="Star Ocean (Japan) [T-En by DeJap v1.0].sfc" size="6291456" crc="6ba9e08d" md5="217a97e694fb916ad26c8a471f6c0e84" sha1="8574f0c49b0e823f21763331c2d66225b95c1653"/>
+	</game>
+	<game name="Super Back to the Future Part II (Japan) [T-En by mteam v1.00]">
+		<description>Super Back to the Future Part II (Japan) [T-En by mteam v1.00]</description>
+		<rom name="Super Back to the Future Part II (Japan) [T-En by mteam v1.00].sfc" size="1048576" crc="a070febd" md5="442f5cefd72c20be79d278d57c61fe1d" sha1="97845cd1e781a1418bd66f6fe4e46e22109facc9"/>
+	</game>
+	<game name="Super Bomber Man 4 (Japan) [T-En by Svambo v1.0]">
+		<description>Super Bomber Man 4 (Japan) [T-En by Svambo v1.0]</description>
+		<rom name="Super Bomber Man 4 (Japan) [T-En by Svambo v1.0].sfc" size="2097152" crc="4c58462d" md5="aec3e80ae5bc8928d7e758a9e289e01e" sha1="64d944a8e9c296e31fbbb8639d3b48e1f5cf3f5c"/>
+	</game>
+	<game name="Super Bonk 2 (Japan) [T-En by Gaijin Productions v1.00] [n]">
+		<description>Super Bonk 2 (Japan) [T-En by Gaijin Productions v1.00] [n]</description>
+		<rom name="Super Genjin 2 (Japan) [T-En by Gaijin Productions v1.00].sfc" size="1572864" crc="1cdc3db0" md5="a02162d9c8411f6b36afb1ea106c8e2a" sha1="59b0a404cc0b3ffe0e653dfe90a9225ecd9b1e80"/>
+	</game>
+	<game name="Super Fire Pro Wrestling - Queen's Special (Japan) [T-En by Phil v1.0]">
+		<description>Super Fire Pro Wrestling - Queen's Special (Japan) [T-En by Phil v1.0]</description>
+		<rom name="Super Fire Pro Wrestling - Queen's Special (Japan) [T-En by Phil v1.0].sfc" size="3145728" crc="45855ff9" md5="351224d02c33f418851afcc6c88aa117" sha1="932df7aef955264013e27c61850d46c809ef4000"/>
+	</game>
+	<game name="Super Fire Pro Wrestling X Premium (Japan) [T-En by Sydra v7]">
+		<description>Super Fire Pro Wrestling X Premium (Japan) [T-En by Sydra v7]</description>
+		<rom name="Super Fire Pro Wrestling X Premium (Japan) [T-En by Sydra v7].sfc" size="4194304" crc="9db7b262" md5="2c14148515043caf245ee853176ae98a" sha1="ba68b369ed55e33b6d35db034955313f512c14b1"/>
+	</game>
+	<game name="Super Gachapon World - SD Gundam X (Japan) [T-En by Serin9X v1.51] [i]">
+		<description>Super Gachapon World - SD Gundam X (Japan) [T-En by Serin9X v1.51] [i]</description>
+		<rom name="Super Gachapon World - SD Gundam X (Japan) [T-En by Serin9X v1.51] [i].sfc" size="1048576" crc="ac2c7e6f" md5="ce75dd0e104d49ce4f85f684f67d6b9c" sha1="2180e0e990824f4abb5d6e909ff1b1fa754fe587"/>
+	</game>
+	<game name="Super Gussun Oyoyo 2 (Japan) [T-En by RPGOne v1.0]">
+		<description>Super Gussun Oyoyo 2 (Japan) [T-En by RPGOne v1.0]</description>
+		<rom name="Super Gussun Oyoyo 2 (Japan) [T-En by RPGOne v1.0].sfc" size="2621440" crc="3252274d" md5="0e0e478e8ca0145baf85a53891961774" sha1="f67a14a8973055bd48a73a906974981f46fd7481"/>
+	</game>
+	<game name="Super Puyo Puyo 2 (Japan) [T-En by J2e Translations v1.1] [n]">
+		<description>Super Puyo Puyo 2 (Japan) [T-En by J2e Translations v1.1] [n]</description>
+		<rom name="Super Puyo Puyo Tsuu (Japan) [T-En by J2e Translations v1.1].sfc" size="2097152" crc="b425c47d" md5="50d3c9b6c0fb1abcfc254425976b25ea" sha1="f76b675a91fd6012c9b783b5f6eb37d1c51bc3d5"/>
+	</game>
+	<game name="Super Robot Wars 3 (Japan) (Rev 1) [T-En by Aeon Genesis v1.00] [n]">
+		<description>Super Robot Wars 3 (Japan) (Rev 1) [T-En by Aeon Genesis v1.00] [n]</description>
+		<rom name="Dai-3-ji Super Robot Taisen (Japan) (Rev 1) [T-En by Aeon Genesis v1.00].sfc" size="2097152" crc="4d1106bf" md5="e99dcd879c334ffa36e7951935182952" sha1="fe74c13fdd2a8c68ca0d40b65029fedab7471a7e"/>
+	</game>
+	<game name="Super Robot Wars 3 (Japan) [T-En by Aeon Genesis v1.00] [n]">
+		<description>Super Robot Wars 3 (Japan) [T-En by Aeon Genesis v1.00] [n]</description>
+		<rom name="Dai-3-ji Super Robot Taisen (Japan) [T-En by Aeon Genesis v1.00].sfc" size="2097152" crc="80980318" md5="bd16589d0737460e26af9ea2425410fc" sha1="ccde1c2657dec67e2cb1b2a7d97643b4fb2a54e6"/>
+	</game>
+	<game name="Super Ultra Baseball 2 (Japan) [T-En by VX v1.00]">
+		<description>Super Ultra Baseball 2 (Japan) [T-En by VX v1.00]</description>
+		<rom name="Super Ultra Baseball 2 (Japan) [T-En by VX v1.00].sfc" size="1048576" crc="344d4076" md5="1fb48376b209dc3276fc46c7640b778c" sha1="da9ed774974ff2c988b74aa7c498e92dab49318e"/>
+	</game>
+	<game name="Tactics Ogre - Let Us Cling Together (Japan) (Rev 2) [T-En by Aeon Genesis v1.00b]">
+		<description>Tactics Ogre - Let Us Cling Together (Japan) (Rev 2) [T-En by Aeon Genesis v1.00b]</description>
+		<rom name="Tactics Ogre - Let Us Cling Together (Japan) (Rev 2) [T-En by Aeon Genesis v1.00b].sfc" size="4194304" crc="61c28f72" md5="6144d2c0f27233d9ddc9038c0b48674f" sha1="f67768a18b125b2757c9f41b1da8a0e700c76ca4"/>
+	</game>
+	<game name="Tales of Phantasia (Japan) [T-En by DeJap v1.2]">
+		<description>Tales of Phantasia (Japan) [T-En by DeJap v1.2]</description>
+		<rom name="Tales of Phantasia (Japan) [T-En by DeJap v1.2].sfc" size="6291456" crc="14612848" md5="9bb90422fcfb32581121a7d8588827b0" sha1="5d1f0ab7bc58ebf5423e23bc1ee9bff5a070c742"/>
+	</game>
+	<game name="Tales of Phantasia (Japan) [T-En by DeJap v1.2] (Alt Font)">
+		<description>Tales of Phantasia (Japan) [T-En by DeJap v1.2] (Alt Font)</description>
+		<rom name="Tales of Phantasia (Japan) [T-En by DeJap v1.2] (Alt Font).sfc" size="6291456" crc="4aafa3ae" md5="ce81fd69b8cbcb9ea00568e2edb8d71e" sha1="82d0411ccb3c5e366dd1468e7ee89572b9f489aa"/>
+	</game>
+	<game name="Taloon's Great Adventure - Mysterious Dungeon (Japan) [T-En by Dynamic Designs v0.99] [n]">
+		<description>Taloon's Great Adventure - Mysterious Dungeon (Japan) [T-En by Dynamic Designs v0.99] [n]</description>
+		<rom name="Torneco no Daibouken - Fushigi no Dungeon (Japan) [T-En by Dynamic Designs v0.99].sfc" size="2097152" crc="96064895" md5="f30ad84846629691a3946e00b3691a0e" sha1="861cd4ca94774b928deab7458f1e45af1c504159"/>
+	</game>
+	<game name="Tenchi Muyou! - The Game (Japan) [T-En by borderLine+LNF v1.1] [n]">
+		<description>Tenchi Muyou! - The Game (Japan) [T-En by borderLine+LNF v1.1] [n]</description>
+		<rom name="Tenchi Muyou! - Game Hen (Japan) [T-En by borderLine+LNF v1.1].sfc" size="3145728" crc="76020159" md5="66836fdf6ab04377f8f904996fc70e42" sha1="8a8cc5f57aa649a24d81737c4bd7491dfb723cbd"/>
+	</game>
+	<game name="Tomorrow's Joe (Japan) [T-En by Vice Translations v0.99] [n]">
+		<description>Tomorrow's Joe (Japan) [T-En by Vice Translations v0.99] [n]</description>
+		<rom name="Ashita no Joe (Japan) [T-En by Vice Translations v0.99].sfc" size="1048576" crc="c3b18df7" md5="ff3e0f251293ce36bfe50da6242b1d5a" sha1="96f9b158c35ce3e2785545e7e73a75ab9fadc042"/>
+	</game>
+	<game name="Treasure Hunter G (Japan) [T-En by Metalhawk+Obsolete Translations v1.0b2]">
+		<description>Treasure Hunter G (Japan) [T-En by Metalhawk+Obsolete Translations v1.0b2]</description>
+		<rom name="Treasure Hunter G (Japan) [T-En by Metalhawk+Obsolete Translations v1.0b2].sfc" size="4194304" crc="41ff68c7" md5="2c2e999f59504a42a74df658ba9558d2" sha1="bf23c193159c89dfee1cabc6c1b81cc3289e6805"/>
+	</game>
+	<game name="Treasure of the Rudras (Japan) [T-En by Aeon Genesis v2.00] [n]">
+		<description>Treasure of the Rudras (Japan) [T-En by Aeon Genesis v2.00] [n]</description>
+		<rom name="Rudra no Hihou (Japan) [T-En by Aeon Genesis v2.00].sfc" size="4194304" crc="5b029edb" md5="d2ee0f07eb882c6a989eef67a4a6f945" sha1="c792e6fd13892904a70b009a49eab93e39529808"/>
+	</game>
+	<game name="Ultra Baseball Jitsumei Ban (Japan) [T-En by VX v1.04]">
+		<description>Ultra Baseball Jitsumei Ban (Japan) [T-En by VX v1.04]</description>
+		<rom name="Ultra Baseball Jitsumei Ban (Japan) [T-En by VX v1.04].sfc" size="524288" crc="b9e43ff3" md5="ae76d0fb33ec587f8e9427bc1e48624f" sha1="c91c82a5663ae1dd6d703c7e0a484b956752999f"/>
+	</game>
+	<game name="Umihara Kawase (Japan) [T-En by Satsu v0.90]">
+		<description>Umihara Kawase (Japan) [T-En by Satsu v0.90]</description>
+		<rom name="Umihara Kawase (Japan) [T-En by Satsu v0.90].sfc" size="1048576" crc="5410108d" md5="5a474de20eca57067104ab00da0ff4c9" sha1="98743e0da34346b7443f18ed8fe17f0bb2482bef"/>
+	</game>
+	<game name="Villgust (Japan) [T-En by Dynamic Designs v1.01] [n]">
+		<description>Villgust (Japan) [T-En by Dynamic Designs v1.01] [n]</description>
+		<rom name="Kouryuu Densetsu Villgust - Kieta Shoujo (Japan) [T-En by Dynamic Designs v1.01].sfc" size="1048576" crc="ec4aaad8" md5="4f1e1e9b1ba5a07b747db8087bb8b95c" sha1="5641df100c14ca267a5a27fb6276e1bb84adc106"/>
+	</game>
+	<game name="Violinist of Hameln, The (Japan) [T-En by J2e Translations v1.00] [n]">
+		<description>Violinist of Hameln, The (Japan) [T-En by J2e Translations v1.00] [n]</description>
+		<rom name="Hameln no Violin Hiki (Japan) [T-En by J2e Translations v1.00].sfc" size="1572864" crc="54ab6711" md5="feeed7666e84d0e23a1c8a4e7401464d" sha1="19257482645cb8ee1c5433882f6d4ef9e20f239b"/>
+	</game>
+	<game name="Wizardry I-II-III - Story of Llylgamyn (Japan) (NP) [T-En by Aeon Genesis v1.00]">
+		<description>Wizardry I-II-III - Story of Llylgamyn (Japan) (NP) [T-En by Aeon Genesis v1.00]</description>
+		<rom name="Wizardry I-II-III - Story of Llylgamyn (Japan) (NP) [T-En by Aeon Genesis v1.00].sfc" size="4194304" crc="16ffe85a" md5="167f3de8c5e5f464d1d473eb628b2aaf" sha1="c2fe27a3e1802b33c40b5c9fea3aab934396e792"/>
+	</game>
+	<game name="Wizardry VI - Bane of the Cosmic Forge (Japan) [T-En by TiCo v0.99] [n]">
+		<description>Wizardry VI - Bane of the Cosmic Forge (Japan) [T-En by TiCo v0.99] [n]</description>
+		<rom name="Wizardry VI - Kindan no Mahitsu (Japan) [T-En by TiCo v0.99].sfc" size="6291456" crc="bb9db65c" md5="8f59e44c601cd2719014638e5a84b12d" sha1="9c066c879a9b30b6a4b489ff0d298ccc1813827a"/>
+	</game>
+	<game name="Wonder Project J - Mechanical Boy Pino (Japan) [T-En by WakdHacks v1.04] [n]">
+		<description>Wonder Project J - Mechanical Boy Pino (Japan) [T-En by WakdHacks v1.04] [n]</description>
+		<rom name="Wonder Project J - Kikai no Shounen Pino (Japan) [T-En by WakdHacks v1.04].sfc" size="3203072" crc="36079184" md5="26b66c57f9ede1ba1485da4ae283f409" sha1="cf6e5503ba6ea23163e7c4274c931b159e93f8fc"/>
+	</game>
+	<game name="Ys IV - Mask of the Sun (Japan) [T-En by Aeon Genesis v2.00]">
+		<description>Ys IV - Mask of the Sun (Japan) [T-En by Aeon Genesis v2.00]</description>
+		<rom name="Ys IV - Mask of the Sun (Japan) [T-En by Aeon Genesis v2.00].sfc" size="1572864" crc="1add47f0" md5="4a65688a8589b41e8eb96b998474c101" sha1="f6c6720b651abf2038ee0d35ae52f4965f77bed8"/>
+	</game>
+</datafile>

@@ -1,0 +1,354 @@
+<datafile>
+  <game name="3D Crazy Coaster (USA)">
+    <description>3D Crazy Coaster (USA)</description>
+    <title_clean>3D Crazy Coaster</title_clean>
+    <title_search>3d crazy coaster</title_search>
+    <image ext="png" id="3D Crazy Coaster (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="3D Crazy Coaster (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="3D Crazy Coaster (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="3D Mine Storm (USA)">
+    <description>3D Mine Storm (USA)</description>
+    <title_clean>3D Mine Storm</title_clean>
+    <title_search>3d mine storm</title_search>
+    <image ext="png" id="3D Mine Storm (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="3D Mine Storm (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="3D Mine Storm (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="3D Narrow Escape (USA)">
+    <description>3D Narrow Escape (USA)</description>
+    <title_clean>3D Narrow Escape</title_clean>
+    <title_search>3d narrow escape</title_search>
+    <image ext="png" id="3D Narrow Escape (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="3D Narrow Escape (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="3D Narrow Escape (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="AnimAction - Advanced Animation (USA)">
+    <description>AnimAction - Advanced Animation (USA)</description>
+    <title_clean>AnimAction - Advanced Animation</title_clean>
+    <title_search>animaction advanced animation</title_search>
+    <image ext="png" id="AnimAction - Advanced Animation (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="AnimAction - Advanced Animation (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="AnimAction - Advanced Animation (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Armor..Attack (World)">
+    <description>Armor..Attack (World)</description>
+    <title_clean>Armor..Attack</title_clean>
+    <title_search>armorattack</title_search>
+    <image ext="png" id="Armor..Attack (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Armor..Attack (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Armor..Attack (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Art Master (USA)">
+    <description>Art Master (USA)</description>
+    <title_clean>Art Master</title_clean>
+    <title_search>art master</title_search>
+    <image ext="png" id="Art Master (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Art Master (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Art Master (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bedlam (USA, Europe)">
+    <description>Bedlam (USA, Europe)</description>
+    <title_clean>Bedlam</title_clean>
+    <title_search>bedlam</title_search>
+    <image ext="png" id="Bedlam (USA, Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bedlam (USA, Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bedlam (USA, Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Berzerk (World)">
+    <description>Berzerk (World)</description>
+    <title_clean>Berzerk</title_clean>
+    <title_search>berzerk</title_search>
+    <image ext="png" id="Berzerk (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Berzerk (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Berzerk (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Blitz! - Action Football (USA, Europe) (0F11CE0C)">
+    <description>Blitz! - Action Football (USA, Europe) (0F11CE0C)</description>
+    <title_clean>Blitz! - Action Football</title_clean>
+    <title_search>blitz action football</title_search>
+    <image ext="png" id="Blitz! - Action Football (USA, Europe) (0F11CE0C)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Blitz! - Action Football (USA, Europe) (0F11CE0C)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Blitz! - Action Football (USA, Europe) (0F11CE0C)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Blitz! - Action Football (USA, Europe) (881B27C5)">
+    <description>Blitz! - Action Football (USA, Europe) (881B27C5)</description>
+    <title_clean>Blitz! - Action Football</title_clean>
+    <title_search>blitz action football</title_search>
+    <image ext="png" id="Blitz! - Action Football (USA, Europe) (881B27C5)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Blitz! - Action Football (USA, Europe) (881B27C5)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Blitz! - Action Football (USA, Europe) (881B27C5)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Clean Sweep (World)">
+    <description>Clean Sweep (World)</description>
+    <title_clean>Clean Sweep</title_clean>
+    <title_search>clean sweep</title_search>
+    <image ext="png" id="Clean Sweep (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Clean Sweep (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Clean Sweep (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cosmic Chasm (World)">
+    <description>Cosmic Chasm (World)</description>
+    <title_clean>Cosmic Chasm</title_clean>
+    <title_search>cosmic chasm</title_search>
+    <image ext="png" id="Cosmic Chasm (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cosmic Chasm (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cosmic Chasm (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dark Tower (USA) (Proto)">
+    <description>Dark Tower (USA) (Proto)</description>
+    <title_clean>Dark Tower</title_clean>
+    <title_search>dark tower</title_search>
+    <image ext="png" id="Dark Tower (USA) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dark Tower (USA) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dark Tower (USA) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Engine Analyzer (USA) (Proto)">
+    <description>Engine Analyzer (USA) (Proto)</description>
+    <title_clean>Engine Analyzer</title_clean>
+    <title_search>engine analyzer</title_search>
+    <image ext="png" id="Engine Analyzer (USA) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Engine Analyzer (USA) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Engine Analyzer (USA) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fortress of Narzod (USA, Europe)">
+    <description>Fortress of Narzod (USA, Europe)</description>
+    <title_clean>Fortress of Narzod</title_clean>
+    <title_search>fortress of narzod</title_search>
+    <image ext="png" id="Fortress of Narzod (USA, Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fortress of Narzod (USA, Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fortress of Narzod (USA, Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Heads-Up - Action Soccer (USA)">
+    <description>Heads-Up - Action Soccer (USA)</description>
+    <title_clean>Heads-Up - Action Soccer</title_clean>
+    <title_search>headsup action soccer</title_search>
+    <image ext="png" id="Heads-Up - Action Soccer (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Heads-Up - Action Soccer (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Heads-Up - Action Soccer (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="HyperChase - Auto Race (World)">
+    <description>HyperChase - Auto Race (World)</description>
+    <title_clean>HyperChase - Auto Race</title_clean>
+    <title_search>hyperchase auto race</title_search>
+    <image ext="png" id="HyperChase - Auto Race (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="HyperChase - Auto Race (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="HyperChase - Auto Race (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mail Plane (USA) (Proto) (05838962)">
+    <description>Mail Plane (USA) (Proto) (05838962)</description>
+    <title_clean>Mail Plane</title_clean>
+    <title_search>mail plane</title_search>
+    <image ext="png" id="Mail Plane (USA) (Proto) (05838962)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mail Plane (USA) (Proto) (05838962)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mail Plane (USA) (Proto) (05838962)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mail Plane (USA) (Proto) (DA1AC0DB)">
+    <description>Mail Plane (USA) (Proto) (DA1AC0DB)</description>
+    <title_clean>Mail Plane</title_clean>
+    <title_search>mail plane</title_search>
+    <image ext="png" id="Mail Plane (USA) (Proto) (DA1AC0DB)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mail Plane (USA) (Proto) (DA1AC0DB)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mail Plane (USA) (Proto) (DA1AC0DB)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Melody Master - Music Composition and Entertainment (USA)">
+    <description>Melody Master - Music Composition and Entertainment (USA)</description>
+    <title_clean>Melody Master - Music Composition and Entertainment</title_clean>
+    <title_search>melody master music composition and entertainment</title_search>
+    <image ext="png" id="Melody Master - Music Composition and Entertainment (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Melody Master - Music Composition and Entertainment (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Melody Master - Music Composition and Entertainment (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mine Storm (World)">
+    <description>Mine Storm (World)</description>
+    <title_clean>Mine Storm</title_clean>
+    <title_search>mine storm</title_search>
+    <image ext="png" id="Mine Storm (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mine Storm (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mine Storm (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mine Storm II (USA) (Rev 2)">
+    <description>Mine Storm II (USA) (Rev 2)</description>
+    <title_clean>Mine Storm II</title_clean>
+    <title_search>mine storm ii</title_search>
+    <image ext="png" id="Mine Storm II (USA) (Rev 2)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mine Storm II (USA) (Rev 2)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mine Storm II (USA) (Rev 2)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mr. Boston Clean Sweep (Europe)">
+    <description>Mr. Boston Clean Sweep (Europe)</description>
+    <title_clean>Mr. Boston Clean Sweep</title_clean>
+    <title_search>mr boston clean sweep</title_search>
+    <image ext="png" id="Mr. Boston Clean Sweep (Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mr. Boston Clean Sweep (Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mr. Boston Clean Sweep (Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pitcher's Duel (USA) (Proto)">
+    <description>Pitcher's Duel (USA) (Proto)</description>
+    <title_clean>Pitcher's Duel</title_clean>
+    <title_search>pitchers duel</title_search>
+    <image ext="png" id="Pitcher's Duel (USA) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pitcher's Duel (USA) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pitcher's Duel (USA) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Polar Rescue (USA)">
+    <description>Polar Rescue (USA)</description>
+    <title_clean>Polar Rescue</title_clean>
+    <title_search>polar rescue</title_search>
+    <image ext="png" id="Polar Rescue (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Polar Rescue (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Polar Rescue (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Polar Rescue (USA) (Beta)">
+    <description>Polar Rescue (USA) (Beta)</description>
+    <title_clean>Polar Rescue</title_clean>
+    <title_search>polar rescue</title_search>
+    <image ext="png" id="Polar Rescue (USA) (Beta)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Polar Rescue (USA) (Beta)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Polar Rescue (USA) (Beta)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pole Position (USA) (A00ED3D6)">
+    <description>Pole Position (USA) (A00ED3D6)</description>
+    <title_clean>Pole Position</title_clean>
+    <title_search>pole position</title_search>
+    <image ext="png" id="Pole Position (USA) (A00ED3D6)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pole Position (USA) (A00ED3D6)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pole Position (USA) (A00ED3D6)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pole Position (USA) (C10F37D8)">
+    <description>Pole Position (USA) (C10F37D8)</description>
+    <title_clean>Pole Position</title_clean>
+    <title_search>pole position</title_search>
+    <image ext="png" id="Pole Position (USA) (C10F37D8)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pole Position (USA) (C10F37D8)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pole Position (USA) (C10F37D8)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="RA+A Spectrum I+ Stress Tester (USA) (Proto)">
+    <description>RA+A Spectrum I+ Stress Tester (USA) (Proto)</description>
+    <title_clean>RA+A Spectrum I+ Stress Tester</title_clean>
+    <title_search>raa spectrum i stress tester</title_search>
+    <image ext="png" id="RA+A Spectrum I+ Stress Tester (USA) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="RA+A Spectrum I+ Stress Tester (USA) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="RA+A Spectrum I+ Stress Tester (USA) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rip Off (World)">
+    <description>Rip Off (World)</description>
+    <title_clean>Rip Off</title_clean>
+    <title_search>rip off</title_search>
+    <image ext="png" id="Rip Off (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rip Off (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rip Off (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Scramble (USA, Europe)">
+    <description>Scramble (USA, Europe)</description>
+    <title_clean>Scramble</title_clean>
+    <title_search>scramble</title_search>
+    <image ext="png" id="Scramble (USA, Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Scramble (USA, Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Scramble (USA, Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sledge 3D (USA) (Sample)">
+    <description>Sledge 3D (USA) (Sample)</description>
+    <title_clean>Sledge 3D</title_clean>
+    <title_search>sledge 3d</title_search>
+    <image ext="png" id="Sledge 3D (USA) (Sample)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sledge 3D (USA) (Sample)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sledge 3D (USA) (Sample)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Solar Quest (World)">
+    <description>Solar Quest (World)</description>
+    <title_clean>Solar Quest</title_clean>
+    <title_search>solar quest</title_search>
+    <image ext="png" id="Solar Quest (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Solar Quest (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Solar Quest (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Wars (World)">
+    <description>Space Wars (World)</description>
+    <title_clean>Space Wars</title_clean>
+    <title_search>space wars</title_search>
+    <image ext="png" id="Space Wars (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Wars (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Wars (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Spike (USA, Europe)">
+    <description>Spike (USA, Europe)</description>
+    <title_clean>Spike</title_clean>
+    <title_search>spike</title_search>
+    <image ext="png" id="Spike (USA, Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Spike (USA, Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Spike (USA, Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Spin ball (USA)">
+    <description>Spin ball (USA)</description>
+    <title_clean>Spin ball</title_clean>
+    <title_search>spin ball</title_search>
+    <image ext="png" id="Spin ball (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Spin ball (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Spin ball (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Castle (USA)">
+    <description>Star Castle (USA)</description>
+    <title_clean>Star Castle</title_clean>
+    <title_search>star castle</title_search>
+    <image ext="png" id="Star Castle (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Castle (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Castle (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Ship (Europe)">
+    <description>Star Ship (Europe)</description>
+    <title_clean>Star Ship</title_clean>
+    <title_search>star ship</title_search>
+    <image ext="png" id="Star Ship (Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Ship (Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Ship (Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Trek - The Motion Picture (USA)">
+    <description>Star Trek - The Motion Picture (USA)</description>
+    <title_clean>Star Trek - The Motion Picture</title_clean>
+    <title_search>star trek the motion picture</title_search>
+    <image ext="png" id="Star Trek - The Motion Picture (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Trek - The Motion Picture (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Trek - The Motion Picture (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="StarHawk (World)">
+    <description>StarHawk (World)</description>
+    <title_clean>StarHawk</title_clean>
+    <title_search>starhawk</title_search>
+    <image ext="png" id="StarHawk (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="StarHawk (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="StarHawk (World)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Test Cartridge (USA) (Rev 4) (Proto)">
+    <description>Test Cartridge (USA) (Rev 4) (Proto)</description>
+    <title_clean>Test Cartridge</title_clean>
+    <title_search>test cartridge</title_search>
+    <image ext="png" id="Test Cartridge (USA) (Rev 4) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Test Cartridge (USA) (Rev 4) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Test Cartridge (USA) (Rev 4) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tour De France (USA) (Proto)">
+    <description>Tour De France (USA) (Proto)</description>
+    <title_clean>Tour De France</title_clean>
+    <title_search>tour de france</title_search>
+    <image ext="png" id="Tour De France (USA) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tour De France (USA) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tour De France (USA) (Proto)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="WebWarp (Europe)">
+    <description>WebWarp (Europe)</description>
+    <title_clean>WebWarp</title_clean>
+    <title_search>webwarp</title_search>
+    <image ext="png" id="WebWarp (Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="WebWarp (Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="WebWarp (Europe)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="WebWars (USA)">
+    <description>WebWars (USA)</description>
+    <title_clean>WebWars</title_clean>
+    <title_search>webwars</title_search>
+    <image ext="png" id="WebWars (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="WebWars (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="WebWars (USA)" source="https://github.com/libretro-thumbnails/GCE_-_Vectrex/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

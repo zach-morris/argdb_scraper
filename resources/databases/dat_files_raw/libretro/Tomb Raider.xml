@@ -1,0 +1,86 @@
+<datafile>
+  <game name="Tomb Raider 1 (PC)">
+    <description>Tomb Raider 1 (PC)</description>
+    <title_clean>Tomb Raider 1</title_clean>
+    <title_search>tomb raider 1</title_search>
+    <image ext="png" id="Tomb Raider 1 (PC)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tomb Raider 1 (PC)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tomb Raider 1 (PC)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tomb Raider 1 (PSX)">
+    <description>Tomb Raider 1 (PSX)</description>
+    <title_clean>Tomb Raider 1</title_clean>
+    <title_search>tomb raider 1</title_search>
+    <image ext="png" id="Tomb Raider 1 (PSX)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tomb Raider 1 (PSX)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tomb Raider 1 (PSX)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tomb Raider 1 (Saturn) (USA)">
+    <description>Tomb Raider 1 (Saturn) (USA)</description>
+    <title_clean>Tomb Raider 1</title_clean>
+    <title_search>tomb raider 1</title_search>
+    <image ext="png" id="Tomb Raider 1 (Saturn) (USA)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tomb Raider 1 (Saturn) (USA)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tomb Raider 1 (Saturn) (USA)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tomb Raider 1 - Unfinished Business (PC)">
+    <description>Tomb Raider 1 - Unfinished Business (PC)</description>
+    <title_clean>Tomb Raider 1 - Unfinished Business</title_clean>
+    <title_search>tomb raider 1 unfinished business</title_search>
+    <image ext="png" id="Tomb Raider 1 - Unfinished Business (PC)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tomb Raider 1 - Unfinished Business (PC)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tomb Raider 1 - Unfinished Business (PC)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tomb Raider 2 (PC)">
+    <description>Tomb Raider 2 (PC)</description>
+    <title_clean>Tomb Raider 2</title_clean>
+    <title_search>tomb raider 2</title_search>
+    <image ext="png" id="Tomb Raider 2 (PC)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tomb Raider 2 (PC)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tomb Raider 2 (PC)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tomb Raider 2 (PSX)">
+    <description>Tomb Raider 2 (PSX)</description>
+    <title_clean>Tomb Raider 2</title_clean>
+    <title_search>tomb raider 2</title_search>
+    <image ext="png" id="Tomb Raider 2 (PSX)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tomb Raider 2 (PSX)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tomb Raider 2 (PSX)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tomb Raider 2 - The Golden mask (PC)">
+    <description>Tomb Raider 2 - The Golden mask (PC)</description>
+    <title_clean>Tomb Raider 2 - The Golden mask</title_clean>
+    <title_search>tomb raider 2 the golden mask</title_search>
+  </game>
+  <game name="Tomb Raider 3 (PC)">
+    <description>Tomb Raider 3 (PC)</description>
+    <title_clean>Tomb Raider 3</title_clean>
+    <title_search>tomb raider 3</title_search>
+    <image ext="png" id="Tomb Raider 3 (PC)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tomb Raider 3 (PC)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tomb Raider 3 (PC)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tomb Raider 3 (PSX)">
+    <description>Tomb Raider 3 (PSX)</description>
+    <title_clean>Tomb Raider 3</title_clean>
+    <title_search>tomb raider 3</title_search>
+    <image ext="png" id="Tomb Raider 3 (PSX)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tomb Raider 3 (PSX)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tomb Raider 3 (PSX)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tomb Raider 3 - The Lost Artifact (PC)">
+    <description>Tomb Raider 3 - The Lost Artifact (PC)</description>
+    <title_clean>Tomb Raider 3 - The Lost Artifact</title_clean>
+    <title_search>tomb raider 3 the lost artifact</title_search>
+    <image ext="png" id="Tomb Raider 3 - The Lost Artifact (PC)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tomb Raider 3 - The Lost Artifact (PC)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tomb Raider 3 - The Lost Artifact (PC)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tomb Raider Demo (PSX)">
+    <description>Tomb Raider Demo (PSX)</description>
+    <title_clean>Tomb Raider Demo</title_clean>
+    <title_search>tomb raider demo</title_search>
+    <image ext="png" id="Tomb Raider Demo (PSX)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tomb Raider Demo (PSX)" source="https://github.com/libretro-thumbnails/Tomb_Raider/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

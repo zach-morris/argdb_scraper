@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Virtual Boy [T-En]</name>
+		<description>Nintendo Virtual Boy [T-En]</description>
+		<category>English Translations</category>
+		<version>20120829</version>
+		<date>20120829</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Nintendo Virtual Boy [T-En] Docs">
+		<description>_Nintendo Virtual Boy [T-En] Docs</description>
+		<rom name="SD Gundam - Dimension War (Japan) [T-En by Benjamin Stevens v1.0] - Cartridge Label.jpg" size="1403865" crc="c7a7a44b" md5="f4fec5cb9f98370b8f2da26b77f36888" sha1="ae2cbe458805230ef9b7566fa60fe9e626fb38b7"/>
+	</game>
+	<game name="SD Gundam - Dimension War (Japan) [T-En by Benjamin Stevens v1.0]">
+		<description>SD Gundam - Dimension War (Japan) [T-En by Benjamin Stevens v1.0]</description>
+		<rom name="SD Gundam - Dimension War (Japan) [T-En by Benjamin Stevens v1.0].vb" size="1048576" crc="db4da3d9" md5="45825104799b74d36740d486f3f0cdf2" sha1="fc4c9d8b463ec493815fa7994d0179e1c26aebc2"/>
+	</game>
+</datafile>

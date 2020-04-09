@@ -1,0 +1,1432 @@
+<datafile>
+  <game name="1942 (Japan)">
+    <description>1942 (Japan)</description>
+    <title_clean>1942</title_clean>
+    <title_search>1942</title_search>
+    <image ext="png" id="1942 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="1942 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="1942 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="A Ressha de Ikou MSX (Japan)">
+    <description>A Ressha de Ikou MSX (Japan)</description>
+    <title_clean>A Ressha de Ikou MSX</title_clean>
+    <title_search>a ressha de ikou msx</title_search>
+    <image ext="png" id="A Ressha de Ikou MSX (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="A Ressha de Ikou MSX (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="AcroJet (Japan)">
+    <description>AcroJet (Japan)</description>
+    <title_clean>AcroJet</title_clean>
+    <title_search>acrojet</title_search>
+    <image ext="png" id="AcroJet (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="AcroJet (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="AcroJet (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Aleste (Japan)">
+    <description>Aleste (Japan)</description>
+    <title_clean>Aleste</title_clean>
+    <title_search>aleste</title_search>
+    <image ext="png" id="Aleste (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Aleste (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Aleste (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Alges no Yoku (Japan)">
+    <description>Alges no Yoku (Japan)</description>
+    <title_clean>Alges no Yoku</title_clean>
+    <title_search>alges no yoku</title_search>
+    <image ext="png" id="Alges no Yoku (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alges no Yoku (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="American Soccer (Japan)">
+    <description>American Soccer (Japan)</description>
+    <title_clean>American Soccer</title_clean>
+    <title_search>american soccer</title_search>
+    <image ext="png" id="American Soccer (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="American Soccer (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)">
+    <description>Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)</description>
+    <title_clean>Aoki Ookami to Shiroki Mejika - Genchou Hishi</title_clean>
+    <title_search>aoki ookami to shiroki mejika genchou hishi</title_search>
+    <image ext="png" id="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan)">
+    <description>Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan)</description>
+    <title_clean>Aoki Ookami to Shiroki Mejika - Genghis Khan</title_clean>
+    <title_search>aoki ookami to shiroki mejika genghis khan</title_search>
+    <image ext="png" id="Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Arctic - Active Rail Playing (Japan)">
+    <description>Arctic - Active Rail Playing (Japan)</description>
+    <title_clean>Arctic - Active Rail Playing</title_clean>
+    <title_search>arctic active rail playing</title_search>
+    <image ext="png" id="Arctic - Active Rail Playing (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Arctic - Active Rail Playing (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Arctic - Active Rail Playing (Japan) (Alt 1)">
+    <description>Arctic - Active Rail Playing (Japan) (Alt 1)</description>
+    <title_clean>Arctic - Active Rail Playing</title_clean>
+    <title_search>arctic active rail playing</title_search>
+    <image ext="png" id="Arctic - Active Rail Playing (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Arctic - Active Rail Playing (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Arkanoid II - Revenge of Doh (Japan)">
+    <description>Arkanoid II - Revenge of Doh (Japan)</description>
+    <title_clean>Arkanoid II - Revenge of Doh</title_clean>
+    <title_search>arkanoid ii revenge of doh</title_search>
+    <image ext="png" id="Arkanoid II - Revenge of Doh (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Arkanoid II - Revenge of Doh (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Arkanoid II - Revenge of Doh (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="AshGuine - Densetsu no Seisenshi (Japan)">
+    <description>AshGuine - Densetsu no Seisenshi (Japan)</description>
+    <title_clean>AshGuine - Densetsu no Seisenshi</title_clean>
+    <title_search>ashguine densetsu no seisenshi</title_search>
+    <image ext="png" id="AshGuine - Densetsu no Seisenshi (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="AshGuine - Densetsu no Seisenshi (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="AshGuine - Densetsu no Seisenshi (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="AshGuine Story II - Kokuu no Gajou (Japan)">
+    <description>AshGuine Story II - Kokuu no Gajou (Japan)</description>
+    <title_clean>AshGuine Story II - Kokuu no Gajou</title_clean>
+    <title_search>ashguine story ii kokuu no gajou</title_search>
+    <image ext="png" id="AshGuine Story II - Kokuu no Gajou (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="AshGuine Story II - Kokuu no Gajou (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="AshGuine Story II - Kokuu no Gajou (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="AshGuine Story III - Fukushuu no Honoo (Japan)">
+    <description>AshGuine Story III - Fukushuu no Honoo (Japan)</description>
+    <title_clean>AshGuine Story III - Fukushuu no Honoo</title_clean>
+    <title_search>ashguine story iii fukushuu no honoo</title_search>
+    <image ext="png" id="AshGuine Story III - Fukushuu no Honoo (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="AshGuine Story III - Fukushuu no Honoo (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bubble Bobble (Japan)">
+    <description>Bubble Bobble (Japan)</description>
+    <title_clean>Bubble Bobble</title_clean>
+    <title_search>bubble bobble</title_search>
+    <image ext="png" id="Bubble Bobble (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bubble Bobble (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bubble Bobble (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bubble Bobble (Japan) (Alt 1)">
+    <description>Bubble Bobble (Japan) (Alt 1)</description>
+    <title_clean>Bubble Bobble</title_clean>
+    <title_search>bubble bobble</title_search>
+    <image ext="png" id="Bubble Bobble (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bubble Bobble (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cheese 2 (Japan) (Program)">
+    <description>Cheese 2 (Japan) (Program)</description>
+    <title_clean>Cheese 2</title_clean>
+    <title_search>cheese 2</title_search>
+    <image ext="png" id="Cheese 2 (Japan) (Program)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cheese 2 (Japan) (Program)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cockpit, The (Japan)">
+    <description>Cockpit, The (Japan)</description>
+    <title_clean>The Cockpit</title_clean>
+    <title_search>the cockpit</title_search>
+    <image ext="png" id="Cockpit, The (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cockpit, The (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Contra (Japan)">
+    <description>Contra (Japan)</description>
+    <title_clean>Contra</title_clean>
+    <title_search>contra</title_search>
+    <image ext="png" id="Contra (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Contra (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Contra (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Crimson (Japan)">
+    <description>Crimson (Japan)</description>
+    <title_clean>Crimson</title_clean>
+    <title_search>crimson</title_search>
+    <image ext="png" id="Crimson (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Crimson (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Daikoukai Jidai (Japan)">
+    <description>Daikoukai Jidai (Japan)</description>
+    <title_clean>Daikoukai Jidai</title_clean>
+    <title_search>daikoukai jidai</title_search>
+    <image ext="png" id="Daikoukai Jidai (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Daikoukai Jidai (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Daisenryaku MSX2 (Japan)">
+    <description>Daisenryaku MSX2 (Japan)</description>
+    <title_clean>Daisenryaku MSX2</title_clean>
+    <title_search>daisenryaku msx2</title_search>
+    <image ext="png" id="Daisenryaku MSX2 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Daisenryaku MSX2 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Daisenryaku MSX2 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Darwin 4078 (Japan)">
+    <description>Darwin 4078 (Japan)</description>
+    <title_clean>Darwin 4078</title_clean>
+    <title_search>darwin 4078</title_search>
+    <image ext="png" id="Darwin 4078 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Darwin 4078 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Darwin 4078 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Darwin 4078 (Japan) (Alt 1)">
+    <description>Darwin 4078 (Japan) (Alt 1)</description>
+    <title_clean>Darwin 4078</title_clean>
+    <title_search>darwin 4078</title_search>
+    <image ext="png" id="Darwin 4078 (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Darwin 4078 (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Darwin 4078 (Japan) (Alt 2)">
+    <description>Darwin 4078 (Japan) (Alt 2)</description>
+    <title_clean>Darwin 4078</title_clean>
+    <title_search>darwin 4078</title_search>
+    <image ext="png" id="Darwin 4078 (Japan) (Alt 2)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Darwin 4078 (Japan) (Alt 2)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Deep Forest (Japan)">
+    <description>Deep Forest (Japan)</description>
+    <title_clean>Deep Forest</title_clean>
+    <title_search>deep forest</title_search>
+    <image ext="png" id="Deep Forest (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Deep Forest (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Deep Forest (Japan) (Alt 1)">
+    <description>Deep Forest (Japan) (Alt 1)</description>
+    <title_clean>Deep Forest</title_clean>
+    <title_search>deep forest</title_search>
+    <image ext="png" id="Deep Forest (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Deep Forest (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dires - Giger Loop (Japan)">
+    <description>Dires - Giger Loop (Japan)</description>
+    <title_clean>Dires - Giger Loop</title_clean>
+    <title_search>dires giger loop</title_search>
+    <image ext="png" id="Dires - Giger Loop (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dires - Giger Loop (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dires - Giger Loop (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Double Vision (Japan)">
+    <description>Double Vision (Japan)</description>
+    <title_clean>Double Vision</title_clean>
+    <title_search>double vision</title_search>
+    <image ext="png" id="Double Vision (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Double Vision (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon Buster (Japan)">
+    <description>Dragon Buster (Japan)</description>
+    <title_clean>Dragon Buster</title_clean>
+    <title_search>dragon buster</title_search>
+    <image ext="png" id="Dragon Buster (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dragon Buster (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dragon Buster (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon Quest (Japan)">
+    <description>Dragon Quest (Japan)</description>
+    <title_clean>Dragon Quest</title_clean>
+    <title_search>dragon quest</title_search>
+    <image ext="png" id="Dragon Quest (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dragon Quest (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dragon Quest (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon Quest II (Japan)">
+    <description>Dragon Quest II (Japan)</description>
+    <title_clean>Dragon Quest II</title_clean>
+    <title_search>dragon quest ii</title_search>
+    <image ext="png" id="Dragon Quest II (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dragon Quest II (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon Quest II (Japan) (Alt 1)">
+    <description>Dragon Quest II (Japan) (Alt 1)</description>
+    <title_clean>Dragon Quest II</title_clean>
+    <title_search>dragon quest ii</title_search>
+    <image ext="png" id="Dragon Quest II (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dragon Quest II (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon Slayer IV - Drasle Family (Japan)">
+    <description>Dragon Slayer IV - Drasle Family (Japan)</description>
+    <title_clean>Dragon Slayer IV - Drasle Family</title_clean>
+    <title_search>dragon slayer iv drasle family</title_search>
+    <image ext="png" id="Dragon Slayer IV - Drasle Family (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dragon Slayer IV - Drasle Family (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dragon Slayer IV - Drasle Family (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon Slayer IV - Drasle Family (Japan) (Alt 1)">
+    <description>Dragon Slayer IV - Drasle Family (Japan) (Alt 1)</description>
+    <title_clean>Dragon Slayer IV - Drasle Family</title_clean>
+    <title_search>dragon slayer iv drasle family</title_search>
+    <image ext="png" id="Dragon Slayer IV - Drasle Family (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dragon Slayer IV - Drasle Family (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dragon Slayer IV - Drasle Family (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon Slayer Jr. - Romancia (Japan)">
+    <description>Dragon Slayer Jr. - Romancia (Japan)</description>
+    <title_clean>Dragon Slayer Jr. - Romancia</title_clean>
+    <title_search>dragon slayer jr romancia</title_search>
+    <image ext="png" id="Dragon Slayer Jr. - Romancia (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dragon Slayer Jr. - Romancia (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Druid (Japan)">
+    <description>Druid (Japan)</description>
+    <title_clean>Druid</title_clean>
+    <title_search>druid</title_search>
+    <image ext="png" id="Druid (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Druid (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Druid (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Druid (Japan) (Alt 1)">
+    <description>Druid (Japan) (Alt 1)</description>
+    <title_clean>Druid</title_clean>
+    <title_search>druid</title_search>
+    <image ext="png" id="Druid (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Druid (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dynamite Bowl (Japan)">
+    <description>Dynamite Bowl (Japan)</description>
+    <title_clean>Dynamite Bowl</title_clean>
+    <title_search>dynamite bowl</title_search>
+    <image ext="png" id="Dynamite Bowl (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dynamite Bowl (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dynamite Bowl (Japan) (Alt 1)">
+    <description>Dynamite Bowl (Japan) (Alt 1)</description>
+    <title_clean>Dynamite Bowl</title_clean>
+    <title_search>dynamite bowl</title_search>
+    <image ext="png" id="Dynamite Bowl (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dynamite Bowl (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Eidolon, The (Europe)">
+    <description>Eidolon, The (Europe)</description>
+    <title_clean>The Eidolon</title_clean>
+    <title_search>the eidolon</title_search>
+    <image ext="png" id="Eidolon, The (Europe)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Eidolon, The (Europe)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Eidolon, The (Europe)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Elthlead (Japan)">
+    <description>Elthlead (Japan)</description>
+    <title_clean>Elthlead</title_clean>
+    <title_search>elthlead</title_search>
+    <image ext="png" id="Elthlead (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Elthlead (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Empereur, L' (Japan)">
+    <description>Empereur, L' (Japan)</description>
+    <title_clean>Empereur, L'</title_clean>
+    <title_search>empereur l</title_search>
+    <image ext="png" id="Empereur, L' (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Empereur, L' (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Europe Sensen (Japan)">
+    <description>Europe Sensen (Japan)</description>
+    <title_clean>Europe Sensen</title_clean>
+    <title_search>europe sensen</title_search>
+    <image ext="png" id="Europe Sensen (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Europe Sensen (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="F-15 Strike Eagle (Japan)">
+    <description>F-15 Strike Eagle (Japan)</description>
+    <title_clean>F-15 Strike Eagle</title_clean>
+    <title_search>f15 strike eagle</title_search>
+    <image ext="png" id="F-15 Strike Eagle (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="F-15 Strike Eagle (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="F-15 Strike Eagle (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Famicle Parodic (Japan)">
+    <description>Famicle Parodic (Japan)</description>
+    <title_clean>Famicle Parodic</title_clean>
+    <title_search>famicle parodic</title_search>
+    <image ext="png" id="Famicle Parodic (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Famicle Parodic (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Famicle Parodic (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Family Billiards (Japan)">
+    <description>Family Billiards (Japan)</description>
+    <title_clean>Family Billiards</title_clean>
+    <title_search>family billiards</title_search>
+    <image ext="png" id="Family Billiards (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Family Billiards (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Family Billiards (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Family Boxing - MSX Title Match (Japan)">
+    <description>Family Boxing - MSX Title Match (Japan)</description>
+    <title_clean>Family Boxing - MSX Title Match</title_clean>
+    <title_search>family boxing msx title match</title_search>
+    <image ext="png" id="Family Boxing - MSX Title Match (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Family Boxing - MSX Title Match (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Family Boxing - MSX Title Match (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fantasy Zone II - The Tears of Opa-Opa (Japan)">
+    <description>Fantasy Zone II - The Tears of Opa-Opa (Japan)</description>
+    <title_clean>Fantasy Zone II - The Tears of Opa-Opa</title_clean>
+    <title_search>fantasy zone ii the tears of opaopa</title_search>
+    <image ext="png" id="Fantasy Zone II - The Tears of Opa-Opa (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fantasy Zone II - The Tears of Opa-Opa (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt 1)">
+    <description>Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt 1)</description>
+    <title_clean>Fantasy Zone II - The Tears of Opa-Opa</title_clean>
+    <title_search>fantasy zone ii the tears of opaopa</title_search>
+    <image ext="png" id="Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Final Mystery Murder Club - Satsujin Club (Japan)">
+    <description>Final Mystery Murder Club - Satsujin Club (Japan)</description>
+    <title_clean>Final Mystery Murder Club - Satsujin Club</title_clean>
+    <title_search>final mystery murder club satsujin club</title_search>
+    <image ext="png" id="Final Mystery Murder Club - Satsujin Club (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Final Mystery Murder Club - Satsujin Club (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fire Ball (Japan)">
+    <description>Fire Ball (Japan)</description>
+    <title_clean>Fire Ball</title_clean>
+    <title_search>fire ball</title_search>
+    <image ext="png" id="Fire Ball (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fire Ball (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fire Ball (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fleet Commander II - Koukon no Kaiiki (Japan)">
+    <description>Fleet Commander II - Koukon no Kaiiki (Japan)</description>
+    <title_clean>Fleet Commander II - Koukon no Kaiiki</title_clean>
+    <title_search>fleet commander ii koukon no kaiiki</title_search>
+    <image ext="png" id="Fleet Commander II - Koukon no Kaiiki (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fleet Commander II - Koukon no Kaiiki (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gakuen Monogatari - High School Story (Japan)">
+    <description>Gakuen Monogatari - High School Story (Japan)</description>
+    <title_clean>Gakuen Monogatari - High School Story</title_clean>
+    <title_search>gakuen monogatari high school story</title_search>
+    <image ext="png" id="Gakuen Monogatari - High School Story (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gakuen Monogatari - High School Story (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan)">
+    <description>Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan)</description>
+    <title_clean>Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen</title_clean>
+    <title_search>gambler jiko chuushinha 2 jishou kyougou janshi hen</title_search>
+    <image ext="png" id="Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ganbare Goemon! - Karakuri Douchuu (Japan)">
+    <description>Ganbare Goemon! - Karakuri Douchuu (Japan)</description>
+    <title_clean>Ganbare Goemon! - Karakuri Douchuu</title_clean>
+    <title_search>ganbare goemon karakuri douchuu</title_search>
+    <image ext="png" id="Ganbare Goemon! - Karakuri Douchuu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ganbare Goemon! - Karakuri Douchuu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Garakuta (Japan)">
+    <description>Garakuta (Japan)</description>
+    <title_clean>Garakuta</title_clean>
+    <title_search>garakuta</title_search>
+    <image ext="png" id="Garakuta (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Garakuta (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Garyuu Ou (Japan)">
+    <description>Garyuu Ou (Japan)</description>
+    <title_clean>Garyuu Ou</title_clean>
+    <title_search>garyuu ou</title_search>
+    <image ext="png" id="Garyuu Ou (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Garyuu Ou (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Garyuu Ou (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Garyuu Ou (Japan) (Alt 1)">
+    <description>Garyuu Ou (Japan) (Alt 1)</description>
+    <title_clean>Garyuu Ou</title_clean>
+    <title_search>garyuu ou</title_search>
+    <image ext="png" id="Garyuu Ou (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Garyuu Ou (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan)">
+    <description>Gekitotsu Pennant Race - Pro Yakyuu, The (Japan)</description>
+    <title_clean>The Gekitotsu Pennant Race - Pro Yakyuu</title_clean>
+    <title_search>the gekitotsu pennant race pro yakyuu</title_search>
+    <image ext="png" id="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1)">
+    <description>Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1)</description>
+    <title_clean>The Gekitotsu Pennant Race - Pro Yakyuu</title_clean>
+    <title_search>the gekitotsu pennant race pro yakyuu</title_search>
+    <image ext="png" id="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2)">
+    <description>Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2)</description>
+    <title_clean>The Gekitotsu Pennant Race - Pro Yakyuu</title_clean>
+    <title_search>the gekitotsu pennant race pro yakyuu</title_search>
+    <image ext="png" id="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3)">
+    <description>Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3)</description>
+    <title_clean>The Gekitotsu Pennant Race - Pro Yakyuu</title_clean>
+    <title_search>the gekitotsu pennant race pro yakyuu</title_search>
+    <image ext="png" id="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gekitotsu Pennant Race 2 (Japan)">
+    <description>Gekitotsu Pennant Race 2 (Japan)</description>
+    <title_clean>Gekitotsu Pennant Race 2</title_clean>
+    <title_search>gekitotsu pennant race 2</title_search>
+    <image ext="png" id="Gekitotsu Pennant Race 2 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gekitotsu Pennant Race 2 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gekitotsu Pennant Race 2 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gekitotsu Pennant Race 2 (Japan) (English Menu)">
+    <description>Gekitotsu Pennant Race 2 (Japan) (English Menu)</description>
+    <title_clean>Gekitotsu Pennant Race 2</title_clean>
+    <title_search>gekitotsu pennant race 2</title_search>
+    <image ext="png" id="Gekitotsu Pennant Race 2 (Japan) (English Menu)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gekitotsu Pennant Race 2 (Japan) (English Menu)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Girly Block (Japan)">
+    <description>Girly Block (Japan)</description>
+    <title_clean>Girly Block</title_clean>
+    <title_search>girly block</title_search>
+    <image ext="png" id="Girly Block (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Girly Block (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Girly Block (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hacker (Japan)">
+    <description>Hacker (Japan)</description>
+    <title_clean>Hacker</title_clean>
+    <title_search>hacker</title_search>
+    <image ext="png" id="Hacker (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hacker (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hai no Majutsushi (Japan)">
+    <description>Hai no Majutsushi (Japan)</description>
+    <title_clean>Hai no Majutsushi</title_clean>
+    <title_search>hai no majutsushi</title_search>
+    <image ext="png" id="Hai no Majutsushi (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hai no Majutsushi (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hal Note (Japan) (Program)">
+    <description>Hal Note (Japan) (Program)</description>
+    <title_clean>Hal Note</title_clean>
+    <title_search>hal note</title_search>
+    <image ext="png" id="Hal Note (Japan) (Program)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hal Note (Japan) (Program)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Han Seimei Senki Andorogynus (Japan)">
+    <description>Han Seimei Senki Andorogynus (Japan)</description>
+    <title_clean>Han Seimei Senki Andorogynus</title_clean>
+    <title_search>han seimei senki andorogynus</title_search>
+    <image ext="png" id="Han Seimei Senki Andorogynus (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Han Seimei Senki Andorogynus (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Han Seimei Senki Andorogynus (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Han Seimei Senki Andorogynus (Japan) (Alt 1)">
+    <description>Han Seimei Senki Andorogynus (Japan) (Alt 1)</description>
+    <title_clean>Han Seimei Senki Andorogynus</title_clean>
+    <title_search>han seimei senki andorogynus</title_search>
+    <image ext="png" id="Han Seimei Senki Andorogynus (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Han Seimei Senki Andorogynus (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hard Ball (Japan)">
+    <description>Hard Ball (Japan)</description>
+    <title_clean>Hard Ball</title_clean>
+    <title_search>hard ball</title_search>
+    <image ext="png" id="Hard Ball (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hard Ball (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hard Ball (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Heroes of the Lance (Japan)">
+    <description>Heroes of the Lance (Japan)</description>
+    <title_clean>Heroes of the Lance</title_clean>
+    <title_search>heroes of the lance</title_search>
+    <image ext="png" id="Heroes of the Lance (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Heroes of the Lance (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Heroes of the Lance (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan)">
+    <description>Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan)</description>
+    <title_clean>Higemaru Makai Shima - Nanatsu no Shima Daibouken</title_clean>
+    <title_search>higemaru makai shima nanatsu no shima daibouken</title_search>
+    <image ext="png" id="Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="High School! Kimengumi (Japan)">
+    <description>High School! Kimengumi (Japan)</description>
+    <title_clean>High School! Kimengumi</title_clean>
+    <title_search>high school kimengumi</title_search>
+    <image ext="png" id="High School! Kimengumi (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="High School! Kimengumi (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hinotori - Houou Hen (Japan)">
+    <description>Hinotori - Houou Hen (Japan)</description>
+    <title_clean>Hinotori - Houou Hen</title_clean>
+    <title_search>hinotori houou hen</title_search>
+    <image ext="png" id="Hinotori - Houou Hen (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hinotori - Houou Hen (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hinotori - Houou Hen (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hinotori - Houou Hen (Japan) (Alt 1)">
+    <description>Hinotori - Houou Hen (Japan) (Alt 1)</description>
+    <title_clean>Hinotori - Houou Hen</title_clean>
+    <title_search>hinotori houou hen</title_search>
+    <image ext="png" id="Hinotori - Houou Hen (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hinotori - Houou Hen (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hinotori - Houou Hen (Japan) (Alt 2)">
+    <description>Hinotori - Houou Hen (Japan) (Alt 2)</description>
+    <title_clean>Hinotori - Houou Hen</title_clean>
+    <title_search>hinotori houou hen</title_search>
+    <image ext="png" id="Hinotori - Houou Hen (Japan) (Alt 2)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hinotori - Houou Hen (Japan) (Alt 2)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hole in One Special (Japan)">
+    <description>Hole in One Special (Japan)</description>
+    <title_clean>Hole in One Special</title_clean>
+    <title_search>hole in one special</title_search>
+    <image ext="png" id="Hole in One Special (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hole in One Special (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hole in One Special (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hole in One Special (Japan) (Alt 1)">
+    <description>Hole in One Special (Japan) (Alt 1)</description>
+    <title_clean>Hole in One Special</title_clean>
+    <title_search>hole in one special</title_search>
+    <image ext="png" id="Hole in One Special (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hole in One Special (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hydlide 3 - The Space Memories (Japan)">
+    <description>Hydlide 3 - The Space Memories (Japan)</description>
+    <title_clean>Hydlide 3 - The Space Memories</title_clean>
+    <title_search>hydlide 3 the space memories</title_search>
+    <image ext="png" id="Hydlide 3 - The Space Memories (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hydlide 3 - The Space Memories (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hydlide 3 - The Space Memories (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ide Yousuke Meijin no Jissen Mahjong (Japan)">
+    <description>Ide Yousuke Meijin no Jissen Mahjong (Japan)</description>
+    <title_clean>Ide Yousuke Meijin no Jissen Mahjong</title_clean>
+    <title_search>ide yousuke meijin no jissen mahjong</title_search>
+    <image ext="png" id="Ide Yousuke Meijin no Jissen Mahjong (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ide Yousuke Meijin no Jissen Mahjong (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ikari (Japan)">
+    <description>Ikari (Japan)</description>
+    <title_clean>Ikari</title_clean>
+    <title_search>ikari</title_search>
+    <image ext="png" id="Ikari (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ikari (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ikari (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ikari (Japan) (Alt 1)">
+    <description>Ikari (Japan) (Alt 1)</description>
+    <title_clean>Ikari</title_clean>
+    <title_search>ikari</title_search>
+    <image ext="png" id="Ikari (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ikari (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan)">
+    <description>Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan)</description>
+    <title_clean>Inemuriryuu Asada Tetsuya no A-kyuu Mahjong</title_clean>
+    <title_search>inemuriryuu asada tetsuya no akyuu mahjong</title_search>
+    <image ext="png" id="Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Inindou - Datou Nobunaga (Japan)">
+    <description>Inindou - Datou Nobunaga (Japan)</description>
+    <title_clean>Inindou - Datou Nobunaga</title_clean>
+    <title_search>inindou datou nobunaga</title_search>
+    <image ext="png" id="Inindou - Datou Nobunaga (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Inindou - Datou Nobunaga (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ishin no Arashi (Japan)">
+    <description>Ishin no Arashi (Japan)</description>
+    <title_clean>Ishin no Arashi</title_clean>
+    <title_search>ishin no arashi</title_search>
+    <image ext="png" id="Ishin no Arashi (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ishin no Arashi (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jansei (Japan)">
+    <description>Jansei (Japan)</description>
+    <title_clean>Jansei</title_clean>
+    <title_search>jansei</title_search>
+    <image ext="png" id="Jansei (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jansei (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jansei (Japan) (Alt 1)">
+    <description>Jansei (Japan) (Alt 1)</description>
+    <title_clean>Jansei</title_clean>
+    <title_search>jansei</title_search>
+    <image ext="png" id="Jansei (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jansei (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Japanese MSX-Write II (Japan) (Program)">
+    <description>Japanese MSX-Write II (Japan) (Program)</description>
+    <title_clean>Japanese MSX-Write II</title_clean>
+    <title_search>japanese msxwrite ii</title_search>
+    <image ext="png" id="Japanese MSX-Write II (Japan) (Program)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Japanese MSX-Write II (Japan) (Program)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kempelen Chess (Japan)">
+    <description>Kempelen Chess (Japan)</description>
+    <title_clean>Kempelen Chess</title_clean>
+    <title_search>kempelen chess</title_search>
+    <image ext="png" id="Kempelen Chess (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kempelen Chess (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kiki Kaikai (Japan)">
+    <description>Kiki Kaikai (Japan)</description>
+    <title_clean>Kiki Kaikai</title_clean>
+    <title_search>kiki kaikai</title_search>
+  </game>
+  <game name="King Kong 2 - Yomigaeru Densetsu (Japan)">
+    <description>King Kong 2 - Yomigaeru Densetsu (Japan)</description>
+    <title_clean>King Kong 2 - Yomigaeru Densetsu</title_clean>
+    <title_search>king kong 2 yomigaeru densetsu</title_search>
+    <image ext="png" id="King Kong 2 - Yomigaeru Densetsu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="King Kong 2 - Yomigaeru Densetsu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="King Kong 2 - Yomigaeru Densetsu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kisei (Japan)">
+    <description>Kisei (Japan)</description>
+    <title_clean>Kisei</title_clean>
+    <title_search>kisei</title_search>
+    <image ext="png" id="Kisei (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kisei (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kitahei (Japan)">
+    <description>Kitahei (Japan)</description>
+    <title_clean>Kitahei</title_clean>
+    <title_search>kitahei</title_search>
+    <image ext="png" id="Kitahei (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kitahei (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Koronis Rift (Europe)">
+    <description>Koronis Rift (Europe)</description>
+    <title_clean>Koronis Rift</title_clean>
+    <title_search>koronis rift</title_search>
+    <image ext="png" id="Koronis Rift (Europe)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Koronis Rift (Europe)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Koronis Rift (Europe)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Labyrinth (Japan)">
+    <description>Labyrinth (Japan)</description>
+    <title_clean>Labyrinth</title_clean>
+    <title_search>labyrinth</title_search>
+    <image ext="png" id="Labyrinth (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Labyrinth (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Labyrinth (Japan) (Alt 1)">
+    <description>Labyrinth (Japan) (Alt 1)</description>
+    <title_clean>Labyrinth</title_clean>
+    <title_search>labyrinth</title_search>
+    <image ext="png" id="Labyrinth (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Labyrinth (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lupin Sansei - Babylon no Ougon Densetsu (Japan)">
+    <description>Lupin Sansei - Babylon no Ougon Densetsu (Japan)</description>
+    <title_clean>Lupin Sansei - Babylon no Ougon Densetsu</title_clean>
+    <title_search>lupin sansei babylon no ougon densetsu</title_search>
+    <image ext="png" id="Lupin Sansei - Babylon no Ougon Densetsu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lupin Sansei - Babylon no Ougon Densetsu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt 1)">
+    <description>Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt 1)</description>
+    <title_clean>Lupin Sansei - Babylon no Ougon Densetsu</title_clean>
+    <title_search>lupin sansei babylon no ougon densetsu</title_search>
+    <image ext="png" id="Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lupin Sansei - Cagliostro no Shiro (Japan)">
+    <description>Lupin Sansei - Cagliostro no Shiro (Japan)</description>
+    <title_clean>Lupin Sansei - Cagliostro no Shiro</title_clean>
+    <title_search>lupin sansei cagliostro no shiro</title_search>
+    <image ext="png" id="Lupin Sansei - Cagliostro no Shiro (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lupin Sansei - Cagliostro no Shiro (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lupin Sansei - Cagliostro no Shiro (Japan) (Alt 1)">
+    <description>Lupin Sansei - Cagliostro no Shiro (Japan) (Alt 1)</description>
+    <title_clean>Lupin Sansei - Cagliostro no Shiro</title_clean>
+    <title_search>lupin sansei cagliostro no shiro</title_search>
+    <image ext="png" id="Lupin Sansei - Cagliostro no Shiro (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lupin Sansei - Cagliostro no Shiro (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mad Rider (Japan)">
+    <description>Mad Rider (Japan)</description>
+    <title_clean>Mad Rider</title_clean>
+    <title_search>mad rider</title_search>
+    <image ext="png" id="Mad Rider (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mad Rider (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mad Rider (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mad Rider (Japan) (Alt 1)">
+    <description>Mad Rider (Japan) (Alt 1)</description>
+    <title_clean>Mad Rider</title_clean>
+    <title_search>mad rider</title_search>
+    <image ext="png" id="Mad Rider (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mad Rider (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan)">
+    <description>Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan)</description>
+    <title_clean>Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite...</title_clean>
+    <title_search>maison ikkoku kanketsu hen sayonara soshite</title_search>
+    <image ext="png" id="Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Maison Ikkoku - Omoide no Photograph (Japan)">
+    <description>Maison Ikkoku - Omoide no Photograph (Japan)</description>
+    <title_clean>Maison Ikkoku - Omoide no Photograph</title_clean>
+    <title_search>maison ikkoku omoide no photograph</title_search>
+    <image ext="png" id="Maison Ikkoku - Omoide no Photograph (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Maison Ikkoku - Omoide no Photograph (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Malaya no Hibou (Japan)">
+    <description>Malaya no Hibou (Japan)</description>
+    <title_clean>Malaya no Hibou</title_clean>
+    <title_search>malaya no hibou</title_search>
+    <image ext="png" id="Malaya no Hibou (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Malaya no Hibou (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Metal Gear (Europe)">
+    <description>Metal Gear (Europe)</description>
+    <title_clean>Metal Gear</title_clean>
+    <title_search>metal gear</title_search>
+    <image ext="png" id="Metal Gear (Europe)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Metal Gear (Europe)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Metal Gear (Europe)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Metal Gear (Japan)">
+    <description>Metal Gear (Japan)</description>
+    <title_clean>Metal Gear</title_clean>
+    <title_search>metal gear</title_search>
+    <image ext="png" id="Metal Gear (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Metal Gear (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Metal Gear (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Metal Gear 2 - Solid Snake (Japan)">
+    <description>Metal Gear 2 - Solid Snake (Japan)</description>
+    <title_clean>Metal Gear 2 - Solid Snake</title_clean>
+    <title_search>metal gear 2 solid snake</title_search>
+    <image ext="png" id="Metal Gear 2 - Solid Snake (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Metal Gear 2 - Solid Snake (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Metal Gear 2 - Solid Snake (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Metal Gear 2 - Solid Snake (Japan) (Demo)">
+    <description>Metal Gear 2 - Solid Snake (Japan) (Demo)</description>
+    <title_clean>Metal Gear 2 - Solid Snake</title_clean>
+    <title_search>metal gear 2 solid snake</title_search>
+    <image ext="png" id="Metal Gear 2 - Solid Snake (Japan) (Demo)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Metal Gear 2 - Solid Snake (Japan) (Demo)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mirai (Japan)">
+    <description>Mirai (Japan)</description>
+    <title_clean>Mirai</title_clean>
+    <title_search>mirai</title_search>
+    <image ext="png" id="Mirai (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mirai (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mirai (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mississippi Satsujinjiken (Japan)">
+    <description>Mississippi Satsujinjiken (Japan)</description>
+    <title_clean>Mississippi Satsujinjiken</title_clean>
+    <title_search>mississippi satsujinjiken</title_search>
+    <image ext="png" id="Mississippi Satsujinjiken (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mississippi Satsujinjiken (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Moero!! Nettou Yakyuu '88 (Japan)">
+    <description>Moero!! Nettou Yakyuu '88 (Japan)</description>
+    <title_clean>Moero!! Nettou Yakyuu '88</title_clean>
+    <title_search>moero nettou yakyuu 88</title_search>
+    <image ext="png" id="Moero!! Nettou Yakyuu '88 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Moero!! Nettou Yakyuu '88 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Monmon Kaibutsu (Japan)">
+    <description>Monmon Kaibutsu (Japan)</description>
+    <title_clean>Monmon Kaibutsu</title_clean>
+    <title_search>monmon kaibutsu</title_search>
+    <image ext="png" id="Monmon Kaibutsu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Monmon Kaibutsu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Monmon Kaibutsu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nekketsu Juudou (Japan)">
+    <description>Nekketsu Juudou (Japan)</description>
+    <title_clean>Nekketsu Juudou</title_clean>
+    <title_search>nekketsu juudou</title_search>
+    <image ext="png" id="Nekketsu Juudou (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nekketsu Juudou (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nekketsu Juudou (Japan) (Alt 1)">
+    <description>Nekketsu Juudou (Japan) (Alt 1)</description>
+    <title_clean>Nekketsu Juudou</title_clean>
+    <title_search>nekketsu juudou</title_search>
+    <image ext="png" id="Nekketsu Juudou (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nekketsu Juudou (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ninja-kun - Asura no Shou (Japan)">
+    <description>Ninja-kun - Asura no Shou (Japan)</description>
+    <title_clean>Ninja-kun - Asura no Shou</title_clean>
+    <title_search>ninjakun asura no shou</title_search>
+    <image ext="png" id="Ninja-kun - Asura no Shou (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ninja-kun - Asura no Shou (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ninja-kun - Asura no Shou (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nobunaga no Yabou - Bushou Fuuun Roku (Japan)">
+    <description>Nobunaga no Yabou - Bushou Fuuun Roku (Japan)</description>
+    <title_clean>Nobunaga no Yabou - Bushou Fuuun Roku</title_clean>
+    <title_search>nobunaga no yabou bushou fuuun roku</title_search>
+    <image ext="png" id="Nobunaga no Yabou - Bushou Fuuun Roku (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nobunaga no Yabou - Bushou Fuuun Roku (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nobunaga no Yabou - Sengoku Gunyuuden (Japan)">
+    <description>Nobunaga no Yabou - Sengoku Gunyuuden (Japan)</description>
+    <title_clean>Nobunaga no Yabou - Sengoku Gunyuuden</title_clean>
+    <title_search>nobunaga no yabou sengoku gunyuuden</title_search>
+    <image ext="png" id="Nobunaga no Yabou - Sengoku Gunyuuden (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nobunaga no Yabou - Sengoku Gunyuuden (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nobunaga no Yabou - Zenkoku Ban (Japan)">
+    <description>Nobunaga no Yabou - Zenkoku Ban (Japan)</description>
+    <title_clean>Nobunaga no Yabou - Zenkoku Ban</title_clean>
+    <title_search>nobunaga no yabou zenkoku ban</title_search>
+    <image ext="png" id="Nobunaga no Yabou - Zenkoku Ban (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nobunaga no Yabou - Zenkoku Ban (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ogre (Japan)">
+    <description>Ogre (Japan)</description>
+    <title_clean>Ogre</title_clean>
+    <title_search>ogre</title_search>
+    <image ext="png" id="Ogre (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ogre (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ogre (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ogre (Japan) (Alt 1)">
+    <description>Ogre (Japan) (Alt 1)</description>
+    <title_clean>Ogre</title_clean>
+    <title_search>ogre</title_search>
+    <image ext="png" id="Ogre (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ogre (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ouke no Tani - El Giza no Fuuin (Japan)">
+    <description>Ouke no Tani - El Giza no Fuuin (Japan)</description>
+    <title_clean>Ouke no Tani - El Giza no Fuuin</title_clean>
+    <title_search>ouke no tani el giza no fuuin</title_search>
+    <image ext="png" id="Ouke no Tani - El Giza no Fuuin (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ouke no Tani - El Giza no Fuuin (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ouke no Tani - El Giza no Fuuin (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan)">
+    <description>Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan)</description>
+    <title_clean>Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu</title_clean>
+    <title_search>ouke no tani el giza no fuuin edit contest yuushuu sakuhinshuu</title_search>
+    <image ext="png" id="Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Out Run (Japan)">
+    <description>Out Run (Japan)</description>
+    <title_clean>Out Run</title_clean>
+    <title_search>out run</title_search>
+    <image ext="png" id="Out Run (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Out Run (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Out Run (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pac-Mania (Japan)">
+    <description>Pac-Mania (Japan)</description>
+    <title_clean>Pac-Mania</title_clean>
+    <title_search>pacmania</title_search>
+    <image ext="png" id="Pac-Mania (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pac-Mania (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pac-Mania (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pachi Pro Densetsu (Japan)">
+    <description>Pachi Pro Densetsu (Japan)</description>
+    <title_clean>Pachi Pro Densetsu</title_clean>
+    <title_search>pachi pro densetsu</title_search>
+    <image ext="png" id="Pachi Pro Densetsu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pachi Pro Densetsu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Penguin-kun Wars 2 (Japan)">
+    <description>Penguin-kun Wars 2 (Japan)</description>
+    <title_clean>Penguin-kun Wars 2</title_clean>
+    <title_search>penguinkun wars 2</title_search>
+    <image ext="png" id="Penguin-kun Wars 2 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Penguin-kun Wars 2 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Penguin-kun Wars 2 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Penguin-kun Wars 2 (Japan) (Alt 1)">
+    <description>Penguin-kun Wars 2 (Japan) (Alt 1)</description>
+    <title_clean>Penguin-kun Wars 2</title_clean>
+    <title_search>penguinkun wars 2</title_search>
+    <image ext="png" id="Penguin-kun Wars 2 (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Penguin-kun Wars 2 (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Predator (Japan)">
+    <description>Predator (Japan)</description>
+    <title_clean>Predator</title_clean>
+    <title_search>predator</title_search>
+    <image ext="png" id="Predator (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Predator (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Predator (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pro Yakyuu Family Stadium - Pennant Race (Japan)">
+    <description>Pro Yakyuu Family Stadium - Pennant Race (Japan)</description>
+    <title_clean>Pro Yakyuu Family Stadium - Pennant Race</title_clean>
+    <title_search>pro yakyuu family stadium pennant race</title_search>
+    <image ext="png" id="Pro Yakyuu Family Stadium - Pennant Race (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pro Yakyuu Family Stadium - Pennant Race (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pro Yakyuu Fan - Telenet Stadium (Japan)">
+    <description>Pro Yakyuu Fan - Telenet Stadium (Japan)</description>
+    <title_clean>Pro Yakyuu Fan - Telenet Stadium</title_clean>
+    <title_search>pro yakyuu fan telenet stadium</title_search>
+    <image ext="png" id="Pro Yakyuu Fan - Telenet Stadium (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pro Yakyuu Fan - Telenet Stadium (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Professional Mahjong Gokuu (Japan)">
+    <description>Professional Mahjong Gokuu (Japan)</description>
+    <title_clean>Professional Mahjong Gokuu</title_clean>
+    <title_search>professional mahjong gokuu</title_search>
+    <image ext="png" id="Professional Mahjong Gokuu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Professional Mahjong Gokuu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Project A2 - Shijousaidai no Hyouteki (Japan)">
+    <description>Project A2 - Shijousaidai no Hyouteki (Japan)</description>
+    <title_clean>Project A2 - Shijousaidai no Hyouteki</title_clean>
+    <title_search>project a2 shijousaidai no hyouteki</title_search>
+    <image ext="png" id="Project A2 - Shijousaidai no Hyouteki (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Project A2 - Shijousaidai no Hyouteki (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Quarth (Japan)">
+    <description>Quarth (Japan)</description>
+    <title_clean>Quarth</title_clean>
+    <title_search>quarth</title_search>
+    <image ext="png" id="Quarth (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Quarth (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Quarth (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Quarth (Japan) (Demo)">
+    <description>Quarth (Japan) (Demo)</description>
+    <title_clean>Quarth</title_clean>
+    <title_search>quarth</title_search>
+    <image ext="png" id="Quarth (Japan) (Demo)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Quarth (Japan) (Demo)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Quarth (Korea)">
+    <description>Quarth (Korea)</description>
+    <title_clean>Quarth</title_clean>
+    <title_search>quarth</title_search>
+    <image ext="png" id="Quarth (Korea)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Quarth (Korea)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Quinpl (Japan)">
+    <description>Quinpl (Japan)</description>
+    <title_clean>Quinpl</title_clean>
+    <title_search>quinpl</title_search>
+    <image ext="png" id="Quinpl (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Quinpl (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rastan Saga (Japan)">
+    <description>Rastan Saga (Japan)</description>
+    <title_clean>Rastan Saga</title_clean>
+    <title_search>rastan saga</title_search>
+    <image ext="png" id="Rastan Saga (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rastan Saga (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rastan Saga (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Relics (Japan)">
+    <description>Relics (Japan)</description>
+    <title_clean>Relics</title_clean>
+    <title_search>relics</title_search>
+    <image ext="png" id="Relics (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Relics (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Replicart (Japan)">
+    <description>Replicart (Japan)</description>
+    <title_clean>Replicart</title_clean>
+    <title_search>replicart</title_search>
+    <image ext="png" id="Replicart (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Replicart (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Replicart (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Return of Ishtar, The (Japan)">
+    <description>Return of Ishtar, The (Japan)</description>
+    <title_clean>The Return of Ishtar</title_clean>
+    <title_search>the return of ishtar</title_search>
+    <image ext="png" id="Return of Ishtar, The (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Return of Ishtar, The (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Return of Ishtar, The (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Return of Jelda (Japan)">
+    <description>Return of Jelda (Japan)</description>
+    <title_clean>Return of Jelda</title_clean>
+    <title_search>return of jelda</title_search>
+    <image ext="png" id="Return of Jelda (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Return of Jelda (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rick to Mick no Daibouken (Japan)">
+    <description>Rick to Mick no Daibouken (Japan)</description>
+    <title_clean>Rick to Mick no Daibouken</title_clean>
+    <title_search>rick to mick no daibouken</title_search>
+    <image ext="png" id="Rick to Mick no Daibouken (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rick to Mick no Daibouken (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Royal Blood (Japan)">
+    <description>Royal Blood (Japan)</description>
+    <title_clean>Royal Blood</title_clean>
+    <title_search>royal blood</title_search>
+    <image ext="png" id="Royal Blood (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Royal Blood (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sangokushi (Japan)">
+    <description>Sangokushi (Japan)</description>
+    <title_clean>Sangokushi</title_clean>
+    <title_search>sangokushi</title_search>
+    <image ext="png" id="Sangokushi (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sangokushi (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sangokushi II (Japan)">
+    <description>Sangokushi II (Japan)</description>
+    <title_clean>Sangokushi II</title_clean>
+    <title_search>sangokushi ii</title_search>
+    <image ext="png" id="Sangokushi II (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sangokushi II (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Scramble Formation (Japan)">
+    <description>Scramble Formation (Japan)</description>
+    <title_clean>Scramble Formation</title_clean>
+    <title_search>scramble formation</title_search>
+    <image ext="png" id="Scramble Formation (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Scramble Formation (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Scramble Formation (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Seikima II Special - Akuma no Gyakushuu (Japan)">
+    <description>Seikima II Special - Akuma no Gyakushuu (Japan)</description>
+    <title_clean>Seikima II Special - Akuma no Gyakushuu</title_clean>
+    <title_search>seikima ii special akuma no gyakushuu</title_search>
+    <image ext="png" id="Seikima II Special - Akuma no Gyakushuu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Seikima II Special - Akuma no Gyakushuu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Seikima II Special - Akuma no Gyakushuu (Japan) (Alt 1)">
+    <description>Seikima II Special - Akuma no Gyakushuu (Japan) (Alt 1)</description>
+    <title_clean>Seikima II Special - Akuma no Gyakushuu</title_clean>
+    <title_search>seikima ii special akuma no gyakushuu</title_search>
+    <image ext="png" id="Seikima II Special - Akuma no Gyakushuu (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Seikima II Special - Akuma no Gyakushuu (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shanghai (Japan)">
+    <description>Shanghai (Japan)</description>
+    <title_clean>Shanghai</title_clean>
+    <title_search>shanghai</title_search>
+    <image ext="png" id="Shanghai (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shanghai (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shiryou Sensen - War of the Dead (Japan)">
+    <description>Shiryou Sensen - War of the Dead (Japan)</description>
+    <title_clean>Shiryou Sensen - War of the Dead</title_clean>
+    <title_search>shiryou sensen war of the dead</title_search>
+    <image ext="png" id="Shiryou Sensen - War of the Dead (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shiryou Sensen - War of the Dead (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shiryou Sensen - War of the Dead (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Manbow (Japan)">
+    <description>Space Manbow (Japan)</description>
+    <title_clean>Space Manbow</title_clean>
+    <title_search>space manbow</title_search>
+    <image ext="png" id="Space Manbow (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Manbow (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Manbow (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Virgin (Japan)">
+    <description>Star Virgin (Japan)</description>
+    <title_clean>Star Virgin</title_clean>
+    <title_search>star virgin</title_search>
+    <image ext="png" id="Star Virgin (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Virgin (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Virgin (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Virgin (Japan) (Alt 1)">
+    <description>Star Virgin (Japan) (Alt 1)</description>
+    <title_clean>Star Virgin</title_clean>
+    <title_search>star virgin</title_search>
+    <image ext="png" id="Star Virgin (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Virgin (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Strategic Mars (Japan)">
+    <description>Strategic Mars (Japan)</description>
+    <title_clean>Strategic Mars</title_clean>
+    <title_search>strategic mars</title_search>
+    <image ext="png" id="Strategic Mars (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Strategic Mars (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Strategic Mars (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Suikoden - Tenmei no Chikai (Japan)">
+    <description>Suikoden - Tenmei no Chikai (Japan)</description>
+    <title_clean>Suikoden - Tenmei no Chikai</title_clean>
+    <title_search>suikoden tenmei no chikai</title_search>
+    <image ext="png" id="Suikoden - Tenmei no Chikai (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Suikoden - Tenmei no Chikai (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Daisenryaku (Japan)">
+    <description>Super Daisenryaku (Japan)</description>
+    <title_clean>Super Daisenryaku</title_clean>
+    <title_search>super daisenryaku</title_search>
+    <image ext="png" id="Super Daisenryaku (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Daisenryaku (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Daisenryaku (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Load Runner (Japan)">
+    <description>Super Load Runner (Japan)</description>
+    <title_clean>Super Load Runner</title_clean>
+    <title_search>super load runner</title_search>
+    <image ext="png" id="Super Load Runner (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Load Runner (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Load Runner (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Rambo Special (Japan)">
+    <description>Super Rambo Special (Japan)</description>
+    <title_clean>Super Rambo Special</title_clean>
+    <title_search>super rambo special</title_search>
+    <image ext="png" id="Super Rambo Special (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Rambo Special (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Rambo Special (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Runner (Japan)">
+    <description>Super Runner (Japan)</description>
+    <title_clean>Super Runner</title_clean>
+    <title_search>super runner</title_search>
+    <image ext="png" id="Super Runner (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Runner (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Tritorn (Japan)">
+    <description>Super Tritorn (Japan)</description>
+    <title_clean>Super Tritorn</title_clean>
+    <title_search>super tritorn</title_search>
+    <image ext="png" id="Super Tritorn (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Tritorn (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Tritorn (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Synthe Saurus (Japan) (Program)">
+    <description>Synthe Saurus (Japan) (Program)</description>
+    <title_clean>Synthe Saurus</title_clean>
+    <title_search>synthe saurus</title_search>
+    <image ext="png" id="Synthe Saurus (Japan) (Program)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Synthe Saurus (Japan) (Program)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Taiyou no Shinden - Asteka II (Japan)">
+    <description>Taiyou no Shinden - Asteka II (Japan)</description>
+    <title_clean>Taiyou no Shinden - Asteka II</title_clean>
+    <title_search>taiyou no shinden asteka ii</title_search>
+    <image ext="png" id="Taiyou no Shinden - Asteka II (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Taiyou no Shinden - Asteka II (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tanikawa Hiroshi no Shougi Shinan 2 (Japan)">
+    <description>Tanikawa Hiroshi no Shougi Shinan 2 (Japan)</description>
+    <title_clean>Tanikawa Hiroshi no Shougi Shinan 2</title_clean>
+    <title_search>tanikawa hiroshi no shougi shinan 2</title_search>
+    <image ext="png" id="Tanikawa Hiroshi no Shougi Shinan 2 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tanikawa Hiroshi no Shougi Shinan 2 (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Teitoku no Ketsudan (Japan)">
+    <description>Teitoku no Ketsudan (Japan)</description>
+    <title_clean>Teitoku no Ketsudan</title_clean>
+    <title_search>teitoku no ketsudan</title_search>
+    <image ext="png" id="Teitoku no Ketsudan (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Teitoku no Ketsudan (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tengoku Yoitoko (Japan)">
+    <description>Tengoku Yoitoko (Japan)</description>
+    <title_clean>Tengoku Yoitoko</title_clean>
+    <title_search>tengoku yoitoko</title_search>
+    <image ext="png" id="Tengoku Yoitoko (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tengoku Yoitoko (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tetris (Japan)">
+    <description>Tetris (Japan)</description>
+    <title_clean>Tetris</title_clean>
+    <title_search>tetris</title_search>
+    <image ext="png" id="Tetris (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tetris (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tetris (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Topple Zip (Japan)">
+    <description>Topple Zip (Japan)</description>
+    <title_clean>Topple Zip</title_clean>
+    <title_search>topple zip</title_search>
+    <image ext="png" id="Topple Zip (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Topple Zip (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Treasure of Usas, The (Japan, Europe)">
+    <description>Treasure of Usas, The (Japan, Europe)</description>
+    <title_clean>The Treasure of Usas</title_clean>
+    <title_search>the treasure of usas</title_search>
+    <image ext="png" id="Treasure of Usas, The (Japan, Europe)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Treasure of Usas, The (Japan, Europe)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Treasure of Usas, The (Japan, Europe)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Treasure of Usas, The (Japan, Europe) (Alt 1)">
+    <description>Treasure of Usas, The (Japan, Europe) (Alt 1)</description>
+    <title_clean>The Treasure of Usas</title_clean>
+    <title_search>the treasure of usas</title_search>
+    <image ext="png" id="Treasure of Usas, The (Japan, Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Treasure of Usas, The (Japan, Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tsurikichi Sanpei - Blue Marine Hen (Japan)">
+    <description>Tsurikichi Sanpei - Blue Marine Hen (Japan)</description>
+    <title_clean>Tsurikichi Sanpei - Blue Marine Hen</title_clean>
+    <title_search>tsurikichi sanpei blue marine hen</title_search>
+    <image ext="png" id="Tsurikichi Sanpei - Blue Marine Hen (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tsurikichi Sanpei - Blue Marine Hen (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tsurikichi Sanpei - Tsuri Sennin Hen (Japan)">
+    <description>Tsurikichi Sanpei - Tsuri Sennin Hen (Japan)</description>
+    <title_clean>Tsurikichi Sanpei - Tsuri Sennin Hen</title_clean>
+    <title_search>tsurikichi sanpei tsuri sennin hen</title_search>
+    <image ext="png" id="Tsurikichi Sanpei - Tsuri Sennin Hen (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tsurikichi Sanpei - Tsuri Sennin Hen (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ultima Exodus (Japan)">
+    <description>Ultima Exodus (Japan)</description>
+    <title_clean>Ultima Exodus</title_clean>
+    <title_search>ultima exodus</title_search>
+    <image ext="png" id="Ultima Exodus (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ultima Exodus (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Urusei Yatsura - Koi no Survival Birthday (Japan)">
+    <description>Urusei Yatsura - Koi no Survival Birthday (Japan)</description>
+    <title_clean>Urusei Yatsura - Koi no Survival Birthday</title_clean>
+    <title_search>urusei yatsura koi no survival birthday</title_search>
+    <image ext="png" id="Urusei Yatsura - Koi no Survival Birthday (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Urusei Yatsura - Koi no Survival Birthday (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Vampire Killer (Japan, Europe)">
+    <description>Vampire Killer (Japan, Europe)</description>
+    <title_clean>Vampire Killer</title_clean>
+    <title_search>vampire killer</title_search>
+    <image ext="png" id="Vampire Killer (Japan, Europe)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Vampire Killer (Japan, Europe)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Vampire Killer (Japan, Europe)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Vampire Killer (Japan, Europe) (Alt 1)">
+    <description>Vampire Killer (Japan, Europe) (Alt 1)</description>
+    <title_clean>Vampire Killer</title_clean>
+    <title_search>vampire killer</title_search>
+    <image ext="png" id="Vampire Killer (Japan, Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Vampire Killer (Japan, Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Vampire Killer (Japan, Europe) (Alt 2)">
+    <description>Vampire Killer (Japan, Europe) (Alt 2)</description>
+    <title_clean>Vampire Killer</title_clean>
+    <title_search>vampire killer</title_search>
+    <image ext="png" id="Vampire Killer (Japan, Europe) (Alt 2)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Vampire Killer (Japan, Europe) (Alt 2)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Vampire Killer (Japan, Europe) (Alt 3)">
+    <description>Vampire Killer (Japan, Europe) (Alt 3)</description>
+    <title_clean>Vampire Killer</title_clean>
+    <title_search>vampire killer</title_search>
+    <image ext="png" id="Vampire Killer (Japan, Europe) (Alt 3)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Vampire Killer (Japan, Europe) (Alt 3)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Victorious Nine II - Koukou Yakyuu Hen (Japan)">
+    <description>Victorious Nine II - Koukou Yakyuu Hen (Japan)</description>
+    <title_clean>Victorious Nine II - Koukou Yakyuu Hen</title_clean>
+    <title_search>victorious nine ii koukou yakyuu hen</title_search>
+    <image ext="png" id="Victorious Nine II - Koukou Yakyuu Hen (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Victorious Nine II - Koukou Yakyuu Hen (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wizardry (Japan)">
+    <description>Wizardry (Japan)</description>
+    <title_clean>Wizardry</title_clean>
+    <title_search>wizardry</title_search>
+    <image ext="png" id="Wizardry (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wizardry (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Woody Poco (Japan)">
+    <description>Woody Poco (Japan)</description>
+    <title_clean>Woody Poco</title_clean>
+    <title_search>woody poco</title_search>
+    <image ext="png" id="Woody Poco (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Woody Poco (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Woody Poco (Japan) (Alt 1)">
+    <description>Woody Poco (Japan) (Alt 1)</description>
+    <title_clean>Woody Poco</title_clean>
+    <title_search>woody poco</title_search>
+    <image ext="png" id="Woody Poco (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Woody Poco (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Xevious - Fardraut Saga (Japan)">
+    <description>Xevious - Fardraut Saga (Japan)</description>
+    <title_clean>Xevious - Fardraut Saga</title_clean>
+    <title_search>xevious fardraut saga</title_search>
+    <image ext="png" id="Xevious - Fardraut Saga (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Xevious - Fardraut Saga (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Xevious - Fardraut Saga (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Xevious - Fardraut Saga (Japan) (Alt 1)">
+    <description>Xevious - Fardraut Saga (Japan) (Alt 1)</description>
+    <title_clean>Xevious - Fardraut Saga</title_clean>
+    <title_search>xevious fardraut saga</title_search>
+    <image ext="png" id="Xevious - Fardraut Saga (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Xevious - Fardraut Saga (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Yaksa (Japan)">
+    <description>Yaksa (Japan)</description>
+    <title_clean>Yaksa</title_clean>
+    <title_search>yaksa</title_search>
+    <image ext="png" id="Yaksa (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Yaksa (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan)">
+    <description>Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan)</description>
+    <title_clean>Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken</title_clean>
+    <title_search>yamamura misa suspense kyoto ryuu no tera satsujinjiken</title_search>
+    <image ext="png" id="Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Yuurei-kun (Japan)">
+    <description>Yuurei-kun (Japan)</description>
+    <title_clean>Yuurei-kun</title_clean>
+    <title_search>yuureikun</title_search>
+    <image ext="png" id="Yuurei-kun (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Yuurei-kun (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Yuurei-kun (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zanac Ex (Japan)">
+    <description>Zanac Ex (Japan)</description>
+    <title_clean>Zanac Ex</title_clean>
+    <title_search>zanac ex</title_search>
+    <image ext="png" id="Zanac Ex (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zanac Ex (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zanac Ex (Japan) (Alt 1)">
+    <description>Zanac Ex (Japan) (Alt 1)</description>
+    <title_clean>Zanac Ex</title_clean>
+    <title_search>zanac ex</title_search>
+    <image ext="png" id="Zanac Ex (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zanac Ex (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zoids - Chuuou Tairiku no Tatakai (Japan)">
+    <description>Zoids - Chuuou Tairiku no Tatakai (Japan)</description>
+    <title_clean>Zoids - Chuuou Tairiku no Tatakai</title_clean>
+    <title_search>zoids chuuou tairiku no tatakai</title_search>
+    <image ext="png" id="Zoids - Chuuou Tairiku no Tatakai (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zoids - Chuuou Tairiku no Tatakai (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zombie Hunter (Japan)">
+    <description>Zombie Hunter (Japan)</description>
+    <title_clean>Zombie Hunter</title_clean>
+    <title_search>zombie hunter</title_search>
+    <image ext="png" id="Zombie Hunter (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Zombie Hunter (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zombie Hunter (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zukkoke Yajikita Onmitsu Douchuu (Japan)">
+    <description>Zukkoke Yajikita Onmitsu Douchuu (Japan)</description>
+    <title_clean>Zukkoke Yajikita Onmitsu Douchuu</title_clean>
+    <title_search>zukkoke yajikita onmitsu douchuu</title_search>
+    <image ext="png" id="Zukkoke Yajikita Onmitsu Douchuu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zukkoke Yajikita Onmitsu Douchuu (Japan)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt 1)">
+    <description>Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt 1)</description>
+    <title_clean>Zukkoke Yajikita Onmitsu Douchuu</title_clean>
+    <title_search>zukkoke yajikita onmitsu douchuu</title_search>
+    <image ext="png" id="Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Microsoft_-_MSX2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

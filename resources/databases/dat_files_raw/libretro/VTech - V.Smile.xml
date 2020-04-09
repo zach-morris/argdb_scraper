@@ -1,0 +1,685 @@
+<datafile>
+  <game name="ABC Land aventure (France)">
+    <description>ABC Land aventure (France)</description>
+    <title_clean>ABC Land aventure</title_clean>
+    <title_search>abc land aventure</title_search>
+  </game>
+  <game name="Abenteuer im ABC Park (Germany)">
+    <description>Abenteuer im ABC Park (Germany)</description>
+    <title_clean>Abenteuer im ABC Park</title_clean>
+    <title_search>abenteuer im abc park</title_search>
+  </game>
+  <game name="Aladdin - Aladdins Welt der Wunder (Germany)">
+    <description>Aladdin - Aladdins Welt der Wunder (Germany)</description>
+    <title_clean>Aladdin - Aladdins Welt der Wunder</title_clean>
+    <title_search>aladdin aladdins welt der wunder</title_search>
+  </game>
+  <game name="Aladdin - El Maravilloso Mundo de Aladdin (Spain)">
+    <description>Aladdin - El Maravilloso Mundo de Aladdin (Spain)</description>
+    <title_clean>Aladdin - El Maravilloso Mundo de Aladdin</title_clean>
+    <title_search>aladdin el maravilloso mundo de aladdin</title_search>
+  </game>
+  <game name="Aladdin - Il magico mondo di Aladdin (Italy)">
+    <description>Aladdin - Il magico mondo di Aladdin (Italy)</description>
+    <title_clean>Aladdin - Il magico mondo di Aladdin</title_clean>
+    <title_search>aladdin il magico mondo di aladdin</title_search>
+  </game>
+  <game name="Alphabet Park Adventure (USA)">
+    <description>Alphabet Park Adventure (USA)</description>
+    <title_clean>Alphabet Park Adventure</title_clean>
+    <title_search>alphabet park adventure</title_search>
+  </game>
+  <game name="Alphabet Park Adventure (USA) (Alt)">
+    <description>Alphabet Park Adventure (USA) (Alt)</description>
+    <title_clean>Alphabet Park Adventure</title_clean>
+    <title_search>alphabet park adventure</title_search>
+  </game>
+  <game name="Alphabet Park Adventure (USA) (Rev 1)">
+    <description>Alphabet Park Adventure (USA) (Rev 1)</description>
+    <title_clean>Alphabet Park Adventure</title_clean>
+    <title_search>alphabet park adventure</title_search>
+  </game>
+  <game name="Apprenti' pilote (France)">
+    <description>Apprenti' pilote (France)</description>
+    <title_clean>Apprenti' pilote</title_clean>
+    <title_search>apprenti pilote</title_search>
+  </game>
+  <game name="Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany)">
+    <description>Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany)</description>
+    <title_clean>Arielle die Meerjungfrau - Arielles aufregendes Abenteuer</title_clean>
+    <title_search>arielle die meerjungfrau arielles aufregendes abenteuer</title_search>
+  </game>
+  <game name="Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany) (Rev 1)">
+    <description>Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany) (Rev 1)</description>
+    <title_clean>Arielle die Meerjungfrau - Arielles aufregendes Abenteuer</title_clean>
+    <title_search>arielle die meerjungfrau arielles aufregendes abenteuer</title_search>
+  </game>
+  <game name="Aventuras en el Parque Alfabeto (Spain)">
+    <description>Aventuras en el Parque Alfabeto (Spain)</description>
+    <title_clean>Aventuras en el Parque Alfabeto</title_clean>
+    <title_search>aventuras en el parque alfabeto</title_search>
+  </game>
+  <game name="Barney - Erlebnis-Reise (Germany)">
+    <description>Barney - Erlebnis-Reise (Germany)</description>
+    <title_clean>Barney - Erlebnis-Reise</title_clean>
+    <title_search>barney erlebnisreise</title_search>
+  </game>
+  <game name="Batman, The - Gotham City Rescue (Europe) (En-GB)">
+    <description>Batman, The - Gotham City Rescue (Europe) (En-GB)</description>
+    <title_clean>The Batman - Gotham City Rescue</title_clean>
+    <title_search>the batman gotham city rescue</title_search>
+  </game>
+  <game name="Bilar - Koer ikapp i Kylarkoeping (Sweden)">
+    <description>Bilar - Koer ikapp i Kylarkoeping (Sweden)</description>
+    <title_clean>Bilar - Koer ikapp i Kylarkoeping</title_clean>
+    <title_search>bilar koer ikapp i kylarkoeping</title_search>
+  </game>
+  <game name="Biler - Raes i Kolerkildekobing (Denmark)">
+    <description>Biler - Raes i Kolerkildekobing (Denmark)</description>
+    <title_clean>Biler - Raes i Kolerkildekobing</title_clean>
+    <title_search>biler raes i kolerkildekobing</title_search>
+  </game>
+  <game name="Blue's Clues - Collection Day (USA)">
+    <description>Blue's Clues - Collection Day (USA)</description>
+    <title_clean>Blue's Clues - Collection Day</title_clean>
+    <title_search>blues clues collection day</title_search>
+  </game>
+  <game name="Bob der Baumeister - Bobs spannender Arbeitstag (Germany)">
+    <description>Bob der Baumeister - Bobs spannender Arbeitstag (Germany)</description>
+    <title_clean>Bob der Baumeister - Bobs spannender Arbeitstag</title_clean>
+    <title_search>bob der baumeister bobs spannender arbeitstag</title_search>
+  </game>
+  <game name="Bob the Builder - Bob's Busy Day (Europe) (En-GB)">
+    <description>Bob the Builder - Bob's Busy Day (Europe) (En-GB)</description>
+    <title_clean>Bob the Builder - Bob's Busy Day</title_clean>
+    <title_search>bob the builder bobs busy day</title_search>
+  </game>
+  <game name="Bob the Builder - Bob's Busy Day (USA)">
+    <description>Bob the Builder - Bob's Busy Day (USA)</description>
+    <title_clean>Bob the Builder - Bob's Busy Day</title_clean>
+    <title_search>bob the builder bobs busy day</title_search>
+  </game>
+  <game name="Byggare Bob - Bobs stressiga dag (Sweden)">
+    <description>Byggare Bob - Bobs stressiga dag (Sweden)</description>
+    <title_clean>Byggare Bob - Bobs stressiga dag</title_clean>
+    <title_search>byggare bob bobs stressiga dag</title_search>
+  </game>
+  <game name="Byggemand Bob - Bobs travle dag (Denmark)">
+    <description>Byggemand Bob - Bobs travle dag (Denmark)</description>
+    <title_clean>Byggemand Bob - Bobs travle dag</title_clean>
+    <title_search>byggemand bob bobs travle dag</title_search>
+  </game>
+  <game name="Cars - Quatre roues (France)">
+    <description>Cars - Quatre roues (France)</description>
+    <title_clean>Cars - Quatre roues</title_clean>
+    <title_search>cars quatre roues</title_search>
+  </game>
+  <game name="Cars - Rev It Up in Radiator Springs (Europe) (En-GB)">
+    <description>Cars - Rev It Up in Radiator Springs (Europe) (En-GB)</description>
+    <title_clean>Cars - Rev It Up in Radiator Springs</title_clean>
+    <title_search>cars rev it up in radiator springs</title_search>
+  </game>
+  <game name="Cars - Rev It Up in Radiator Springs (USA)">
+    <description>Cars - Rev It Up in Radiator Springs (USA)</description>
+    <title_clean>Cars - Rev It Up in Radiator Springs</title_clean>
+    <title_search>cars rev it up in radiator springs</title_search>
+  </game>
+  <game name="Cars - Rev It Up in Radiator Springs (USA) (Rev 2)">
+    <description>Cars - Rev It Up in Radiator Springs (USA) (Rev 2)</description>
+    <title_clean>Cars - Rev It Up in Radiator Springs</title_clean>
+    <title_search>cars rev it up in radiator springs</title_search>
+  </game>
+  <game name="Cars - Vollgas in Radiator Springs (Germany)">
+    <description>Cars - Vollgas in Radiator Springs (Germany)</description>
+    <title_clean>Cars - Vollgas in Radiator Springs</title_clean>
+    <title_search>cars vollgas in radiator springs</title_search>
+  </game>
+  <game name="Cendrillon - Le reve enchante de Cendrillon (France)">
+    <description>Cendrillon - Le reve enchante de Cendrillon (France)</description>
+    <title_clean>Cendrillon - Le reve enchante de Cendrillon</title_clean>
+    <title_search>cendrillon le reve enchante de cendrillon</title_search>
+  </game>
+  <game name="Cenerentola - I desideri magici di Cenerentola (Italy)">
+    <description>Cenerentola - I desideri magici di Cenerentola (Italy)</description>
+    <title_clean>Cenerentola - I desideri magici di Cenerentola</title_clean>
+    <title_search>cenerentola i desideri magici di cenerentola</title_search>
+  </game>
+  <game name="Cinderella - Askepots magiske onsker (Denmark)">
+    <description>Cinderella - Askepots magiske onsker (Denmark)</description>
+    <title_clean>Cinderella - Askepots magiske onsker</title_clean>
+    <title_search>cinderella askepots magiske onsker</title_search>
+  </game>
+  <game name="Cinderella - Askungens magiska oenskningar (Sweden)">
+    <description>Cinderella - Askungens magiska oenskningar (Sweden)</description>
+    <title_clean>Cinderella - Askungens magiska oenskningar</title_clean>
+    <title_search>cinderella askungens magiska oenskningar</title_search>
+  </game>
+  <game name="Cinderella - Cinderella's Magic Wishes (Europe) (En-GB)">
+    <description>Cinderella - Cinderella's Magic Wishes (Europe) (En-GB)</description>
+    <title_clean>Cinderella - Cinderella's Magic Wishes</title_clean>
+    <title_search>cinderella cinderellas magic wishes</title_search>
+  </game>
+  <game name="Cinderella - Cinderella's Magic Wishes (USA)">
+    <description>Cinderella - Cinderella's Magic Wishes (USA)</description>
+    <title_clean>Cinderella - Cinderella's Magic Wishes</title_clean>
+    <title_search>cinderella cinderellas magic wishes</title_search>
+  </game>
+  <game name="Cinderella - Lernen im Maerchenland (Germany)">
+    <description>Cinderella - Lernen im Maerchenland (Germany)</description>
+    <title_clean>Cinderella - Lernen im Maerchenland</title_clean>
+    <title_search>cinderella lernen im maerchenland</title_search>
+  </game>
+  <game name="Cinderella - Lernen im Maerchenland (Germany) (Rev 1)">
+    <description>Cinderella - Lernen im Maerchenland (Germany) (Rev 1)</description>
+    <title_clean>Cinderella - Lernen im Maerchenland</title_clean>
+    <title_search>cinderella lernen im maerchenland</title_search>
+  </game>
+  <game name="Cinderella - Lernen im Maerchenland (Germany) (V.Smile Motion)">
+    <description>Cinderella - Lernen im Maerchenland (Germany) (V.Smile Motion)</description>
+    <title_clean>Cinderella - Lernen im Maerchenland</title_clean>
+    <title_search>cinderella lernen im maerchenland</title_search>
+  </game>
+  <game name="Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden)">
+    <description>Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden)</description>
+    <title_clean>Den lilla sjoejungfrun - Ariels majestaetiska resa!</title_clean>
+    <title_search>den lilla sjoejungfrun ariels majestaetiska resa</title_search>
+  </game>
+  <game name="Den lille havfrue - Ariels majestaetiske rejse! (Denmark)">
+    <description>Den lille havfrue - Ariels majestaetiske rejse! (Denmark)</description>
+    <title_clean>Den lille havfrue - Ariels majestaetiske rejse!</title_clean>
+    <title_search>den lille havfrue ariels majestaetiske rejse</title_search>
+  </game>
+  <game name="Dora - Doras Reparatur-Abenteuer (Germany) (Rev 1)">
+    <description>Dora - Doras Reparatur-Abenteuer (Germany) (Rev 1)</description>
+    <title_clean>Dora - Doras Reparatur-Abenteuer</title_clean>
+    <title_search>dora doras reparaturabenteuer</title_search>
+  </game>
+  <game name="Dora - Doras Reparatur-Abenteuer (Germany) (V.Smile Motion)">
+    <description>Dora - Doras Reparatur-Abenteuer (Germany) (V.Smile Motion)</description>
+    <title_clean>Dora - Doras Reparatur-Abenteuer</title_clean>
+    <title_search>dora doras reparaturabenteuer</title_search>
+  </game>
+  <game name="Dora l'exploratrice - Les aventures de Dora Apprentie Mecano (France)">
+    <description>Dora l'exploratrice - Les aventures de Dora Apprentie Mecano (France)</description>
+    <title_clean>Dora l'exploratrice - Les aventures de Dora Apprentie Mecano</title_clean>
+    <title_search>dora lexploratrice les aventures de dora apprentie mecano</title_search>
+  </game>
+  <game name="Dora the Explorer - Dora's Fix-It Adventure (Europe) (En-GB)">
+    <description>Dora the Explorer - Dora's Fix-It Adventure (Europe) (En-GB)</description>
+    <title_clean>Dora the Explorer - Dora's Fix-It Adventure</title_clean>
+    <title_search>dora the explorer doras fixit adventure</title_search>
+  </game>
+  <game name="Elmos grosses Abenteuer (Germany)">
+    <description>Elmos grosses Abenteuer (Germany)</description>
+    <title_clean>Elmos grosses Abenteuer</title_clean>
+    <title_search>elmos grosses abenteuer</title_search>
+  </game>
+  <game name="Entdecke die Welt von Rotkaeppchen (Germany)">
+    <description>Entdecke die Welt von Rotkaeppchen (Germany)</description>
+    <title_clean>Entdecke die Welt von Rotkaeppchen</title_clean>
+    <title_search>entdecke die welt von rotkaeppchen</title_search>
+  </game>
+  <game name="Ernies _ Berts Fantastisches Abenteuer (Germany)">
+    <description>Ernies _ Berts Fantastisches Abenteuer (Germany)</description>
+    <title_clean>Ernies _ Berts Fantastisches Abenteuer</title_clean>
+    <title_search>ernies berts fantastisches abenteuer</title_search>
+  </game>
+  <game name="Finding Nemo - De wonderwereld van Nemo (Netherlands)">
+    <description>Finding Nemo - De wonderwereld van Nemo (Netherlands)</description>
+    <title_clean>Finding Nemo - De wonderwereld van Nemo</title_clean>
+    <title_search>finding nemo de wonderwereld van nemo</title_search>
+  </game>
+  <game name="Finding Nemo - Nemo's Ocean Discoveries (USA)">
+    <description>Finding Nemo - Nemo's Ocean Discoveries (USA)</description>
+    <title_clean>Finding Nemo - Nemo's Ocean Discoveries</title_clean>
+    <title_search>finding nemo nemos ocean discoveries</title_search>
+  </game>
+  <game name="Freds Zahlen Rallye (Germany)">
+    <description>Freds Zahlen Rallye (Germany)</description>
+    <title_clean>Freds Zahlen Rallye</title_clean>
+    <title_search>freds zahlen rallye</title_search>
+  </game>
+  <game name="Fussball Schule (Germany)">
+    <description>Fussball Schule (Germany)</description>
+    <title_clean>Fussball Schule</title_clean>
+    <title_search>fussball schule</title_search>
+  </game>
+  <game name="Grandes decouvertes d'Elmo, Les (France)">
+    <description>Grandes decouvertes d'Elmo, Les (France)</description>
+    <title_clean>Grandes decouvertes d'Elmo, Les</title_clean>
+    <title_search>grandes decouvertes delmo les</title_search>
+  </game>
+  <game name="Kleine Einsteins (Germany) (Rev 3)">
+    <description>Kleine Einsteins (Germany) (Rev 3)</description>
+    <title_clean>Kleine Einsteins</title_clean>
+    <title_search>kleine einsteins</title_search>
+  </game>
+  <game name="Kleine Einsteins (Germany) (V.Smile Motion)">
+    <description>Kleine Einsteins (Germany) (V.Smile Motion)</description>
+    <title_clean>Kleine Einsteins</title_clean>
+    <title_search>kleine einsteins</title_search>
+  </game>
+  <game name="Kung Fu Panda - Der Weg des Panda (Germany) (V.Smile Motion)">
+    <description>Kung Fu Panda - Der Weg des Panda (Germany) (V.Smile Motion)</description>
+    <title_clean>Kung Fu Panda - Der Weg des Panda</title_clean>
+    <title_search>kung fu panda der weg des panda</title_search>
+  </game>
+  <game name="Kung Fu Panda - Path of the Panda (Europe)">
+    <description>Kung Fu Panda - Path of the Panda (Europe)</description>
+    <title_clean>Kung Fu Panda - Path of the Panda</title_clean>
+    <title_search>kung fu panda path of the panda</title_search>
+  </game>
+  <game name="Lejonkungen - Simbas stora aeventyr (Sweden)">
+    <description>Lejonkungen - Simbas stora aeventyr (Sweden)</description>
+    <title_clean>Lejonkungen - Simbas stora aeventyr</title_clean>
+    <title_search>lejonkungen simbas stora aeventyr</title_search>
+  </game>
+  <game name="Lion King, The - Simba's Big Adventure (USA)">
+    <description>Lion King, The - Simba's Big Adventure (USA)</description>
+    <title_clean>The Lion King - Simba's Big Adventure</title_clean>
+    <title_search>the lion king simbas big adventure</title_search>
+    <image ext="png" id="Lion King, The - Simba's Big Adventure (USA)" source="https://github.com/libretro-thumbnails/VTech_-_V.Smile/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lion King, The - Simba's Big Adventure (USA)" source="https://github.com/libretro-thumbnails/VTech_-_V.Smile/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lion King, The - Simba's Big Adventure (USA)" source="https://github.com/libretro-thumbnails/VTech_-_V.Smile/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Little Mermaid, The - Ariel's Majestic Journey (Europe) (En-GB)">
+    <description>Little Mermaid, The - Ariel's Majestic Journey (Europe) (En-GB)</description>
+    <title_clean>The Little Mermaid - Ariel's Majestic Journey</title_clean>
+    <title_search>the little mermaid ariels majestic journey</title_search>
+  </game>
+  <game name="Lovernes Konge - Simbas store eventyr (Denmark)">
+    <description>Lovernes Konge - Simbas store eventyr (Denmark)</description>
+    <title_clean>Lovernes Konge - Simbas store eventyr</title_clean>
+    <title_search>lovernes konge simbas store eventyr</title_search>
+  </game>
+  <game name="Mein erster Bauernhof (Germany) (V.Smile Baby)">
+    <description>Mein erster Bauernhof (Germany) (V.Smile Baby)</description>
+    <title_clean>Mein erster Bauernhof</title_clean>
+    <title_search>mein erster bauernhof</title_search>
+  </game>
+  <game name="Mein erster Hund (Germany)">
+    <description>Mein erster Hund (Germany)</description>
+    <title_clean>Mein erster Hund</title_clean>
+    <title_search>mein erster hund</title_search>
+  </game>
+  <game name="Meine kleinen Tierfreunde (Germany) (V.Smile Baby)">
+    <description>Meine kleinen Tierfreunde (Germany) (V.Smile Baby)</description>
+    <title_clean>Meine kleinen Tierfreunde</title_clean>
+    <title_search>meine kleinen tierfreunde</title_search>
+  </game>
+  <game name="Meister Manny's Werkzeugkiste (Germany)">
+    <description>Meister Manny's Werkzeugkiste (Germany)</description>
+    <title_clean>Meister Manny's Werkzeugkiste</title_clean>
+    <title_search>meister mannys werkzeugkiste</title_search>
+  </game>
+  <game name="Melodilous, Les - Les explorateurs vikings (France)">
+    <description>Melodilous, Les - Les explorateurs vikings (France)</description>
+    <title_clean>Melodilous, Les - Les explorateurs vikings</title_clean>
+    <title_search>melodilous les les explorateurs vikings</title_search>
+  </game>
+  <game name="Mickey Mouse Clubhouse (Netherlands) (Rev 3)">
+    <description>Mickey Mouse Clubhouse (Netherlands) (Rev 3)</description>
+    <title_clean>Mickey Mouse Clubhouse</title_clean>
+    <title_search>mickey mouse clubhouse</title_search>
+  </game>
+  <game name="Mickey Mouse Clubhouse (Sweden)">
+    <description>Mickey Mouse Clubhouse (Sweden)</description>
+    <title_clean>Mickey Mouse Clubhouse</title_clean>
+    <title_search>mickey mouse clubhouse</title_search>
+  </game>
+  <game name="Micky - Mickys magisches Abenteuer (Germany)">
+    <description>Micky - Mickys magisches Abenteuer (Germany)</description>
+    <title_clean>Micky - Mickys magisches Abenteuer</title_clean>
+    <title_search>micky mickys magisches abenteuer</title_search>
+  </game>
+  <game name="Micky Maus Wunderhaus (Germany)">
+    <description>Micky Maus Wunderhaus (Germany)</description>
+    <title_clean>Micky Maus Wunderhaus</title_clean>
+    <title_search>micky maus wunderhaus</title_search>
+  </game>
+  <game name="Min hundvalp (Sweden)">
+    <description>Min hundvalp (Sweden)</description>
+    <title_clean>Min hundvalp</title_clean>
+    <title_search>min hundvalp</title_search>
+  </game>
+  <game name="Monsters vs. Aliens (Germany)">
+    <description>Monsters vs. Aliens (Germany)</description>
+    <title_clean>Monsters vs. Aliens</title_clean>
+    <title_search>monsters vs aliens</title_search>
+  </game>
+  <game name="Musse Pigg - Musses magiska aeventyr (Sweden)">
+    <description>Musse Pigg - Musses magiska aeventyr (Sweden)</description>
+    <title_clean>Musse Pigg - Musses magiska aeventyr</title_clean>
+    <title_search>musse pigg musses magiska aeventyr</title_search>
+  </game>
+  <game name="My Friends Tigger _ Pooh - Die Honigjagd (Germany)">
+    <description>My Friends Tigger _ Pooh - Die Honigjagd (Germany)</description>
+    <title_clean>My Friends Tigger _ Pooh - Die Honigjagd</title_clean>
+    <title_search>my friends tigger pooh die honigjagd</title_search>
+  </game>
+  <game name="Nalle Puh - Honungsjakten (Sweden)">
+    <description>Nalle Puh - Honungsjakten (Sweden)</description>
+    <title_clean>Nalle Puh - Honungsjakten</title_clean>
+    <title_search>nalle puh honungsjakten</title_search>
+  </game>
+  <game name="Nalle Puhs aeventyr i Sjumilaskogen (Sweden) (V.Smile Baby)">
+    <description>Nalle Puhs aeventyr i Sjumilaskogen (Sweden) (V.Smile Baby)</description>
+    <title_clean>Nalle Puhs aeventyr i Sjumilaskogen</title_clean>
+    <title_search>nalle puhs aeventyr i sjumilaskogen</title_search>
+  </game>
+  <game name="Noddy - Detective for a Day (Europe) (En-GB)">
+    <description>Noddy - Detective for a Day (Europe) (En-GB)</description>
+    <title_clean>Noddy - Detective for a Day</title_clean>
+    <title_search>noddy detective for a day</title_search>
+  </game>
+  <game name="Noddy - Detektiv fuer einen Tag (Germany) (Rev 1)">
+    <description>Noddy - Detektiv fuer einen Tag (Germany) (Rev 1)</description>
+    <title_clean>Noddy - Detektiv fuer einen Tag</title_clean>
+    <title_search>noddy detektiv fuer einen tag</title_search>
+  </game>
+  <game name="Oben (Germany)">
+    <description>Oben (Germany)</description>
+    <title_clean>Oben</title_clean>
+    <title_search>oben</title_search>
+  </game>
+  <game name="Osos Amorosos - Una Leccion de Amor (Spain)">
+    <description>Osos Amorosos - Una Leccion de Amor (Spain)</description>
+    <title_clean>Osos Amorosos - Una Leccion de Amor</title_clean>
+    <title_search>osos amorosos una leccion de amor</title_search>
+  </game>
+  <game name="Oui-Oui - Detective d'un jour (France)">
+    <description>Oui-Oui - Detective d'un jour (France)</description>
+    <title_clean>Oui-Oui - Detective d'un jour</title_clean>
+    <title_search>ouioui detective dun jour</title_search>
+  </game>
+  <game name="Partyland Park - A Carnival of Play-and-Learn Fun (USA)">
+    <description>Partyland Park - A Carnival of Play-and-Learn Fun (USA)</description>
+    <title_clean>Partyland Park - A Carnival of Play-and-Learn Fun</title_clean>
+    <title_search>partyland park a carnival of playandlearn fun</title_search>
+  </game>
+  <game name="Peter Plys - Honningjagten (Denmark)">
+    <description>Peter Plys - Honningjagten (Denmark)</description>
+    <title_clean>Peter Plys - Honningjagten</title_clean>
+    <title_search>peter plys honningjagten</title_search>
+  </game>
+  <game name="Petite Sirene, La - Ariel devient une princesse (France)">
+    <description>Petite Sirene, La - Ariel devient une princesse (France)</description>
+    <title_clean>Petite Sirene, La - Ariel devient une princesse</title_clean>
+    <title_search>petite sirene la ariel devient une princesse</title_search>
+  </game>
+  <game name="Ratatouille - Le nuove Ricette di Remy (Italy)">
+    <description>Ratatouille - Le nuove Ricette di Remy (Italy)</description>
+    <title_clean>Ratatouille - Le nuove Ricette di Remy</title_clean>
+    <title_search>ratatouille le nuove ricette di remy</title_search>
+  </game>
+  <game name="Ratatouille - Remys neue Rezepte (Germany)">
+    <description>Ratatouille - Remys neue Rezepte (Germany)</description>
+    <title_clean>Ratatouille - Remys neue Rezepte</title_clean>
+    <title_search>ratatouille remys neue rezepte</title_search>
+  </game>
+  <game name="Re Leone, Il - La Grande Avventura di Simba (Italy)">
+    <description>Re Leone, Il - La Grande Avventura di Simba (Italy)</description>
+    <title_clean>Re Leone, Il - La Grande Avventura di Simba</title_clean>
+    <title_search>re leone il la grande avventura di simba</title_search>
+  </game>
+  <game name="Roi Lion, Le - Simba decouvre la jungle (France)">
+    <description>Roi Lion, Le - Simba decouvre la jungle (France)</description>
+    <title_clean>Roi Lion, Le - Simba decouvre la jungle</title_clean>
+    <title_search>roi lion le simba decouvre la jungle</title_search>
+  </game>
+  <game name="Scooby-Doo - Panique a Funland (France)">
+    <description>Scooby-Doo - Panique a Funland (France)</description>
+    <title_clean>Scooby-Doo - Panique a Funland</title_clean>
+    <title_search>scoobydoo panique a funland</title_search>
+  </game>
+  <game name="Scooby-Doo! - Avventura a Funland (Italy)">
+    <description>Scooby-Doo! - Avventura a Funland (Italy)</description>
+    <title_clean>Scooby-Doo! - Avventura a Funland</title_clean>
+    <title_search>scoobydoo avventura a funland</title_search>
+  </game>
+  <game name="Scooby-Doo! - Funland Frenzy (Europe) (En-GB)">
+    <description>Scooby-Doo! - Funland Frenzy (Europe) (En-GB)</description>
+    <title_clean>Scooby-Doo! - Funland Frenzy</title_clean>
+    <title_search>scoobydoo funland frenzy</title_search>
+  </game>
+  <game name="Scooby-Doo! - Funland Frenzy (Europe) (En-GB) (Rev 1)">
+    <description>Scooby-Doo! - Funland Frenzy (Europe) (En-GB) (Rev 1)</description>
+    <title_clean>Scooby-Doo! - Funland Frenzy</title_clean>
+    <title_search>scoobydoo funland frenzy</title_search>
+  </game>
+  <game name="Scooby-Doo! - Funland Frenzy (USA)">
+    <description>Scooby-Doo! - Funland Frenzy (USA)</description>
+    <title_clean>Scooby-Doo! - Funland Frenzy</title_clean>
+    <title_search>scoobydoo funland frenzy</title_search>
+  </game>
+  <game name="Scooby-Doo! - Im Lernpark (Germany)">
+    <description>Scooby-Doo! - Im Lernpark (Germany)</description>
+    <title_clean>Scooby-Doo! - Im Lernpark</title_clean>
+    <title_search>scoobydoo im lernpark</title_search>
+  </game>
+  <game name="Scooby-Doo! - Sjov i forlystelsesparken (Denmark)">
+    <description>Scooby-Doo! - Sjov i forlystelsesparken (Denmark)</description>
+    <title_clean>Scooby-Doo! - Sjov i forlystelsesparken</title_clean>
+    <title_search>scoobydoo sjov i forlystelsesparken</title_search>
+  </game>
+  <game name="Scooby-Doo! - Tivoli-tokerier (Sweden)">
+    <description>Scooby-Doo! - Tivoli-tokerier (Sweden)</description>
+    <title_clean>Scooby-Doo! - Tivoli-tokerier</title_clean>
+    <title_search>scoobydoo tivolitokerier</title_search>
+  </game>
+  <game name="Shrek - Die Geschichte des Drachen (Germany)">
+    <description>Shrek - Die Geschichte des Drachen (Germany)</description>
+    <title_clean>Shrek - Die Geschichte des Drachen</title_clean>
+    <title_search>shrek die geschichte des drachen</title_search>
+  </game>
+  <game name="Shrek - Het verhaal van draakje (Netherlands)">
+    <description>Shrek - Het verhaal van draakje (Netherlands)</description>
+    <title_clean>Shrek - Het verhaal van draakje</title_clean>
+    <title_search>shrek het verhaal van draakje</title_search>
+  </game>
+  <game name="Shrek - Le rhume de Dragonne (France)">
+    <description>Shrek - Le rhume de Dragonne (France)</description>
+    <title_clean>Shrek - Le rhume de Dragonne</title_clean>
+    <title_search>shrek le rhume de dragonne</title_search>
+  </game>
+  <game name="Shrek de Derde - Arthurs Schooldag Avontuur (Netherlands)">
+    <description>Shrek de Derde - Arthurs Schooldag Avontuur (Netherlands)</description>
+    <title_clean>Shrek de Derde - Arthurs Schooldag Avontuur</title_clean>
+    <title_search>shrek de derde arthurs schooldag avontuur</title_search>
+  </game>
+  <game name="Shrek the Third - Arthur's School Day Adventure (Europe) (En-GB)">
+    <description>Shrek the Third - Arthur's School Day Adventure (Europe) (En-GB)</description>
+    <title_clean>Shrek the Third - Arthur's School Day Adventure</title_clean>
+    <title_search>shrek the third arthurs school day adventure</title_search>
+  </game>
+  <game name="Shrek the Third - Arthur's School Day Adventure (USA)">
+    <description>Shrek the Third - Arthur's School Day Adventure (USA)</description>
+    <title_clean>Shrek the Third - Arthur's School Day Adventure</title_clean>
+    <title_search>shrek the third arthurs school day adventure</title_search>
+  </game>
+  <game name="Sirenetta, La - Ariel e la Crociera Magica (Italy)">
+    <description>Sirenetta, La - Ariel e la Crociera Magica (Italy)</description>
+    <title_clean>Sirenetta, La - Ariel e la Crociera Magica</title_clean>
+    <title_search>sirenetta la ariel e la crociera magica</title_search>
+  </game>
+  <game name="Sirenita, La - El Viaje Fantastico de Ariel (Spain)">
+    <description>Sirenita, La - El Viaje Fantastico de Ariel (Spain)</description>
+    <title_clean>Sirenita, La - El Viaje Fantastico de Ariel</title_clean>
+    <title_search>sirenita la el viaje fantastico de ariel</title_search>
+  </game>
+  <game name="Spider-Man _ Freunde - Wettkampf im Space-Labor (Germany)">
+    <description>Spider-Man _ Freunde - Wettkampf im Space-Labor (Germany)</description>
+    <title_clean>Spider-Man _ Freunde - Wettkampf im Space-Labor</title_clean>
+    <title_search>spiderman freunde wettkampf im spacelabor</title_search>
+  </game>
+  <game name="Spider-Man _ Friends - Missioni Segrete (Italy)">
+    <description>Spider-Man _ Friends - Missioni Segrete (Italy)</description>
+    <title_clean>Spider-Man _ Friends - Missioni Segrete</title_clean>
+    <title_search>spiderman friends missioni segrete</title_search>
+  </game>
+  <game name="Spider-Man _ ses amis - Missions secretes (France)">
+    <description>Spider-Man _ ses amis - Missions secretes (France)</description>
+    <title_clean>Spider-Man _ ses amis - Missions secretes</title_clean>
+    <title_search>spiderman ses amis missions secretes</title_search>
+  </game>
+  <game name="Spongebob Schwammkopf - Der Tag des Schwamms (Germany)">
+    <description>Spongebob Schwammkopf - Der Tag des Schwamms (Germany)</description>
+    <title_clean>Spongebob Schwammkopf - Der Tag des Schwamms</title_clean>
+    <title_search>spongebob schwammkopf der tag des schwamms</title_search>
+  </game>
+  <game name="Spongebob Schwammkopf - Der Tag des Schwamms (Germany) (Rev 1)">
+    <description>Spongebob Schwammkopf - Der Tag des Schwamms (Germany) (Rev 1)</description>
+    <title_clean>Spongebob Schwammkopf - Der Tag des Schwamms</title_clean>
+    <title_search>spongebob schwammkopf der tag des schwamms</title_search>
+  </game>
+  <game name="Spongebob Squarepants - A Day in the Life of a Sponge (USA)">
+    <description>Spongebob Squarepants - A Day in the Life of a Sponge (USA)</description>
+    <title_clean>Spongebob Squarepants - A Day in the Life of a Sponge</title_clean>
+    <title_search>spongebob squarepants a day in the life of a sponge</title_search>
+  </game>
+  <game name="Superman - A la rescousse ! (France)">
+    <description>Superman - A la rescousse ! (France)</description>
+    <title_clean>Superman - A la rescousse !</title_clean>
+    <title_search>superman a la rescousse </title_search>
+  </game>
+  <game name="Superman - Der Superheld (Germany)">
+    <description>Superman - Der Superheld (Germany)</description>
+    <title_clean>Superman - Der Superheld</title_clean>
+    <title_search>superman der superheld</title_search>
+  </game>
+  <game name="Thomas _ Friends - Engines Working Together (Europe) (En-GB)">
+    <description>Thomas _ Friends - Engines Working Together (Europe) (En-GB)</description>
+    <title_clean>Thomas _ Friends - Engines Working Together</title_clean>
+    <title_search>thomas friends engines working together</title_search>
+  </game>
+  <game name="Thomas _ Friends - Engines Working Together (Europe) (En-GB) (Rev 1)">
+    <description>Thomas _ Friends - Engines Working Together (Europe) (En-GB) (Rev 1)</description>
+    <title_clean>Thomas _ Friends - Engines Working Together</title_clean>
+    <title_search>thomas friends engines working together</title_search>
+  </game>
+  <game name="Thomas _ Friends - Tagen hjaelps at (Sweden)">
+    <description>Thomas _ Friends - Tagen hjaelps at (Sweden)</description>
+    <title_clean>Thomas _ Friends - Tagen hjaelps at</title_clean>
+    <title_search>thomas friends tagen hjaelps at</title_search>
+  </game>
+  <game name="Thomas _ seine Freunde - Freunde halten zusammen (Germany)">
+    <description>Thomas _ seine Freunde - Freunde halten zusammen (Germany)</description>
+    <title_clean>Thomas _ seine Freunde - Freunde halten zusammen</title_clean>
+    <title_search>thomas seine freunde freunde halten zusammen</title_search>
+  </game>
+  <game name="Thomas _ seine Freunde - Freunde halten zusammen (Germany) (Rev 1)">
+    <description>Thomas _ seine Freunde - Freunde halten zusammen (Germany) (Rev 1)</description>
+    <title_clean>Thomas _ seine Freunde - Freunde halten zusammen</title_clean>
+    <title_search>thomas seine freunde freunde halten zusammen</title_search>
+  </game>
+  <game name="Thomas et ses amis - Les locomotives s'entraident (France)">
+    <description>Thomas et ses amis - Les locomotives s'entraident (France)</description>
+    <title_clean>Thomas et ses amis - Les locomotives s'entraident</title_clean>
+    <title_search>thomas et ses amis les locomotives sentraident</title_search>
+  </game>
+  <game name="Tingeling (Sweden)">
+    <description>Tingeling (Sweden)</description>
+    <title_clean>Tingeling</title_clean>
+    <title_search>tingeling</title_search>
+  </game>
+  <game name="TinkerBell (Germany) (V.Smile Motion)">
+    <description>TinkerBell (Germany) (V.Smile Motion)</description>
+    <title_clean>TinkerBell</title_clean>
+    <title_search>tinkerbell</title_search>
+  </game>
+  <game name="Topolino - Le Magiche Avventure di Topolino (Italy)">
+    <description>Topolino - Le Magiche Avventure di Topolino (Italy)</description>
+    <title_clean>Topolino - Le Magiche Avventure di Topolino</title_clean>
+    <title_search>topolino le magiche avventure di topolino</title_search>
+  </game>
+  <game name="Toy Story 2 - Operation - Raedda Woody! (Sweden)">
+    <description>Toy Story 2 - Operation - Raedda Woody! (Sweden)</description>
+    <title_clean>Toy Story 2 - Operation - Raedda Woody!</title_clean>
+    <title_search>toy story 2 operation raedda woody</title_search>
+  </game>
+  <game name="Toy Story 2 - Operation - Rescue Woody! (Europe) (En-GB)">
+    <description>Toy Story 2 - Operation - Rescue Woody! (Europe) (En-GB)</description>
+    <title_clean>Toy Story 2 - Operation - Rescue Woody!</title_clean>
+    <title_search>toy story 2 operation rescue woody</title_search>
+  </game>
+  <game name="Toy Story 2 - Woodys spannende Rettung (Germany)">
+    <description>Toy Story 2 - Woodys spannende Rettung (Germany)</description>
+    <title_clean>Toy Story 2 - Woodys spannende Rettung</title_clean>
+    <title_search>toy story 2 woodys spannende rettung</title_search>
+  </game>
+  <game name="Up (Europe)">
+    <description>Up (Europe)</description>
+    <title_clean>Up</title_clean>
+    <title_search>up</title_search>
+  </game>
+  <game name="V.Smile - Lern- und Tanzmatte (Germany)">
+    <description>V.Smile - Lern- und Tanzmatte (Germany)</description>
+    <title_clean>V.Smile - Lern- und Tanzmatte</title_clean>
+    <title_search>vsmile lern und tanzmatte</title_search>
+  </game>
+  <game name="V.Smile - Tecknarstudio (Sweden)">
+    <description>V.Smile - Tecknarstudio (Sweden)</description>
+    <title_clean>V.Smile - Tecknarstudio</title_clean>
+    <title_search>vsmile tecknarstudio</title_search>
+  </game>
+  <game name="V.Smile - Zeichenatelier (Germany)">
+    <description>V.Smile - Zeichenatelier (Germany)</description>
+    <title_clean>V.Smile - Zeichenatelier</title_clean>
+    <title_search>vsmile zeichenatelier</title_search>
+  </game>
+  <game name="Wall-E (Germany)">
+    <description>Wall-E (Germany)</description>
+    <title_clean>Wall-E</title_clean>
+    <title_search>walle</title_search>
+  </game>
+  <game name="Wall-E (Sweden)">
+    <description>Wall-E (Sweden)</description>
+    <title_clean>Wall-E</title_clean>
+    <title_search>walle</title_search>
+  </game>
+  <game name="Winnie Puuh - Die Honigjagd (Germany)">
+    <description>Winnie Puuh - Die Honigjagd (Germany)</description>
+    <title_clean>Winnie Puuh - Die Honigjagd</title_clean>
+    <title_search>winnie puuh die honigjagd</title_search>
+  </game>
+  <game name="Winnie Puuh - Die Honigjagd (Germany) (V.Smile Motion)">
+    <description>Winnie Puuh - Die Honigjagd (Germany) (V.Smile Motion)</description>
+    <title_clean>Winnie Puuh - Die Honigjagd</title_clean>
+    <title_search>winnie puuh die honigjagd</title_search>
+  </game>
+  <game name="Winnie Rourson - La Chasse Du Miel De Winnie (France) (Rev 2)">
+    <description>Winnie Rourson - La Chasse Du Miel De Winnie (France) (Rev 2)</description>
+    <title_clean>Winnie Rourson - La Chasse Du Miel De Winnie</title_clean>
+    <title_search>winnie rourson la chasse du miel de winnie</title_search>
+  </game>
+  <game name="Winnie l'Ourson - La Chasse au miel de Winnie (France)">
+    <description>Winnie l'Ourson - La Chasse au miel de Winnie (France)</description>
+    <title_clean>Winnie l'Ourson - La Chasse au miel de Winnie</title_clean>
+    <title_search>winnie lourson la chasse au miel de winnie</title_search>
+  </game>
+  <game name="Winnie the Pooh e la caccia al miele (Italy)">
+    <description>Winnie the Pooh e la caccia al miele (Italy)</description>
+    <title_clean>Winnie the Pooh e la caccia al miele</title_clean>
+    <title_search>winnie the pooh e la caccia al miele</title_search>
+  </game>
+  <game name="Zayzoo - An Earth Adventure (Europe)">
+    <description>Zayzoo - An Earth Adventure (Europe)</description>
+    <title_clean>Zayzoo - An Earth Adventure</title_clean>
+    <title_search>zayzoo an earth adventure</title_search>
+  </game>
+  <game name="Zayzoo - An Earth Adventure (USA)">
+    <description>Zayzoo - An Earth Adventure (USA)</description>
+    <title_clean>Zayzoo - An Earth Adventure</title_clean>
+    <title_search>zayzoo an earth adventure</title_search>
+  </game>
+  <game name="Zayzoos Lernall (Germany)">
+    <description>Zayzoos Lernall (Germany)</description>
+    <title_clean>Zayzoos Lernall</title_clean>
+    <title_search>zayzoos lernall</title_search>
+  </game>
+  <game name="Zezou - Notre ami venu d'ailleurs (France)">
+    <description>Zezou - Notre ami venu d'ailleurs (France)</description>
+    <title_clean>Zezou - Notre ami venu d'ailleurs</title_clean>
+    <title_search>zezou notre ami venu dailleurs</title_search>
+  </game>
+</datafile>

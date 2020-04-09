@@ -1,0 +1,70 @@
+<datafile>
+  <game name="Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)">
+    <description>Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)</description>
+    <title_clean>Baseball Stars - Pocket Sports Series</title_clean>
+    <title_search>baseball stars pocket sports series</title_search>
+  </game>
+  <game name="King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)">
+    <description>King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)</description>
+    <title_clean>King of Fighters R-1 - Pocket Fighting Series</title_clean>
+    <title_search>king of fighters r1 pocket fighting series</title_search>
+    <image ext="png" id="King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="King of Fighters R-1 - Pocket Kakutou Series _ Melon-chan no Seichou Nikki (Japan) (Demo)">
+    <description>King of Fighters R-1 - Pocket Kakutou Series _ Melon-chan no Seichou Nikki (Japan) (Demo)</description>
+    <title_clean>King of Fighters R-1 - Pocket Kakutou Series _ Melon-chan no Seichou Nikki</title_clean>
+    <title_search>king of fighters r1 pocket kakutou series melonchan no seichou nikki</title_search>
+  </game>
+  <game name="Melon-chan no Seichou Nikki (Japan)">
+    <description>Melon-chan no Seichou Nikki (Japan)</description>
+    <title_clean>Melon-chan no Seichou Nikki</title_clean>
+    <title_search>melonchan no seichou nikki</title_search>
+  </game>
+  <game name="Neo Cherry Master - Real Casino Series (Japan) (En,Ja)">
+    <description>Neo Cherry Master - Real Casino Series (Japan) (En,Ja)</description>
+    <title_clean>Neo Cherry Master - Real Casino Series</title_clean>
+    <title_search>neo cherry master real casino series</title_search>
+  </game>
+  <game name="Neo Geo Cup '98 (Japan, Europe) (En,Ja)">
+    <description>Neo Geo Cup '98 (Japan, Europe) (En,Ja)</description>
+    <title_clean>Neo Geo Cup '98</title_clean>
+    <title_search>neo geo cup 98</title_search>
+    <image ext="png" id="Neo Geo Cup '98 (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Neo Geo Cup '98 (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Neo Geo Cup '98 (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)">
+    <description>Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)</description>
+    <title_clean>Pocket Tennis - Pocket Sports Series</title_clean>
+    <title_search>pocket tennis pocket sports series</title_search>
+    <image ext="png" id="Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Renketsu Puzzle Tsunagete Pon! (Japan)">
+    <description>Renketsu Puzzle Tsunagete Pon! (Japan)</description>
+    <title_clean>Renketsu Puzzle Tsunagete Pon!</title_clean>
+    <title_search>renketsu puzzle tsunagete pon</title_search>
+    <image ext="png" id="Renketsu Puzzle Tsunagete Pon! (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Renketsu Puzzle Tsunagete Pon! (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Renketsu Puzzle Tsunagete Pon! (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)">
+    <description>Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)</description>
+    <title_clean>Samurai Shodown! - Pocket Fighting Series</title_clean>
+    <title_search>samurai shodown pocket fighting series</title_search>
+    <image ext="png" id="Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shougi no Tatsujin (Japan)">
+    <description>Shougi no Tatsujin (Japan)</description>
+    <title_clean>Shougi no Tatsujin</title_clean>
+    <title_search>shougi no tatsujin</title_search>
+    <image ext="png" id="Shougi no Tatsujin (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shougi no Tatsujin (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shougi no Tatsujin (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

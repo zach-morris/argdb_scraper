@@ -1,0 +1,34 @@
+<datafile>
+  <game name="Quake (v1.01)">
+    <description>Quake (v1.01)</description>
+    <title_clean>Quake</title_clean>
+    <title_search>quake</title_search>
+    <image ext="png" id="Quake (v1.01)" source="https://github.com/libretro-thumbnails/Quake1/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Quake (v1.01)" source="https://github.com/libretro-thumbnails/Quake1/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Quake (v1.01)" source="https://github.com/libretro-thumbnails/Quake1/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Quake (v1.06)">
+    <description>Quake (v1.06)</description>
+    <title_clean>Quake</title_clean>
+    <title_search>quake</title_search>
+    <image ext="png" id="Quake (v1.06)" source="https://github.com/libretro-thumbnails/Quake1/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Quake (v1.06)" source="https://github.com/libretro-thumbnails/Quake1/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Quake (v1.06)" source="https://github.com/libretro-thumbnails/Quake1/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Quake Mission Pack 1_ Scourge of Armagon">
+    <description>Quake Mission Pack 1_ Scourge of Armagon</description>
+    <title_clean>Quake Mission Pack 1_ Scourge of Armagon</title_clean>
+    <title_search>quake mission pack 1 scourge of armagon</title_search>
+    <image ext="png" id="Quake Mission Pack 1_ Scourge of Armagon" source="https://github.com/libretro-thumbnails/Quake1/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Quake Mission Pack 1_ Scourge of Armagon" source="https://github.com/libretro-thumbnails/Quake1/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Quake Mission Pack 1_ Scourge of Armagon" source="https://github.com/libretro-thumbnails/Quake1/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Quake Mission Pack 2_ Dissolution of Eternity">
+    <description>Quake Mission Pack 2_ Dissolution of Eternity</description>
+    <title_clean>Quake Mission Pack 2_ Dissolution of Eternity</title_clean>
+    <title_search>quake mission pack 2 dissolution of eternity</title_search>
+    <image ext="png" id="Quake Mission Pack 2_ Dissolution of Eternity" source="https://github.com/libretro-thumbnails/Quake1/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Quake Mission Pack 2_ Dissolution of Eternity" source="https://github.com/libretro-thumbnails/Quake1/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Quake Mission Pack 2_ Dissolution of Eternity" source="https://github.com/libretro-thumbnails/Quake1/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

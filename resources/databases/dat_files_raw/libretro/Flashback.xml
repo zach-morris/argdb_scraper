@@ -1,0 +1,10 @@
+<datafile>
+  <game name="Flashback_ The Quest for Identity">
+    <description>Flashback_ The Quest for Identity</description>
+    <title_clean>Flashback_ The Quest for Identity</title_clean>
+    <title_search>flashback the quest for identity</title_search>
+    <image ext="png" id="Flashback_ The Quest for Identity" source="https://github.com/libretro-thumbnails/Flashback/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Flashback_ The Quest for Identity" source="https://github.com/libretro-thumbnails/Flashback/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Flashback_ The Quest for Identity" source="https://github.com/libretro-thumbnails/Flashback/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

@@ -1,0 +1,352 @@
+<datafile>
+  <game name="Lunch Time (USA) (GameCube)">
+    <description>Lunch Time (USA) (GameCube)</description>
+    <title_clean>Lunch Time</title_clean>
+    <title_search>lunch time</title_search>
+    <image ext="png" id="Lunch Time (USA) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lunch Time (USA) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lunch Time (USA) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pichu Bros. Mini (Japan)">
+    <description>Pichu Bros. Mini (Japan)</description>
+    <title_clean>Pichu Bros. Mini</title_clean>
+    <title_search>pichu bros mini</title_search>
+    <image ext="png" id="Pichu Bros. Mini (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pichu Bros. Mini (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pichu Bros. Mini (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pichu Bros. Mini - Hoppip's Jump Match (Japan) (Preview)">
+    <description>Pichu Bros. Mini - Hoppip's Jump Match (Japan) (Preview)</description>
+    <title_clean>Pichu Bros. Mini - Hoppip's Jump Match</title_clean>
+    <title_search>pichu bros mini hoppips jump match</title_search>
+    <image ext="png" id="Pichu Bros. Mini - Hoppip's Jump Match (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pichu Bros. Mini - Hoppip's Jump Match (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pichu Bros. Mini - Hoppip's Jump Match (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pichu Bros. Mini - Netsukikyuu (Japan) (Preview)">
+    <description>Pichu Bros. Mini - Netsukikyuu (Japan) (Preview)</description>
+    <title_clean>Pichu Bros. Mini - Netsukikyuu</title_clean>
+    <title_search>pichu bros mini netsukikyuu</title_search>
+    <image ext="png" id="Pichu Bros. Mini - Netsukikyuu (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pichu Bros. Mini - Netsukikyuu (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pichu Bros. Mini - Netsukikyuu (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pichu Bros. Mini - Skateboard (Japan) (Preview)">
+    <description>Pichu Bros. Mini - Skateboard (Japan) (Preview)</description>
+    <title_clean>Pichu Bros. Mini - Skateboard</title_clean>
+    <title_search>pichu bros mini skateboard</title_search>
+    <image ext="png" id="Pichu Bros. Mini - Skateboard (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pichu Bros. Mini - Skateboard (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pichu Bros. Mini - Skateboard (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Anime Card Daisakusen (Japan)">
+    <description>Pokemon Anime Card Daisakusen (Japan)</description>
+    <title_clean>Pokemon Anime Card Daisakusen</title_clean>
+    <title_search>pokemon anime card daisakusen</title_search>
+    <image ext="png" id="Pokemon Anime Card Daisakusen (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Anime Card Daisakusen (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Anime Card Daisakusen (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Party Mini (Europe)">
+    <description>Pokemon Party Mini (Europe)</description>
+    <title_clean>Pokemon Party Mini</title_clean>
+    <title_search>pokemon party mini</title_search>
+    <image ext="png" id="Pokemon Party Mini (Europe)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Party Mini (Europe)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Party Mini (Europe)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Party Mini (Japan)">
+    <description>Pokemon Party Mini (Japan)</description>
+    <title_clean>Pokemon Party Mini</title_clean>
+    <title_search>pokemon party mini</title_search>
+    <image ext="png" id="Pokemon Party Mini (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Party Mini (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Party Mini (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Party Mini (USA)">
+    <description>Pokemon Party Mini (USA)</description>
+    <title_clean>Pokemon Party Mini</title_clean>
+    <title_search>pokemon party mini</title_search>
+    <image ext="png" id="Pokemon Party Mini (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Party Mini (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Party Mini (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Party Mini - Baseline Judge (Europe) (GameCube)">
+    <description>Pokemon Party Mini - Baseline Judge (Europe) (GameCube)</description>
+    <title_clean>Pokemon Party Mini - Baseline Judge</title_clean>
+    <title_search>pokemon party mini baseline judge</title_search>
+    <image ext="png" id="Pokemon Party Mini - Baseline Judge (Europe) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Party Mini - Baseline Judge (Europe) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Party Mini - Baseline Judge (Europe) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Party Mini - Baseline Judge (Japan) (GameCube)">
+    <description>Pokemon Party Mini - Baseline Judge (Japan) (GameCube)</description>
+    <title_clean>Pokemon Party Mini - Baseline Judge</title_clean>
+    <title_search>pokemon party mini baseline judge</title_search>
+    <image ext="png" id="Pokemon Party Mini - Baseline Judge (Japan) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Party Mini - Baseline Judge (Japan) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Party Mini - Baseline Judge (Japan) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Party Mini - Baseline Judge (USA) (GameCube)">
+    <description>Pokemon Party Mini - Baseline Judge (USA) (GameCube)</description>
+    <title_clean>Pokemon Party Mini - Baseline Judge</title_clean>
+    <title_search>pokemon party mini baseline judge</title_search>
+    <image ext="png" id="Pokemon Party Mini - Baseline Judge (USA) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Party Mini - Baseline Judge (USA) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Party Mini - Baseline Judge (USA) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube)">
+    <description>Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube)</description>
+    <title_clean>Pokemon Party Mini - Chansey's Dribble</title_clean>
+    <title_search>pokemon party mini chanseys dribble</title_search>
+    <image ext="png" id="Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Party Mini - Pikachu's Rocket Start (Europe) (GameCube)">
+    <description>Pokemon Party Mini - Pikachu's Rocket Start (Europe) (GameCube)</description>
+    <title_clean>Pokemon Party Mini - Pikachu's Rocket Start</title_clean>
+    <title_search>pokemon party mini pikachus rocket start</title_search>
+    <image ext="png" id="Pokemon Party Mini - Pikachu's Rocket Start (Europe) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Party Mini - Pikachu's Rocket Start (Europe) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Party Mini - Pikachu's Rocket Start (Europe) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Party Mini - Ricochet Dribble (Japan) (GameCube)">
+    <description>Pokemon Party Mini - Ricochet Dribble (Japan) (GameCube)</description>
+    <title_clean>Pokemon Party Mini - Ricochet Dribble</title_clean>
+    <title_search>pokemon party mini ricochet dribble</title_search>
+    <image ext="png" id="Pokemon Party Mini - Ricochet Dribble (Japan) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Party Mini - Ricochet Dribble (Japan) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Party Mini - Ricochet Dribble (Japan) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Party Mini - Ricochet Dribble (USA) (GameCube)">
+    <description>Pokemon Party Mini - Ricochet Dribble (USA) (GameCube)</description>
+    <title_clean>Pokemon Party Mini - Ricochet Dribble</title_clean>
+    <title_search>pokemon party mini ricochet dribble</title_search>
+    <image ext="png" id="Pokemon Party Mini - Ricochet Dribble (USA) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Party Mini - Ricochet Dribble (USA) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Party Mini - Ricochet Dribble (USA) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Party Mini - Rocket Start (USA) (GameCube)">
+    <description>Pokemon Party Mini - Rocket Start (USA) (GameCube)</description>
+    <title_clean>Pokemon Party Mini - Rocket Start</title_clean>
+    <title_search>pokemon party mini rocket start</title_search>
+    <image ext="png" id="Pokemon Party Mini - Rocket Start (USA) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Party Mini - Rocket Start (USA) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Party Mini - Rocket Start (USA) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)">
+    <description>Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)</description>
+    <title_clean>Pokemon Party Mini - Slowking's Judge</title_clean>
+    <title_search>pokemon party mini slowkings judge</title_search>
+    <image ext="png" id="Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Pinball Mini (Japan)">
+    <description>Pokemon Pinball Mini (Japan)</description>
+    <title_clean>Pokemon Pinball Mini</title_clean>
+    <title_search>pokemon pinball mini</title_search>
+    <image ext="png" id="Pokemon Pinball Mini (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Pinball Mini (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Pinball Mini (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Pinball Mini (Japan) (Preview)">
+    <description>Pokemon Pinball Mini (Japan) (Preview)</description>
+    <title_clean>Pokemon Pinball Mini</title_clean>
+    <title_search>pokemon pinball mini</title_search>
+    <image ext="png" id="Pokemon Pinball Mini (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Pinball Mini (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Pinball Mini (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Pinball Mini (USA) (GameCube Preview)">
+    <description>Pokemon Pinball Mini (USA) (GameCube Preview)</description>
+    <title_clean>Pokemon Pinball Mini</title_clean>
+    <title_search>pokemon pinball mini</title_search>
+    <image ext="png" id="Pokemon Pinball Mini (USA) (GameCube Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Pinball Mini (USA) (GameCube Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Pinball Mini (USA) (GameCube Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Pinball Mini (USA, Europe)">
+    <description>Pokemon Pinball Mini (USA, Europe)</description>
+    <title_clean>Pokemon Pinball Mini</title_clean>
+    <title_search>pokemon pinball mini</title_search>
+    <image ext="png" id="Pokemon Pinball Mini (USA, Europe)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Pinball Mini (USA, Europe)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Pinball Mini (USA, Europe)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Puzzle Collection (France)">
+    <description>Pokemon Puzzle Collection (France)</description>
+    <title_clean>Pokemon Puzzle Collection</title_clean>
+    <title_search>pokemon puzzle collection</title_search>
+    <image ext="png" id="Pokemon Puzzle Collection (France)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Puzzle Collection (France)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Puzzle Collection (France)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Puzzle Collection (France) (GameCube Preview)">
+    <description>Pokemon Puzzle Collection (France) (GameCube Preview)</description>
+    <title_clean>Pokemon Puzzle Collection</title_clean>
+    <title_search>pokemon puzzle collection</title_search>
+    <image ext="png" id="Pokemon Puzzle Collection (France) (GameCube Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Puzzle Collection (France) (GameCube Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Puzzle Collection (France) (GameCube Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Puzzle Collection (Germany)">
+    <description>Pokemon Puzzle Collection (Germany)</description>
+    <title_clean>Pokemon Puzzle Collection</title_clean>
+    <title_search>pokemon puzzle collection</title_search>
+    <image ext="png" id="Pokemon Puzzle Collection (Germany)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Puzzle Collection (Germany)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Puzzle Collection (Germany)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Puzzle Collection (Germany) (GameCube Preview)">
+    <description>Pokemon Puzzle Collection (Germany) (GameCube Preview)</description>
+    <title_clean>Pokemon Puzzle Collection</title_clean>
+    <title_search>pokemon puzzle collection</title_search>
+    <image ext="png" id="Pokemon Puzzle Collection (Germany) (GameCube Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Puzzle Collection (Germany) (GameCube Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Puzzle Collection (Germany) (GameCube Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Puzzle Collection (Japan)">
+    <description>Pokemon Puzzle Collection (Japan)</description>
+    <title_clean>Pokemon Puzzle Collection</title_clean>
+    <title_search>pokemon puzzle collection</title_search>
+    <image ext="png" id="Pokemon Puzzle Collection (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Puzzle Collection (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Puzzle Collection (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Puzzle Collection (Japan) (GameCube)">
+    <description>Pokemon Puzzle Collection (Japan) (GameCube)</description>
+    <title_clean>Pokemon Puzzle Collection</title_clean>
+    <title_search>pokemon puzzle collection</title_search>
+    <image ext="png" id="Pokemon Puzzle Collection (Japan) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Puzzle Collection (Japan) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Puzzle Collection (Japan) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Puzzle Collection (USA) (GameCube Preview)">
+    <description>Pokemon Puzzle Collection (USA) (GameCube Preview)</description>
+    <title_clean>Pokemon Puzzle Collection</title_clean>
+    <title_search>pokemon puzzle collection</title_search>
+    <image ext="png" id="Pokemon Puzzle Collection (USA) (GameCube Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Puzzle Collection (USA) (GameCube Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Puzzle Collection (USA) (GameCube Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Puzzle Collection (USA, Europe)">
+    <description>Pokemon Puzzle Collection (USA, Europe)</description>
+    <title_clean>Pokemon Puzzle Collection</title_clean>
+    <title_search>pokemon puzzle collection</title_search>
+    <image ext="png" id="Pokemon Puzzle Collection (USA, Europe)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Puzzle Collection (USA, Europe)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Puzzle Collection (USA, Europe)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Puzzle Collection Vol. 2 (Japan)">
+    <description>Pokemon Puzzle Collection Vol. 2 (Japan)</description>
+    <title_clean>Pokemon Puzzle Collection Vol. 2</title_clean>
+    <title_search>pokemon puzzle collection vol 2</title_search>
+    <image ext="png" id="Pokemon Puzzle Collection Vol. 2 (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Puzzle Collection Vol. 2 (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Puzzle Collection Vol. 2 (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Race Mini (Japan)">
+    <description>Pokemon Race Mini (Japan)</description>
+    <title_clean>Pokemon Race Mini</title_clean>
+    <title_search>pokemon race mini</title_search>
+    <image ext="png" id="Pokemon Race Mini (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Race Mini (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Race Mini (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Race Mini (Japan) (Preview)">
+    <description>Pokemon Race Mini (Japan) (Preview)</description>
+    <title_clean>Pokemon Race Mini</title_clean>
+    <title_search>pokemon race mini</title_search>
+    <image ext="png" id="Pokemon Race Mini (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Race Mini (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Race Mini (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Shock Tetris (Japan)">
+    <description>Pokemon Shock Tetris (Japan)</description>
+    <title_clean>Pokemon Shock Tetris</title_clean>
+    <title_search>pokemon shock tetris</title_search>
+    <image ext="png" id="Pokemon Shock Tetris (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Shock Tetris (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Shock Tetris (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Sodateyasan Mini (Japan)">
+    <description>Pokemon Sodateyasan Mini (Japan)</description>
+    <title_clean>Pokemon Sodateyasan Mini</title_clean>
+    <title_search>pokemon sodateyasan mini</title_search>
+    <image ext="png" id="Pokemon Sodateyasan Mini (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Sodateyasan Mini (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Sodateyasan Mini (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Tetris (Europe) (En,Ja,Fr)">
+    <description>Pokemon Tetris (Europe) (En,Ja,Fr)</description>
+    <title_clean>Pokemon Tetris</title_clean>
+    <title_search>pokemon tetris</title_search>
+    <image ext="png" id="Pokemon Tetris (Europe) (En,Ja,Fr)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Tetris (Europe) (En,Ja,Fr)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Tetris (Europe) (En,Ja,Fr)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Zany Cards (France)">
+    <description>Pokemon Zany Cards (France)</description>
+    <title_clean>Pokemon Zany Cards</title_clean>
+    <title_search>pokemon zany cards</title_search>
+    <image ext="png" id="Pokemon Zany Cards (France)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Zany Cards (France)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Zany Cards (France)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Zany Cards (Germany)">
+    <description>Pokemon Zany Cards (Germany)</description>
+    <title_clean>Pokemon Zany Cards</title_clean>
+    <title_search>pokemon zany cards</title_search>
+    <image ext="png" id="Pokemon Zany Cards (Germany)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Zany Cards (Germany)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Zany Cards (Germany)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemon Zany Cards (USA, Europe)">
+    <description>Pokemon Zany Cards (USA, Europe)</description>
+    <title_clean>Pokemon Zany Cards</title_clean>
+    <title_search>pokemon zany cards</title_search>
+    <image ext="png" id="Pokemon Zany Cards (USA, Europe)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pokemon Zany Cards (USA, Europe)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pokemon Zany Cards (USA, Europe)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Snorlax's Lunch Time (Europe) (GameCube)">
+    <description>Snorlax's Lunch Time (Europe) (GameCube)</description>
+    <title_clean>Snorlax's Lunch Time</title_clean>
+    <title_search>snorlaxs lunch time</title_search>
+    <image ext="png" id="Snorlax's Lunch Time (Europe) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Snorlax's Lunch Time (Europe) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Snorlax's Lunch Time (Europe) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Snorlax's Lunch Time (Japan) (GameCube)">
+    <description>Snorlax's Lunch Time (Japan) (GameCube)</description>
+    <title_clean>Snorlax's Lunch Time</title_clean>
+    <title_search>snorlaxs lunch time</title_search>
+    <image ext="png" id="Snorlax's Lunch Time (Japan) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Snorlax's Lunch Time (Japan) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Snorlax's Lunch Time (Japan) (GameCube)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Togepi no Daibouken (Japan)">
+    <description>Togepi no Daibouken (Japan)</description>
+    <title_clean>Togepi no Daibouken</title_clean>
+    <title_search>togepi no daibouken</title_search>
+    <image ext="png" id="Togepi no Daibouken (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Togepi no Daibouken (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Togepi no Daibouken (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Togepi no Daibouken (Japan) (Preview)">
+    <description>Togepi no Daibouken (Japan) (Preview)</description>
+    <title_clean>Togepi no Daibouken</title_clean>
+    <title_search>togepi no daibouken</title_search>
+    <image ext="png" id="Togepi no Daibouken (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Togepi no Daibouken (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Togepi no Daibouken (Japan) (Preview)" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Touhou - Bad Apple">
+    <description>Touhou - Bad Apple</description>
+    <title_clean>Touhou - Bad Apple</title_clean>
+    <title_search>touhou bad apple</title_search>
+    <image ext="png" id="Touhou - Bad Apple" source="https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+</datafile>

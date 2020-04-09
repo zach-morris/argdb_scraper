@@ -1,0 +1,106 @@
+<datafile>
+  <game name="Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)">
+    <description>Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)</description>
+    <title_clean>Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2</title_clean>
+    <title_search>bishoujo senshi sailor moon sailor stars fuwafuwa panic 2</title_search>
+    <image ext="png" id="Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Crayon Shin-chan - Nagagutsu Dobon!! (Japan)">
+    <description>Crayon Shin-chan - Nagagutsu Dobon!! (Japan)</description>
+    <title_clean>Crayon Shin-chan - Nagagutsu Dobon!!</title_clean>
+    <title_search>crayon shinchan nagagutsu dobon</title_search>
+    <image ext="png" id="Crayon Shin-chan - Nagagutsu Dobon!! (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Crayon Shin-chan - Nagagutsu Dobon!! (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Crayon Shin-chan - Nagagutsu Dobon!! (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gegege no Kitarou - Youkai Donjara (Japan)">
+    <description>Gegege no Kitarou - Youkai Donjara (Japan)</description>
+    <title_clean>Gegege no Kitarou - Youkai Donjara</title_clean>
+    <title_search>gegege no kitarou youkai donjara</title_search>
+    <image ext="png" id="Gegege no Kitarou - Youkai Donjara (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gegege no Kitarou - Youkai Donjara (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gegege no Kitarou - Youkai Donjara (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)">
+    <description>Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)</description>
+    <title_clean>Gekisou Sentai Carranger - Zenkai! Racer Senshi</title_clean>
+    <title_search>gekisou sentai carranger zenkai racer senshi</title_search>
+    <image ext="png" id="Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Poi Poi Ninja World (Japan)">
+    <description>Poi Poi Ninja World (Japan)</description>
+    <title_clean>Poi Poi Ninja World</title_clean>
+    <title_search>poi poi ninja world</title_search>
+    <image ext="png" id="Poi Poi Ninja World (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Poi Poi Ninja World (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Poi Poi Ninja World (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SD Gundam Generation - Axis Senki (Japan)">
+    <description>SD Gundam Generation - Axis Senki (Japan)</description>
+    <title_clean>SD Gundam Generation - Axis Senki</title_clean>
+    <title_search>sd gundam generation axis senki</title_search>
+    <image ext="png" id="SD Gundam Generation - Axis Senki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SD Gundam Generation - Axis Senki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SD Gundam Generation - Axis Senki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SD Gundam Generation - Babylonia Kenkoku Senki (Japan)">
+    <description>SD Gundam Generation - Babylonia Kenkoku Senki (Japan)</description>
+    <title_clean>SD Gundam Generation - Babylonia Kenkoku Senki</title_clean>
+    <title_search>sd gundam generation babylonia kenkoku senki</title_search>
+    <image ext="png" id="SD Gundam Generation - Babylonia Kenkoku Senki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SD Gundam Generation - Babylonia Kenkoku Senki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SD Gundam Generation - Babylonia Kenkoku Senki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SD Gundam Generation - Colony Kakutouki (Japan)">
+    <description>SD Gundam Generation - Colony Kakutouki (Japan)</description>
+    <title_clean>SD Gundam Generation - Colony Kakutouki</title_clean>
+    <title_search>sd gundam generation colony kakutouki</title_search>
+    <image ext="png" id="SD Gundam Generation - Colony Kakutouki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SD Gundam Generation - Colony Kakutouki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SD Gundam Generation - Colony Kakutouki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SD Gundam Generation - Gryps Senki (Japan)">
+    <description>SD Gundam Generation - Gryps Senki (Japan)</description>
+    <title_clean>SD Gundam Generation - Gryps Senki</title_clean>
+    <title_search>sd gundam generation gryps senki</title_search>
+    <image ext="png" id="SD Gundam Generation - Gryps Senki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SD Gundam Generation - Gryps Senki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SD Gundam Generation - Gryps Senki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SD Gundam Generation - Ichinen Sensouki (Japan)">
+    <description>SD Gundam Generation - Ichinen Sensouki (Japan)</description>
+    <title_clean>SD Gundam Generation - Ichinen Sensouki</title_clean>
+    <title_search>sd gundam generation ichinen sensouki</title_search>
+    <image ext="png" id="SD Gundam Generation - Ichinen Sensouki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SD Gundam Generation - Ichinen Sensouki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SD Gundam Generation - Ichinen Sensouki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SD Gundam Generation - Zanscare Senki (Japan)">
+    <description>SD Gundam Generation - Zanscare Senki (Japan)</description>
+    <title_clean>SD Gundam Generation - Zanscare Senki</title_clean>
+    <title_search>sd gundam generation zanscare senki</title_search>
+    <image ext="png" id="SD Gundam Generation - Zanscare Senki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SD Gundam Generation - Zanscare Senki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SD Gundam Generation - Zanscare Senki (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SD Ultra Battle - Seven Densetsu (Japan)">
+    <description>SD Ultra Battle - Seven Densetsu (Japan)</description>
+    <title_clean>SD Ultra Battle - Seven Densetsu</title_clean>
+    <title_search>sd ultra battle seven densetsu</title_search>
+    <image ext="png" id="SD Ultra Battle - Seven Densetsu (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SD Ultra Battle - Seven Densetsu (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SD Ultra Battle - Seven Densetsu (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SD Ultra Battle - Ultraman Densetsu (Japan)">
+    <description>SD Ultra Battle - Ultraman Densetsu (Japan)</description>
+    <title_clean>SD Ultra Battle - Ultraman Densetsu</title_clean>
+    <title_search>sd ultra battle ultraman densetsu</title_search>
+    <image ext="png" id="SD Ultra Battle - Ultraman Densetsu (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SD Ultra Battle - Ultraman Densetsu (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SD Ultra Battle - Ultraman Densetsu (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

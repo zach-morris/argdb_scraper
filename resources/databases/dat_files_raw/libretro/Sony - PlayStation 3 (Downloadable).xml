@@ -1,0 +1,10 @@
+<datafile>
+  <game name="Far Cry 3 (World) (PSN)">
+    <description>Far Cry 3 (World) (PSN)</description>
+    <title_clean>Far Cry 3</title_clean>
+    <title_search>far cry 3</title_search>
+    <image ext="png" id="Far Cry 3 (World) (PSN)" source="https://github.com/libretro-thumbnails/Sony_-_PlayStation_3_(Downloadable)/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Far Cry 3 (World) (PSN)" source="https://github.com/libretro-thumbnails/Sony_-_PlayStation_3_(Downloadable)/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Far Cry 3 (World) (PSN)" source="https://github.com/libretro-thumbnails/Sony_-_PlayStation_3_(Downloadable)/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

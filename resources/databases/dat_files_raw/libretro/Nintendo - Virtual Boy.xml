@@ -1,0 +1,250 @@
+<datafile>
+  <game name="3-D Tetris (USA)">
+    <description>3-D Tetris (USA)</description>
+    <title_clean>3-D Tetris</title_clean>
+    <title_search>3d tetris</title_search>
+    <image ext="png" id="3-D Tetris (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="3-D Tetris (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="3-D Tetris (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bound High (Japan) (En) (Proto)">
+    <description>Bound High (Japan) (En) (Proto)</description>
+    <title_clean>Bound High</title_clean>
+    <title_search>bound high</title_search>
+    <image ext="png" id="Bound High (Japan) (En) (Proto)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bound High (Japan) (En) (Proto)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bound High (Japan) (En) (Proto)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Galactic Pinball (Japan, USA)">
+    <description>Galactic Pinball (Japan, USA)</description>
+    <title_clean>Galactic Pinball</title_clean>
+    <title_search>galactic pinball</title_search>
+    <image ext="png" id="Galactic Pinball (Japan, USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Galactic Pinball (Japan, USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Galactic Pinball (Japan, USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Golf (USA)">
+    <description>Golf (USA)</description>
+    <title_clean>Golf</title_clean>
+    <title_search>golf</title_search>
+    <image ext="png" id="Golf (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Golf (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Golf (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Innsmouth no Yakata (Japan)">
+    <description>Innsmouth no Yakata (Japan)</description>
+    <title_clean>Innsmouth no Yakata</title_clean>
+    <title_search>innsmouth no yakata</title_search>
+    <image ext="png" id="Innsmouth no Yakata (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Innsmouth no Yakata (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Innsmouth no Yakata (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jack Bros. (USA)">
+    <description>Jack Bros. (USA)</description>
+    <title_clean>Jack Bros.</title_clean>
+    <title_search>jack bros</title_search>
+    <image ext="png" id="Jack Bros. (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jack Bros. (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jack Bros. (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jack Bros. no Meiro de Hiihoo! (Japan)">
+    <description>Jack Bros. no Meiro de Hiihoo! (Japan)</description>
+    <title_clean>Jack Bros. no Meiro de Hiihoo!</title_clean>
+    <title_search>jack bros no meiro de hiihoo</title_search>
+    <image ext="png" id="Jack Bros. no Meiro de Hiihoo! (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jack Bros. no Meiro de Hiihoo! (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jack Bros. no Meiro de Hiihoo! (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mario Clash (Japan, USA)">
+    <description>Mario Clash (Japan, USA)</description>
+    <title_clean>Mario Clash</title_clean>
+    <title_search>mario clash</title_search>
+    <image ext="png" id="Mario Clash (Japan, USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mario Clash (Japan, USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mario Clash (Japan, USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mario's Tennis (Japan, USA)">
+    <description>Mario's Tennis (Japan, USA)</description>
+    <title_clean>Mario's Tennis</title_clean>
+    <title_search>marios tennis</title_search>
+    <image ext="png" id="Mario's Tennis (Japan, USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mario's Tennis (Japan, USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mario's Tennis (Japan, USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nester's Funky Bowling (USA)">
+    <description>Nester's Funky Bowling (USA)</description>
+    <title_clean>Nester's Funky Bowling</title_clean>
+    <title_search>nesters funky bowling</title_search>
+    <image ext="png" id="Nester's Funky Bowling (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Nester's Funky Bowling (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nester's Funky Bowling (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Niko-chan Battle (Japan) (Proto)">
+    <description>Niko-chan Battle (Japan) (Proto)</description>
+    <title_clean>Niko-chan Battle</title_clean>
+    <title_search>nikochan battle</title_search>
+    <image ext="png" id="Niko-chan Battle (Japan) (Proto)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Niko-chan Battle (Japan) (Proto)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Niko-chan Battle (Japan) (Proto)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Panic Bomber (USA)">
+    <description>Panic Bomber (USA)</description>
+    <title_clean>Panic Bomber</title_clean>
+    <title_search>panic bomber</title_search>
+    <image ext="png" id="Panic Bomber (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Panic Bomber (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Panic Bomber (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Red Alarm (Japan)">
+    <description>Red Alarm (Japan)</description>
+    <title_clean>Red Alarm</title_clean>
+    <title_search>red alarm</title_search>
+    <image ext="png" id="Red Alarm (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Red Alarm (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Red Alarm (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Red Alarm (USA)">
+    <description>Red Alarm (USA)</description>
+    <title_clean>Red Alarm</title_clean>
+    <title_search>red alarm</title_search>
+    <image ext="png" id="Red Alarm (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Red Alarm (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Red Alarm (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SD Gundam - Dimension War (Japan)">
+    <description>SD Gundam - Dimension War (Japan)</description>
+    <title_clean>SD Gundam - Dimension War</title_clean>
+    <title_search>sd gundam dimension war</title_search>
+    <image ext="png" id="SD Gundam - Dimension War (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SD Gundam - Dimension War (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SD Gundam - Dimension War (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Invaders - Virtual Collection (Japan)">
+    <description>Space Invaders - Virtual Collection (Japan)</description>
+    <title_clean>Space Invaders - Virtual Collection</title_clean>
+    <title_search>space invaders virtual collection</title_search>
+    <image ext="png" id="Space Invaders - Virtual Collection (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Invaders - Virtual Collection (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Invaders - Virtual Collection (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Pinball (Japan) (En) (Proto)">
+    <description>Space Pinball (Japan) (En) (Proto)</description>
+    <title_clean>Space Pinball</title_clean>
+    <title_search>space pinball</title_search>
+    <image ext="png" id="Space Pinball (Japan) (En) (Proto)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Pinball (Japan) (En) (Proto)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Pinball (Japan) (En) (Proto)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Squash (Japan)">
+    <description>Space Squash (Japan)</description>
+    <title_clean>Space Squash</title_clean>
+    <title_search>space squash</title_search>
+    <image ext="png" id="Space Squash (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Squash (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Squash (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="T_E Virtual Golf (Japan)">
+    <description>T_E Virtual Golf (Japan)</description>
+    <title_clean>T_E Virtual Golf</title_clean>
+    <title_search>te virtual golf</title_search>
+    <image ext="png" id="T_E Virtual Golf (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="T_E Virtual Golf (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="T_E Virtual Golf (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Teleroboxer (Japan, USA)">
+    <description>Teleroboxer (Japan, USA)</description>
+    <title_clean>Teleroboxer</title_clean>
+    <title_search>teleroboxer</title_search>
+    <image ext="png" id="Teleroboxer (Japan, USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Teleroboxer (Japan, USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Teleroboxer (Japan, USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tobidase! Panibon (Japan)">
+    <description>Tobidase! Panibon (Japan)</description>
+    <title_clean>Tobidase! Panibon</title_clean>
+    <title_search>tobidase panibon</title_search>
+    <image ext="png" id="Tobidase! Panibon (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tobidase! Panibon (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tobidase! Panibon (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="V-Tetris (Japan)">
+    <description>V-Tetris (Japan)</description>
+    <title_clean>V-Tetris</title_clean>
+    <title_search>vtetris</title_search>
+    <image ext="png" id="V-Tetris (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="V-Tetris (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="V-Tetris (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Vertical Force (Japan)">
+    <description>Vertical Force (Japan)</description>
+    <title_clean>Vertical Force</title_clean>
+    <title_search>vertical force</title_search>
+    <image ext="png" id="Vertical Force (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Vertical Force (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Vertical Force (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Vertical Force (USA)">
+    <description>Vertical Force (USA)</description>
+    <title_clean>Vertical Force</title_clean>
+    <title_search>vertical force</title_search>
+    <image ext="png" id="Vertical Force (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Vertical Force (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Vertical Force (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Virtual Bowling (Japan)">
+    <description>Virtual Bowling (Japan)</description>
+    <title_clean>Virtual Bowling</title_clean>
+    <title_search>virtual bowling</title_search>
+    <image ext="png" id="Virtual Bowling (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Virtual Bowling (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Virtual Bowling (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Virtual Boy Wario Land (Japan, USA)">
+    <description>Virtual Boy Wario Land (Japan, USA)</description>
+    <title_clean>Virtual Boy Wario Land</title_clean>
+    <title_search>virtual boy wario land</title_search>
+    <image ext="png" id="Virtual Boy Wario Land (Japan, USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Virtual Boy Wario Land (Japan, USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Virtual Boy Wario Land (Japan, USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Virtual Fishing (Japan)">
+    <description>Virtual Fishing (Japan)</description>
+    <title_clean>Virtual Fishing</title_clean>
+    <title_search>virtual fishing</title_search>
+    <image ext="png" id="Virtual Fishing (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Virtual Fishing (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Virtual Fishing (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Virtual Lab (Japan)">
+    <description>Virtual Lab (Japan)</description>
+    <title_clean>Virtual Lab</title_clean>
+    <title_search>virtual lab</title_search>
+    <image ext="png" id="Virtual Lab (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Virtual Lab (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Virtual Lab (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Virtual League Baseball (USA)">
+    <description>Virtual League Baseball (USA)</description>
+    <title_clean>Virtual League Baseball</title_clean>
+    <title_search>virtual league baseball</title_search>
+    <image ext="png" id="Virtual League Baseball (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Virtual League Baseball (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Virtual League Baseball (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Virtual Pro Yakyuu '95 (Japan)">
+    <description>Virtual Pro Yakyuu '95 (Japan)</description>
+    <title_clean>Virtual Pro Yakyuu '95</title_clean>
+    <title_search>virtual pro yakyuu 95</title_search>
+    <image ext="png" id="Virtual Pro Yakyuu '95 (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Virtual Pro Yakyuu '95 (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Virtual Pro Yakyuu '95 (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Waterworld (USA)">
+    <description>Waterworld (USA)</description>
+    <title_clean>Waterworld</title_clean>
+    <title_search>waterworld</title_search>
+    <image ext="png" id="Waterworld (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Waterworld (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Waterworld (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

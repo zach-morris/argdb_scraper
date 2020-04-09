@@ -1,0 +1,986 @@
+<datafile>
+  <game name="3 Games in 1 - Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA)">
+    <description>3 Games in 1 - Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA)</description>
+    <title_clean>3 Games in 1 - Gate of Thunder + Bonk's Adventure + Bonk's Revenge</title_clean>
+    <title_search>3 games in 1 gate of thunder bonks adventure bonks revenge</title_search>
+  </game>
+  <game name="3x3 Eyes - Sanjiyan Henjou (Japan)">
+    <description>3x3 Eyes - Sanjiyan Henjou (Japan)</description>
+    <title_clean>3x3 Eyes - Sanjiyan Henjou</title_clean>
+    <title_search>3x3 eyes sanjiyan henjou</title_search>
+  </game>
+  <game name="AV Tanjou (Japan) (Unl) (Alt 2)">
+    <description>AV Tanjou (Japan) (Unl) (Alt 2)</description>
+    <title_clean>AV Tanjou</title_clean>
+    <title_search>av tanjou</title_search>
+  </game>
+  <game name="Addams Family, The (USA)">
+    <description>Addams Family, The (USA)</description>
+    <title_clean>The Addams Family</title_clean>
+    <title_search>the addams family</title_search>
+    <image ext="png" id="Addams Family, The (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Addams Family, The (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Addams Family, The (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Advanced V.G. (Japan)">
+    <description>Advanced V.G. (Japan)</description>
+    <title_clean>Advanced V.G.</title_clean>
+    <title_search>advanced vg</title_search>
+  </game>
+  <game name="Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT)">
+    <description>Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT)</description>
+    <title_clean>Akumajou Dracula X - Chi no Rondo</title_clean>
+    <title_search>akumajou dracula x chi no rondo</title_search>
+    <image ext="png" id="Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FABT)">
+    <description>Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FABT)</description>
+    <title_clean>Alnam no Kiba - Juuzoku Juuni Shinto Densetsu</title_clean>
+    <title_search>alnam no kiba juuzoku juuni shinto densetsu</title_search>
+  </game>
+  <game name="Ane-san (Japan)">
+    <description>Ane-san (Japan)</description>
+    <title_clean>Ane-san</title_clean>
+    <title_search>anesan</title_search>
+  </game>
+  <game name="Asuka 120% Maxima - Burning Fest. Maxima (Japan)">
+    <description>Asuka 120% Maxima - Burning Fest. Maxima (Japan)</description>
+    <title_clean>Asuka 120% Maxima - Burning Fest. Maxima</title_clean>
+    <title_search>asuka 120 maxima burning fest maxima</title_search>
+  </game>
+  <game name="Bakuden - Unbalance Zone (Japan)">
+    <description>Bakuden - Unbalance Zone (Japan)</description>
+    <title_clean>Bakuden - Unbalance Zone</title_clean>
+    <title_search>bakuden unbalance zone</title_search>
+  </game>
+  <game name="Bakushou Yoshimoto Shinkigeki (Japan) (FABT)">
+    <description>Bakushou Yoshimoto Shinkigeki (Japan) (FABT)</description>
+    <title_clean>Bakushou Yoshimoto Shinkigeki</title_clean>
+    <title_search>bakushou yoshimoto shinkigeki</title_search>
+  </game>
+  <game name="Basted (Japan)">
+    <description>Basted (Japan)</description>
+    <title_clean>Basted</title_clean>
+    <title_search>basted</title_search>
+  </game>
+  <game name="Bazar de Gozarre no Game de Gozarre (Japan)">
+    <description>Bazar de Gozarre no Game de Gozarre (Japan)</description>
+    <title_clean>Bazar de Gozarre no Game de Gozarre</title_clean>
+    <title_search>bazar de gozarre no game de gozarre</title_search>
+  </game>
+  <game name="Bishoujo Senshi Sailor Moon (Japan)">
+    <description>Bishoujo Senshi Sailor Moon (Japan)</description>
+    <title_clean>Bishoujo Senshi Sailor Moon</title_clean>
+    <title_search>bishoujo senshi sailor moon</title_search>
+  </game>
+  <game name="Bishoujo Senshi Sailor Moon Collection (Japan)">
+    <description>Bishoujo Senshi Sailor Moon Collection (Japan)</description>
+    <title_clean>Bishoujo Senshi Sailor Moon Collection</title_clean>
+    <title_search>bishoujo senshi sailor moon collection</title_search>
+    <image ext="png" id="Bishoujo Senshi Sailor Moon Collection (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Black Hole Assault (Japan)">
+    <description>Black Hole Assault (Japan)</description>
+    <title_clean>Black Hole Assault</title_clean>
+    <title_search>black hole assault</title_search>
+  </game>
+  <game name="Bomberman '94 (Japan) (Sample)">
+    <description>Bomberman '94 (Japan) (Sample)</description>
+    <title_clean>Bomberman '94</title_clean>
+    <title_search>bomberman 94</title_search>
+  </game>
+  <game name="Bomberman - Panic Bomber (Japan) (FAAT)">
+    <description>Bomberman - Panic Bomber (Japan) (FAAT)</description>
+    <title_clean>Bomberman - Panic Bomber</title_clean>
+    <title_search>bomberman panic bomber</title_search>
+  </game>
+  <game name="Bomberman - Panic Bomber (Japan) (FABT)">
+    <description>Bomberman - Panic Bomber (Japan) (FABT)</description>
+    <title_clean>Bomberman - Panic Bomber</title_clean>
+    <title_search>bomberman panic bomber</title_search>
+  </game>
+  <game name="CAL II (Japan) (Alt)">
+    <description>CAL II (Japan) (Alt)</description>
+    <title_clean>CAL II</title_clean>
+    <title_search>cal ii</title_search>
+  </game>
+  <game name="CAL III - Kanketsu-hen (Japan)">
+    <description>CAL III - Kanketsu-hen (Japan)</description>
+    <title_clean>CAL III - Kanketsu-hen</title_clean>
+    <title_search>cal iii kanketsuhen</title_search>
+    <image ext="png" id="CAL III - Kanketsu-hen (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="CD Battle - Hikari no Yuusha-tachi (Japan)">
+    <description>CD Battle - Hikari no Yuusha-tachi (Japan)</description>
+    <title_clean>CD Battle - Hikari no Yuusha-tachi</title_clean>
+    <title_search>cd battle hikari no yuushatachi</title_search>
+  </game>
+  <game name="CD Hanafuda - Bishoujo Fan Club (Japan) (Unl)">
+    <description>CD Hanafuda - Bishoujo Fan Club (Japan) (Unl)</description>
+    <title_clean>CD Hanafuda - Bishoujo Fan Club</title_clean>
+    <title_search>cd hanafuda bishoujo fan club</title_search>
+  </game>
+  <game name="CD Mahjong - Bishoujo Chuushinha (Japan) (Unl)">
+    <description>CD Mahjong - Bishoujo Chuushinha (Japan) (Unl)</description>
+    <title_clean>CD Mahjong - Bishoujo Chuushinha</title_clean>
+    <title_search>cd mahjong bishoujo chuushinha</title_search>
+  </game>
+  <game name="CD Pachi-Slot - Bishoujo Gambler (Japan) (Unl)">
+    <description>CD Pachi-Slot - Bishoujo Gambler (Japan) (Unl)</description>
+    <title_clean>CD Pachi-Slot - Bishoujo Gambler</title_clean>
+    <title_search>cd pachislot bishoujo gambler</title_search>
+  </game>
+  <game name="Chiki Chiki Boys (Japan)">
+    <description>Chiki Chiki Boys (Japan)</description>
+    <title_clean>Chiki Chiki Boys</title_clean>
+    <title_search>chiki chiki boys</title_search>
+    <image ext="png" id="Chiki Chiki Boys (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Chou Aniki (Japan) (FAAT, FACT)">
+    <description>Chou Aniki (Japan) (FAAT, FACT)</description>
+    <title_clean>Chou Aniki</title_clean>
+    <title_search>chou aniki</title_search>
+  </game>
+  <game name="Chou Jikuu Yousai Macross 2036 (Japan)">
+    <description>Chou Jikuu Yousai Macross 2036 (Japan)</description>
+    <title_clean>Chou Jikuu Yousai Macross 2036</title_clean>
+    <title_search>chou jikuu yousai macross 2036</title_search>
+    <image ext="png" id="Chou Jikuu Yousai Macross 2036 (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chou Jikuu Yousai Macross 2036 (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chou Jikuu Yousai Macross 2036 (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cosmic Fantasy 2 (USA)">
+    <description>Cosmic Fantasy 2 (USA)</description>
+    <title_clean>Cosmic Fantasy 2</title_clean>
+    <title_search>cosmic fantasy 2</title_search>
+    <image ext="png" id="Cosmic Fantasy 2 (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cosmic Fantasy 2 (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cosmic Fantasy 2 (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cosmic Fantasy 4 - Ginga Shounen Densetsu - Gekitou-hen (Japan)">
+    <description>Cosmic Fantasy 4 - Ginga Shounen Densetsu - Gekitou-hen (Japan)</description>
+    <title_clean>Cosmic Fantasy 4 - Ginga Shounen Densetsu - Gekitou-hen</title_clean>
+    <title_search>cosmic fantasy 4 ginga shounen densetsu gekitouhen</title_search>
+    <image ext="png" id="Cosmic Fantasy 4 - Ginga Shounen Densetsu - Gekitou-hen (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Cosmic Fantasy 4 - Ginga Shounen Densetsu - Totsunyuu-hen (Japan)">
+    <description>Cosmic Fantasy 4 - Ginga Shounen Densetsu - Totsunyuu-hen (Japan)</description>
+    <title_clean>Cosmic Fantasy 4 - Ginga Shounen Densetsu - Totsunyuu-hen</title_clean>
+    <title_search>cosmic fantasy 4 ginga shounen densetsu totsunyuuhen</title_search>
+    <image ext="png" id="Cosmic Fantasy 4 - Ginga Shounen Densetsu - Totsunyuu-hen (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="De-Ja (Japan)">
+    <description>De-Ja (Japan)</description>
+    <title_clean>De-Ja</title_clean>
+    <title_search>deja</title_search>
+  </game>
+  <game name="Dekoboko Densetsu - Hashiru Wagamanmaa (Japan)">
+    <description>Dekoboko Densetsu - Hashiru Wagamanmaa (Japan)</description>
+    <title_clean>Dekoboko Densetsu - Hashiru Wagamanmaa</title_clean>
+    <title_search>dekoboko densetsu hashiru wagamanmaa</title_search>
+  </game>
+  <game name="Dennou Tenshi - Digital Ange (Japan)">
+    <description>Dennou Tenshi - Digital Ange (Japan)</description>
+    <title_clean>Dennou Tenshi - Digital Ange</title_clean>
+    <title_search>dennou tenshi digital ange</title_search>
+  </game>
+  <game name="Develo - Starter Kit - Assembler-hen (Japan)">
+    <description>Develo - Starter Kit - Assembler-hen (Japan)</description>
+    <title_clean>Develo - Starter Kit - Assembler-hen</title_clean>
+    <title_search>develo starter kit assemblerhen</title_search>
+  </game>
+  <game name="Develo - Starter Kit - BASIC-hen (Japan)">
+    <description>Develo - Starter Kit - BASIC-hen (Japan)</description>
+    <title_clean>Develo - Starter Kit - BASIC-hen</title_clean>
+    <title_search>develo starter kit basichen</title_search>
+  </game>
+  <game name="Develo Magazine Vol. 1 (Japan)">
+    <description>Develo Magazine Vol. 1 (Japan)</description>
+    <title_clean>Develo Magazine Vol. 1</title_clean>
+    <title_search>develo magazine vol 1</title_search>
+  </game>
+  <game name="Doraemon - Nobita no Dorabian Night (Japan)">
+    <description>Doraemon - Nobita no Dorabian Night (Japan)</description>
+    <title_clean>Doraemon - Nobita no Dorabian Night</title_clean>
+    <title_search>doraemon nobita no dorabian night</title_search>
+  </game>
+  <game name="Double Dragon II - The Revenge (Japan)">
+    <description>Double Dragon II - The Revenge (Japan)</description>
+    <title_clean>Double Dragon II - The Revenge</title_clean>
+    <title_search>double dragon ii the revenge</title_search>
+    <image ext="png" id="Double Dragon II - The Revenge (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Doukyuusei (Japan) (Rev 3) (Alt 1)">
+    <description>Doukyuusei (Japan) (Rev 3) (Alt 1)</description>
+    <title_clean>Doukyuusei</title_clean>
+    <title_search>doukyuusei</title_search>
+  </game>
+  <game name="Doukyuusei (Japan) (Rev 3) (Alt 2)">
+    <description>Doukyuusei (Japan) (Rev 3) (Alt 2)</description>
+    <title_clean>Doukyuusei</title_clean>
+    <title_search>doukyuusei</title_search>
+  </game>
+  <game name="Doukyuusei (Japan) (Rev 4)">
+    <description>Doukyuusei (Japan) (Rev 4)</description>
+    <title_clean>Doukyuusei</title_clean>
+    <title_search>doukyuusei</title_search>
+  </game>
+  <game name="Dragon Ball Z - Idainaru Son Gokuu Densetsu (Japan) (FABT)">
+    <description>Dragon Ball Z - Idainaru Son Gokuu Densetsu (Japan) (FABT)</description>
+    <title_clean>Dragon Ball Z - Idainaru Son Gokuu Densetsu</title_clean>
+    <title_search>dragon ball z idainaru son gokuu densetsu</title_search>
+  </game>
+  <game name="Eikan wa Kimi ni - Koukou Yakyuu Zenkoku Taikai (Japan)">
+    <description>Eikan wa Kimi ni - Koukou Yakyuu Zenkoku Taikai (Japan)</description>
+    <title_clean>Eikan wa Kimi ni - Koukou Yakyuu Zenkoku Taikai</title_clean>
+    <title_search>eikan wa kimi ni koukou yakyuu zenkoku taikai</title_search>
+  </game>
+  <game name="Emerald Dragon (Japan) (Sample)">
+    <description>Emerald Dragon (Japan) (Sample)</description>
+    <title_clean>Emerald Dragon</title_clean>
+    <title_search>emerald dragon</title_search>
+  </game>
+  <game name="Exile (USA)">
+    <description>Exile (USA)</description>
+    <title_clean>Exile</title_clean>
+    <title_search>exile</title_search>
+    <image ext="png" id="Exile (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Exile (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Exile (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Exile - Wicked Phenomenon (USA)">
+    <description>Exile - Wicked Phenomenon (USA)</description>
+    <title_clean>Exile - Wicked Phenomenon</title_clean>
+    <title_search>exile wicked phenomenon</title_search>
+  </game>
+  <game name="F1 Team Simulation - Project F (Japan)">
+    <description>F1 Team Simulation - Project F (Japan)</description>
+    <title_clean>F1 Team Simulation - Project F</title_clean>
+    <title_search>f1 team simulation project f</title_search>
+  </game>
+  <game name="Fantastic Night Dreams - Cotton (Japan) (En,Ja)">
+    <description>Fantastic Night Dreams - Cotton (Japan) (En,Ja)</description>
+    <title_clean>Fantastic Night Dreams - Cotton</title_clean>
+    <title_search>fantastic night dreams cotton</title_search>
+  </game>
+  <game name="Fantastic Night Dreams - Cotton (USA)">
+    <description>Fantastic Night Dreams - Cotton (USA)</description>
+    <title_clean>Fantastic Night Dreams - Cotton</title_clean>
+    <title_search>fantastic night dreams cotton</title_search>
+  </game>
+  <game name="Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan)">
+    <description>Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan)</description>
+    <title_clean>Far East of Eden - Tengai Makyou - Fuun Kabuki-den</title_clean>
+    <title_search>far east of eden tengai makyou fuun kabukiden</title_search>
+  </game>
+  <game name="Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan) (Sample)">
+    <description>Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan) (Sample)</description>
+    <title_clean>Far East of Eden - Tengai Makyou - Fuun Kabuki-den</title_clean>
+    <title_search>far east of eden tengai makyou fuun kabukiden</title_search>
+  </game>
+  <game name="Faussete Amour (Japan)">
+    <description>Faussete Amour (Japan)</description>
+    <title_clean>Faussete Amour</title_clean>
+    <title_search>faussete amour</title_search>
+  </game>
+  <game name="Fighting Street (Japan) (Rev 4)">
+    <description>Fighting Street (Japan) (Rev 4)</description>
+    <title_clean>Fighting Street</title_clean>
+    <title_search>fighting street</title_search>
+  </game>
+  <game name="Fighting Street (USA)">
+    <description>Fighting Street (USA)</description>
+    <title_clean>Fighting Street</title_clean>
+    <title_search>fighting street</title_search>
+    <image ext="png" id="Fighting Street (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fighting Street (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fighting Street (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Final Zone II (Japan)">
+    <description>Final Zone II (Japan)</description>
+    <title_clean>Final Zone II</title_clean>
+    <title_search>final zone ii</title_search>
+  </game>
+  <game name="Final Zone II (USA)">
+    <description>Final Zone II (USA)</description>
+    <title_clean>Final Zone II</title_clean>
+    <title_search>final zone ii</title_search>
+    <image ext="png" id="Final Zone II (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Final Zone II (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Final Zone II (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Flash Hiders (Japan)">
+    <description>Flash Hiders (Japan)</description>
+    <title_clean>Flash Hiders</title_clean>
+    <title_search>flash hiders</title_search>
+  </game>
+  <game name="Formation Soccer 95 della Serie A (Japan)">
+    <description>Formation Soccer 95 della Serie A (Japan)</description>
+    <title_clean>Formation Soccer 95 della Serie A</title_clean>
+    <title_search>formation soccer 95 della serie a</title_search>
+  </game>
+  <game name="Fushigi no Umi no Nadia - The Secret of Blue Water (Japan)">
+    <description>Fushigi no Umi no Nadia - The Secret of Blue Water (Japan)</description>
+    <title_clean>Fushigi no Umi no Nadia - The Secret of Blue Water</title_clean>
+    <title_search>fushigi no umi no nadia the secret of blue water</title_search>
+  </game>
+  <game name="GS (Ghost Sweeper) Mikami (Japan)">
+    <description>GS (Ghost Sweeper) Mikami (Japan)</description>
+    <title_clean>GS  Mikami</title_clean>
+    <title_search>gs mikami</title_search>
+  </game>
+  <game name="Ginga Fukei Densetsu Sapphire (Japan)">
+    <description>Ginga Fukei Densetsu Sapphire (Japan)</description>
+    <title_clean>Ginga Fukei Densetsu Sapphire</title_clean>
+    <title_search>ginga fukei densetsu sapphire</title_search>
+  </game>
+  <game name="Ginga Fukei Densetsu Sapphire (Japan) (Reprint)">
+    <description>Ginga Fukei Densetsu Sapphire (Japan) (Reprint)</description>
+    <title_clean>Ginga Fukei Densetsu Sapphire</title_clean>
+    <title_search>ginga fukei densetsu sapphire</title_search>
+  </game>
+  <game name="Ginga Ojousama Densetsu Yuna (Japan) (FABT, FACT)">
+    <description>Ginga Ojousama Densetsu Yuna (Japan) (FABT, FACT)</description>
+    <title_clean>Ginga Ojousama Densetsu Yuna</title_clean>
+    <title_search>ginga ojousama densetsu yuna</title_search>
+  </game>
+  <game name="Ginga Ojousama Densetsu Yuna (Japan) (FAFT)">
+    <description>Ginga Ojousama Densetsu Yuna (Japan) (FAFT)</description>
+    <title_clean>Ginga Ojousama Densetsu Yuna</title_clean>
+    <title_search>ginga ojousama densetsu yuna</title_search>
+  </game>
+  <game name="Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FAAT)">
+    <description>Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FAAT)</description>
+    <title_clean>Ginga Ojousama Densetsu Yuna 2 - Eien no Princess</title_clean>
+    <title_search>ginga ojousama densetsu yuna 2 eien no princess</title_search>
+  </game>
+  <game name="Ginga Ojousama Densetsu Yuna HuVIDEO CD (Japan)">
+    <description>Ginga Ojousama Densetsu Yuna HuVIDEO CD (Japan)</description>
+    <title_clean>Ginga Ojousama Densetsu Yuna HuVIDEO CD</title_clean>
+    <title_search>ginga ojousama densetsu yuna huvideo cd</title_search>
+  </game>
+  <game name="Go! Go! Birdie Chance (Japan)">
+    <description>Go! Go! Birdie Chance (Japan)</description>
+    <title_clean>Go! Go! Birdie Chance</title_clean>
+    <title_search>go go birdie chance</title_search>
+  </game>
+  <game name="Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan)">
+    <description>Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan)</description>
+    <title_clean>Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi</title_clean>
+    <title_search>gyuwambler jiko chuushinha gekitou 36 janshi</title_search>
+  </game>
+  <game name="Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt)">
+    <description>Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt)</description>
+    <title_clean>Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi</title_clean>
+    <title_search>gyuwambler jiko chuushinha gekitou 36 janshi</title_search>
+  </game>
+  <game name="Gyuwambler Jiko Chuushinha - Mahjong Puzzle Collection (Japan)">
+    <description>Gyuwambler Jiko Chuushinha - Mahjong Puzzle Collection (Japan)</description>
+    <title_clean>Gyuwambler Jiko Chuushinha - Mahjong Puzzle Collection</title_clean>
+    <title_search>gyuwambler jiko chuushinha mahjong puzzle collection</title_search>
+  </game>
+  <game name="Hataraku Shoujo - Tekipaki Working Love (Japan)">
+    <description>Hataraku Shoujo - Tekipaki Working Love (Japan)</description>
+    <title_clean>Hataraku Shoujo - Tekipaki Working Love</title_clean>
+    <title_search>hataraku shoujo tekipaki working love</title_search>
+  </game>
+  <game name="Hatsukoi Monogatari (Japan) (Rev 1)">
+    <description>Hatsukoi Monogatari (Japan) (Rev 1)</description>
+    <title_clean>Hatsukoi Monogatari</title_clean>
+    <title_search>hatsukoi monogatari</title_search>
+  </game>
+  <game name="Hatsukoi Monogatari (Japan) (Rev 2)">
+    <description>Hatsukoi Monogatari (Japan) (Rev 2)</description>
+    <title_clean>Hatsukoi Monogatari</title_clean>
+    <title_search>hatsukoi monogatari</title_search>
+  </game>
+  <game name="Hawk F-123 (Japan)">
+    <description>Hawk F-123 (Japan)</description>
+    <title_clean>Hawk F-123</title_clean>
+    <title_search>hawk f123</title_search>
+  </game>
+  <game name="Hu PGA Tour - PowerGolf 2 - Golfer (Japan)">
+    <description>Hu PGA Tour - PowerGolf 2 - Golfer (Japan)</description>
+    <title_clean>Hu PGA Tour - PowerGolf 2 - Golfer</title_clean>
+    <title_search>hu pga tour powergolf 2 golfer</title_search>
+  </game>
+  <game name="Hyper Wars (Japan) (SAAS)">
+    <description>Hyper Wars (Japan) (SAAS)</description>
+    <title_clean>Hyper Wars</title_clean>
+    <title_search>hyper wars</title_search>
+  </game>
+  <game name="In Magical Adventure - Fray CD - Xak Gaiden (Japan)">
+    <description>In Magical Adventure - Fray CD - Xak Gaiden (Japan)</description>
+    <title_clean>In Magical Adventure - Fray CD - Xak Gaiden</title_clean>
+    <title_search>in magical adventure fray cd xak gaiden</title_search>
+  </game>
+  <game name="Inoue Mami - Kono Hoshi ni Tatta Hitori no Kimi (Japan)">
+    <description>Inoue Mami - Kono Hoshi ni Tatta Hitori no Kimi (Japan)</description>
+    <title_clean>Inoue Mami - Kono Hoshi ni Tatta Hitori no Kimi</title_clean>
+    <title_search>inoue mami kono hoshi ni tatta hitori no kimi</title_search>
+  </game>
+  <game name="J. League Tremendous Soccer '94 (Japan)">
+    <description>J. League Tremendous Soccer '94 (Japan)</description>
+    <title_clean>J. League Tremendous Soccer '94</title_clean>
+    <title_search>j league tremendous soccer 94</title_search>
+  </game>
+  <game name="Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan)">
+    <description>Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan)</description>
+    <title_clean>Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen</title_clean>
+    <title_search>jantei monogatari 2 uchuu tantei diban kanketsuhen</title_search>
+  </game>
+  <game name="Jantei Monogatari 3 - Saver Angels (Japan)">
+    <description>Jantei Monogatari 3 - Saver Angels (Japan)</description>
+    <title_clean>Jantei Monogatari 3 - Saver Angels</title_clean>
+    <title_search>jantei monogatari 3 saver angels</title_search>
+  </game>
+  <game name="Kagami no Kuni no Legend (Japan)">
+    <description>Kagami no Kuni no Legend (Japan)</description>
+    <title_clean>Kagami no Kuni no Legend</title_clean>
+    <title_search>kagami no kuni no legend</title_search>
+  </game>
+  <game name="Kawa no Nushitsuri - Shizen-ha (Japan)">
+    <description>Kawa no Nushitsuri - Shizen-ha (Japan)</description>
+    <title_clean>Kawa no Nushitsuri - Shizen-ha</title_clean>
+    <title_search>kawa no nushitsuri shizenha</title_search>
+  </game>
+  <game name="Kaze no Densetsu Xanadu (Japan) (Sample)">
+    <description>Kaze no Densetsu Xanadu (Japan) (Sample)</description>
+    <title_clean>Kaze no Densetsu Xanadu</title_clean>
+    <title_search>kaze no densetsu xanadu</title_search>
+  </game>
+  <game name="Kiaidan 00 (Japan)">
+    <description>Kiaidan 00 (Japan)</description>
+    <title_clean>Kiaidan 00</title_clean>
+    <title_search>kiaidan 00</title_search>
+  </game>
+  <game name="Kisou Louga (Japan) (FABT)">
+    <description>Kisou Louga (Japan) (FABT)</description>
+    <title_clean>Kisou Louga</title_clean>
+    <title_search>kisou louga</title_search>
+  </game>
+  <game name="Kisou Louga II - The Ends of Shangrila (Japan)">
+    <description>Kisou Louga II - The Ends of Shangrila (Japan)</description>
+    <title_clean>Kisou Louga II - The Ends of Shangrila</title_clean>
+    <title_search>kisou louga ii the ends of shangrila</title_search>
+  </game>
+  <game name="Kuusou Kagaku Sekai Gulliver Boy (Japan)">
+    <description>Kuusou Kagaku Sekai Gulliver Boy (Japan)</description>
+    <title_clean>Kuusou Kagaku Sekai Gulliver Boy</title_clean>
+    <title_search>kuusou kagaku sekai gulliver boy</title_search>
+  </game>
+  <game name="Langrisser - Hikari no Matsuei (Japan)">
+    <description>Langrisser - Hikari no Matsuei (Japan)</description>
+    <title_clean>Langrisser - Hikari no Matsuei</title_clean>
+    <title_search>langrisser hikari no matsuei</title_search>
+    <image ext="png" id="Langrisser - Hikari no Matsuei (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Laplace no Ma (Japan)">
+    <description>Laplace no Ma (Japan)</description>
+    <title_clean>Laplace no Ma</title_clean>
+    <title_search>laplace no ma</title_search>
+  </game>
+  <game name="Last Armageddon (Japan) (Rev 5)">
+    <description>Last Armageddon (Japan) (Rev 5)</description>
+    <title_clean>Last Armageddon</title_clean>
+    <title_search>last armageddon</title_search>
+  </game>
+  <game name="Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan)">
+    <description>Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan)</description>
+    <title_clean>Legend of Xanadu - Kaze no Densetsu Xanadu II</title_clean>
+    <title_search>legend of xanadu kaze no densetsu xanadu ii</title_search>
+  </game>
+  <game name="Legion (Japan)">
+    <description>Legion (Japan)</description>
+    <title_clean>Legion</title_clean>
+    <title_search>legion</title_search>
+  </game>
+  <game name="Linda^3 (Japan)">
+    <description>Linda^3 (Japan)</description>
+    <title_clean>Linda^3</title_clean>
+    <title_search>linda3</title_search>
+  </game>
+  <game name="Mad Stalker - Full Metal Force (Japan)">
+    <description>Mad Stalker - Full Metal Force (Japan)</description>
+    <title_clean>Mad Stalker - Full Metal Force</title_clean>
+    <title_search>mad stalker full metal force</title_search>
+  </game>
+  <game name="Madou Monogatari I - Honoo no Sotsuenji (Japan)">
+    <description>Madou Monogatari I - Honoo no Sotsuenji (Japan)</description>
+    <title_clean>Madou Monogatari I - Honoo no Sotsuenji</title_clean>
+    <title_search>madou monogatari i honoo no sotsuenji</title_search>
+  </game>
+  <game name="Magical Dinosaur Tour (USA)">
+    <description>Magical Dinosaur Tour (USA)</description>
+    <title_clean>Magical Dinosaur Tour</title_clean>
+    <title_search>magical dinosaur tour</title_search>
+    <image ext="png" id="Magical Dinosaur Tour (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Magical Dinosaur Tour (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Magical Dinosaur Tour (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Magical Saurus Tour (Japan)">
+    <description>Magical Saurus Tour (Japan)</description>
+    <title_clean>Magical Saurus Tour</title_clean>
+    <title_search>magical saurus tour</title_search>
+  </game>
+  <game name="Makai Eiyuuden - Shape Shifter (Japan)">
+    <description>Makai Eiyuuden - Shape Shifter (Japan)</description>
+    <title_clean>Makai Eiyuuden - Shape Shifter</title_clean>
+    <title_search>makai eiyuuden shape shifter</title_search>
+  </game>
+  <game name="Mamono Hunter Youko - Makai kara no Tenkousei (Japan)">
+    <description>Mamono Hunter Youko - Makai kara no Tenkousei (Japan)</description>
+    <title_clean>Mamono Hunter Youko - Makai kara no Tenkousei</title_clean>
+    <title_search>mamono hunter youko makai kara no tenkousei</title_search>
+  </game>
+  <game name="Mamono Hunter Youko - Tooki Yobigoe (Japan)">
+    <description>Mamono Hunter Youko - Tooki Yobigoe (Japan)</description>
+    <title_clean>Mamono Hunter Youko - Tooki Yobigoe</title_clean>
+    <title_search>mamono hunter youko tooki yobigoe</title_search>
+  </game>
+  <game name="Mirai Shounen Conan (Japan)">
+    <description>Mirai Shounen Conan (Japan)</description>
+    <title_clean>Mirai Shounen Conan</title_clean>
+    <title_search>mirai shounen conan</title_search>
+  </game>
+  <game name="Mitsubachi Gakuen (Japan)">
+    <description>Mitsubachi Gakuen (Japan)</description>
+    <title_clean>Mitsubachi Gakuen</title_clean>
+    <title_search>mitsubachi gakuen</title_search>
+  </game>
+  <game name="Moonlight Lady (Japan)">
+    <description>Moonlight Lady (Japan)</description>
+    <title_clean>Moonlight Lady</title_clean>
+    <title_search>moonlight lady</title_search>
+  </game>
+  <game name="Motteke Tamago (Japan)">
+    <description>Motteke Tamago (Japan)</description>
+    <title_clean>Motteke Tamago</title_clean>
+    <title_search>motteke tamago</title_search>
+  </game>
+  <game name="Mysterious Song (USA) (En,Fr,Es) (Unl)">
+    <description>Mysterious Song (USA) (En,Fr,Es) (Unl)</description>
+    <title_clean>Mysterious Song</title_clean>
+    <title_search>mysterious song</title_search>
+  </game>
+  <game name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease)">
+    <description>Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease)</description>
+    <title_clean>Mysterious Song</title_clean>
+    <title_search>mysterious song</title_search>
+  </game>
+  <game name="NEXZR (Japan)">
+    <description>NEXZR (Japan)</description>
+    <title_clean>NEXZR</title_clean>
+    <title_search>nexzr</title_search>
+  </game>
+  <game name="Nemurenu Yoru no Chiisana Ohanashi (Japan)">
+    <description>Nemurenu Yoru no Chiisana Ohanashi (Japan)</description>
+    <title_clean>Nemurenu Yoru no Chiisana Ohanashi</title_clean>
+    <title_search>nemurenu yoru no chiisana ohanashi</title_search>
+  </game>
+  <game name="PC Engine Fan - Special CD-ROM^2 Vol. 1 (Japan)">
+    <description>PC Engine Fan - Special CD-ROM^2 Vol. 1 (Japan)</description>
+    <title_clean>PC Engine Fan - Special CD-ROM^2 Vol. 1</title_clean>
+    <title_search>pc engine fan special cdrom2 vol 1</title_search>
+  </game>
+  <game name="PC Engine Hyper Catalog CD-ROM 2 - 1993 Spring (Japan)">
+    <description>PC Engine Hyper Catalog CD-ROM 2 - 1993 Spring (Japan)</description>
+    <title_clean>PC Engine Hyper Catalog CD-ROM 2 - 1993 Spring</title_clean>
+    <title_search>pc engine hyper catalog cdrom 2 1993 spring</title_search>
+  </game>
+  <game name="PC Engine Hyper Catalog CD-ROM 4 - 1993 Winter (Japan)">
+    <description>PC Engine Hyper Catalog CD-ROM 4 - 1993 Winter (Japan)</description>
+    <title_clean>PC Engine Hyper Catalog CD-ROM 4 - 1993 Winter</title_clean>
+    <title_search>pc engine hyper catalog cdrom 4 1993 winter</title_search>
+  </game>
+  <game name="Pachio-kun 3 - Pachi-Slot _ Pachinko (Japan)">
+    <description>Pachio-kun 3 - Pachi-Slot _ Pachinko (Japan)</description>
+    <title_clean>Pachio-kun 3 - Pachi-Slot _ Pachinko</title_clean>
+    <title_search>pachiokun 3 pachislot pachinko</title_search>
+  </game>
+  <game name="Pop'n Magic (Japan)">
+    <description>Pop'n Magic (Japan)</description>
+    <title_clean>Pop'n Magic</title_clean>
+    <title_search>popn magic</title_search>
+    <image ext="png" id="Pop'n Magic (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Princess Maker 1 (Japan)">
+    <description>Princess Maker 1 (Japan)</description>
+    <title_clean>Princess Maker 1</title_clean>
+    <title_search>princess maker 1</title_search>
+  </game>
+  <game name="Princess Maker 2 (Japan)">
+    <description>Princess Maker 2 (Japan)</description>
+    <title_clean>Princess Maker 2</title_clean>
+    <title_search>princess maker 2</title_search>
+  </game>
+  <game name="Private Eye dol (Japan)">
+    <description>Private Eye dol (Japan)</description>
+    <title_clean>Private Eye dol</title_clean>
+    <title_search>private eye dol</title_search>
+  </game>
+  <game name="Pro Yakyuu Super '94, The (Japan)">
+    <description>Pro Yakyuu Super '94, The (Japan)</description>
+    <title_clean>The Pro Yakyuu Super '94</title_clean>
+    <title_search>the pro yakyuu super 94</title_search>
+  </game>
+  <game name="Psychic Storm (Japan)">
+    <description>Psychic Storm (Japan)</description>
+    <title_clean>Psychic Storm</title_clean>
+    <title_search>psychic storm</title_search>
+    <image ext="png" id="Psychic Storm (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Puyo Puyo CD (Japan)">
+    <description>Puyo Puyo CD (Japan)</description>
+    <title_clean>Puyo Puyo CD</title_clean>
+    <title_search>puyo puyo cd</title_search>
+  </game>
+  <game name="Puyo Puyo CD Tsuu (Japan)">
+    <description>Puyo Puyo CD Tsuu (Japan)</description>
+    <title_clean>Puyo Puyo CD Tsuu</title_clean>
+    <title_search>puyo puyo cd tsuu</title_search>
+  </game>
+  <game name="Pyramid Plunder (USA) (Unl)">
+    <description>Pyramid Plunder (USA) (Unl)</description>
+    <title_clean>Pyramid Plunder</title_clean>
+    <title_search>pyramid plunder</title_search>
+  </game>
+  <game name="Quest of Jongmaster - Janshin Densetsu (Japan)">
+    <description>Quest of Jongmaster - Janshin Densetsu (Japan)</description>
+    <title_clean>Quest of Jongmaster - Janshin Densetsu</title_clean>
+    <title_search>quest of jongmaster janshin densetsu</title_search>
+  </game>
+  <game name="Quiz de Gakuensai (Japan)">
+    <description>Quiz de Gakuensai (Japan)</description>
+    <title_clean>Quiz de Gakuensai</title_clean>
+    <title_search>quiz de gakuensai</title_search>
+  </game>
+  <game name="ROM^2 Karaoke Volume 4 (Japan)">
+    <description>ROM^2 Karaoke Volume 4 (Japan)</description>
+    <title_clean>ROM^2 Karaoke Volume 4</title_clean>
+    <title_search>rom2 karaoke volume 4</title_search>
+  </game>
+  <game name="Rally Championship (Japan) (FABT)">
+    <description>Rally Championship (Japan) (FABT)</description>
+    <title_clean>Rally Championship</title_clean>
+    <title_search>rally championship</title_search>
+  </game>
+  <game name="Ranma 1-2 (Japan)">
+    <description>Ranma 1-2 (Japan)</description>
+    <title_clean>Ranma 1-2</title_clean>
+    <title_search>ranma 12</title_search>
+  </game>
+  <game name="Ranma 1-2 - Datou, Ganso Musabetsu Kakutou-ryuu! (Japan)">
+    <description>Ranma 1-2 - Datou, Ganso Musabetsu Kakutou-ryuu! (Japan)</description>
+    <title_clean>Ranma 1-2 - Datou, Ganso Musabetsu Kakutou-ryuu!</title_clean>
+    <title_search>ranma 12 datou ganso musabetsu kakutouryuu</title_search>
+    <image ext="png" id="Ranma 1-2 - Datou, Ganso Musabetsu Kakutou-ryuu! (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Ranma 1-2 - Toraware no Hanayome (Japan)">
+    <description>Ranma 1-2 - Toraware no Hanayome (Japan)</description>
+    <title_clean>Ranma 1-2 - Toraware no Hanayome</title_clean>
+    <title_search>ranma 12 toraware no hanayome</title_search>
+  </game>
+  <game name="Rayxanber III (Japan)">
+    <description>Rayxanber III (Japan)</description>
+    <title_clean>Rayxanber III</title_clean>
+    <title_search>rayxanber iii</title_search>
+  </game>
+  <game name="Record of Lodoss War (Japan)">
+    <description>Record of Lodoss War (Japan)</description>
+    <title_clean>Record of Lodoss War</title_clean>
+    <title_search>record of lodoss war</title_search>
+  </game>
+  <game name="Record of Lodoss War II (Japan)">
+    <description>Record of Lodoss War II (Japan)</description>
+    <title_clean>Record of Lodoss War II</title_clean>
+    <title_search>record of lodoss war ii</title_search>
+  </game>
+  <game name="Revival Chase (USA) (En,Fr) (Unl)">
+    <description>Revival Chase (USA) (En,Fr) (Unl)</description>
+    <title_clean>Revival Chase</title_clean>
+    <title_search>revival chase</title_search>
+  </game>
+  <game name="Rising Sun (Japan)">
+    <description>Rising Sun (Japan)</description>
+    <title_clean>Rising Sun</title_clean>
+    <title_search>rising sun</title_search>
+  </game>
+  <game name="Ruin - Kami no Isan (Japan)">
+    <description>Ruin - Kami no Isan (Japan)</description>
+    <title_clean>Ruin - Kami no Isan</title_clean>
+    <title_search>ruin kami no isan</title_search>
+  </game>
+  <game name="Ryuuko no Ken (Japan) (En,Ja,Es) (FABT)">
+    <description>Ryuuko no Ken (Japan) (En,Ja,Es) (FABT)</description>
+    <title_clean>Ryuuko no Ken</title_clean>
+    <title_search>ryuuko no ken</title_search>
+  </game>
+  <game name="Ryuuko no Ken (Japan) (En,Ja,Es) (FACT)">
+    <description>Ryuuko no Ken (Japan) (En,Ja,Es) (FACT)</description>
+    <title_clean>Ryuuko no Ken</title_clean>
+    <title_search>ryuuko no ken</title_search>
+  </game>
+  <game name="Seiya Monogatari - Anearth Fantasy Stories (Japan) (Demo) (FABT)">
+    <description>Seiya Monogatari - Anearth Fantasy Stories (Japan) (Demo) (FABT)</description>
+    <title_clean>Seiya Monogatari - Anearth Fantasy Stories</title_clean>
+    <title_search>seiya monogatari anearth fantasy stories</title_search>
+  </game>
+  <game name="Sherlock Holmes - Consulting Detective (Japan)">
+    <description>Sherlock Holmes - Consulting Detective (Japan)</description>
+    <title_clean>Sherlock Holmes - Consulting Detective</title_clean>
+    <title_search>sherlock holmes consulting detective</title_search>
+  </game>
+  <game name="Sherlock Holmes - Consulting Detective Vol. II (Japan)">
+    <description>Sherlock Holmes - Consulting Detective Vol. II (Japan)</description>
+    <title_clean>Sherlock Holmes - Consulting Detective Vol. II</title_clean>
+    <title_search>sherlock holmes consulting detective vol ii</title_search>
+  </game>
+  <game name="Shin Megami Tensei (Japan)">
+    <description>Shin Megami Tensei (Japan)</description>
+    <title_clean>Shin Megami Tensei</title_clean>
+    <title_search>shin megami tensei</title_search>
+    <image ext="png" id="Shin Megami Tensei (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shin Megami Tensei (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shin Megami Tensei (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation (Japan) (Unl)">
+    <description>Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation (Japan) (Unl)</description>
+    <title_clean>Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation</title_clean>
+    <title_search>shinsetsu shiawase usagi 2 kairaku e no invitation</title_search>
+    <image ext="png" id="Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation (Japan) (Unl)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation (Japan) (Unl)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation (Japan) (Unl)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SimEarth - The Living Planet (Japan)">
+    <description>SimEarth - The Living Planet (Japan)</description>
+    <title_clean>SimEarth - The Living Planet</title_clean>
+    <title_search>simearth the living planet</title_search>
+  </game>
+  <game name="Snatcher CD-ROMantic (Japan)">
+    <description>Snatcher CD-ROMantic (Japan)</description>
+    <title_clean>Snatcher CD-ROMantic</title_clean>
+    <title_search>snatcher cdromantic</title_search>
+    <image ext="png" id="Snatcher CD-ROMantic (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Snatcher CD-ROMantic (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Snatcher CD-ROMantic (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Solid Force (Japan)">
+    <description>Solid Force (Japan)</description>
+    <title_clean>Solid Force</title_clean>
+    <title_search>solid force</title_search>
+  </game>
+  <game name="Sorcerian (Japan)">
+    <description>Sorcerian (Japan)</description>
+    <title_clean>Sorcerian</title_clean>
+    <title_search>sorcerian</title_search>
+  </game>
+  <game name="Sotsugyou - Graduation (Japan)">
+    <description>Sotsugyou - Graduation (Japan)</description>
+    <title_clean>Sotsugyou - Graduation</title_clean>
+    <title_search>sotsugyou graduation</title_search>
+    <image ext="png" id="Sotsugyou - Graduation (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sotsugyou - Graduation (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sotsugyou - Graduation (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sotsugyou - Graduation (Japan) (Rev 1)">
+    <description>Sotsugyou - Graduation (Japan) (Rev 1)</description>
+    <title_clean>Sotsugyou - Graduation</title_clean>
+    <title_search>sotsugyou graduation</title_search>
+    <image ext="png" id="Sotsugyou - Graduation (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sotsugyou - Graduation (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sotsugyou - Graduation (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sotsugyou II - Neo Generation (Japan)">
+    <description>Sotsugyou II - Neo Generation (Japan)</description>
+    <title_clean>Sotsugyou II - Neo Generation</title_clean>
+    <title_search>sotsugyou ii neo generation</title_search>
+    <image ext="png" id="Sotsugyou II - Neo Generation (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sotsugyou II - Neo Generation (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sotsugyou II - Neo Generation (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Splash Lake (USA)">
+    <description>Splash Lake (USA)</description>
+    <title_clean>Splash Lake</title_clean>
+    <title_search>splash lake</title_search>
+    <image ext="png" id="Splash Lake (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Splash Lake (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Splash Lake (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Breaker (Japan)">
+    <description>Star Breaker (Japan)</description>
+    <title_clean>Star Breaker</title_clean>
+    <title_search>star breaker</title_search>
+    <image ext="png" id="Star Breaker (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Star Mobile (Japan)">
+    <description>Star Mobile (Japan)</description>
+    <title_clean>Star Mobile</title_clean>
+    <title_search>star mobile</title_search>
+  </game>
+  <game name="Startling Odyssey (Japan)">
+    <description>Startling Odyssey (Japan)</description>
+    <title_clean>Startling Odyssey</title_clean>
+    <title_search>startling odyssey</title_search>
+  </game>
+  <game name="Startling Odyssey II - Maryuu Sensou (Japan) (Sample)">
+    <description>Startling Odyssey II - Maryuu Sensou (Japan) (Sample)</description>
+    <title_clean>Startling Odyssey II - Maryuu Sensou</title_clean>
+    <title_search>startling odyssey ii maryuu sensou</title_search>
+  </game>
+  <game name="Steam-Heart's (Japan)">
+    <description>Steam-Heart's (Japan)</description>
+    <title_clean>Steam-Heart's</title_clean>
+    <title_search>steamhearts</title_search>
+  </game>
+  <game name="Summer Carnival '93 - NEXZR Special (Japan)">
+    <description>Summer Carnival '93 - NEXZR Special (Japan)</description>
+    <title_clean>Summer Carnival '93 - NEXZR Special</title_clean>
+    <title_search>summer carnival 93 nexzr special</title_search>
+  </game>
+  <game name="Super Real Mahjong P.V Custom (Japan)">
+    <description>Super Real Mahjong P.V Custom (Japan)</description>
+    <title_clean>Super Real Mahjong P.V Custom</title_clean>
+    <title_search>super real mahjong pv custom</title_search>
+  </game>
+  <game name="Super Real Mahjong PII, III Custom (Japan)">
+    <description>Super Real Mahjong PII, III Custom (Japan)</description>
+    <title_clean>Super Real Mahjong PII, III Custom</title_clean>
+    <title_search>super real mahjong pii iii custom</title_search>
+  </game>
+  <game name="Super Real Mahjong PIV Custom (Japan)">
+    <description>Super Real Mahjong PIV Custom (Japan)</description>
+    <title_clean>Super Real Mahjong PIV Custom</title_clean>
+    <title_search>super real mahjong piv custom</title_search>
+  </game>
+  <game name="Super Schwarzschild (Japan)">
+    <description>Super Schwarzschild (Japan)</description>
+    <title_clean>Super Schwarzschild</title_clean>
+    <title_search>super schwarzschild</title_search>
+  </game>
+  <game name="Super Schwarzschild 2 (Japan)">
+    <description>Super Schwarzschild 2 (Japan)</description>
+    <title_clean>Super Schwarzschild 2</title_clean>
+    <title_search>super schwarzschild 2</title_search>
+  </game>
+  <game name="Tadaima Yuusha Boshuu-chuu (Japan)">
+    <description>Tadaima Yuusha Boshuu-chuu (Japan)</description>
+    <title_clean>Tadaima Yuusha Boshuu-chuu</title_clean>
+    <title_search>tadaima yuusha boshuuchuu</title_search>
+  </game>
+  <game name="Tanjou - Debut (Japan)">
+    <description>Tanjou - Debut (Japan)</description>
+    <title_clean>Tanjou - Debut</title_clean>
+    <title_search>tanjou debut</title_search>
+  </game>
+  <game name="Tecmo World Cup Super Soccer (Japan)">
+    <description>Tecmo World Cup Super Soccer (Japan)</description>
+    <title_clean>Tecmo World Cup Super Soccer</title_clean>
+    <title_search>tecmo world cup super soccer</title_search>
+  </game>
+  <game name="Tenchi Muyou! Ryououki (Japan)">
+    <description>Tenchi Muyou! Ryououki (Japan)</description>
+    <title_clean>Tenchi Muyou! Ryououki</title_clean>
+    <title_search>tenchi muyou ryououki</title_search>
+    <image ext="png" id="Tenchi Muyou! Ryououki (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tenchi Muyou! Ryououki (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tenchi Muyou! Ryououki (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tenshi no Uta II - Datenshi no Sentaku (Japan)">
+    <description>Tenshi no Uta II - Datenshi no Sentaku (Japan)</description>
+    <title_clean>Tenshi no Uta II - Datenshi no Sentaku</title_clean>
+    <title_search>tenshi no uta ii datenshi no sentaku</title_search>
+  </game>
+  <game name="Tokimeki Memorial (Japan) (Rev 1)">
+    <description>Tokimeki Memorial (Japan) (Rev 1)</description>
+    <title_clean>Tokimeki Memorial</title_clean>
+    <title_search>tokimeki memorial</title_search>
+  </game>
+  <game name="Tokimeki Memorial (Japan) (Rev 3)">
+    <description>Tokimeki Memorial (Japan) (Rev 3)</description>
+    <title_clean>Tokimeki Memorial</title_clean>
+    <title_search>tokimeki memorial</title_search>
+  </game>
+  <game name="Ultra Box 4-gou (Japan)">
+    <description>Ultra Box 4-gou (Japan)</description>
+    <title_clean>Ultra Box 4-gou</title_clean>
+    <title_search>ultra box 4gou</title_search>
+  </game>
+  <game name="Ultra Box 5-gou (Japan)">
+    <description>Ultra Box 5-gou (Japan)</description>
+    <title_clean>Ultra Box 5-gou</title_clean>
+    <title_search>ultra box 5gou</title_search>
+  </game>
+  <game name="Urusei Yatsura - Stay with You (Japan)">
+    <description>Urusei Yatsura - Stay with You (Japan)</description>
+    <title_clean>Urusei Yatsura - Stay with You</title_clean>
+    <title_search>urusei yatsura stay with you</title_search>
+    <image ext="png" id="Urusei Yatsura - Stay with You (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Urusei Yatsura - Stay with You (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Urusei Yatsura - Stay with You (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Valis II (Japan) (Alt 1)">
+    <description>Valis II (Japan) (Alt 1)</description>
+    <title_clean>Valis II</title_clean>
+    <title_search>valis ii</title_search>
+  </game>
+  <game name="Valis II (Japan) (Alt 2)">
+    <description>Valis II (Japan) (Alt 2)</description>
+    <title_clean>Valis II</title_clean>
+    <title_search>valis ii</title_search>
+  </game>
+  <game name="Valis III (USA)">
+    <description>Valis III (USA)</description>
+    <title_clean>Valis III</title_clean>
+    <title_search>valis iii</title_search>
+    <image ext="png" id="Valis III (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Valis III (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Valis III (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Vasteel (USA)">
+    <description>Vasteel (USA)</description>
+    <title_clean>Vasteel</title_clean>
+    <title_search>vasteel</title_search>
+    <image ext="png" id="Vasteel (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Vasteel (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Vasteel (USA)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Vasteel 2 (Japan)">
+    <description>Vasteel 2 (Japan)</description>
+    <title_clean>Vasteel 2</title_clean>
+    <title_search>vasteel 2</title_search>
+    <image ext="png" id="Vasteel 2 (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Virgin Dream (Japan)">
+    <description>Virgin Dream (Japan)</description>
+    <title_clean>Virgin Dream</title_clean>
+    <title_search>virgin dream</title_search>
+  </game>
+  <game name="Wrestle Angels - Double Impact (Japan)">
+    <description>Wrestle Angels - Double Impact (Japan)</description>
+    <title_clean>Wrestle Angels - Double Impact</title_clean>
+    <title_search>wrestle angels double impact</title_search>
+  </game>
+  <game name="Wrestling Universe - Fire Pro Joshi - Dome Choujo Taisen - Zenjo vs. JWP (Japan)">
+    <description>Wrestling Universe - Fire Pro Joshi - Dome Choujo Taisen - Zenjo vs. JWP (Japan)</description>
+    <title_clean>Wrestling Universe - Fire Pro Joshi - Dome Choujo Taisen - Zenjo vs. JWP</title_clean>
+    <title_search>wrestling universe fire pro joshi dome choujo taisen zenjo vs jwp</title_search>
+  </game>
+  <game name="YaWaRa! 2 - A Fashionable Judo Girl! (Japan)">
+    <description>YaWaRa! 2 - A Fashionable Judo Girl! (Japan)</description>
+    <title_clean>YaWaRa! 2 - A Fashionable Judo Girl!</title_clean>
+    <title_search>yawara 2 a fashionable judo girl</title_search>
+  </game>
+  <game name="Yami no Ketsuzoku - Harukanaru Kioku (Japan)">
+    <description>Yami no Ketsuzoku - Harukanaru Kioku (Japan)</description>
+    <title_clean>Yami no Ketsuzoku - Harukanaru Kioku</title_clean>
+    <title_search>yami no ketsuzoku harukanaru kioku</title_search>
+  </game>
+  <game name="Yuu Yuu Hakusho - Yami Shoubu!! Ankoku Bujutsu-kai (Japan)">
+    <description>Yuu Yuu Hakusho - Yami Shoubu!! Ankoku Bujutsu-kai (Japan)</description>
+    <title_clean>Yuu Yuu Hakusho - Yami Shoubu!! Ankoku Bujutsu-kai</title_clean>
+    <title_search>yuu yuu hakusho yami shoubu ankoku bujutsukai</title_search>
+  </game>
+</datafile>

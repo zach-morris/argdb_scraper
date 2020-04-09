@@ -1,0 +1,34 @@
+<datafile>
+  <game name="Defender (USA, Europe)">
+    <description>Defender (USA, Europe)</description>
+    <title_clean>Defender</title_clean>
+    <title_search>defender</title_search>
+    <image ext="png" id="Defender (USA, Europe)" source="https://github.com/libretro-thumbnails/Entex_-_Adventure_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Defender (USA, Europe)" source="https://github.com/libretro-thumbnails/Entex_-_Adventure_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Defender (USA, Europe)" source="https://github.com/libretro-thumbnails/Entex_-_Adventure_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Force (USA, Europe)">
+    <description>Space Force (USA, Europe)</description>
+    <title_clean>Space Force</title_clean>
+    <title_search>space force</title_search>
+    <image ext="png" id="Space Force (USA, Europe)" source="https://github.com/libretro-thumbnails/Entex_-_Adventure_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Force (USA, Europe)" source="https://github.com/libretro-thumbnails/Entex_-_Adventure_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Force (USA, Europe)" source="https://github.com/libretro-thumbnails/Entex_-_Adventure_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Cobra (USA, Europe)">
+    <description>Super Cobra (USA, Europe)</description>
+    <title_clean>Super Cobra</title_clean>
+    <title_search>super cobra</title_search>
+    <image ext="png" id="Super Cobra (USA, Europe)" source="https://github.com/libretro-thumbnails/Entex_-_Adventure_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Cobra (USA, Europe)" source="https://github.com/libretro-thumbnails/Entex_-_Adventure_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Cobra (USA, Europe)" source="https://github.com/libretro-thumbnails/Entex_-_Adventure_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Turtles (USA, Europe)">
+    <description>Turtles (USA, Europe)</description>
+    <title_clean>Turtles</title_clean>
+    <title_search>turtles</title_search>
+    <image ext="png" id="Turtles (USA, Europe)" source="https://github.com/libretro-thumbnails/Entex_-_Adventure_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Turtles (USA, Europe)" source="https://github.com/libretro-thumbnails/Entex_-_Adventure_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Turtles (USA, Europe)" source="https://github.com/libretro-thumbnails/Entex_-_Adventure_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

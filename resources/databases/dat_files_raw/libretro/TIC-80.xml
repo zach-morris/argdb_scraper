@@ -1,0 +1,1400 @@
+<datafile>
+  <game name="12 Paces Joe">
+    <description>12 Paces Joe</description>
+    <title_clean>12 Paces Joe</title_clean>
+    <title_search>12 paces joe</title_search>
+    <image ext="png" id="12 Paces Joe" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="15 Minutes To Live">
+    <description>15 Minutes To Live</description>
+    <title_clean>15 Minutes To Live</title_clean>
+    <title_search>15 minutes to live</title_search>
+    <image ext="png" id="15 Minutes To Live" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="2 Player Bomberman">
+    <description>2 Player Bomberman</description>
+    <title_clean>2 Player Bomberman</title_clean>
+    <title_search>2 player bomberman</title_search>
+    <image ext="png" id="2 Player Bomberman" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="2048 TIC-80 Version">
+    <description>2048 TIC-80 Version</description>
+    <title_clean>2048 TIC-80 Version</title_clean>
+    <title_search>2048 tic80 version</title_search>
+    <image ext="png" id="2048 TIC-80 Version" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="8 Bit Panda">
+    <description>8 Bit Panda</description>
+    <title_clean>8 Bit Panda</title_clean>
+    <title_search>8 bit panda</title_search>
+    <image ext="png" id="8 Bit Panda" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="8 Bit Panda 3D Glasses Edition">
+    <description>8 Bit Panda 3D Glasses Edition</description>
+    <title_clean>8 Bit Panda 3D Glasses Edition</title_clean>
+    <title_search>8 bit panda 3d glasses edition</title_search>
+    <image ext="png" id="8 Bit Panda 3D Glasses Edition" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="8 Bit Panda Cheat Version">
+    <description>8 Bit Panda Cheat Version</description>
+    <title_clean>8 Bit Panda Cheat Version</title_clean>
+    <title_search>8 bit panda cheat version</title_search>
+    <image ext="png" id="8 Bit Panda Cheat Version" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="8 Bit Panda Invisable Editon">
+    <description>8 Bit Panda Invisable Editon</description>
+    <title_clean>8 Bit Panda Invisable Editon</title_clean>
+    <title_search>8 bit panda invisable editon</title_search>
+    <image ext="png" id="8 Bit Panda Invisable Editon" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="8 Bit Panda Virtual Boy Edition">
+    <description>8 Bit Panda Virtual Boy Edition</description>
+    <title_clean>8 Bit Panda Virtual Boy Edition</title_clean>
+    <title_search>8 bit panda virtual boy edition</title_search>
+    <image ext="png" id="8 Bit Panda Virtual Boy Edition" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="8 Bit Panda Whiteout Challenge">
+    <description>8 Bit Panda Whiteout Challenge</description>
+    <title_clean>8 Bit Panda Whiteout Challenge</title_clean>
+    <title_search>8 bit panda whiteout challenge</title_search>
+    <image ext="png" id="8 Bit Panda Whiteout Challenge" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="A Blobfish Out Of Water">
+    <description>A Blobfish Out Of Water</description>
+    <title_clean>A Blobfish Out Of Water</title_clean>
+    <title_search>a blobfish out of water</title_search>
+    <image ext="png" id="A Blobfish Out Of Water" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="A Clicker">
+    <description>A Clicker</description>
+    <title_clean>A Clicker</title_clean>
+    <title_search>a clicker</title_search>
+    <image ext="png" id="A Clicker" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Air Hockey">
+    <description>Air Hockey</description>
+    <title_clean>Air Hockey</title_clean>
+    <title_search>air hockey</title_search>
+    <image ext="png" id="Air Hockey" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Amrogue">
+    <description>Amrogue</description>
+    <title_clean>Amrogue</title_clean>
+    <title_search>amrogue</title_search>
+    <image ext="png" id="Amrogue" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ant Racer">
+    <description>Ant Racer</description>
+    <title_clean>Ant Racer</title_clean>
+    <title_search>ant racer</title_search>
+    <image ext="png" id="Ant Racer" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ark2 K S Arithmetic">
+    <description>Ark2 K S Arithmetic</description>
+    <title_clean>Ark2 K S Arithmetic</title_clean>
+    <title_search>ark2 k s arithmetic</title_search>
+    <image ext="png" id="Ark2 K S Arithmetic" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Asprin">
+    <description>Asprin</description>
+    <title_clean>Asprin</title_clean>
+    <title_search>asprin</title_search>
+    <image ext="png" id="Asprin" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Asteroids">
+    <description>Asteroids</description>
+    <title_clean>Asteroids</title_clean>
+    <title_search>asteroids</title_search>
+    <image ext="png" id="Asteroids" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Balloon And Cactus A Love Story">
+    <description>Balloon And Cactus A Love Story</description>
+    <title_clean>Balloon And Cactus A Love Story</title_clean>
+    <title_search>balloon and cactus a love story</title_search>
+    <image ext="png" id="Balloon And Cactus A Love Story" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Balloon Punch">
+    <description>Balloon Punch</description>
+    <title_clean>Balloon Punch</title_clean>
+    <title_search>balloon punch</title_search>
+    <image ext="png" id="Balloon Punch" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Balmung">
+    <description>Balmung</description>
+    <title_clean>Balmung</title_clean>
+    <title_search>balmung</title_search>
+    <image ext="png" id="Balmung" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bare Bones">
+    <description>Bare Bones</description>
+    <title_clean>Bare Bones</title_clean>
+    <title_search>bare bones</title_search>
+    <image ext="png" id="Bare Bones" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Battle">
+    <description>Battle</description>
+    <title_clean>Battle</title_clean>
+    <title_search>battle</title_search>
+    <image ext="png" id="Battle" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bejeweled">
+    <description>Bejeweled</description>
+    <title_clean>Bejeweled</title_clean>
+    <title_search>bejeweled</title_search>
+    <image ext="png" id="Bejeweled" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Binary Road">
+    <description>Binary Road</description>
+    <title_clean>Binary Road</title_clean>
+    <title_search>binary road</title_search>
+    <image ext="png" id="Binary Road" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bird Jumper">
+    <description>Bird Jumper</description>
+    <title_clean>Bird Jumper</title_clean>
+    <title_search>bird jumper</title_search>
+    <image ext="png" id="Bird Jumper" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bitmaze">
+    <description>Bitmaze</description>
+    <title_clean>Bitmaze</title_clean>
+    <title_search>bitmaze</title_search>
+    <image ext="png" id="Bitmaze" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Blast 80">
+    <description>Blast 80</description>
+    <title_clean>Blast 80</title_clean>
+    <title_search>blast 80</title_search>
+    <image ext="png" id="Blast 80" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Block Walk">
+    <description>Block Walk</description>
+    <title_clean>Block Walk</title_clean>
+    <title_search>block walk</title_search>
+    <image ext="png" id="Block Walk" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Blue S Dance Show">
+    <description>Blue S Dance Show</description>
+    <title_clean>Blue S Dance Show</title_clean>
+    <title_search>blue s dance show</title_search>
+    <image ext="png" id="Blue S Dance Show" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Boom Bushes">
+    <description>Boom Bushes</description>
+    <title_clean>Boom Bushes</title_clean>
+    <title_search>boom bushes</title_search>
+    <image ext="png" id="Boom Bushes" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bouncelot">
+    <description>Bouncelot</description>
+    <title_clean>Bouncelot</title_clean>
+    <title_search>bouncelot</title_search>
+    <image ext="png" id="Bouncelot" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Breakout Test">
+    <description>Breakout Test</description>
+    <title_clean>Breakout Test</title_clean>
+    <title_search>breakout test</title_search>
+    <image ext="png" id="Breakout Test" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Brickgame">
+    <description>Brickgame</description>
+    <title_clean>Brickgame</title_clean>
+    <title_search>brickgame</title_search>
+    <image ext="png" id="Brickgame" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Call Of The Trees">
+    <description>Call Of The Trees</description>
+    <title_clean>Call Of The Trees</title_clean>
+    <title_search>call of the trees</title_search>
+    <image ext="png" id="Call Of The Trees" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Can T Stop">
+    <description>Can T Stop</description>
+    <title_clean>Can T Stop</title_clean>
+    <title_search>can t stop</title_search>
+    <image ext="png" id="Can T Stop" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Candytic">
+    <description>Candytic</description>
+    <title_clean>Candytic</title_clean>
+    <title_search>candytic</title_search>
+    <image ext="png" id="Candytic" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cap Hell">
+    <description>Cap Hell</description>
+    <title_clean>Cap Hell</title_clean>
+    <title_search>cap hell</title_search>
+    <image ext="png" id="Cap Hell" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cars">
+    <description>Cars</description>
+    <title_clean>Cars</title_clean>
+    <title_search>cars</title_search>
+    <image ext="png" id="Cars" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cauliflower Power">
+    <description>Cauliflower Power</description>
+    <title_clean>Cauliflower Power</title_clean>
+    <title_search>cauliflower power</title_search>
+    <image ext="png" id="Cauliflower Power" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Celeste">
+    <description>Celeste</description>
+    <title_clean>Celeste</title_clean>
+    <title_search>celeste</title_search>
+    <image ext="png" id="Celeste" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Character Generator Shooting">
+    <description>Character Generator Shooting</description>
+    <title_clean>Character Generator Shooting</title_clean>
+    <title_search>character generator shooting</title_search>
+    <image ext="png" id="Character Generator Shooting" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="City Building Similuator">
+    <description>City Building Similuator</description>
+    <title_clean>City Building Similuator</title_clean>
+    <title_search>city building similuator</title_search>
+    <image ext="png" id="City Building Similuator" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Clicker">
+    <description>Clicker</description>
+    <title_clean>Clicker</title_clean>
+    <title_search>clicker</title_search>
+    <image ext="png" id="Clicker" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Comets">
+    <description>Comets</description>
+    <title_clean>Comets</title_clean>
+    <title_search>comets</title_search>
+    <image ext="png" id="Comets" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Conway S Game Of Life">
+    <description>Conway S Game Of Life</description>
+    <title_clean>Conway S Game Of Life</title_clean>
+    <title_search>conway s game of life</title_search>
+    <image ext="png" id="Conway S Game Of Life" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cookie Clicker">
+    <description>Cookie Clicker</description>
+    <title_clean>Cookie Clicker</title_clean>
+    <title_search>cookie clicker</title_search>
+    <image ext="png" id="Cookie Clicker" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cookie Clicker The First Version">
+    <description>Cookie Clicker The First Version</description>
+    <title_clean>Cookie Clicker The First Version</title_clean>
+    <title_search>cookie clicker the first version</title_search>
+    <image ext="png" id="Cookie Clicker The First Version" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cool And New RPG">
+    <description>Cool And New RPG</description>
+    <title_clean>Cool And New RPG</title_clean>
+    <title_search>cool and new rpg</title_search>
+    <image ext="png" id="Cool And New RPG" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cpong">
+    <description>Cpong</description>
+    <title_clean>Cpong</title_clean>
+    <title_search>cpong</title_search>
+    <image ext="png" id="Cpong" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Crab Run">
+    <description>Crab Run</description>
+    <title_clean>Crab Run</title_clean>
+    <title_search>crab run</title_search>
+    <image ext="png" id="Crab Run" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Croco Craze">
+    <description>Croco Craze</description>
+    <title_clean>Croco Craze</title_clean>
+    <title_search>croco craze</title_search>
+    <image ext="png" id="Croco Craze" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cubes Charmer">
+    <description>Cubes Charmer</description>
+    <title_clean>Cubes Charmer</title_clean>
+    <title_search>cubes charmer</title_search>
+    <image ext="png" id="Cubes Charmer" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Curse Of Kildren">
+    <description>Curse Of Kildren</description>
+    <title_clean>Curse Of Kildren</title_clean>
+    <title_search>curse of kildren</title_search>
+    <image ext="png" id="Curse Of Kildren" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dangerous Dave">
+    <description>Dangerous Dave</description>
+    <title_clean>Dangerous Dave</title_clean>
+    <title_search>dangerous dave</title_search>
+    <image ext="png" id="Dangerous Dave" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Deadly Skeltons">
+    <description>Deadly Skeltons</description>
+    <title_clean>Deadly Skeltons</title_clean>
+    <title_search>deadly skeltons</title_search>
+    <image ext="png" id="Deadly Skeltons" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Door">
+    <description>Door</description>
+    <title_clean>Door</title_clean>
+    <title_search>door</title_search>
+    <image ext="png" id="Door" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Doors Of Doom">
+    <description>Doors Of Doom</description>
+    <title_clean>Doors Of Doom</title_clean>
+    <title_search>doors of doom</title_search>
+    <image ext="png" id="Doors Of Doom" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Double Sided">
+    <description>Double Sided</description>
+    <title_clean>Double Sided</title_clean>
+    <title_search>double sided</title_search>
+    <image ext="png" id="Double Sided" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dreas Up">
+    <description>Dreas Up</description>
+    <title_clean>Dreas Up</title_clean>
+    <title_search>dreas up</title_search>
+    <image ext="png" id="Dreas Up" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dungeon Walker">
+    <description>Dungeon Walker</description>
+    <title_clean>Dungeon Walker</title_clean>
+    <title_search>dungeon walker</title_search>
+    <image ext="png" id="Dungeon Walker" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Eden The Fox Prototype Beta">
+    <description>Eden The Fox Prototype Beta</description>
+    <title_clean>Eden The Fox Prototype Beta</title_clean>
+    <title_search>eden the fox prototype beta</title_search>
+    <image ext="png" id="Eden The Fox Prototype Beta" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Entropipes">
+    <description>Entropipes</description>
+    <title_clean>Entropipes</title_clean>
+    <title_search>entropipes</title_search>
+    <image ext="png" id="Entropipes" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Entropipes Graphics Mod">
+    <description>Entropipes Graphics Mod</description>
+    <title_clean>Entropipes Graphics Mod</title_clean>
+    <title_search>entropipes graphics mod</title_search>
+    <image ext="png" id="Entropipes Graphics Mod" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Everdawn">
+    <description>Everdawn</description>
+    <title_clean>Everdawn</title_clean>
+    <title_search>everdawn</title_search>
+    <image ext="png" id="Everdawn" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Evolution">
+    <description>Evolution</description>
+    <title_clean>Evolution</title_clean>
+    <title_search>evolution</title_search>
+    <image ext="png" id="Evolution" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Eyesoul">
+    <description>Eyesoul</description>
+    <title_clean>Eyesoul</title_clean>
+    <title_search>eyesoul</title_search>
+    <image ext="png" id="Eyesoul" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="FPS80">
+    <description>FPS80</description>
+    <title_clean>FPS80</title_clean>
+    <title_search>fps80</title_search>
+    <image ext="png" id="FPS80" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="FPS80 Cheat Version">
+    <description>FPS80 Cheat Version</description>
+    <title_clean>FPS80 Cheat Version</title_clean>
+    <title_search>fps80 cheat version</title_search>
+    <image ext="png" id="FPS80 Cheat Version" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="First Game">
+    <description>First Game</description>
+    <title_clean>First Game</title_clean>
+    <title_search>first game</title_search>
+    <image ext="png" id="First Game" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Flappy Bird">
+    <description>Flappy Bird</description>
+    <title_clean>Flappy Bird</title_clean>
+    <title_search>flappy bird</title_search>
+    <image ext="png" id="Flappy Bird" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Flappy Bird Test">
+    <description>Flappy Bird Test</description>
+    <title_clean>Flappy Bird Test</title_clean>
+    <title_search>flappy bird test</title_search>
+    <image ext="png" id="Flappy Bird Test" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Flappy Bird Tic Edition">
+    <description>Flappy Bird Tic Edition</description>
+    <title_clean>Flappy Bird Tic Edition</title_clean>
+    <title_search>flappy bird tic edition</title_search>
+    <image ext="png" id="Flappy Bird Tic Edition" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Flippy">
+    <description>Flippy</description>
+    <title_clean>Flippy</title_clean>
+    <title_search>flippy</title_search>
+    <image ext="png" id="Flippy" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Flock Block">
+    <description>Flock Block</description>
+    <title_clean>Flock Block</title_clean>
+    <title_search>flock block</title_search>
+    <image ext="png" id="Flock Block" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Flower Farm">
+    <description>Flower Farm</description>
+    <title_clean>Flower Farm</title_clean>
+    <title_search>flower farm</title_search>
+    <image ext="png" id="Flower Farm" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fluffy Balloon">
+    <description>Fluffy Balloon</description>
+    <title_clean>Fluffy Balloon</title_clean>
+    <title_search>fluffy balloon</title_search>
+    <image ext="png" id="Fluffy Balloon" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Frogger">
+    <description>Frogger</description>
+    <title_clean>Frogger</title_clean>
+    <title_search>frogger</title_search>
+    <image ext="png" id="Frogger" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gametest">
+    <description>Gametest</description>
+    <title_clean>Gametest</title_clean>
+    <title_search>gametest</title_search>
+    <image ext="png" id="Gametest" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Genius">
+    <description>Genius</description>
+    <title_clean>Genius</title_clean>
+    <title_search>genius</title_search>
+    <image ext="png" id="Genius" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Genjuumin Shooting">
+    <description>Genjuumin Shooting</description>
+    <title_clean>Genjuumin Shooting</title_clean>
+    <title_search>genjuumin shooting</title_search>
+    <image ext="png" id="Genjuumin Shooting" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ghost N Coin">
+    <description>Ghost N Coin</description>
+    <title_clean>Ghost N Coin</title_clean>
+    <title_search>ghost n coin</title_search>
+    <image ext="png" id="Ghost N Coin" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Giah">
+    <description>Giah</description>
+    <title_clean>Giah</title_clean>
+    <title_search>giah</title_search>
+    <image ext="png" id="Giah" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Google Dino">
+    <description>Google Dino</description>
+    <title_clean>Google Dino</title_clean>
+    <title_search>google dino</title_search>
+    <image ext="png" id="Google Dino" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gravitron Experiment">
+    <description>Gravitron Experiment</description>
+    <title_clean>Gravitron Experiment</title_clean>
+    <title_search>gravitron experiment</title_search>
+    <image ext="png" id="Gravitron Experiment" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gruniozerca Carrot Hunt">
+    <description>Gruniozerca Carrot Hunt</description>
+    <title_clean>Gruniozerca Carrot Hunt</title_clean>
+    <title_search>gruniozerca carrot hunt</title_search>
+    <image ext="png" id="Gruniozerca Carrot Hunt" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Guess The Number">
+    <description>Guess The Number</description>
+    <title_clean>Guess The Number</title_clean>
+    <title_search>guess the number</title_search>
+    <image ext="png" id="Guess The Number" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gusdraw">
+    <description>Gusdraw</description>
+    <title_clean>Gusdraw</title_clean>
+    <title_search>gusdraw</title_search>
+    <image ext="png" id="Gusdraw" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hangerjam">
+    <description>Hangerjam</description>
+    <title_clean>Hangerjam</title_clean>
+    <title_search>hangerjam</title_search>
+    <image ext="png" id="Hangerjam" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Health Care">
+    <description>Health Care</description>
+    <title_clean>Health Care</title_clean>
+    <title_search>health care</title_search>
+    <image ext="png" id="Health Care" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hello Kitty S Maze">
+    <description>Hello Kitty S Maze</description>
+    <title_clean>Hello Kitty S Maze</title_clean>
+    <title_search>hello kitty s maze</title_search>
+    <image ext="png" id="Hello Kitty S Maze" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Herbert The Ghost">
+    <description>Herbert The Ghost</description>
+    <title_clean>Herbert The Ghost</title_clean>
+    <title_search>herbert the ghost</title_search>
+    <image ext="png" id="Herbert The Ghost" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hi Ex">
+    <description>Hi Ex</description>
+    <title_clean>Hi Ex</title_clean>
+    <title_search>hi ex</title_search>
+    <image ext="png" id="Hi Ex" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="I Wonder If I Had A Younger Sister">
+    <description>I Wonder If I Had A Younger Sister</description>
+    <title_clean>I Wonder If I Had A Younger Sister</title_clean>
+    <title_search>i wonder if i had a younger sister</title_search>
+    <image ext="png" id="I Wonder If I Had A Younger Sister" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Impossible FPS80">
+    <description>Impossible FPS80</description>
+    <title_clean>Impossible FPS80</title_clean>
+    <title_search>impossible fps80</title_search>
+    <image ext="png" id="Impossible FPS80" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Impossible Pong">
+    <description>Impossible Pong</description>
+    <title_clean>Impossible Pong</title_clean>
+    <title_search>impossible pong</title_search>
+    <image ext="png" id="Impossible Pong" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Indiana Jones 1">
+    <description>Indiana Jones 1</description>
+    <title_clean>Indiana Jones 1</title_clean>
+    <title_search>indiana jones 1</title_search>
+    <image ext="png" id="Indiana Jones 1" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jetpac">
+    <description>Jetpac</description>
+    <title_clean>Jetpac</title_clean>
+    <title_search>jetpac</title_search>
+    <image ext="png" id="Jetpac" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Katzu">
+    <description>Katzu</description>
+    <title_clean>Katzu</title_clean>
+    <title_search>katzu</title_search>
+    <image ext="png" id="Katzu" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kirbong">
+    <description>Kirbong</description>
+    <title_clean>Kirbong</title_clean>
+    <title_search>kirbong</title_search>
+    <image ext="png" id="Kirbong" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kitty Guy S Keyboard Training">
+    <description>Kitty Guy S Keyboard Training</description>
+    <title_clean>Kitty Guy S Keyboard Training</title_clean>
+    <title_search>kitty guy s keyboard training</title_search>
+    <image ext="png" id="Kitty Guy S Keyboard Training" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Komet">
+    <description>Komet</description>
+    <title_clean>Komet</title_clean>
+    <title_search>komet</title_search>
+    <image ext="png" id="Komet" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lander">
+    <description>Lander</description>
+    <title_clean>Lander</title_clean>
+    <title_search>lander</title_search>
+    <image ext="png" id="Lander" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Landing">
+    <description>Landing</description>
+    <title_clean>Landing</title_clean>
+    <title_search>landing</title_search>
+    <image ext="png" id="Landing" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lavender Woods">
+    <description>Lavender Woods</description>
+    <title_clean>Lavender Woods</title_clean>
+    <title_search>lavender woods</title_search>
+    <image ext="png" id="Lavender Woods" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lcd Tetris">
+    <description>Lcd Tetris</description>
+    <title_clean>Lcd Tetris</title_clean>
+    <title_search>lcd tetris</title_search>
+    <image ext="png" id="Lcd Tetris" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Level Down">
+    <description>Level Down</description>
+    <title_clean>Level Down</title_clean>
+    <title_search>level down</title_search>
+    <image ext="png" id="Level Down" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lights Off">
+    <description>Lights Off</description>
+    <title_clean>Lights Off</title_clean>
+    <title_search>lights off</title_search>
+    <image ext="png" id="Lights Off" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Little Bat">
+    <description>Little Bat</description>
+    <title_clean>Little Bat</title_clean>
+    <title_search>little bat</title_search>
+    <image ext="png" id="Little Bat" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lost In Space">
+    <description>Lost In Space</description>
+    <title_clean>Lost In Space</title_clean>
+    <title_search>lost in space</title_search>
+    <image ext="png" id="Lost In Space" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="M3">
+    <description>M3</description>
+    <title_clean>M3</title_clean>
+    <title_search>m3</title_search>
+    <image ext="png" id="M3" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mainfighter">
+    <description>Mainfighter</description>
+    <title_clean>Mainfighter</title_clean>
+    <title_search>mainfighter</title_search>
+    <image ext="png" id="Mainfighter" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mainfighter Graphics Mod">
+    <description>Mainfighter Graphics Mod</description>
+    <title_clean>Mainfighter Graphics Mod</title_clean>
+    <title_search>mainfighter graphics mod</title_search>
+    <image ext="png" id="Mainfighter Graphics Mod" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mario">
+    <description>Mario</description>
+    <title_clean>Mario</title_clean>
+    <title_search>mario</title_search>
+    <image ext="png" id="Mario" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mario Bros">
+    <description>Mario Bros</description>
+    <title_clean>Mario Bros</title_clean>
+    <title_search>mario bros</title_search>
+    <image ext="png" id="Mario Bros" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Minecraft">
+    <description>Minecraft</description>
+    <title_clean>Minecraft</title_clean>
+    <title_search>minecraft</title_search>
+    <image ext="png" id="Minecraft" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Miners">
+    <description>Miners</description>
+    <title_clean>Miners</title_clean>
+    <title_search>miners</title_search>
+    <image ext="png" id="Miners" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Minesweeper">
+    <description>Minesweeper</description>
+    <title_clean>Minesweeper</title_clean>
+    <title_search>minesweeper</title_search>
+    <image ext="png" id="Minesweeper" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Missile Rain">
+    <description>Missile Rain</description>
+    <title_clean>Missile Rain</title_clean>
+    <title_search>missile rain</title_search>
+    <image ext="png" id="Missile Rain" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mole">
+    <description>Mole</description>
+    <title_clean>Mole</title_clean>
+    <title_search>mole</title_search>
+    <image ext="png" id="Mole" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mouzi Ii">
+    <description>Mouzi Ii</description>
+    <title_clean>Mouzi Ii</title_clean>
+    <title_search>mouzi ii</title_search>
+    <image ext="png" id="Mouzi Ii" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Music Studio">
+    <description>Music Studio</description>
+    <title_clean>Music Studio</title_clean>
+    <title_search>music studio</title_search>
+    <image ext="png" id="Music Studio" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mystery House">
+    <description>Mystery House</description>
+    <title_clean>Mystery House</title_clean>
+    <title_search>mystery house</title_search>
+    <image ext="png" id="Mystery House" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Newtototone">
+    <description>Newtototone</description>
+    <title_clean>Newtototone</title_clean>
+    <title_search>newtototone</title_search>
+    <image ext="png" id="Newtototone" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nexus Space">
+    <description>Nexus Space</description>
+    <title_clean>Nexus Space</title_clean>
+    <title_search>nexus space</title_search>
+    <image ext="png" id="Nexus Space" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nights Score Attack TIC-80 Ver">
+    <description>Nights Score Attack TIC-80 Ver</description>
+    <title_clean>Nights Score Attack TIC-80 Ver</title_clean>
+    <title_search>nights score attack tic80 ver</title_search>
+    <image ext="png" id="Nights Score Attack TIC-80 Ver" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Oneminuteescape">
+    <description>Oneminuteescape</description>
+    <title_clean>Oneminuteescape</title_clean>
+    <title_search>oneminuteescape</title_search>
+    <image ext="png" id="Oneminuteescape" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Orbis">
+    <description>Orbis</description>
+    <title_clean>Orbis</title_clean>
+    <title_search>orbis</title_search>
+    <image ext="png" id="Orbis" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Oseo">
+    <description>Oseo</description>
+    <title_clean>Oseo</title_clean>
+    <title_search>oseo</title_search>
+    <image ext="png" id="Oseo" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ourgame English Translation">
+    <description>Ourgame English Translation</description>
+    <title_clean>Ourgame English Translation</title_clean>
+    <title_search>ourgame english translation</title_search>
+    <image ext="png" id="Ourgame English Translation" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Paint">
+    <description>Paint</description>
+    <title_clean>Paint</title_clean>
+    <title_search>paint</title_search>
+    <image ext="png" id="Paint" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pastry Clicker">
+    <description>Pastry Clicker</description>
+    <title_clean>Pastry Clicker</title_clean>
+    <title_search>pastry clicker</title_search>
+    <image ext="png" id="Pastry Clicker" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Patato Man">
+    <description>Patato Man</description>
+    <title_clean>Patato Man</title_clean>
+    <title_search>patato man</title_search>
+    <image ext="png" id="Patato Man" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Penguin Adventure">
+    <description>Penguin Adventure</description>
+    <title_clean>Penguin Adventure</title_clean>
+    <title_search>penguin adventure</title_search>
+    <image ext="png" id="Penguin Adventure" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pixel Jump">
+    <description>Pixel Jump</description>
+    <title_clean>Pixel Jump</title_clean>
+    <title_search>pixel jump</title_search>
+    <image ext="png" id="Pixel Jump" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pixel Jump Ii Release">
+    <description>Pixel Jump Ii Release</description>
+    <title_clean>Pixel Jump Ii Release</title_clean>
+    <title_search>pixel jump ii release</title_search>
+    <image ext="png" id="Pixel Jump Ii Release" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokemongol Igo">
+    <description>Pokemongol Igo</description>
+    <title_clean>Pokemongol Igo</title_clean>
+    <title_search>pokemongol igo</title_search>
+    <image ext="png" id="Pokemongol Igo" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokey The Golden Hedgehog 2 Alpha 2">
+    <description>Pokey The Golden Hedgehog 2 Alpha 2</description>
+    <title_clean>Pokey The Golden Hedgehog 2 Alpha 2</title_clean>
+    <title_search>pokey the golden hedgehog 2 alpha 2</title_search>
+    <image ext="png" id="Pokey The Golden Hedgehog 2 Alpha 2" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pokey The Hedgehog">
+    <description>Pokey The Hedgehog</description>
+    <title_clean>Pokey The Hedgehog</title_clean>
+    <title_search>pokey the hedgehog</title_search>
+    <image ext="png" id="Pokey The Hedgehog" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Polylines">
+    <description>Polylines</description>
+    <title_clean>Polylines</title_clean>
+    <title_search>polylines</title_search>
+    <image ext="png" id="Polylines" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pong In Tic80">
+    <description>Pong In Tic80</description>
+    <title_clean>Pong In Tic80</title_clean>
+    <title_search>pong in tic80</title_search>
+    <image ext="png" id="Pong In Tic80" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pony Pong Is Actually Breakout">
+    <description>Pony Pong Is Actually Breakout</description>
+    <title_clean>Pony Pong Is Actually Breakout</title_clean>
+    <title_search>pony pong is actually breakout</title_search>
+    <image ext="png" id="Pony Pong Is Actually Breakout" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Powder Game">
+    <description>Powder Game</description>
+    <title_clean>Powder Game</title_clean>
+    <title_search>powder game</title_search>
+    <image ext="png" id="Powder Game" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Powder Sandbox v10">
+    <description>Powder Sandbox v10</description>
+    <title_clean>Powder Sandbox v10</title_clean>
+    <title_search>powder sandbox v10</title_search>
+    <image ext="png" id="Powder Sandbox v10" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Problems">
+    <description>Problems</description>
+    <title_clean>Problems</title_clean>
+    <title_search>problems</title_search>
+    <image ext="png" id="Problems" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pseudo 3D Road">
+    <description>Pseudo 3D Road</description>
+    <title_clean>Pseudo 3D Road</title_clean>
+    <title_search>pseudo 3d road</title_search>
+    <image ext="png" id="Pseudo 3D Road" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Push Em">
+    <description>Push Em</description>
+    <title_clean>Push Em</title_clean>
+    <title_search>push em</title_search>
+    <image ext="png" id="Push Em" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Quest For Glory">
+    <description>Quest For Glory</description>
+    <title_clean>Quest For Glory</title_clean>
+    <title_search>quest for glory</title_search>
+    <image ext="png" id="Quest For Glory" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="RPG">
+    <description>RPG</description>
+    <title_clean>RPG</title_clean>
+    <title_search>rpg</title_search>
+    <image ext="png" id="RPG" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="RPS">
+    <description>RPS</description>
+    <title_clean>RPS</title_clean>
+    <title_search>rps</title_search>
+    <image ext="png" id="RPS" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Racer Z">
+    <description>Racer Z</description>
+    <title_clean>Racer Z</title_clean>
+    <title_search>racer z</title_search>
+    <image ext="png" id="Racer Z" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Raycast Racer">
+    <description>Raycast Racer</description>
+    <title_clean>Raycast Racer</title_clean>
+    <title_search>raycast racer</title_search>
+    <image ext="png" id="Raycast Racer" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rayportal">
+    <description>Rayportal</description>
+    <title_clean>Rayportal</title_clean>
+    <title_search>rayportal</title_search>
+    <image ext="png" id="Rayportal" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rc Flight Simulator">
+    <description>Rc Flight Simulator</description>
+    <title_clean>Rc Flight Simulator</title_clean>
+    <title_search>rc flight simulator</title_search>
+    <image ext="png" id="Rc Flight Simulator" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rebonde">
+    <description>Rebonde</description>
+    <title_clean>Rebonde</title_clean>
+    <title_search>rebonde</title_search>
+    <image ext="png" id="Rebonde" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rebound 2 2 Revelations">
+    <description>Rebound 2 2 Revelations</description>
+    <title_clean>Rebound 2 2 Revelations</title_clean>
+    <title_search>rebound 2 2 revelations</title_search>
+    <image ext="png" id="Rebound 2 2 Revelations" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rebound 2 Electric Boogaloo">
+    <description>Rebound 2 Electric Boogaloo</description>
+    <title_clean>Rebound 2 Electric Boogaloo</title_clean>
+    <title_search>rebound 2 electric boogaloo</title_search>
+    <image ext="png" id="Rebound 2 Electric Boogaloo" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Release Chasing">
+    <description>Release Chasing</description>
+    <title_clean>Release Chasing</title_clean>
+    <title_search>release chasing</title_search>
+    <image ext="png" id="Release Chasing" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rescuecopter">
+    <description>Rescuecopter</description>
+    <title_clean>Rescuecopter</title_clean>
+    <title_search>rescuecopter</title_search>
+    <image ext="png" id="Rescuecopter" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Run Run Run">
+    <description>Run Run Run</description>
+    <title_clean>Run Run Run</title_clean>
+    <title_search>run run run</title_search>
+    <image ext="png" id="Run Run Run" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sardelny">
+    <description>Sardelny</description>
+    <title_clean>Sardelny</title_clean>
+    <title_search>sardelny</title_search>
+    <image ext="png" id="Sardelny" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Secret Agents">
+    <description>Secret Agents</description>
+    <title_clean>Secret Agents</title_clean>
+    <title_search>secret agents</title_search>
+    <image ext="png" id="Secret Agents" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shadow Over The Twelve Lands">
+    <description>Shadow Over The Twelve Lands</description>
+    <title_clean>Shadow Over The Twelve Lands</title_clean>
+    <title_search>shadow over the twelve lands</title_search>
+    <image ext="png" id="Shadow Over The Twelve Lands" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sheep Run">
+    <description>Sheep Run</description>
+    <title_clean>Sheep Run</title_clean>
+    <title_search>sheep run</title_search>
+    <image ext="png" id="Sheep Run" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shootanoid">
+    <description>Shootanoid</description>
+    <title_clean>Shootanoid</title_clean>
+    <title_search>shootanoid</title_search>
+    <image ext="png" id="Shootanoid" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shredder Boy">
+    <description>Shredder Boy</description>
+    <title_clean>Shredder Boy</title_clean>
+    <title_search>shredder boy</title_search>
+    <image ext="png" id="Shredder Boy" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Simon">
+    <description>Simon</description>
+    <title_clean>Simon</title_clean>
+    <title_search>simon</title_search>
+    <image ext="png" id="Simon" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Simple Maze Game">
+    <description>Simple Maze Game</description>
+    <title_clean>Simple Maze Game</title_clean>
+    <title_search>simple maze game</title_search>
+    <image ext="png" id="Simple Maze Game" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Simple Snake Game">
+    <description>Simple Snake Game</description>
+    <title_clean>Simple Snake Game</title_clean>
+    <title_search>simple snake game</title_search>
+    <image ext="png" id="Simple Snake Game" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Simplepong">
+    <description>Simplepong</description>
+    <title_clean>Simplepong</title_clean>
+    <title_search>simplepong</title_search>
+    <image ext="png" id="Simplepong" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Slide Color">
+    <description>Slide Color</description>
+    <title_clean>Slide Color</title_clean>
+    <title_search>slide color</title_search>
+    <image ext="png" id="Slide Color" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Slider">
+    <description>Slider</description>
+    <title_clean>Slider</title_clean>
+    <title_search>slider</title_search>
+    <image ext="png" id="Slider" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Small Snake">
+    <description>Small Snake</description>
+    <title_clean>Small Snake</title_clean>
+    <title_search>small snake</title_search>
+    <image ext="png" id="Small Snake" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Snake Game">
+    <description>Snake Game</description>
+    <title_clean>Snake Game</title_clean>
+    <title_search>snake game</title_search>
+    <image ext="png" id="Snake Game" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Pet Rescue">
+    <description>Space Pet Rescue</description>
+    <title_clean>Space Pet Rescue</title_clean>
+    <title_search>space pet rescue</title_search>
+    <image ext="png" id="Space Pet Rescue" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Race Df 9">
+    <description>Space Race Df 9</description>
+    <title_clean>Space Race Df 9</title_clean>
+    <title_search>space race df 9</title_search>
+    <image ext="png" id="Space Race Df 9" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Thing">
+    <description>Space Thing</description>
+    <title_clean>Space Thing</title_clean>
+    <title_search>space thing</title_search>
+    <image ext="png" id="Space Thing" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Spacer Shiper Shooter">
+    <description>Spacer Shiper Shooter</description>
+    <title_clean>Spacer Shiper Shooter</title_clean>
+    <title_search>spacer shiper shooter</title_search>
+    <image ext="png" id="Spacer Shiper Shooter" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Starship">
+    <description>Starship</description>
+    <title_clean>Starship</title_clean>
+    <title_search>starship</title_search>
+    <image ext="png" id="Starship" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Stele">
+    <description>Stele</description>
+    <title_clean>Stele</title_clean>
+    <title_search>stele</title_search>
+    <image ext="png" id="Stele" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Stop The Slimes">
+    <description>Stop The Slimes</description>
+    <title_clean>Stop The Slimes</title_clean>
+    <title_search>stop the slimes</title_search>
+    <image ext="png" id="Stop The Slimes" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Street Shooter">
+    <description>Street Shooter</description>
+    <title_clean>Street Shooter</title_clean>
+    <title_search>street shooter</title_search>
+    <image ext="png" id="Street Shooter" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Streko">
+    <description>Streko</description>
+    <title_clean>Streko</title_clean>
+    <title_search>streko</title_search>
+    <image ext="png" id="Streko" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Structure Mania">
+    <description>Structure Mania</description>
+    <title_clean>Structure Mania</title_clean>
+    <title_search>structure mania</title_search>
+    <image ext="png" id="Structure Mania" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Stuck In A Timeloop">
+    <description>Stuck In A Timeloop</description>
+    <title_clean>Stuck In A Timeloop</title_clean>
+    <title_search>stuck in a timeloop</title_search>
+    <image ext="png" id="Stuck In A Timeloop" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Hexagon">
+    <description>Super Hexagon</description>
+    <title_clean>Super Hexagon</title_clean>
+    <title_search>super hexagon</title_search>
+    <image ext="png" id="Super Hexagon" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Monkeyball">
+    <description>Super Monkeyball</description>
+    <title_clean>Super Monkeyball</title_clean>
+    <title_search>super monkeyball</title_search>
+    <image ext="png" id="Super Monkeyball" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Supernova">
+    <description>Supernova</description>
+    <title_clean>Supernova</title_clean>
+    <title_search>supernova</title_search>
+    <image ext="png" id="Supernova" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tag">
+    <description>Tag</description>
+    <title_clean>Tag</title_clean>
+    <title_search>tag</title_search>
+    <image ext="png" id="Tag" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tanks">
+    <description>Tanks</description>
+    <title_clean>Tanks</title_clean>
+    <title_search>tanks</title_search>
+    <image ext="png" id="Tanks" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ten">
+    <description>Ten</description>
+    <title_clean>Ten</title_clean>
+    <title_search>ten</title_search>
+    <image ext="png" id="Ten" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Terror Instinct">
+    <description>Terror Instinct</description>
+    <title_clean>Terror Instinct</title_clean>
+    <title_search>terror instinct</title_search>
+    <image ext="png" id="Terror Instinct" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tetris Update 1">
+    <description>Tetris Update 1</description>
+    <title_clean>Tetris Update 1</title_clean>
+    <title_search>tetris update 1</title_search>
+    <image ext="png" id="Tetris Update 1" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Text Invaders">
+    <description>Text Invaders</description>
+    <title_clean>Text Invaders</title_clean>
+    <title_search>text invaders</title_search>
+    <image ext="png" id="Text Invaders" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Text Invaders Whiteout Edition">
+    <description>Text Invaders Whiteout Edition</description>
+    <title_clean>Text Invaders Whiteout Edition</title_clean>
+    <title_search>text invaders whiteout edition</title_search>
+    <image ext="png" id="Text Invaders Whiteout Edition" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="The Dark Tower">
+    <description>The Dark Tower</description>
+    <title_clean>The Dark Tower</title_clean>
+    <title_search>the dark tower</title_search>
+    <image ext="png" id="The Dark Tower" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="The Hunt For Some Gold">
+    <description>The Hunt For Some Gold</description>
+    <title_clean>The Hunt For Some Gold</title_clean>
+    <title_search>the hunt for some gold</title_search>
+    <image ext="png" id="The Hunt For Some Gold" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="The Right Coin">
+    <description>The Right Coin</description>
+    <title_clean>The Right Coin</title_clean>
+    <title_search>the right coin</title_search>
+    <image ext="png" id="The Right Coin" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="The Sky House">
+    <description>The Sky House</description>
+    <title_clean>The Sky House</title_clean>
+    <title_search>the sky house</title_search>
+    <image ext="png" id="The Sky House" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="TheTextQuest">
+    <description>TheTextQuest</description>
+    <title_clean>TheTextQuest</title_clean>
+    <title_search>thetextquest</title_search>
+    <image ext="png" id="TheTextQuest" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="This Is My Mech">
+    <description>This Is My Mech</description>
+    <title_clean>This Is My Mech</title_clean>
+    <title_search>this is my mech</title_search>
+    <image ext="png" id="This Is My Mech" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tic Command">
+    <description>Tic Command</description>
+    <title_clean>Tic Command</title_clean>
+    <title_search>tic command</title_search>
+    <image ext="png" id="Tic Command" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tic Pong">
+    <description>Tic Pong</description>
+    <title_clean>Tic Pong</title_clean>
+    <title_search>tic pong</title_search>
+    <image ext="png" id="Tic Pong" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tic Sweeper 0 9">
+    <description>Tic Sweeper 0 9</description>
+    <title_clean>Tic Sweeper 0 9</title_clean>
+    <title_search>tic sweeper 0 9</title_search>
+    <image ext="png" id="Tic Sweeper 0 9" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tic Tac Toe">
+    <description>Tic Tac Toe</description>
+    <title_clean>Tic Tac Toe</title_clean>
+    <title_search>tic tac toe</title_search>
+    <image ext="png" id="Tic Tac Toe" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tic War">
+    <description>Tic War</description>
+    <title_clean>Tic War</title_clean>
+    <title_search>tic war</title_search>
+    <image ext="png" id="Tic War" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ticaruga">
+    <description>Ticaruga</description>
+    <title_clean>Ticaruga</title_clean>
+    <title_search>ticaruga</title_search>
+    <image ext="png" id="Ticaruga" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tichess">
+    <description>Tichess</description>
+    <title_clean>Tichess</title_clean>
+    <title_search>tichess</title_search>
+    <image ext="png" id="Tichess" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ticlines">
+    <description>Ticlines</description>
+    <title_clean>Ticlines</title_clean>
+    <title_search>ticlines</title_search>
+    <image ext="png" id="Ticlines" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ticris">
+    <description>Ticris</description>
+    <title_clean>Ticris</title_clean>
+    <title_search>ticris</title_search>
+    <image ext="png" id="Ticris" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tim Mit">
+    <description>Tim Mit</description>
+    <title_clean>Tim Mit</title_clean>
+    <title_search>tim mit</title_search>
+    <image ext="png" id="Tim Mit" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tiny Dungeon">
+    <description>Tiny Dungeon</description>
+    <title_clean>Tiny Dungeon</title_clean>
+    <title_search>tiny dungeon</title_search>
+    <image ext="png" id="Tiny Dungeon" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tiny Life">
+    <description>Tiny Life</description>
+    <title_clean>Tiny Life</title_clean>
+    <title_search>tiny life</title_search>
+    <image ext="png" id="Tiny Life" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tiny Trek">
+    <description>Tiny Trek</description>
+    <title_clean>Tiny Trek</title_clean>
+    <title_search>tiny trek</title_search>
+    <image ext="png" id="Tiny Trek" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Titlescreen">
+    <description>Titlescreen</description>
+    <title_clean>Titlescreen</title_clean>
+    <title_search>titlescreen</title_search>
+    <image ext="png" id="Titlescreen" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Toetac Tic">
+    <description>Toetac Tic</description>
+    <title_clean>Toetac Tic</title_clean>
+    <title_search>toetac tic</title_search>
+    <image ext="png" id="Toetac Tic" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tsnake">
+    <description>Tsnake</description>
+    <title_clean>Tsnake</title_clean>
+    <title_search>tsnake</title_search>
+    <image ext="png" id="Tsnake" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Turns Of War">
+    <description>Turns Of War</description>
+    <title_clean>Turns Of War</title_clean>
+    <title_search>turns of war</title_search>
+    <image ext="png" id="Turns Of War" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Unknown Grounds">
+    <description>Unknown Grounds</description>
+    <title_clean>Unknown Grounds</title_clean>
+    <title_search>unknown grounds</title_search>
+    <image ext="png" id="Unknown Grounds" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Unko Hunter Yakiu">
+    <description>Unko Hunter Yakiu</description>
+    <title_clean>Unko Hunter Yakiu</title_clean>
+    <title_search>unko hunter yakiu</title_search>
+    <image ext="png" id="Unko Hunter Yakiu" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Vogeljagd">
+    <description>Vogeljagd</description>
+    <title_clean>Vogeljagd</title_clean>
+    <title_search>vogeljagd</title_search>
+    <image ext="png" id="Vogeljagd" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Vvvvvv TIC-80 Demake">
+    <description>Vvvvvv TIC-80 Demake</description>
+    <title_clean>Vvvvvv TIC-80 Demake</title_clean>
+    <title_search>vvvvvv tic80 demake</title_search>
+    <image ext="png" id="Vvvvvv TIC-80 Demake" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wall Ball">
+    <description>Wall Ball</description>
+    <title_clean>Wall Ball</title_clean>
+    <title_search>wall ball</title_search>
+    <image ext="png" id="Wall Ball" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Warg">
+    <description>Warg</description>
+    <title_clean>Warg</title_clean>
+    <title_search>warg</title_search>
+    <image ext="png" id="Warg" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Warm Wheels">
+    <description>Warm Wheels</description>
+    <title_clean>Warm Wheels</title_clean>
+    <title_search>warm wheels</title_search>
+    <image ext="png" id="Warm Wheels" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wcq No 6">
+    <description>Wcq No 6</description>
+    <title_clean>Wcq No 6</title_clean>
+    <title_search>wcq no 6</title_search>
+    <image ext="png" id="Wcq No 6" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="West Trade">
+    <description>West Trade</description>
+    <title_clean>West Trade</title_clean>
+    <title_search>west trade</title_search>
+    <image ext="png" id="West Trade" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Westfarm">
+    <description>Westfarm</description>
+    <title_clean>Westfarm</title_clean>
+    <title_search>westfarm</title_search>
+    <image ext="png" id="Westfarm" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Where S Ditto">
+    <description>Where S Ditto</description>
+    <title_clean>Where S Ditto</title_clean>
+    <title_search>where s ditto</title_search>
+    <image ext="png" id="Where S Ditto" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Witchem Up">
+    <description>Witchem Up</description>
+    <title_clean>Witchem Up</title_clean>
+    <title_search>witchem up</title_search>
+    <image ext="png" id="Witchem Up" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wizards">
+    <description>Wizards</description>
+    <title_clean>Wizards</title_clean>
+    <title_search>wizards</title_search>
+    <image ext="png" id="Wizards" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Worm Game">
+    <description>Worm Game</description>
+    <title_clean>Worm Game</title_clean>
+    <title_search>worm game</title_search>
+    <image ext="png" id="Worm Game" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Yitzi">
+    <description>Yitzi</description>
+    <title_clean>Yitzi</title_clean>
+    <title_search>yitzi</title_search>
+    <image ext="png" id="Yitzi" source="https://github.com/libretro-thumbnails/TIC-80/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

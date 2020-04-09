@@ -1,0 +1,930 @@
+<datafile>
+  <game name="Anchorz Field (Japan)">
+    <description>Anchorz Field (Japan)</description>
+    <title_clean>Anchorz Field</title_clean>
+    <title_search>anchorz field</title_search>
+    <image ext="png" id="Anchorz Field (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Anchorz Field (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Anchorz Field (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Armored Unit (Japan)">
+    <description>Armored Unit (Japan)</description>
+    <title_clean>Armored Unit</title_clean>
+    <title_search>armored unit</title_search>
+    <image ext="png" id="Armored Unit (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Armored Unit (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Armored Unit (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bakusou Dekotora Densetsu for WonderSwan (Japan)">
+    <description>Bakusou Dekotora Densetsu for WonderSwan (Japan)</description>
+    <title_clean>Bakusou Dekotora Densetsu for WonderSwan</title_clean>
+    <title_search>bakusou dekotora densetsu for wonderswan</title_search>
+    <image ext="png" id="Bakusou Dekotora Densetsu for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bakusou Dekotora Densetsu for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bakusou Dekotora Densetsu for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Buffers Evolution (Japan)">
+    <description>Buffers Evolution (Japan)</description>
+    <title_clean>Buffers Evolution</title_clean>
+    <title_search>buffers evolution</title_search>
+    <image ext="png" id="Buffers Evolution (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Buffers Evolution (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Buffers Evolution (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan)">
+    <description>Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan)</description>
+    <title_clean>Cardcaptor Sakura - Sakura to Fushigi na Clow Card</title_clean>
+    <title_search>cardcaptor sakura sakura to fushigi na clow card</title_search>
+    <image ext="png" id="Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chaos Gear - Michibikareshi Mono (Japan)">
+    <description>Chaos Gear - Michibikareshi Mono (Japan)</description>
+    <title_clean>Chaos Gear - Michibikareshi Mono</title_clean>
+    <title_search>chaos gear michibikareshi mono</title_search>
+    <image ext="png" id="Chaos Gear - Michibikareshi Mono (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chaos Gear - Michibikareshi Mono (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chaos Gear - Michibikareshi Mono (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1)">
+    <description>Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1)</description>
+    <title_clean>Chocobo no Fushigi na Dungeon for WonderSwan</title_clean>
+    <title_search>chocobo no fushigi na dungeon for wonderswan</title_search>
+    <image ext="png" id="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2)">
+    <description>Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2)</description>
+    <title_clean>Chocobo no Fushigi na Dungeon for WonderSwan</title_clean>
+    <title_search>chocobo no fushigi na dungeon for wonderswan</title_search>
+    <image ext="png" id="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4)">
+    <description>Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4)</description>
+    <title_clean>Chou Aniki - Otoko no Tamafuda</title_clean>
+    <title_search>chou aniki otoko no tamafuda</title_search>
+    <image ext="png" id="Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3)">
+    <description>Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3)</description>
+    <title_clean>Chou Denki Card Battle - Youfu Makai</title_clean>
+    <title_search>chou denki card battle youfu makai</title_search>
+    <image ext="png" id="Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Clock Tower for WonderSwan (Japan) (Rev 1)">
+    <description>Clock Tower for WonderSwan (Japan) (Rev 1)</description>
+    <title_clean>Clock Tower for WonderSwan</title_clean>
+    <title_search>clock tower for wonderswan</title_search>
+    <image ext="png" id="Clock Tower for WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Clock Tower for WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Clock Tower for WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Crazy Climber (Japan)">
+    <description>Crazy Climber (Japan)</description>
+    <title_clean>Crazy Climber</title_clean>
+    <title_search>crazy climber</title_search>
+    <image ext="png" id="Crazy Climber (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Crazy Climber (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Crazy Climber (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="D's Garage 21 Koubo Game - Tane o Maku Tori (Japan)">
+    <description>D's Garage 21 Koubo Game - Tane o Maku Tori (Japan)</description>
+    <title_clean>D's Garage 21 Koubo Game - Tane o Maku Tori</title_clean>
+    <title_search>ds garage 21 koubo game tane o maku tori</title_search>
+    <image ext="png" id="D's Garage 21 Koubo Game - Tane o Maku Tori (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="D's Garage 21 Koubo Game - Tane o Maku Tori (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="D's Garage 21 Koubo Game - Tane o Maku Tori (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Densha de Go! (Japan) (Rev 1)">
+    <description>Densha de Go! (Japan) (Rev 1)</description>
+    <title_clean>Densha de Go!</title_clean>
+    <title_search>densha de go</title_search>
+    <image ext="png" id="Densha de Go! (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Densha de Go! (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Densha de Go! (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Densha de Go! 2 (Japan)">
+    <description>Densha de Go! 2 (Japan)</description>
+    <title_clean>Densha de Go! 2</title_clean>
+    <title_search>densha de go 2</title_search>
+    <image ext="png" id="Densha de Go! 2 (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Densha de Go! 2 (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Densha de Go! 2 (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Digimon - Ver. WonderSwan (Asia) (En)">
+    <description>Digimon - Ver. WonderSwan (Asia) (En)</description>
+    <title_clean>Digimon - Ver. WonderSwan</title_clean>
+    <title_search>digimon ver wonderswan</title_search>
+    <image ext="png" id="Digimon - Ver. WonderSwan (Asia) (En)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Digimon - Ver. WonderSwan (Asia) (En)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Digimon - Ver. WonderSwan (Asia) (En)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Digimon Adventure - Anode Tamer (Japan)">
+    <description>Digimon Adventure - Anode Tamer (Japan)</description>
+    <title_clean>Digimon Adventure - Anode Tamer</title_clean>
+    <title_search>digimon adventure anode tamer</title_search>
+    <image ext="png" id="Digimon Adventure - Anode Tamer (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Digimon Adventure - Anode Tamer (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Digimon Adventure - Anode Tamer (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Digimon Adventure - Anode Tamer (Japan) (Rev 1)">
+    <description>Digimon Adventure - Anode Tamer (Japan) (Rev 1)</description>
+    <title_clean>Digimon Adventure - Anode Tamer</title_clean>
+    <title_search>digimon adventure anode tamer</title_search>
+    <image ext="png" id="Digimon Adventure - Anode Tamer (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Digimon Adventure - Anode Tamer (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Digimon Adventure - Anode Tamer (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Digimon Adventure - Cathode Tamer (Japan)">
+    <description>Digimon Adventure - Cathode Tamer (Japan)</description>
+    <title_clean>Digimon Adventure - Cathode Tamer</title_clean>
+    <title_search>digimon adventure cathode tamer</title_search>
+    <image ext="png" id="Digimon Adventure - Cathode Tamer (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Digimon Adventure - Cathode Tamer (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Digimon Adventure - Cathode Tamer (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1)">
+    <description>Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1)</description>
+    <title_clean>Digimon Adventure 02 - Tag Tamers</title_clean>
+    <title_search>digimon adventure 02 tag tamers</title_search>
+    <image ext="png" id="Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Digital Monster - Ver. WonderSwan (Japan) (Rev 1)">
+    <description>Digital Monster - Ver. WonderSwan (Japan) (Rev 1)</description>
+    <title_clean>Digital Monster - Ver. WonderSwan</title_clean>
+    <title_search>digital monster ver wonderswan</title_search>
+    <image ext="png" id="Digital Monster - Ver. WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Digital Monster - Ver. WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Digital Monster - Ver. WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Digital Partner (Japan)">
+    <description>Digital Partner (Japan)</description>
+    <title_clean>Digital Partner</title_clean>
+    <title_search>digital partner</title_search>
+    <image ext="png" id="Digital Partner (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Digital Partner (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Digital Partner (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dokodemo Hamster (Japan)">
+    <description>Dokodemo Hamster (Japan)</description>
+    <title_clean>Dokodemo Hamster</title_clean>
+    <title_search>dokodemo hamster</title_search>
+    <image ext="png" id="Dokodemo Hamster (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dokodemo Hamster (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dokodemo Hamster (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Engacho! for WonderSwan (Japan)">
+    <description>Engacho! for WonderSwan (Japan)</description>
+    <title_clean>Engacho! for WonderSwan</title_clean>
+    <title_search>engacho for wonderswan</title_search>
+    <image ext="png" id="Engacho! for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Engacho! for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Engacho! for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan)">
+    <description>Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan)</description>
+    <title_clean>Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan</title_clean>
+    <title_search>fever sankyo koushiki pachinko simulation for wonderswan</title_search>
+    <image ext="png" id="Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Final Lap 2000 (Japan)">
+    <description>Final Lap 2000 (Japan)</description>
+    <title_clean>Final Lap 2000</title_clean>
+    <title_search>final lap 2000</title_search>
+    <image ext="png" id="Final Lap 2000 (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Final Lap 2000 (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Final Lap 2000 (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fire Pro Wrestling for WonderSwan (Japan) (Rev 5)">
+    <description>Fire Pro Wrestling for WonderSwan (Japan) (Rev 5)</description>
+    <title_clean>Fire Pro Wrestling for WonderSwan</title_clean>
+    <title_search>fire pro wrestling for wonderswan</title_search>
+    <image ext="png" id="Fire Pro Wrestling for WonderSwan (Japan) (Rev 5)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fire Pro Wrestling for WonderSwan (Japan) (Rev 5)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fire Pro Wrestling for WonderSwan (Japan) (Rev 5)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fishing Freaks - Bass Rise for WonderSwan (Japan)">
+    <description>Fishing Freaks - Bass Rise for WonderSwan (Japan)</description>
+    <title_clean>Fishing Freaks - Bass Rise for WonderSwan</title_clean>
+    <title_search>fishing freaks bass rise for wonderswan</title_search>
+    <image ext="png" id="Fishing Freaks - Bass Rise for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fishing Freaks - Bass Rise for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fishing Freaks - Bass Rise for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="From TV Animation One Piece - Mezase Kaizoku Ou! (Japan)">
+    <description>From TV Animation One Piece - Mezase Kaizoku Ou! (Japan)</description>
+    <title_clean>From TV Animation One Piece - Mezase Kaizoku Ou!</title_clean>
+    <title_search>from tv animation one piece mezase kaizoku ou</title_search>
+    <image ext="png" id="From TV Animation One Piece - Mezase Kaizoku Ou! (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="From TV Animation One Piece - Mezase Kaizoku Ou! (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="From TV Animation One Piece - Mezase Kaizoku Ou! (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ganso Jajamaru-kun (Japan)">
+    <description>Ganso Jajamaru-kun (Japan)</description>
+    <title_clean>Ganso Jajamaru-kun</title_clean>
+    <title_search>ganso jajamarukun</title_search>
+    <image ext="png" id="Ganso Jajamaru-kun (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ganso Jajamaru-kun (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ganso Jajamaru-kun (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Glocal Hexcite (Japan)">
+    <description>Glocal Hexcite (Japan)</description>
+    <title_clean>Glocal Hexcite</title_clean>
+    <title_search>glocal hexcite</title_search>
+    <image ext="png" id="Glocal Hexcite (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Glocal Hexcite (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Glocal Hexcite (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gomoku Narabe _ Reversi - Touryuumon (Japan)">
+    <description>Gomoku Narabe _ Reversi - Touryuumon (Japan)</description>
+    <title_clean>Gomoku Narabe _ Reversi - Touryuumon</title_clean>
+    <title_search>gomoku narabe reversi touryuumon</title_search>
+    <image ext="png" id="Gomoku Narabe _ Reversi - Touryuumon (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gomoku Narabe _ Reversi - Touryuumon (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gomoku Narabe _ Reversi - Touryuumon (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Goraku Ou Tango! (Japan) (Rev 2)">
+    <description>Goraku Ou Tango! (Japan) (Rev 2)</description>
+    <title_clean>Goraku Ou Tango!</title_clean>
+    <title_search>goraku ou tango</title_search>
+    <image ext="png" id="Goraku Ou Tango! (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Goraku Ou Tango! (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Goraku Ou Tango! (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="GunPey (Japan)">
+    <description>GunPey (Japan)</description>
+    <title_clean>GunPey</title_clean>
+    <title_search>gunpey</title_search>
+    <image ext="png" id="GunPey (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="GunPey (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="GunPey (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hanafuda Shiyouyo (Japan)">
+    <description>Hanafuda Shiyouyo (Japan)</description>
+    <title_clean>Hanafuda Shiyouyo</title_clean>
+    <title_search>hanafuda shiyouyo</title_search>
+    <image ext="png" id="Hanafuda Shiyouyo (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hanafuda Shiyouyo (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hanafuda Shiyouyo (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Harobots (Japan)">
+    <description>Harobots (Japan)</description>
+    <title_clean>Harobots</title_clean>
+    <title_search>harobots</title_search>
+    <image ext="png" id="Harobots (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Harobots (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Harobots (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2)">
+    <description>Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2)</description>
+    <title_clean>Hunter X Hunter - Ishi o Tsugu Mono</title_clean>
+    <title_search>hunter x hunter ishi o tsugu mono</title_search>
+    <image ext="png" id="Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan)">
+    <description>Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan)</description>
+    <title_clean>Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen</title_clean>
+    <title_search>kakutou ryouri densetsu bistro recipe wonder battle hen</title_search>
+    <image ext="png" id="Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kaze no Klonoa - Moonlight Museum (Japan)">
+    <description>Kaze no Klonoa - Moonlight Museum (Japan)</description>
+    <title_clean>Kaze no Klonoa - Moonlight Museum</title_clean>
+    <title_search>kaze no klonoa moonlight museum</title_search>
+    <image ext="png" id="Kaze no Klonoa - Moonlight Museum (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kaze no Klonoa - Moonlight Museum (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kaze no Klonoa - Moonlight Museum (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Keiba Yosou Shien Soft - Yosou Shinkaron (Japan)">
+    <description>Keiba Yosou Shien Soft - Yosou Shinkaron (Japan)</description>
+    <title_clean>Keiba Yosou Shien Soft - Yosou Shinkaron</title_clean>
+    <title_search>keiba yosou shien soft yosou shinkaron</title_search>
+    <image ext="png" id="Keiba Yosou Shien Soft - Yosou Shinkaron (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Keiba Yosou Shien Soft - Yosou Shinkaron (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Keiba Yosou Shien Soft - Yosou Shinkaron (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kiss Yori... - Seaside Serenade (Japan) (Rev 2)">
+    <description>Kiss Yori... - Seaside Serenade (Japan) (Rev 2)</description>
+    <title_clean>Kiss Yori... - Seaside Serenade</title_clean>
+    <title_search>kiss yori seaside serenade</title_search>
+    <image ext="png" id="Kiss Yori... - Seaside Serenade (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kiss Yori... - Seaside Serenade (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kiss Yori... - Seaside Serenade (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kosodate Quiz Dokodemo - My Angel (Japan)">
+    <description>Kosodate Quiz Dokodemo - My Angel (Japan)</description>
+    <title_clean>Kosodate Quiz Dokodemo - My Angel</title_clean>
+    <title_search>kosodate quiz dokodemo my angel</title_search>
+    <image ext="png" id="Kosodate Quiz Dokodemo - My Angel (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kosodate Quiz Dokodemo - My Angel (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kosodate Quiz Dokodemo - My Angel (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1)">
+    <description>Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1)</description>
+    <title_clean>Kyousouba Ikusei Simulation - Keiba</title_clean>
+    <title_search>kyousouba ikusei simulation keiba</title_search>
+    <image ext="png" id="Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Langrisser Millennium WS - The Last Century (Japan) (Rev 1)">
+    <description>Langrisser Millennium WS - The Last Century (Japan) (Rev 1)</description>
+    <title_clean>Langrisser Millennium WS - The Last Century</title_clean>
+    <title_search>langrisser millennium ws the last century</title_search>
+    <image ext="png" id="Langrisser Millennium WS - The Last Century (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Langrisser Millennium WS - The Last Century (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Langrisser Millennium WS - The Last Century (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Last Stand (Japan)">
+    <description>Last Stand (Japan)</description>
+    <title_clean>Last Stand</title_clean>
+    <title_search>last stand</title_search>
+    <image ext="png" id="Last Stand (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Last Stand (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Last Stand (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lode Runner for WonderSwan (Japan)">
+    <description>Lode Runner for WonderSwan (Japan)</description>
+    <title_clean>Lode Runner for WonderSwan</title_clean>
+    <title_search>lode runner for wonderswan</title_search>
+    <image ext="png" id="Lode Runner for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lode Runner for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lode Runner for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Macross - True Love Song (Japan)">
+    <description>Macross - True Love Song (Japan)</description>
+    <title_clean>Macross - True Love Song</title_clean>
+    <title_search>macross true love song</title_search>
+    <image ext="png" id="Macross - True Love Song (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Macross - True Love Song (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Macross - True Love Song (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Magical Drop for WonderSwan (Japan)">
+    <description>Magical Drop for WonderSwan (Japan)</description>
+    <title_clean>Magical Drop for WonderSwan</title_clean>
+    <title_search>magical drop for wonderswan</title_search>
+    <image ext="png" id="Magical Drop for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Magical Drop for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Magical Drop for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mahjong Touryuumon (Japan) (Rev 1)">
+    <description>Mahjong Touryuumon (Japan) (Rev 1)</description>
+    <title_clean>Mahjong Touryuumon</title_clean>
+    <title_search>mahjong touryuumon</title_search>
+    <image ext="png" id="Mahjong Touryuumon (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mahjong Touryuumon (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mahjong Touryuumon (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mahjong Touryuumon (Japan) (Rev 3)">
+    <description>Mahjong Touryuumon (Japan) (Rev 3)</description>
+    <title_clean>Mahjong Touryuumon</title_clean>
+    <title_search>mahjong touryuumon</title_search>
+    <image ext="png" id="Mahjong Touryuumon (Japan) (Rev 3)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mahjong Touryuumon (Japan) (Rev 3)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mahjong Touryuumon (Japan) (Rev 3)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Makaimura for WonderSwan (Japan)">
+    <description>Makaimura for WonderSwan (Japan)</description>
+    <title_clean>Makaimura for WonderSwan</title_clean>
+    <title_search>makaimura for wonderswan</title_search>
+    <image ext="png" id="Makaimura for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Makaimura for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Makaimura for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Medarot Perfect Edition - Kabuto Version (Japan)">
+    <description>Medarot Perfect Edition - Kabuto Version (Japan)</description>
+    <title_clean>Medarot Perfect Edition - Kabuto Version</title_clean>
+    <title_search>medarot perfect edition kabuto version</title_search>
+    <image ext="png" id="Medarot Perfect Edition - Kabuto Version (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Medarot Perfect Edition - Kabuto Version (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Medarot Perfect Edition - Kabuto Version (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Medarot Perfect Edition - Kuwagata Version (Japan)">
+    <description>Medarot Perfect Edition - Kuwagata Version (Japan)</description>
+    <title_clean>Medarot Perfect Edition - Kuwagata Version</title_clean>
+    <title_search>medarot perfect edition kuwagata version</title_search>
+    <image ext="png" id="Medarot Perfect Edition - Kuwagata Version (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Medarot Perfect Edition - Kuwagata Version (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Medarot Perfect Edition - Kuwagata Version (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Meitantei Conan - Majutsushi no Chousenjou! (Japan)">
+    <description>Meitantei Conan - Majutsushi no Chousenjou! (Japan)</description>
+    <title_clean>Meitantei Conan - Majutsushi no Chousenjou!</title_clean>
+    <title_search>meitantei conan majutsushi no chousenjou</title_search>
+    <image ext="png" id="Meitantei Conan - Majutsushi no Chousenjou! (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Meitantei Conan - Majutsushi no Chousenjou! (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Meitantei Conan - Majutsushi no Chousenjou! (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan)">
+    <description>Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan)</description>
+    <title_clean>Meitantei Conan - Nishi no Meitantei Saidai no Kiki!</title_clean>
+    <title_search>meitantei conan nishi no meitantei saidai no kiki</title_search>
+    <image ext="png" id="Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Metakomi Theraphy - Nee Kiite! (Japan)">
+    <description>Metakomi Theraphy - Nee Kiite! (Japan)</description>
+    <title_clean>Metakomi Theraphy - Nee Kiite!</title_clean>
+    <title_search>metakomi theraphy nee kiite</title_search>
+    <image ext="png" id="Metakomi Theraphy - Nee Kiite! (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Metakomi Theraphy - Nee Kiite! (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Metakomi Theraphy - Nee Kiite! (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mingle Magnet (Japan) (En,Ja) (Rev 1)">
+    <description>Mingle Magnet (Japan) (En,Ja) (Rev 1)</description>
+    <title_clean>Mingle Magnet</title_clean>
+    <title_search>mingle magnet</title_search>
+    <image ext="png" id="Mingle Magnet (Japan) (En,Ja) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mingle Magnet (Japan) (En,Ja) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mingle Magnet (Japan) (En,Ja) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mobile Suit Gundam MSVS (Japan)">
+    <description>Mobile Suit Gundam MSVS (Japan)</description>
+    <title_clean>Mobile Suit Gundam MSVS</title_clean>
+    <title_search>mobile suit gundam msvs</title_search>
+    <image ext="png" id="Mobile Suit Gundam MSVS (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mobile Suit Gundam MSVS (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mobile Suit Gundam MSVS (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="MobileWonderGate (Japan) (Rev 1)">
+    <description>MobileWonderGate (Japan) (Rev 1)</description>
+    <title_clean>MobileWonderGate</title_clean>
+    <title_search>mobilewondergate</title_search>
+    <image ext="png" id="MobileWonderGate (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="MobileWonderGate (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="MobileWonderGate (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Moero!! Pro Yakyuu Rookies (Japan)">
+    <description>Moero!! Pro Yakyuu Rookies (Japan)</description>
+    <title_clean>Moero!! Pro Yakyuu Rookies</title_clean>
+    <title_search>moero pro yakyuu rookies</title_search>
+    <image ext="png" id="Moero!! Pro Yakyuu Rookies (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Moero!! Pro Yakyuu Rookies (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Moero!! Pro Yakyuu Rookies (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Morita Shougi for WonderSwan (Japan)">
+    <description>Morita Shougi for WonderSwan (Japan)</description>
+    <title_clean>Morita Shougi for WonderSwan</title_clean>
+    <title_search>morita shougi for wonderswan</title_search>
+    <image ext="png" id="Morita Shougi for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Morita Shougi for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Morita Shougi for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nazo Ou Pocket (Japan)">
+    <description>Nazo Ou Pocket (Japan)</description>
+    <title_clean>Nazo Ou Pocket</title_clean>
+    <title_search>nazo ou pocket</title_search>
+    <image ext="png" id="Nazo Ou Pocket (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Nazo Ou Pocket (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nazo Ou Pocket (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Neon Genesis Evangelion - Shito Ikusei (Japan)">
+    <description>Neon Genesis Evangelion - Shito Ikusei (Japan)</description>
+    <title_clean>Neon Genesis Evangelion - Shito Ikusei</title_clean>
+    <title_search>neon genesis evangelion shito ikusei</title_search>
+    <image ext="png" id="Neon Genesis Evangelion - Shito Ikusei (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Neon Genesis Evangelion - Shito Ikusei (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Neon Genesis Evangelion - Shito Ikusei (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nice On (Japan) (Rev 1)">
+    <description>Nice On (Japan) (Rev 1)</description>
+    <title_clean>Nice On</title_clean>
+    <title_search>nice on</title_search>
+    <image ext="png" id="Nice On (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Nice On (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nice On (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2)">
+    <description>Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2)</description>
+    <title_clean>Nihon Pro Mahjong Renmei Kounin - Tetsuman</title_clean>
+    <title_search>nihon pro mahjong renmei kounin tetsuman</title_search>
+    <image ext="png" id="Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nobunaga no Yabou for WonderSwan (Japan)">
+    <description>Nobunaga no Yabou for WonderSwan (Japan)</description>
+    <title_clean>Nobunaga no Yabou for WonderSwan</title_clean>
+    <title_search>nobunaga no yabou for wonderswan</title_search>
+    <image ext="png" id="Nobunaga no Yabou for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Nobunaga no Yabou for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nobunaga no Yabou for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ou-chan no Oekaki Logic (Japan)">
+    <description>Ou-chan no Oekaki Logic (Japan)</description>
+    <title_clean>Ou-chan no Oekaki Logic</title_clean>
+    <title_search>ouchan no oekaki logic</title_search>
+    <image ext="png" id="Ou-chan no Oekaki Logic (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ou-chan no Oekaki Logic (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ou-chan no Oekaki Logic (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pocket Fighter (Japan)">
+    <description>Pocket Fighter (Japan)</description>
+    <title_clean>Pocket Fighter</title_clean>
+    <title_search>pocket fighter</title_search>
+    <image ext="png" id="Pocket Fighter (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pocket Fighter (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pocket Fighter (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1)">
+    <description>Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1)</description>
+    <title_clean>Pro Mahjong Kiwame for WonderSwan</title_clean>
+    <title_search>pro mahjong kiwame for wonderswan</title_search>
+    <image ext="png" id="Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Puyo Puyo Tsuu (Japan)">
+    <description>Puyo Puyo Tsuu (Japan)</description>
+    <title_clean>Puyo Puyo Tsuu</title_clean>
+    <title_search>puyo puyo tsuu</title_search>
+    <image ext="png" id="Puyo Puyo Tsuu (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Puyo Puyo Tsuu (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Puyo Puyo Tsuu (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Puzzle Bobble (Japan)">
+    <description>Puzzle Bobble (Japan)</description>
+    <title_clean>Puzzle Bobble</title_clean>
+    <title_search>puzzle bobble</title_search>
+    <image ext="png" id="Puzzle Bobble (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Puzzle Bobble (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Puzzle Bobble (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rainbow Islands - Putty's Party (Japan)">
+    <description>Rainbow Islands - Putty's Party (Japan)</description>
+    <title_clean>Rainbow Islands - Putty's Party</title_clean>
+    <title_search>rainbow islands puttys party</title_search>
+    <image ext="png" id="Rainbow Islands - Putty's Party (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rainbow Islands - Putty's Party (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rainbow Islands - Putty's Party (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ring Infinity (Japan)">
+    <description>Ring Infinity (Japan)</description>
+    <title_clean>Ring Infinity</title_clean>
+    <title_search>ring infinity</title_search>
+    <image ext="png" id="Ring Infinity (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ring Infinity (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ring Infinity (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Robot Works (Asia) (En,Ja) (Rev 1)">
+    <description>Robot Works (Asia) (En,Ja) (Rev 1)</description>
+    <title_clean>Robot Works</title_clean>
+    <title_search>robot works</title_search>
+    <image ext="png" id="Robot Works (Asia) (En,Ja) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Robot Works (Asia) (En,Ja) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Robot Works (Asia) (En,Ja) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Robot Works (Japan)">
+    <description>Robot Works (Japan)</description>
+    <title_clean>Robot Works</title_clean>
+    <title_search>robot works</title_search>
+    <image ext="png" id="Robot Works (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Robot Works (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Robot Works (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rockman _ Forte - Mirai Kara no Chousensha (Japan)">
+    <description>Rockman _ Forte - Mirai Kara no Chousensha (Japan)</description>
+    <title_clean>Rockman _ Forte - Mirai Kara no Chousensha</title_clean>
+    <title_search>rockman forte mirai kara no chousensha</title_search>
+    <image ext="png" id="Rockman _ Forte - Mirai Kara no Chousensha (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rockman _ Forte - Mirai Kara no Chousensha (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rockman _ Forte - Mirai Kara no Chousensha (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SD Gundam - Emotional Jam (Japan) (Rev 3)">
+    <description>SD Gundam - Emotional Jam (Japan) (Rev 3)</description>
+    <title_clean>SD Gundam - Emotional Jam</title_clean>
+    <title_search>sd gundam emotional jam</title_search>
+    <image ext="png" id="SD Gundam - Emotional Jam (Japan) (Rev 3)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SD Gundam - Emotional Jam (Japan) (Rev 3)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SD Gundam - Emotional Jam (Japan) (Rev 3)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SD Gundam G Generation - Gather Beat (Japan)">
+    <description>SD Gundam G Generation - Gather Beat (Japan)</description>
+    <title_clean>SD Gundam G Generation - Gather Beat</title_clean>
+    <title_search>sd gundam g generation gather beat</title_search>
+    <image ext="png" id="SD Gundam G Generation - Gather Beat (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SD Gundam G Generation - Gather Beat (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SD Gundam G Generation - Gather Beat (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SD Gundam Gashapon Senki - Episode 1 (Japan)">
+    <description>SD Gundam Gashapon Senki - Episode 1 (Japan)</description>
+    <title_clean>SD Gundam Gashapon Senki - Episode 1</title_clean>
+    <title_search>sd gundam gashapon senki episode 1</title_search>
+    <image ext="png" id="SD Gundam Gashapon Senki - Episode 1 (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SD Gundam Gashapon Senki - Episode 1 (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SD Gundam Gashapon Senki - Episode 1 (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sangokushi II for WonderSwan (Japan)">
+    <description>Sangokushi II for WonderSwan (Japan)</description>
+    <title_clean>Sangokushi II for WonderSwan</title_clean>
+    <title_search>sangokushi ii for wonderswan</title_search>
+    <image ext="png" id="Sangokushi II for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sangokushi II for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sangokushi II for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sangokushi for WonderSwan (Japan)">
+    <description>Sangokushi for WonderSwan (Japan)</description>
+    <title_clean>Sangokushi for WonderSwan</title_clean>
+    <title_search>sangokushi for wonderswan</title_search>
+    <image ext="png" id="Sangokushi for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sangokushi for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sangokushi for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan)">
+    <description>Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan)</description>
+    <title_clean>Senkaiden - TV Animation Senkaiden Houshin Engi Yori</title_clean>
+    <title_search>senkaiden tv animation senkaiden houshin engi yori</title_search>
+    <image ext="png" id="Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sennou Millennium (Japan)">
+    <description>Sennou Millennium (Japan)</description>
+    <title_clean>Sennou Millennium</title_clean>
+    <title_search>sennou millennium</title_search>
+    <image ext="png" id="Sennou Millennium (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sennou Millennium (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sennou Millennium (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shanghai Pocket (Japan)">
+    <description>Shanghai Pocket (Japan)</description>
+    <title_clean>Shanghai Pocket</title_clean>
+    <title_search>shanghai pocket</title_search>
+    <image ext="png" id="Shanghai Pocket (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shanghai Pocket (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shanghai Pocket (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1)">
+    <description>Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1)</description>
+    <title_clean>Shin Nihon Pro Wrestling - Toukon Retsuden</title_clean>
+    <title_search>shin nihon pro wrestling toukon retsuden</title_search>
+    <image ext="png" id="Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shougi Touryuumon (Japan)">
+    <description>Shougi Touryuumon (Japan)</description>
+    <title_clean>Shougi Touryuumon</title_clean>
+    <title_search>shougi touryuumon</title_search>
+    <image ext="png" id="Shougi Touryuumon (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shougi Touryuumon (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shougi Touryuumon (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Side Pocket for WonderSwan (Japan)">
+    <description>Side Pocket for WonderSwan (Japan)</description>
+    <title_clean>Side Pocket for WonderSwan</title_clean>
+    <title_search>side pocket for wonderswan</title_search>
+    <image ext="png" id="Side Pocket for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Side Pocket for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Side Pocket for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Slither Link (Japan)">
+    <description>Slither Link (Japan)</description>
+    <title_clean>Slither Link</title_clean>
+    <title_search>slither link</title_search>
+    <image ext="png" id="Slither Link (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Slither Link (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Slither Link (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Soccer Yarou! - Challenge the World (Japan)">
+    <description>Soccer Yarou! - Challenge the World (Japan)</description>
+    <title_clean>Soccer Yarou! - Challenge the World</title_clean>
+    <title_search>soccer yarou challenge the world</title_search>
+    <image ext="png" id="Soccer Yarou! - Challenge the World (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Soccer Yarou! - Challenge the World (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Soccer Yarou! - Challenge the World (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sotsugyou for WonderSwan (Japan) (Rev 1)">
+    <description>Sotsugyou for WonderSwan (Japan) (Rev 1)</description>
+    <title_clean>Sotsugyou for WonderSwan</title_clean>
+    <title_search>sotsugyou for wonderswan</title_search>
+    <image ext="png" id="Sotsugyou for WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sotsugyou for WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sotsugyou for WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Invaders (Japan)">
+    <description>Space Invaders (Japan)</description>
+    <title_clean>Space Invaders</title_clean>
+    <title_search>space invaders</title_search>
+    <image ext="png" id="Space Invaders (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Invaders (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Invaders (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Robot Taisen Compact (Japan)">
+    <description>Super Robot Taisen Compact (Japan)</description>
+    <title_clean>Super Robot Taisen Compact</title_clean>
+    <title_search>super robot taisen compact</title_search>
+    <image ext="png" id="Super Robot Taisen Compact (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Robot Taisen Compact (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Robot Taisen Compact (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Robot Taisen Compact (Japan) (Rev 2)">
+    <description>Super Robot Taisen Compact (Japan) (Rev 2)</description>
+    <title_clean>Super Robot Taisen Compact</title_clean>
+    <title_search>super robot taisen compact</title_search>
+    <image ext="png" id="Super Robot Taisen Compact (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Robot Taisen Compact (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Robot Taisen Compact (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan)">
+    <description>Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan)</description>
+    <title_clean>Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen</title_clean>
+    <title_search>super robot taisen compact 2 dai1bu chijou gekidou hen</title_search>
+    <image ext="png" id="Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4)">
+    <description>Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4)</description>
+    <title_clean>Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen</title_clean>
+    <title_search>super robot taisen compact 2 dai2bu uchuu gekishin hen</title_search>
+    <image ext="png" id="Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2)">
+    <description>Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2)</description>
+    <title_clean>Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen</title_clean>
+    <title_search>super robot taisen compact 2 dai3bu ginga kessen hen</title_search>
+    <image ext="png" id="Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Taikyoku Igo - Heisei Kiin (Japan)">
+    <description>Taikyoku Igo - Heisei Kiin (Japan)</description>
+    <title_clean>Taikyoku Igo - Heisei Kiin</title_clean>
+    <title_search>taikyoku igo heisei kiin</title_search>
+    <image ext="png" id="Taikyoku Igo - Heisei Kiin (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Taikyoku Igo - Heisei Kiin (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Taikyoku Igo - Heisei Kiin (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tanjou Debut for WonderSwan (Japan) (Rev 1)">
+    <description>Tanjou Debut for WonderSwan (Japan) (Rev 1)</description>
+    <title_clean>Tanjou Debut for WonderSwan</title_clean>
+    <title_search>tanjou debut for wonderswan</title_search>
+    <image ext="png" id="Tanjou Debut for WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tanjou Debut for WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tanjou Debut for WonderSwan (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tare Panda no GunPey (Japan)">
+    <description>Tare Panda no GunPey (Japan)</description>
+    <title_clean>Tare Panda no GunPey</title_clean>
+    <title_search>tare panda no gunpey</title_search>
+    <image ext="png" id="Tare Panda no GunPey (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tare Panda no GunPey (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tare Panda no GunPey (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tekken Card Challenge (Japan)">
+    <description>Tekken Card Challenge (Japan)</description>
+    <title_clean>Tekken Card Challenge</title_clean>
+    <title_search>tekken card challenge</title_search>
+    <image ext="png" id="Tekken Card Challenge (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tekken Card Challenge (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tekken Card Challenge (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Terrors (Japan)">
+    <description>Terrors (Japan)</description>
+    <title_clean>Terrors</title_clean>
+    <title_search>terrors</title_search>
+    <image ext="png" id="Terrors (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Terrors (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Terrors (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tetsujin 28 Gou (Japan)">
+    <description>Tetsujin 28 Gou (Japan)</description>
+    <title_clean>Tetsujin 28 Gou</title_clean>
+    <title_search>tetsujin 28 gou</title_search>
+    <image ext="png" id="Tetsujin 28 Gou (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tetsujin 28 Gou (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tetsujin 28 Gou (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan)">
+    <description>Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan)</description>
+    <title_clean>Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo</title_clean>
+    <title_search>time bokan series bokan densetsu buta mo odaterya doronboo</title_search>
+    <image ext="png" id="Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tokyo Majin Gakuen - Fuju Houroku (Japan)">
+    <description>Tokyo Majin Gakuen - Fuju Houroku (Japan)</description>
+    <title_clean>Tokyo Majin Gakuen - Fuju Houroku</title_clean>
+    <title_search>tokyo majin gakuen fuju houroku</title_search>
+    <image ext="png" id="Tokyo Majin Gakuen - Fuju Houroku (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tokyo Majin Gakuen - Fuju Houroku (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tokyo Majin Gakuen - Fuju Houroku (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1)">
+    <description>Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1)</description>
+    <title_clean>Trump Collection - Bottom-Up Teki Trump Seikatsu</title_clean>
+    <title_search>trump collection bottomup teki trump seikatsu</title_search>
+    <image ext="png" id="Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1)">
+    <description>Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1)</description>
+    <title_clean>Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi</title_clean>
+    <title_search>trump collection 2 bottomup teki sekaiisshuu no tabi</title_search>
+    <image ext="png" id="Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Turntablist - DJ Battle (Japan)">
+    <description>Turntablist - DJ Battle (Japan)</description>
+    <title_clean>Turntablist - DJ Battle</title_clean>
+    <title_search>turntablist dj battle</title_search>
+    <image ext="png" id="Turntablist - DJ Battle (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Turntablist - DJ Battle (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Turntablist - DJ Battle (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Umizuri ni Ikou! (Japan)">
+    <description>Umizuri ni Ikou! (Japan)</description>
+    <title_clean>Umizuri ni Ikou!</title_clean>
+    <title_search>umizuri ni ikou</title_search>
+    <image ext="png" id="Umizuri ni Ikou! (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Umizuri ni Ikou! (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Umizuri ni Ikou! (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4)">
+    <description>Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4)</description>
+    <title_clean>Uzumaki - Denshi Kaiki Hen</title_clean>
+    <title_search>uzumaki denshi kaiki hen</title_search>
+    <image ext="png" id="Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Uzumaki - Noroi Simulation (Japan)">
+    <description>Uzumaki - Noroi Simulation (Japan)</description>
+    <title_clean>Uzumaki - Noroi Simulation</title_clean>
+    <title_search>uzumaki noroi simulation</title_search>
+    <image ext="png" id="Uzumaki - Noroi Simulation (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Uzumaki - Noroi Simulation (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Uzumaki - Noroi Simulation (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Vaitz Blade (Japan) (Rev 1)">
+    <description>Vaitz Blade (Japan) (Rev 1)</description>
+    <title_clean>Vaitz Blade</title_clean>
+    <title_search>vaitz blade</title_search>
+    <image ext="png" id="Vaitz Blade (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Vaitz Blade (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Vaitz Blade (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wasabi Produce - Street Dancer (Japan)">
+    <description>Wasabi Produce - Street Dancer (Japan)</description>
+    <title_clean>Wasabi Produce - Street Dancer</title_clean>
+    <title_search>wasabi produce street dancer</title_search>
+    <image ext="png" id="Wasabi Produce - Street Dancer (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wasabi Produce - Street Dancer (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wasabi Produce - Street Dancer (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wonder Stadium '99 (Japan)">
+    <description>Wonder Stadium '99 (Japan)</description>
+    <title_clean>Wonder Stadium '99</title_clean>
+    <title_search>wonder stadium 99</title_search>
+    <image ext="png" id="Wonder Stadium '99 (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wonder Stadium '99 (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wonder Stadium '99 (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wonder Stadium (Japan)">
+    <description>Wonder Stadium (Japan)</description>
+    <title_clean>Wonder Stadium</title_clean>
+    <title_search>wonder stadium</title_search>
+    <image ext="png" id="Wonder Stadium (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wonder Stadium (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wonder Stadium (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="WonderSwan Handy Sonar (Japan) (Rev 1)">
+    <description>WonderSwan Handy Sonar (Japan) (Rev 1)</description>
+    <title_clean>WonderSwan Handy Sonar</title_clean>
+    <title_search>wonderswan handy sonar</title_search>
+    <image ext="png" id="WonderSwan Handy Sonar (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="WonderSwan Handy Sonar (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="WonderSwan Handy Sonar (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="beat mania for WonderSwan (Japan)">
+    <description>beat mania for WonderSwan (Japan)</description>
+    <title_clean>beat mania for WonderSwan</title_clean>
+    <title_search>beat mania for wonderswan</title_search>
+    <image ext="png" id="beat mania for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="beat mania for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="beat mania for WonderSwan (Japan)" source="https://github.com/libretro-thumbnails/Bandai_-_WonderSwan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

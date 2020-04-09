@@ -1,0 +1,202 @@
+<datafile>
+  <game name="Astro Wars - Invaders from Space (Japan)">
+    <description>Astro Wars - Invaders from Space (Japan)</description>
+    <title_clean>Astro Wars - Invaders from Space</title_clean>
+    <title_search>astro wars invaders from space</title_search>
+    <image ext="png" id="Astro Wars - Invaders from Space (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Astro Wars - Invaders from Space (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Astro Wars - Invaders from Space (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Astro Wars II - Battle in Galaxy (Japan)">
+    <description>Astro Wars II - Battle in Galaxy (Japan)</description>
+    <title_clean>Astro Wars II - Battle in Galaxy</title_clean>
+    <title_search>astro wars ii battle in galaxy</title_search>
+    <image ext="png" id="Astro Wars II - Battle in Galaxy (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Astro Wars II - Battle in Galaxy (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Astro Wars II - Battle in Galaxy (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Boulder Dash (Japan)">
+    <description>Boulder Dash (Japan)</description>
+    <title_clean>Boulder Dash</title_clean>
+    <title_search>boulder dash</title_search>
+    <image ext="png" id="Boulder Dash (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Boulder Dash (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Boulder Dash (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Comic Circus (Japan)">
+    <description>Comic Circus (Japan)</description>
+    <title_clean>Comic Circus</title_clean>
+    <title_search>comic circus</title_search>
+    <image ext="png" id="Comic Circus (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Comic Circus (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Comic Circus (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Doraemon (Japan)">
+    <description>Doraemon (Japan)</description>
+    <title_clean>Doraemon</title_clean>
+    <title_search>doraemon</title_search>
+    <image ext="png" id="Doraemon (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Doraemon (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Doraemon (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Elevator Fight (Japan)">
+    <description>Elevator Fight (Japan)</description>
+    <title_clean>Elevator Fight</title_clean>
+    <title_search>elevator fight</title_search>
+    <image ext="png" id="Elevator Fight (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Elevator Fight (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Elevator Fight (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kung Fu Road (Japan)">
+    <description>Kung Fu Road (Japan)</description>
+    <title_clean>Kung Fu Road</title_clean>
+    <title_search>kung fu road</title_search>
+    <image ext="png" id="Kung Fu Road (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kung Fu Road (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kung Fu Road (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lupin Sansei (Japan)">
+    <description>Lupin Sansei (Japan)</description>
+    <title_clean>Lupin Sansei</title_clean>
+    <title_search>lupin sansei</title_search>
+    <image ext="png" id="Lupin Sansei (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lupin Sansei (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lupin Sansei (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Milky Princess (Japan)">
+    <description>Milky Princess (Japan)</description>
+    <title_clean>Milky Princess</title_clean>
+    <title_search>milky princess</title_search>
+    <image ext="png" id="Milky Princess (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Milky Princess (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Milky Princess (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Miner 2049er (Japan)">
+    <description>Miner 2049er (Japan)</description>
+    <title_clean>Miner 2049er</title_clean>
+    <title_search>miner 2049er</title_search>
+    <image ext="png" id="Miner 2049er (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Miner 2049er (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Miner 2049er (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nebula (Japan)">
+    <description>Nebula (Japan)</description>
+    <title_clean>Nebula</title_clean>
+    <title_search>nebula</title_search>
+    <image ext="png" id="Nebula (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Nebula (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nebula (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nebula (Japan) (Alt 1)">
+    <description>Nebula (Japan) (Alt 1)</description>
+    <title_clean>Nebula</title_clean>
+    <title_search>nebula</title_search>
+    <image ext="png" id="Nebula (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Nebula (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nebula (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pole Position II (Japan)">
+    <description>Pole Position II (Japan)</description>
+    <title_clean>Pole Position II</title_clean>
+    <title_search>pole position ii</title_search>
+    <image ext="png" id="Pole Position II (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pole Position II (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pole Position II (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pop _ Chips (Japan)">
+    <description>Pop _ Chips (Japan)</description>
+    <title_clean>Pop _ Chips</title_clean>
+    <title_search>pop chips</title_search>
+    <image ext="png" id="Pop _ Chips (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pop _ Chips (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pop _ Chips (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Professional Wrestling (Japan)">
+    <description>Professional Wrestling (Japan)</description>
+    <title_clean>Professional Wrestling</title_clean>
+    <title_search>professional wrestling</title_search>
+    <image ext="png" id="Professional Wrestling (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Professional Wrestling (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Professional Wrestling (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Punch Boy (Japan)">
+    <description>Punch Boy (Japan)</description>
+    <title_clean>Punch Boy</title_clean>
+    <title_search>punch boy</title_search>
+    <image ext="png" id="Punch Boy (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Punch Boy (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Punch Boy (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Real Graphic Mahjongg (Japan)">
+    <description>Real Graphic Mahjongg (Japan)</description>
+    <title_clean>Real Graphic Mahjongg</title_clean>
+    <title_search>real graphic mahjongg</title_search>
+    <image ext="png" id="Real Graphic Mahjongg (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Real Graphic Mahjongg (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Real Graphic Mahjongg (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sansupyuta (Japan)">
+    <description>Sansupyuta (Japan)</description>
+    <title_clean>Sansupyuta</title_clean>
+    <title_search>sansupyuta</title_search>
+    <image ext="png" id="Sansupyuta (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sansupyuta (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sansupyuta (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shougi Nyuumon (Japan)">
+    <description>Shougi Nyuumon (Japan)</description>
+    <title_clean>Shougi Nyuumon</title_clean>
+    <title_search>shougi nyuumon</title_search>
+    <image ext="png" id="Shougi Nyuumon (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shougi Nyuumon (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shougi Nyuumon (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Baseball (Japan)">
+    <description>Super Baseball (Japan)</description>
+    <title_clean>Super Baseball</title_clean>
+    <title_search>super baseball</title_search>
+    <image ext="png" id="Super Baseball (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Baseball (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Baseball (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Golf (Japan)">
+    <description>Super Golf (Japan)</description>
+    <title_clean>Super Golf</title_clean>
+    <title_search>super golf</title_search>
+    <image ext="png" id="Super Golf (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Golf (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Golf (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Soccer (France)">
+    <description>Super Soccer (France)</description>
+    <title_clean>Super Soccer</title_clean>
+    <title_search>super soccer</title_search>
+    <image ext="png" id="Super Soccer (France)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Soccer (France)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Soccer (France)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Soccer (Japan)">
+    <description>Super Soccer (Japan)</description>
+    <title_clean>Super Soccer</title_clean>
+    <title_search>super soccer</title_search>
+    <image ext="png" id="Super Soccer (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Soccer (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Soccer (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ton Ton Ball (Japan)">
+    <description>Ton Ton Ball (Japan)</description>
+    <title_clean>Ton Ton Ball</title_clean>
+    <title_search>ton ton ball</title_search>
+    <image ext="png" id="Ton Ton Ball (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ton Ton Ball (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ton Ton Ball (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wheelie Racer (Japan)">
+    <description>Wheelie Racer (Japan)</description>
+    <title_clean>Wheelie Racer</title_clean>
+    <title_search>wheelie racer</title_search>
+    <image ext="png" id="Wheelie Racer (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wheelie Racer (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wheelie Racer (Japan)" source="https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

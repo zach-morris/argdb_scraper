@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy Color [T-En]</name>
+		<description>Nintendo Game Boy Color [T-En]</description>
+		<category>English Translations</category>
+		<version>20120706</version>
+		<date>20120706</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Nintendo Game Boy Color [T-En] Docs">
+		<description>_Nintendo Game Boy Color [T-En] Docs</description>
+		<rom name="Battle of Vietnam 2001, The (China) (Unl) [T-En by PentarouZero v1.0] [n].txt" size="3295" crc="626bc3e1" md5="fdac79896a1f0097c52a194214c824ec" sha1="9c6ebc929f691b1633ea7cf3282204d78eed98e8"/>
+		<rom name="Fishing King Adventure - Kite's Adventure (Japan) [T-En by JaytheHam+Robert Goodwin v1.0] [n] - Walkthrough.txt" size="6313" crc="89a1dbea" md5="cb3755b48cbec3ce64bec69d9374cd9c" sha1="2dbefc2d1da983a77833839f872c55321e153aaa"/>
+		<rom name="Fishing King Adventure - Kite's Adventure (Japan) [T-En by JaytheHam+Robert Goodwin v1.0] [n].txt" size="1218" crc="5cbc84e7" md5="68d57eb7e71c84970b88fb27209b51ca" sha1="c7b7e3bcb007a99e8d8c4f53e442537c3b7140d2"/>
+		<rom name="Game Boy Wars 2 (Japan) (SGB Enhanced) [T-En by TransBRC v1.02].txt" size="1360" crc="3486473a" md5="dab469588ffeb6406ee7c5f3fe5e5e34" sha1="f25b05dd657fb4c5ce80d86cdecac7c3b2be3110"/>
+		<rom name="Game Boy Wars 3 (Japan) [T-En by Master Knight DH v0.55] [i].txt" size="5886" crc="e40d3404" md5="6bc4647b975f342b52718908cfc3bfac" sha1="e92018103abff63a81936a8cd54f4591fc9939f1"/>
+		<rom name="Gen the Carpenter - Smash Smash Hammer Smash (Japan) (SGB Enhanced) [T-En by PentarouZero v1.0] [n].txt" size="2518" crc="58d1a257" md5="d69ec3534fdc37d2054c88dbd3632c5e" sha1="df14c48d78991ee78ea70317b0208a60bda19236"/>
+		<rom name="Grandia - Parallel Trippers (Japan) [T-En by Adventurous Translations v1.03].mht" size="1255297" crc="e4c15a79" md5="53c3dc733ccc9fb037e1fc0a107b2399" sha1="c48b359b5d644c2589c31f70d2a65073541bbc9d"/>
+		<rom name="Harry Potter &amp; the Mystical Halo (China) (Unl) [T-En by Neo Fuji v1.0] [n].txt" size="4694" crc="72c711ec" md5="153825232fd31d4a0cf6a95ea8da754b" sha1="f5b0ee922833e2fad81c17ffe97fe66a3f2813ff"/>
+		<rom name="Hello Kitty no Magical Museum (Japan) (SGB Enhanced) [T-En by Doki Doki Translations v1.0].txt" size="3038" crc="6157dba3" md5="b50cb959c61bc8eea59beb210dc1e55f" sha1="febf5b9f615ac3d0e2ff0028ee9f5bd8d3aa5815"/>
+		<rom name="Little Magic (Japan) [T-En by Some Good Shit Translations v1.0].txt" size="1603" crc="27a60ab6" md5="6a54f2dde076c7100ef3e387bff60d3a" sha1="fb4244f5e2edb4b4972a5f47ea7cf7d71d19d39c"/>
+		<rom name="Magical Chase GB (Japan) [T-En by Gaijin Productions v1.00] [n].txt" size="2876" crc="7ab7d2af" md5="cb7ef02537b7e54f50244edf975d929f" sha1="cdb191ceaaa895e7ae64fd235336ebeefa1f01ba"/>
+		<rom name="Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced) [T-En by EsperKnight v1.0].txt" size="3735" crc="4f4918e5" md5="e25688228c27605058ca17aaa81ab9c2" sha1="add77ee976194af882e902c1ce2ec609f00756b2"/>
+		<rom name="Ottifanten - Kommando Stoertebeker (Germany) [T-En by Alemanic Translations v1.2] (1).txt" size="184" crc="f10d8fa5" md5="a2cbfb7f0f2448181c221e78a151cb4c" sha1="d4867d000164c9790569e746d33137e68991b592"/>
+		<rom name="Ottifanten - Kommando Stoertebeker (Germany) [T-En by Alemanic Translations v1.2].txt" size="2219" crc="ba862242" md5="518d9e7f5c1f735c0b758b4365d0ad5c" sha1="4a2020b1c2c52523e0503f43c4c592407d0240f9"/>
+		<rom name="Pocket Billiards - Funk the 9 Ball (Japan) [T-En by PR Translations v1.00].txt" size="4334" crc="ec4f3b40" md5="c39552934ca45e10c7a876077b01d699" sha1="e8539ecf51bf80cba2d6490385f02e79008bff04"/>
+		<rom name="Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) [T-En by Artemis251 v1.00] [n].txt" size="5776" crc="1b0a2eeb" md5="19ba3fc782046b50f954b944e7175f80" sha1="5284c172c2c05d3f370e8b7afa96d666b5e07855"/>
+		<rom name="Secrets of Happy Hippo Isle, The (Germany) [T-En by NikcDC v1.00] [n].txt" size="1168" crc="fa5fac42" md5="7593ef72590f164049d306df1695526b" sha1="65d323610a427d3079c6aedc89bb0b1b2ed87248"/>
+		<rom name="Snowboard Champion (Japan) [T-En by DigitalZero Domain v0.9] [i] [n].txt" size="269" crc="5d7afaa9" md5="c3cccb0ac2e9e44e31efcbdcc722c321" sha1="ba51d9cef169ac406239bd010119e4c3aa5710f7"/>
+		<rom name="Super Chinese Fighter EX (Japan) [T-En by Some Good Shit Translations v0.99] - Credits.txt" size="223" crc="2ec2a890" md5="f96c93add7a52def64285e168874e7ad" sha1="e50a513f7ba6bca39ef24c316e0e0b1b025e4327"/>
+		<rom name="Super Chinese Fighter EX (Japan) [T-En by Some Good Shit Translations v0.99].txt" size="1435" crc="e3a2ba5c" md5="169279311bd9eb2564e677e86d8a8df6" sha1="b6f544cc30f39592f5ee8f5733c01abd50d629c7"/>
+		<rom name="Sylvanian Families - The Fairyland Pendant (Japan) (SGB Enhanced) [T-En by Watercrown Productions v1.1b] [n].txt" size="7990" crc="82467d10" md5="7a8e6837666cbe67e996073dec4f0e0e" sha1="38a387e4dedf8cade120b470e018fba02ec05f0f"/>
+		<rom name="Sylvanian Melodies (Japan) (SGB Enhanced) [T-En by Watercrown Productions v1.0] [n].txt" size="7805" crc="b9461056" md5="ca9d8cb9e628659fa78cf0f825a16d7d" sha1="acc475da59486ed1b26428a293cf28efb8aa7106"/>
+		<rom name="Wizardry I - Proving Grounds of the Mad Overlord (Japan) [T-En by Opus v20010822] - Map (01F).gif" size="19595" crc="22c189d5" md5="48ddb7d7998c9ee68643b104d3a1ea00" sha1="d35a07f41e10ab15c91a9080c9eae2ff31649043"/>
+		<rom name="Wizardry I - Proving Grounds of the Mad Overlord (Japan) [T-En by Opus v20010822] - Map (02F).gif" size="17215" crc="3a782db9" md5="b2448643bfa147a104d2acec84251cc5" sha1="f55472e76ed0c4f86d0dec73dd687bce32512ccd"/>
+		<rom name="Wizardry I - Proving Grounds of the Mad Overlord (Japan) [T-En by Opus v20010822] - Map (03F).gif" size="15856" crc="f0c2c4db" md5="5b8c22712811d40beb5ac1ebdf99c47b" sha1="9947eb5debca5b9f28f25cc441bdc4d07561e825"/>
+		<rom name="Wizardry I - Proving Grounds of the Mad Overlord (Japan) [T-En by Opus v20010822] - Map (04F).gif" size="11978" crc="cc417724" md5="a73c3cda82d929a67ebc723101da78d8" sha1="42b8f7aa45214440a67917773e24d179a48cf6dd"/>
+		<rom name="Wizardry I - Proving Grounds of the Mad Overlord (Japan) [T-En by Opus v20010822] - Map (05F).gif" size="16607" crc="4c322417" md5="2213925db776e08fe730fecdce7ca5c7" sha1="c6b302679f80e214c999f227fdc40ddbb7b0c070"/>
+		<rom name="Wizardry I - Proving Grounds of the Mad Overlord (Japan) [T-En by Opus v20010822] - Map (06F).gif" size="17300" crc="e5c12eb3" md5="bb7926d4227b34caeeda99f472c961bc" sha1="1887a09c735b4355740184f4c1b6f14e7562ab67"/>
+		<rom name="Wizardry I - Proving Grounds of the Mad Overlord (Japan) [T-En by Opus v20010822] - Map (07F).gif" size="17724" crc="1d1f64c9" md5="7d75e435cf4ad975c4e93c200f89c2c2" sha1="cf5336e6f0a3a78c89f1845d9a89bb94e906670f"/>
+		<rom name="Wizardry I - Proving Grounds of the Mad Overlord (Japan) [T-En by Opus v20010822] - Map (08F).gif" size="19317" crc="403125a2" md5="46c51fb816adffdd776636abfe34efaf" sha1="b40b5fa2bfb20e58102d442466a4c152cb2bad03"/>
+		<rom name="Wizardry I - Proving Grounds of the Mad Overlord (Japan) [T-En by Opus v20010822] - Map (09F).gif" size="12129" crc="358d6fad" md5="48cef120ec3e38af60f3456f2bb2b93c" sha1="60ccc8e4b27200eae08ec1fa529677229df39aa8"/>
+		<rom name="Wizardry I - Proving Grounds of the Mad Overlord (Japan) [T-En by Opus v20010822] - Map (10F).gif" size="14173" crc="108f19a3" md5="46542f9dd599e209f926af8c865db6d2" sha1="09bb9fb504a08e40cfbf78e08b97b342ce874915"/>
+		<rom name="Wizardry I - Proving Grounds of the Mad Overlord (Japan) [T-En by Opus v20010822].txt" size="6388" crc="9d1aed4b" md5="9f3ca5b877727c36e89d613d51d142a8" sha1="4a0a471e3412b42dc30cf09d1392ef695f8b398d"/>
+		<rom name="Wizardry I-III (Japan) [T-En by Opus v20010822].txt" size="6781" crc="b451bcd8" md5="b9d06708211e210a3c9098d22863079b" sha1="0e14be45e0765dbdf83194b341c3aaf6a373373e"/>
+		<rom name="Wizardry II - Legacy of Llylgamyn (Japan) [T-En by Opus v20010822] [n] - Map (1F).gif" size="19854" crc="64ef31ad" md5="4b55ca0b458f080af94fd53538c9d8d0" sha1="eaf011934e9b4b04dfdae452ec03560382db374f"/>
+		<rom name="Wizardry II - Legacy of Llylgamyn (Japan) [T-En by Opus v20010822] [n] - Map (2F).gif" size="19620" crc="3c85815d" md5="cadcdc4cfc9f1100b8fac5012b46192b" sha1="9c16e8d3fa9c689bcece0560a335a1671aa39dbb"/>
+		<rom name="Wizardry II - Legacy of Llylgamyn (Japan) [T-En by Opus v20010822] [n] - Map (3F).gif" size="23458" crc="1b476857" md5="bd0416f2e9eecfed3f94feaf4e3c731b" sha1="bc69de1eda8e60b72a41d25e4f5d87d430ab79f3"/>
+		<rom name="Wizardry II - Legacy of Llylgamyn (Japan) [T-En by Opus v20010822] [n] - Map (4F).gif" size="19756" crc="1140550e" md5="9316450e5168e197b201fe5302a93cd1" sha1="d01b99ea7291be1af7163905ea9b4af1eff0202e"/>
+		<rom name="Wizardry II - Legacy of Llylgamyn (Japan) [T-En by Opus v20010822] [n] - Map (5F).gif" size="18333" crc="cbd44624" md5="c9c0623b7898247ad5f3678c5badec76" sha1="3ef7665b0d8d905270090fd9eb24f5fd10603c78"/>
+		<rom name="Wizardry II - Legacy of Llylgamyn (Japan) [T-En by Opus v20010822] [n] - Map (6F).gif" size="20601" crc="19b9ca42" md5="c4a76ef79a3f8d70533e51820ef33bdf" sha1="56df6e6060e1737fd392f3cd9d663c09006cda8a"/>
+		<rom name="Wizardry II - Legacy of Llylgamyn (Japan) [T-En by Opus v20010822] [n] - Map Table Key.gif" size="17640" crc="1353cec5" md5="ad3a23112effcc9fbe944fa9850dd664" sha1="43568eadce14ecb8c2153512ec12046d478080de"/>
+		<rom name="Wizardry II - Legacy of Llylgamyn (Japan) [T-En by Opus v20010822] [n].txt" size="6553" crc="4c0a016f" md5="cdf93462ca32e50b1e13c637a7d16f7f" sha1="12a91efa050329eb0dd286495f24f7e11931c6b6"/>
+		<rom name="Wizardry III - Knight of Diamonds (Japan) [T-En by Opus v20010822] [n] - Map (B1F).gif" size="18602" crc="e863178f" md5="3575127e5e1806eda062076248773be8" sha1="cbeb794d67316ea0a73b8e04b641c946f1e85690"/>
+		<rom name="Wizardry III - Knight of Diamonds (Japan) [T-En by Opus v20010822] [n] - Map (B2F).gif" size="18610" crc="c1e46225" md5="1b70970bf0a6de9958e7d46bf6b86d29" sha1="662f4bdf00bae1aa6b8fef3e47d16406e6a35e13"/>
+		<rom name="Wizardry III - Knight of Diamonds (Japan) [T-En by Opus v20010822] [n] - Map (B3F).gif" size="17948" crc="5c6bf0d2" md5="699c6395035156abb537d4259096eb68" sha1="fcebf455cdaf6aab0e9f8a26fdcb170b35fdf830"/>
+		<rom name="Wizardry III - Knight of Diamonds (Japan) [T-En by Opus v20010822] [n] - Map (B4F).gif" size="23650" crc="e0d62315" md5="ffb2b1a0dbee6a4cb18e706236431c5b" sha1="a414817e8fbfbb2e7826f37dfa576e6d516c8757"/>
+		<rom name="Wizardry III - Knight of Diamonds (Japan) [T-En by Opus v20010822] [n] - Map (B5F).gif" size="22710" crc="6b5b31e5" md5="ff96c4786d95962942fba7ba118251d0" sha1="012950efc7770687e43ecec423c39777ee4dfdb8"/>
+		<rom name="Wizardry III - Knight of Diamonds (Japan) [T-En by Opus v20010822] [n] - Map (B6F).gif" size="21196" crc="6f7b10c7" md5="601786c801463f6e8b9e664209933be1" sha1="0041b199ec0b9685cdab71853bb8b64c43787a56"/>
+		<rom name="Wizardry III - Knight of Diamonds (Japan) [T-En by Opus v20010822] [n] - Map Table Key.gif" size="17686" crc="e220d5f2" md5="9290b5876fe62861c7eb9bbc47a02011" sha1="2b508b7426831db1d69317a5941d7d06347052fb"/>
+		<rom name="Wizardry III - Knight of Diamonds (Japan) [T-En by Opus v20010822] [n].txt" size="6701" crc="b53e95cb" md5="06dc2fa58b81f9bc9e75f2396b986391" sha1="8cc3959e082052dc14870db7f857f7e8cff64979"/>
+	</game>
+	<game name="Battle of Vietnam 2001, The (China) (Unl) [T-En by PentarouZero v1.0] [n]">
+		<description>Battle of Vietnam 2001, The (China) (Unl) [T-En by PentarouZero v1.0] [n]</description>
+		<rom name="Metal Slug 2001 (China) (Unl) [T-En by PentarouZero v1.0].gbc" size="1048576" crc="963e5755" md5="2ab7d87097ae75d161b78453b1c770d2" sha1="9184d5b8db2166fabdda1f016050cf040b04b5db"/>
+	</game>
+	<game name="Battle of Vietnam 2001, The (China) (Unl) [T-En+Fix by PentarouZero v1.0] [n]">
+		<description>Battle of Vietnam 2001, The (China) (Unl) [T-En+Fix by PentarouZero v1.0] [n]</description>
+		<rom name="Metal Slug 2001 (China) (Unl) [T-En+Fix by PentarouZero v1.0].gbc" size="1048576" crc="c7616919" md5="e34b5a8d9dcaafbabe80558e760bb949" sha1="74c52953a0ef1027e79fa0980ec945632e032582"/>
+	</game>
+	<game name="Fishing King Adventure - Kite's Adventure (Japan) [T-En by JaytheHam+Robert Goodwin v1.0] [n]">
+		<description>Fishing King Adventure - Kite's Adventure (Japan) [T-En by JaytheHam+Robert Goodwin v1.0] [n]</description>
+		<rom name="Nushi Tsuri Adventure - Kite no Bouken (Japan) [T-En by JaytheHam+Robert Goodwin v1.0].gbc" size="2097152" crc="f21a983a" md5="811f2baa93ef3d7de4ce2f0b9e806984" sha1="4c12aa74acf0f56e5600de58796ff71d6d1feb2a"/>
+	</game>
+	<game name="Game Boy Wars 2 (Japan) (SGB Enhanced) [T-En by TransBRC v1.02]">
+		<description>Game Boy Wars 2 (Japan) (SGB Enhanced) [T-En by TransBRC v1.02]</description>
+		<rom name="Game Boy Wars 2 (Japan) (SGB Enhanced) [T-En by TransBRC v1.02].gbc" size="1048576" crc="da9dd634" md5="475fe2f431a3490f3d5de0e8bd782b78" sha1="3563903038b82ceb25933c446d864cdeea400f3f"/>
+	</game>
+	<game name="Game Boy Wars 3 (Japan) [T-En by Master Knight DH v0.55] [i]">
+		<description>Game Boy Wars 3 (Japan) [T-En by Master Knight DH v0.55] [i]</description>
+		<rom name="Game Boy Wars 3 (Japan) [T-En by Master Knight DH v0.55] [i].gbc" size="1048576" crc="64732515" md5="8057b76523862f9966f489efed044090" sha1="d9993965ffaa6ba765df5c38c2b73800203cda39"/>
+	</game>
+	<game name="Gen the Carpenter - Smash Smash Hammer Smash (Japan) (SGB Enhanced) [T-En by PentarouZero v1.0] [n]">
+		<description>Gen the Carpenter - Smash Smash Hammer Smash (Japan) (SGB Enhanced) [T-En by PentarouZero v1.0] [n]</description>
+		<rom name="Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi (Japan) (SGB Enhanced) [T-En by PentarouZero v1.0].gbc" size="1048576" crc="f8e0647b" md5="8b63a1f33c97708fe6f7dac4b977b100" sha1="df62848c2311653050c1bba984723dbc1ae9ef7a"/>
+	</game>
+	<game name="Grandia - Parallel Trippers (Japan) [T-En by Adventurous Translations v1.03]">
+		<description>Grandia - Parallel Trippers (Japan) [T-En by Adventurous Translations v1.03]</description>
+		<rom name="Grandia - Parallel Trippers (Japan) [T-En by Adventurous Translations v1.03].gbc" size="4194304" crc="9e33eaa7" md5="76cadd4218948451ffc46fad1d0c8359" sha1="020275d1eb5f221c7db469e5f6054dcf84543315"/>
+	</game>
+	<game name="Harry Potter &amp; the Mystical Halo (China) (Unl) [T-En by Neo Fuji v1.0] [n]">
+		<description>Harry Potter &amp; the Mystical Halo (China) (Unl) [T-En by Neo Fuji v1.0] [n]</description>
+		<rom name="Harry Potter 3 2003 (China) (Unl) [T-En by Neo Fuji v1.0].gbc" size="1048576" crc="f9964dd8" md5="5f0ba3a4073b428d0e9d49b53e897ae1" sha1="0ab91197606bfd081dd6233cf282cf890953378c"/>
+	</game>
+	<game name="Harry Potter &amp; the Mystical Halo (China) (Unl) [T-En+Fix by Neo Fuji v1.0] [n]">
+		<description>Harry Potter &amp; the Mystical Halo (China) (Unl) [T-En+Fix by Neo Fuji v1.0] [n]</description>
+		<rom name="Harry Potter 3 2003 (China) (Unl) [T-En+Fix by Neo Fuji v1.0].gbc" size="524288" crc="d9059318" md5="0e94fbbfeec4ec1702cf3693543c5295" sha1="6fc771fe3a6ee52fe179b11920acf5c54b43ea91"/>
+	</game>
+	<game name="Hello Kitty no Magical Museum (Japan) (SGB Enhanced) [T-En by Doki Doki Translations v1.0]">
+		<description>Hello Kitty no Magical Museum (Japan) (SGB Enhanced) [T-En by Doki Doki Translations v1.0]</description>
+		<rom name="Hello Kitty no Magical Museum (Japan) (SGB Enhanced) [T-En by Doki Doki Translations v1.0].gbc" size="1048576" crc="4065ae9e" md5="675429f55057dcbf24b0f73db0c22b22" sha1="9f5c70b957d404cc100b8b9b9dd2a982dba53ccc"/>
+	</game>
+	<game name="Little Magic (Japan) [T-En by Some Good Shit Translations v1.0]">
+		<description>Little Magic (Japan) [T-En by Some Good Shit Translations v1.0]</description>
+		<rom name="Little Magic (Japan) [T-En by Some Good Shit Translations v1.0].gbc" size="1048576" crc="f1ea3f69" md5="5b1fc7b09dd78a0a6a4c87cf9c86ab1c" sha1="9339c8770bab5650a60f05c4fb69bf75acc9a399"/>
+	</game>
+	<game name="Magical Chase GB (Japan) [T-En by Gaijin Productions v1.00] [n]">
+		<description>Magical Chase GB (Japan) [T-En by Gaijin Productions v1.00] [n]</description>
+		<rom name="Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e (Japan) [T-En by Gaijin Productions v1.00].gbc" size="1048576" crc="a1e0e54f" md5="d5eed827954ed163ddf65fa32892361d" sha1="47bf3f9e833344e2da8c89d105a1c9d0da07540f"/>
+	</game>
+	<game name="Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced) [T-En by EsperKnight v1.0]">
+		<description>Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced) [T-En by EsperKnight v1.0]</description>
+		<rom name="Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced) [T-En by EsperKnight v1.0].gbc" size="1048576" crc="007b4804" md5="5c426fda8368066cf7e30587876af631" sha1="6f2ba0de137cfc3be136f6477dd84873663745a0"/>
+	</game>
+	<game name="Nobunaga's Ambition 2 (Japan) (SGB Enhanced) [T-En by Opus v20010207] [i] [n]">
+		<description>Nobunaga's Ambition 2 (Japan) (SGB Enhanced) [T-En by Opus v20010207] [i] [n]</description>
+		<rom name="Nobunaga no Yabou - Game Boy Ban 2 (Japan) (SGB Enhanced) [T-En by Opus v20010207] [i].gbc" size="1048576" crc="6de80219" md5="4e027aba55ad457f610e99d47fa63006" sha1="ca13333dc0c48f5ca325afd7137e6b65b0cb0b3f"/>
+	</game>
+	<game name="Ottifanten - Kommando Stoertebeker (Germany) [T-En by Alemanic Translations v1.2]">
+		<description>Ottifanten - Kommando Stoertebeker (Germany) [T-En by Alemanic Translations v1.2]</description>
+		<rom name="Ottifanten - Kommando Stoertebeker (Germany) [T-En by Alemanic Translations v1.2].gbc" size="1048576" crc="b4eab489" md5="684eb27159517c55521a33a3388d82ae" sha1="a7c6147987c2d4e0110e69bda360e96284067007"/>
+	</game>
+	<game name="Pocket Billiards - Funk the 9 Ball (Japan) [T-En by PR Translations v1.00]">
+		<description>Pocket Billiards - Funk the 9 Ball (Japan) [T-En by PR Translations v1.00]</description>
+		<rom name="Pocket Billiards - Funk the 9 Ball (Japan) [T-En by PR Translations v1.00].gbc" size="1048576" crc="23b285e7" md5="6d8c3f66fa3a0e14c1618f39e2de1cbf" sha1="a9bec14d127c570cf3d93e8d71dc15a25673d0cf"/>
+	</game>
+	<game name="Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) [T-En by Artemis251 v1.00] [n]">
+		<description>Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) [T-En by Artemis251 v1.00] [n]</description>
+		<rom name="Pokemon Card GB2 - GR Dan Sanjou! (Japan) [T-En by Artemis251 v1.00].gbc" size="4194304" crc="d880dfc1" md5="b881fe7a48a4d6deb2e41ffd930712fd" sha1="34ca3f54ea2dbec907a4d9af92befe2771f7649c"/>
+	</game>
+	<game name="Secrets of Happy Hippo Isle, The (Germany) [T-En by NikcDC v1.00] [n]">
+		<description>Secrets of Happy Hippo Isle, The (Germany) [T-En by NikcDC v1.00] [n]</description>
+		<rom name="Geheimnis der Happy Hippo-Insel, Das (Germany) [T-En by NikcDC v1.00].gbc" size="1048576" crc="4657321d" md5="5535a76f0ee88d244edbbf3c843eb72f" sha1="2364cf19eb9c0f46542fedfe9502494345dc6971"/>
+	</game>
+	<game name="Snowboard Champion (Japan) [T-En by DigitalZero Domain v0.9] [i] [n]">
+		<description>Snowboard Champion (Japan) [T-En by DigitalZero Domain v0.9] [i] [n]</description>
+		<rom name="Snobo Champion (Japan) [T-En by DigitalZero Domain v0.9] [i].gbc" size="1048576" crc="0bfe3d94" md5="2af4910b426c6f03808e88668e176852" sha1="c0e5d827ada13251adf0d144708a8d2add61383b"/>
+	</game>
+	<game name="Super Chinese Fighter EX (Japan) [T-En by Some Good Shit Translations v0.99]">
+		<description>Super Chinese Fighter EX (Japan) [T-En by Some Good Shit Translations v0.99]</description>
+		<rom name="Super Chinese Fighter EX (Japan) [T-En by Some Good Shit Translations v0.99].gbc" size="1048576" crc="99fb1903" md5="4af28b20af50b5651a281634b5091e65" sha1="e2d510e7d36201e18f0901e1eb4a2690b12782ba"/>
+	</game>
+	<game name="Sylvanian Families - The Fairyland Pendant (Japan) (SGB Enhanced) [T-En by Watercrown Productions v1.1b] [n]">
+		<description>Sylvanian Families - The Fairyland Pendant (Japan) (SGB Enhanced) [T-En by Watercrown Productions v1.1b] [n]</description>
+		<rom name="Sylvanian Families - Otogi no Kuni no Pendant (Japan) (SGB Enhanced) [T-En by Watercrown Productions v1.1b].gbc" size="2097152" crc="bda6e454" md5="aa782f4fc0b64f2e37bf9a554186f352" sha1="4d4740a4ae1055f2bfdba94185cbb498af429a6f"/>
+	</game>
+	<game name="Sylvanian Melodies (Japan) (SGB Enhanced) [T-En by Watercrown Productions v1.0] [n]">
+		<description>Sylvanian Melodies (Japan) (SGB Enhanced) [T-En by Watercrown Productions v1.0] [n]</description>
+		<rom name="Sylvanian Melodies - Mori no Nakama to Odori Mashi! (Japan) (SGB Enhanced) [T-En by Watercrown Productions v1.0].gbc" size="1048576" crc="9399bf9f" md5="e00326574376257c4095f2e752e9d620" sha1="e18d40cc2447db9579e496eebabe8349c5a92ae6"/>
+	</game>
+	<game name="Wizardry I - Proving Grounds of the Mad Overlord (Japan) [T-En by Opus v20010822]">
+		<description>Wizardry I - Proving Grounds of the Mad Overlord (Japan) [T-En by Opus v20010822]</description>
+		<rom name="Wizardry I - Proving Grounds of the Mad Overlord (Japan) [T-En by Opus v20010822].gbc" size="1048576" crc="bb816486" md5="2d5e0f6082655ee0d76d84d3df53bb9c" sha1="7d4e822edb30ed059da5c4dae7c9b5bee5eded4d"/>
+	</game>
+	<game name="Wizardry II - Legacy of Llylgamyn (Japan) [T-En by Opus v20010822] [n]">
+		<description>Wizardry II - Legacy of Llylgamyn (Japan) [T-En by Opus v20010822] [n]</description>
+		<rom name="Wizardry II - Llylgamyn no Isan (Japan) [T-En by Opus v20010822].gbc" size="1048576" crc="2bdb51d3" md5="5572bf2247869acec5ccd1af6f9b63d0" sha1="bf01204f03120de7842625b9cf9bf83cf4ab5955"/>
+	</game>
+	<game name="Wizardry III - Knight of Diamonds (Japan) [T-En by Opus v20010822] [n]">
+		<description>Wizardry III - Knight of Diamonds (Japan) [T-En by Opus v20010822] [n]</description>
+		<rom name="Wizardry III - Diamond no Kishi (Japan) [T-En by Opus v20010822].gbc" size="1048576" crc="54c6ae61" md5="142f0c6229e089b6ea6b99dc690d2aaa" sha1="94317066807fe13c4a601b500da2e1aa8d7490d2"/>
+	</game>
+</datafile>

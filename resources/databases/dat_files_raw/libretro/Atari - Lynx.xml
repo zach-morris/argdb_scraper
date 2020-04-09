@@ -1,0 +1,701 @@
+<datafile>
+  <game name="A.P.B. (USA, Europe)">
+    <description>A.P.B. (USA, Europe)</description>
+    <title_clean>A.P.B.</title_clean>
+    <title_search>apb</title_search>
+    <image ext="png" id="A.P.B. (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="A.P.B. (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="A.P.B. (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Alien vs Predator (USA) (Proto) (1993-12-17)">
+    <description>Alien vs Predator (USA) (Proto) (1993-12-17)</description>
+    <title_clean>Alien vs Predator</title_clean>
+    <title_search>alien vs predator</title_search>
+    <image ext="png" id="Alien vs Predator (USA) (Proto) (1993-12-17)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Alien vs Predator (USA) (Proto) (1993-12-17)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alien vs Predator (USA) (Proto) (1993-12-17)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Awesome Golf (USA, Europe)">
+    <description>Awesome Golf (USA, Europe)</description>
+    <title_clean>Awesome Golf</title_clean>
+    <title_search>awesome golf</title_search>
+    <image ext="png" id="Awesome Golf (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Awesome Golf (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Awesome Golf (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Baseball Heroes (USA, Europe)">
+    <description>Baseball Heroes (USA, Europe)</description>
+    <title_clean>Baseball Heroes</title_clean>
+    <title_search>baseball heroes</title_search>
+    <image ext="png" id="Baseball Heroes (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Baseball Heroes (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Baseball Heroes (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Basketbrawl (USA, Europe)">
+    <description>Basketbrawl (USA, Europe)</description>
+    <title_clean>Basketbrawl</title_clean>
+    <title_search>basketbrawl</title_search>
+    <image ext="png" id="Basketbrawl (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Basketbrawl (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Basketbrawl (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Batman Returns (USA, Europe)">
+    <description>Batman Returns (USA, Europe)</description>
+    <title_clean>Batman Returns</title_clean>
+    <title_search>batman returns</title_search>
+    <image ext="png" id="Batman Returns (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Batman Returns (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Batman Returns (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Battle Wheels (USA, Europe)">
+    <description>Battle Wheels (USA, Europe)</description>
+    <title_clean>Battle Wheels</title_clean>
+    <title_search>battle wheels</title_search>
+    <image ext="png" id="Battle Wheels (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Battle Wheels (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Battle Wheels (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Battlezone 2000 (USA, Europe)">
+    <description>Battlezone 2000 (USA, Europe)</description>
+    <title_clean>Battlezone 2000</title_clean>
+    <title_search>battlezone 2000</title_search>
+    <image ext="png" id="Battlezone 2000 (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Battlezone 2000 (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Battlezone 2000 (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bill _ Ted's Excellent Adventure (USA, Europe)">
+    <description>Bill _ Ted's Excellent Adventure (USA, Europe)</description>
+    <title_clean>Bill _ Ted's Excellent Adventure</title_clean>
+    <title_search>bill teds excellent adventure</title_search>
+    <image ext="png" id="Bill _ Ted's Excellent Adventure (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bill _ Ted's Excellent Adventure (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bill _ Ted's Excellent Adventure (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Block Out (USA, Europe)">
+    <description>Block Out (USA, Europe)</description>
+    <title_clean>Block Out</title_clean>
+    <title_search>block out</title_search>
+    <image ext="png" id="Block Out (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Block Out (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Block Out (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Blue Lightning (USA, Europe)">
+    <description>Blue Lightning (USA, Europe)</description>
+    <title_clean>Blue Lightning</title_clean>
+    <title_search>blue lightning</title_search>
+    <image ext="png" id="Blue Lightning (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Blue Lightning (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Blue Lightning (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Blue Lightning (USA, Europe) (Demo)">
+    <description>Blue Lightning (USA, Europe) (Demo)</description>
+    <title_clean>Blue Lightning</title_clean>
+    <title_search>blue lightning</title_search>
+    <image ext="png" id="Blue Lightning (USA, Europe) (Demo)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Blue Lightning (USA, Europe) (Demo)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Blue Lightning (USA, Europe) (Demo)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bubble Trouble (USA, Europe)">
+    <description>Bubble Trouble (USA, Europe)</description>
+    <title_clean>Bubble Trouble</title_clean>
+    <title_search>bubble trouble</title_search>
+    <image ext="png" id="Bubble Trouble (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bubble Trouble (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bubble Trouble (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="California Games (USA, Europe)">
+    <description>California Games (USA, Europe)</description>
+    <title_clean>California Games</title_clean>
+    <title_search>california games</title_search>
+    <image ext="png" id="California Games (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="California Games (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="California Games (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Centipede (USA) (Proto)">
+    <description>Centipede (USA) (Proto)</description>
+    <title_clean>Centipede</title_clean>
+    <title_search>centipede</title_search>
+    <image ext="png" id="Centipede (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Centipede (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Centipede (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Checkered Flag (USA, Europe)">
+    <description>Checkered Flag (USA, Europe)</description>
+    <title_clean>Checkered Flag</title_clean>
+    <title_search>checkered flag</title_search>
+    <image ext="png" id="Checkered Flag (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Checkered Flag (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Checkered Flag (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chip's Challenge (USA, Europe)">
+    <description>Chip's Challenge (USA, Europe)</description>
+    <title_clean>Chip's Challenge</title_clean>
+    <title_search>chips challenge</title_search>
+    <image ext="png" id="Chip's Challenge (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chip's Challenge (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chip's Challenge (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Crystal Mines II (USA, Europe)">
+    <description>Crystal Mines II (USA, Europe)</description>
+    <title_clean>Crystal Mines II</title_clean>
+    <title_search>crystal mines ii</title_search>
+    <image ext="png" id="Crystal Mines II (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Crystal Mines II (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Crystal Mines II (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Daemonsgate (USA) (Proto)">
+    <description>Daemonsgate (USA) (Proto)</description>
+    <title_clean>Daemonsgate</title_clean>
+    <title_search>daemonsgate</title_search>
+    <image ext="png" id="Daemonsgate (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Daemonsgate (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Daemonsgate (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Desert Strike - Return to the Gulf (USA, Europe)">
+    <description>Desert Strike - Return to the Gulf (USA, Europe)</description>
+    <title_clean>Desert Strike - Return to the Gulf</title_clean>
+    <title_search>desert strike return to the gulf</title_search>
+    <image ext="png" id="Desert Strike - Return to the Gulf (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Desert Strike - Return to the Gulf (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Desert Strike - Return to the Gulf (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dinolympics (USA, Europe)">
+    <description>Dinolympics (USA, Europe)</description>
+    <title_clean>Dinolympics</title_clean>
+    <title_search>dinolympics</title_search>
+    <image ext="png" id="Dinolympics (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dinolympics (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dinolympics (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dirty Larry - Renegade Cop (USA, Europe)">
+    <description>Dirty Larry - Renegade Cop (USA, Europe)</description>
+    <title_clean>Dirty Larry - Renegade Cop</title_clean>
+    <title_search>dirty larry renegade cop</title_search>
+    <image ext="png" id="Dirty Larry - Renegade Cop (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dirty Larry - Renegade Cop (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dirty Larry - Renegade Cop (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Double Dragon (USA, Europe)">
+    <description>Double Dragon (USA, Europe)</description>
+    <title_clean>Double Dragon</title_clean>
+    <title_search>double dragon</title_search>
+    <image ext="png" id="Double Dragon (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Double Dragon (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Double Dragon (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dracula the Undead (USA, Europe)">
+    <description>Dracula the Undead (USA, Europe)</description>
+    <title_clean>Dracula the Undead</title_clean>
+    <title_search>dracula the undead</title_search>
+    <image ext="png" id="Dracula the Undead (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dracula the Undead (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dracula the Undead (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Electrocop (USA, Europe)">
+    <description>Electrocop (USA, Europe)</description>
+    <title_clean>Electrocop</title_clean>
+    <title_search>electrocop</title_search>
+    <image ext="png" id="Electrocop (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Electrocop (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Electrocop (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="European Soccer Challenge (USA, Europe)">
+    <description>European Soccer Challenge (USA, Europe)</description>
+    <title_clean>European Soccer Challenge</title_clean>
+    <title_search>european soccer challenge</title_search>
+    <image ext="png" id="European Soccer Challenge (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="European Soccer Challenge (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="European Soccer Challenge (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Eye of the Beholder (USA) (Proto)">
+    <description>Eye of the Beholder (USA) (Proto)</description>
+    <title_clean>Eye of the Beholder</title_clean>
+    <title_search>eye of the beholder</title_search>
+    <image ext="png" id="Eye of the Beholder (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Eye of the Beholder (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Eye of the Beholder (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fat Bobby (USA, Europe)">
+    <description>Fat Bobby (USA, Europe)</description>
+    <title_clean>Fat Bobby</title_clean>
+    <title_search>fat bobby</title_search>
+    <image ext="png" id="Fat Bobby (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fat Bobby (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fat Bobby (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fidelity Ultimate Chess Challenge, The (USA, Europe)">
+    <description>Fidelity Ultimate Chess Challenge, The (USA, Europe)</description>
+    <title_clean>The Fidelity Ultimate Chess Challenge</title_clean>
+    <title_search>the fidelity ultimate chess challenge</title_search>
+    <image ext="png" id="Fidelity Ultimate Chess Challenge, The (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fidelity Ultimate Chess Challenge, The (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fidelity Ultimate Chess Challenge, The (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gates of Zendocon (USA, Europe)">
+    <description>Gates of Zendocon (USA, Europe)</description>
+    <title_clean>Gates of Zendocon</title_clean>
+    <title_search>gates of zendocon</title_search>
+    <image ext="png" id="Gates of Zendocon (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gates of Zendocon (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gates of Zendocon (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gauntlet - The Third Encounter (USA, Europe)">
+    <description>Gauntlet - The Third Encounter (USA, Europe)</description>
+    <title_clean>Gauntlet - The Third Encounter</title_clean>
+    <title_search>gauntlet the third encounter</title_search>
+    <image ext="png" id="Gauntlet - The Third Encounter (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gauntlet - The Third Encounter (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gauntlet - The Third Encounter (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gauntlet - The Third Encounter (USA, Europe) (Beta) (1990-06-04)">
+    <description>Gauntlet - The Third Encounter (USA, Europe) (Beta) (1990-06-04)</description>
+    <title_clean>Gauntlet - The Third Encounter</title_clean>
+    <title_search>gauntlet the third encounter</title_search>
+  </game>
+  <game name="Gordo 106 (USA, Europe)">
+    <description>Gordo 106 (USA, Europe)</description>
+    <title_clean>Gordo 106</title_clean>
+    <title_search>gordo 106</title_search>
+    <image ext="png" id="Gordo 106 (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gordo 106 (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gordo 106 (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hard Drivin' (USA, Europe)">
+    <description>Hard Drivin' (USA, Europe)</description>
+    <title_clean>Hard Drivin'</title_clean>
+    <title_search>hard drivin</title_search>
+    <image ext="png" id="Hard Drivin' (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hard Drivin' (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hard Drivin' (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hockey (USA, Europe)">
+    <description>Hockey (USA, Europe)</description>
+    <title_clean>Hockey</title_clean>
+    <title_search>hockey</title_search>
+    <image ext="png" id="Hockey (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hockey (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hockey (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hydra (USA, Europe)">
+    <description>Hydra (USA, Europe)</description>
+    <title_clean>Hydra</title_clean>
+    <title_search>hydra</title_search>
+    <image ext="png" id="Hydra (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hydra (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hydra (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ishido - The Way of Stones (USA, Europe)">
+    <description>Ishido - The Way of Stones (USA, Europe)</description>
+    <title_clean>Ishido - The Way of Stones</title_clean>
+    <title_search>ishido the way of stones</title_search>
+    <image ext="png" id="Ishido - The Way of Stones (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ishido - The Way of Stones (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ishido - The Way of Stones (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jimmy Connors' Tennis (USA, Europe)">
+    <description>Jimmy Connors' Tennis (USA, Europe)</description>
+    <title_clean>Jimmy Connors' Tennis</title_clean>
+    <title_search>jimmy connors tennis</title_search>
+    <image ext="png" id="Jimmy Connors' Tennis (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jimmy Connors' Tennis (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jimmy Connors' Tennis (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Joust (USA, Europe)">
+    <description>Joust (USA, Europe)</description>
+    <title_clean>Joust</title_clean>
+    <title_search>joust</title_search>
+    <image ext="png" id="Joust (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Joust (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Joust (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Klax (USA, Europe)">
+    <description>Klax (USA, Europe)</description>
+    <title_clean>Klax</title_clean>
+    <title_search>klax</title_search>
+    <image ext="png" id="Klax (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Klax (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Klax (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Klax (USA, Europe) (Beta)">
+    <description>Klax (USA, Europe) (Beta)</description>
+    <title_clean>Klax</title_clean>
+    <title_search>klax</title_search>
+    <image ext="png" id="Klax (USA, Europe) (Beta)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Klax (USA, Europe) (Beta)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Klax (USA, Europe) (Beta)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Krazy Ace - Miniature Golf (USA, Europe)">
+    <description>Krazy Ace - Miniature Golf (USA, Europe)</description>
+    <title_clean>Krazy Ace - Miniature Golf</title_clean>
+    <title_search>krazy ace miniature golf</title_search>
+    <image ext="png" id="Krazy Ace - Miniature Golf (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Krazy Ace - Miniature Golf (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Krazy Ace - Miniature Golf (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kung Food (USA, Europe)">
+    <description>Kung Food (USA, Europe)</description>
+    <title_clean>Kung Food</title_clean>
+    <title_search>kung food</title_search>
+    <image ext="png" id="Kung Food (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kung Food (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kung Food (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lemmings (USA, Europe)">
+    <description>Lemmings (USA, Europe)</description>
+    <title_clean>Lemmings</title_clean>
+    <title_search>lemmings</title_search>
+    <image ext="png" id="Lemmings (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lemmings (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lemmings (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lexis (USA)">
+    <description>Lexis (USA)</description>
+    <title_clean>Lexis</title_clean>
+    <title_search>lexis</title_search>
+    <image ext="png" id="Lexis (USA)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lexis (USA)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lexis (USA)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Loopz (USA) (Proto)">
+    <description>Loopz (USA) (Proto)</description>
+    <title_clean>Loopz</title_clean>
+    <title_search>loopz</title_search>
+    <image ext="png" id="Loopz (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Loopz (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Loopz (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lynx Casino (USA, Europe)">
+    <description>Lynx Casino (USA, Europe)</description>
+    <title_clean>Lynx Casino</title_clean>
+    <title_search>lynx casino</title_search>
+    <image ext="png" id="Lynx Casino (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lynx Casino (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lynx Casino (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lynx II Production Test Program (USA)">
+    <description>Lynx II Production Test Program (USA)</description>
+    <title_clean>Lynx II Production Test Program</title_clean>
+    <title_search>lynx ii production test program</title_search>
+  </game>
+  <game name="Malibu Bikini Volleyball (USA) (Beta) (1993-05-11)">
+    <description>Malibu Bikini Volleyball (USA) (Beta) (1993-05-11)</description>
+    <title_clean>Malibu Bikini Volleyball</title_clean>
+    <title_search>malibu bikini volleyball</title_search>
+  </game>
+  <game name="Malibu Bikini Volleyball (USA, Europe)">
+    <description>Malibu Bikini Volleyball (USA, Europe)</description>
+    <title_clean>Malibu Bikini Volleyball</title_clean>
+    <title_search>malibu bikini volleyball</title_search>
+    <image ext="png" id="Malibu Bikini Volleyball (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Malibu Bikini Volleyball (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Malibu Bikini Volleyball (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Marlboro Go! (Europe) (Proto)">
+    <description>Marlboro Go! (Europe) (Proto)</description>
+    <title_clean>Marlboro Go!</title_clean>
+    <title_search>marlboro go</title_search>
+    <image ext="png" id="Marlboro Go! (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Marlboro Go! (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Marlboro Go! (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ms. Pac-Man (USA, Europe)">
+    <description>Ms. Pac-Man (USA, Europe)</description>
+    <title_clean>Ms. Pac-Man</title_clean>
+    <title_search>ms pacman</title_search>
+    <image ext="png" id="Ms. Pac-Man (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ms. Pac-Man (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ms. Pac-Man (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="NFL Football (USA, Europe)">
+    <description>NFL Football (USA, Europe)</description>
+    <title_clean>NFL Football</title_clean>
+    <title_search>nfl football</title_search>
+    <image ext="png" id="NFL Football (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="NFL Football (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="NFL Football (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ninja Gaiden (USA, Europe)">
+    <description>Ninja Gaiden (USA, Europe)</description>
+    <title_clean>Ninja Gaiden</title_clean>
+    <title_search>ninja gaiden</title_search>
+    <image ext="png" id="Ninja Gaiden (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ninja Gaiden (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ninja Gaiden (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)">
+    <description>Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)</description>
+    <title_clean>Ninja Gaiden III - The Ancient Ship of Doom</title_clean>
+    <title_search>ninja gaiden iii the ancient ship of doom</title_search>
+    <image ext="png" id="Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pac-Land (USA, Europe)">
+    <description>Pac-Land (USA, Europe)</description>
+    <title_clean>Pac-Land</title_clean>
+    <title_search>pacland</title_search>
+    <image ext="png" id="Pac-Land (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pac-Land (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pac-Land (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Paperboy (USA, Europe)">
+    <description>Paperboy (USA, Europe)</description>
+    <title_clean>Paperboy</title_clean>
+    <title_search>paperboy</title_search>
+    <image ext="png" id="Paperboy (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Paperboy (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Paperboy (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pinball Jam (USA, Europe)">
+    <description>Pinball Jam (USA, Europe)</description>
+    <title_clean>Pinball Jam</title_clean>
+    <title_search>pinball jam</title_search>
+    <image ext="png" id="Pinball Jam (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pinball Jam (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pinball Jam (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pit-Fighter (USA, Europe)">
+    <description>Pit-Fighter (USA, Europe)</description>
+    <title_clean>Pit-Fighter</title_clean>
+    <title_search>pitfighter</title_search>
+    <image ext="png" id="Pit-Fighter (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pit-Fighter (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pit-Fighter (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Power Factor (USA, Europe)">
+    <description>Power Factor (USA, Europe)</description>
+    <title_clean>Power Factor</title_clean>
+    <title_search>power factor</title_search>
+    <image ext="png" id="Power Factor (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Power Factor (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Power Factor (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="QIX (USA, Europe)">
+    <description>QIX (USA, Europe)</description>
+    <title_clean>QIX</title_clean>
+    <title_search>qix</title_search>
+    <image ext="png" id="QIX (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="QIX (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="QIX (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Raiden (USA)">
+    <description>Raiden (USA)</description>
+    <title_clean>Raiden</title_clean>
+    <title_search>raiden</title_search>
+  </game>
+  <game name="Rampage (USA, Europe)">
+    <description>Rampage (USA, Europe)</description>
+    <title_clean>Rampage</title_clean>
+    <title_search>rampage</title_search>
+    <image ext="png" id="Rampage (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rampage (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rampage (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rampart (USA, Europe)">
+    <description>Rampart (USA, Europe)</description>
+    <title_clean>Rampart</title_clean>
+    <title_search>rampart</title_search>
+    <image ext="png" id="Rampart (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rampart (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rampart (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Road Riot 4WD (USA) (Proto 1)">
+    <description>Road Riot 4WD (USA) (Proto 1)</description>
+    <title_clean>Road Riot 4WD</title_clean>
+    <title_search>road riot 4wd</title_search>
+  </game>
+  <game name="Road Riot 4WD (USA) (Proto 2)">
+    <description>Road Riot 4WD (USA) (Proto 2)</description>
+    <title_clean>Road Riot 4WD</title_clean>
+    <title_search>road riot 4wd</title_search>
+  </game>
+  <game name="Road Riot 4WD (USA) (Proto 3)">
+    <description>Road Riot 4WD (USA) (Proto 3)</description>
+    <title_clean>Road Riot 4WD</title_clean>
+    <title_search>road riot 4wd</title_search>
+  </game>
+  <game name="RoadBlasters (USA, Europe)">
+    <description>RoadBlasters (USA, Europe)</description>
+    <title_clean>RoadBlasters</title_clean>
+    <title_search>roadblasters</title_search>
+    <image ext="png" id="RoadBlasters (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="RoadBlasters (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="RoadBlasters (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Robo-Squash (USA, Europe)">
+    <description>Robo-Squash (USA, Europe)</description>
+    <title_clean>Robo-Squash</title_clean>
+    <title_search>robosquash</title_search>
+    <image ext="png" id="Robo-Squash (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Robo-Squash (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Robo-Squash (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Robotron 2084 (USA, Europe)">
+    <description>Robotron 2084 (USA, Europe)</description>
+    <title_clean>Robotron 2084</title_clean>
+    <title_search>robotron 2084</title_search>
+    <image ext="png" id="Robotron 2084 (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Robotron 2084 (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Robotron 2084 (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rygar (USA, Europe)">
+    <description>Rygar (USA, Europe)</description>
+    <title_clean>Rygar</title_clean>
+    <title_search>rygar</title_search>
+    <image ext="png" id="Rygar (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rygar (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rygar (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="S.T.U.N. Runner (USA, Europe)">
+    <description>S.T.U.N. Runner (USA, Europe)</description>
+    <title_clean>S.T.U.N. Runner</title_clean>
+    <title_search>stun runner</title_search>
+    <image ext="png" id="S.T.U.N. Runner (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="S.T.U.N. Runner (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="S.T.U.N. Runner (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Scrapyard Dog (USA, Europe)">
+    <description>Scrapyard Dog (USA, Europe)</description>
+    <title_clean>Scrapyard Dog</title_clean>
+    <title_search>scrapyard dog</title_search>
+    <image ext="png" id="Scrapyard Dog (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Scrapyard Dog (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Scrapyard Dog (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shadow of the Beast (USA, Europe)">
+    <description>Shadow of the Beast (USA, Europe)</description>
+    <title_clean>Shadow of the Beast</title_clean>
+    <title_search>shadow of the beast</title_search>
+    <image ext="png" id="Shadow of the Beast (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shadow of the Beast (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shadow of the Beast (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shanghai (USA, Europe)">
+    <description>Shanghai (USA, Europe)</description>
+    <title_clean>Shanghai</title_clean>
+    <title_search>shanghai</title_search>
+    <image ext="png" id="Shanghai (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shanghai (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shanghai (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Steel Talons (USA, Europe)">
+    <description>Steel Talons (USA, Europe)</description>
+    <title_clean>Steel Talons</title_clean>
+    <title_search>steel talons</title_search>
+    <image ext="png" id="Steel Talons (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Steel Talons (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Steel Talons (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Asteroids, Missile Command (USA, Europe)">
+    <description>Super Asteroids, Missile Command (USA, Europe)</description>
+    <title_clean>Super Asteroids, Missile Command</title_clean>
+    <title_search>super asteroids missile command</title_search>
+    <image ext="png" id="Super Asteroids, Missile Command (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Asteroids, Missile Command (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Asteroids, Missile Command (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Off-Road (USA, Europe)">
+    <description>Super Off-Road (USA, Europe)</description>
+    <title_clean>Super Off-Road</title_clean>
+    <title_search>super offroad</title_search>
+    <image ext="png" id="Super Off-Road (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Off-Road (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Off-Road (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Skweek (USA, Europe)">
+    <description>Super Skweek (USA, Europe)</description>
+    <title_clean>Super Skweek</title_clean>
+    <title_search>super skweek</title_search>
+    <image ext="png" id="Super Skweek (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Skweek (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Skweek (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Switchblade II (USA, Europe)">
+    <description>Switchblade II (USA, Europe)</description>
+    <title_clean>Switchblade II</title_clean>
+    <title_search>switchblade ii</title_search>
+    <image ext="png" id="Switchblade II (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Switchblade II (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Switchblade II (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Todd's Adventures in Slime World (USA, Europe)">
+    <description>Todd's Adventures in Slime World (USA, Europe)</description>
+    <title_clean>Todd's Adventures in Slime World</title_clean>
+    <title_search>todds adventures in slime world</title_search>
+    <image ext="png" id="Todd's Adventures in Slime World (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Todd's Adventures in Slime World (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Todd's Adventures in Slime World (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Toki (USA, Europe)">
+    <description>Toki (USA, Europe)</description>
+    <title_clean>Toki</title_clean>
+    <title_search>toki</title_search>
+    <image ext="png" id="Toki (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Toki (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Toki (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tournament Cyberball (USA, Europe)">
+    <description>Tournament Cyberball (USA, Europe)</description>
+    <title_clean>Tournament Cyberball</title_clean>
+    <title_search>tournament cyberball</title_search>
+    <image ext="png" id="Tournament Cyberball (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tournament Cyberball (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tournament Cyberball (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Turbo Sub (USA, Europe)">
+    <description>Turbo Sub (USA, Europe)</description>
+    <title_clean>Turbo Sub</title_clean>
+    <title_search>turbo sub</title_search>
+    <image ext="png" id="Turbo Sub (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Turbo Sub (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Turbo Sub (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Viking Child (USA, Europe)">
+    <description>Viking Child (USA, Europe)</description>
+    <title_clean>Viking Child</title_clean>
+    <title_search>viking child</title_search>
+    <image ext="png" id="Viking Child (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Viking Child (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Viking Child (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Warbirds (USA, Europe)">
+    <description>Warbirds (USA, Europe)</description>
+    <title_clean>Warbirds</title_clean>
+    <title_search>warbirds</title_search>
+    <image ext="png" id="Warbirds (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Warbirds (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Warbirds (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="World Class Soccer (USA, Europe)">
+    <description>World Class Soccer (USA, Europe)</description>
+    <title_clean>World Class Soccer</title_clean>
+    <title_search>world class soccer</title_search>
+    <image ext="png" id="World Class Soccer (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="World Class Soccer (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="World Class Soccer (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Xenophobe (USA, Europe)">
+    <description>Xenophobe (USA, Europe)</description>
+    <title_clean>Xenophobe</title_clean>
+    <title_search>xenophobe</title_search>
+    <image ext="png" id="Xenophobe (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Xenophobe (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Xenophobe (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Xybots (USA, Europe)">
+    <description>Xybots (USA, Europe)</description>
+    <title_clean>Xybots</title_clean>
+    <title_search>xybots</title_search>
+    <image ext="png" id="Xybots (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Xybots (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Xybots (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zarlor Mercenary (USA, Europe)">
+    <description>Zarlor Mercenary (USA, Europe)</description>
+    <title_clean>Zarlor Mercenary</title_clean>
+    <title_search>zarlor mercenary</title_search>
+    <image ext="png" id="Zarlor Mercenary (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Zarlor Mercenary (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zarlor Mercenary (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Lynx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

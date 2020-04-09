@@ -1,0 +1,850 @@
+<datafile>
+  <game name="5200 Menu (USA) (Proto)">
+    <description>5200 Menu (USA) (Proto)</description>
+    <title_clean>5200 Menu</title_clean>
+    <title_search>5200 menu</title_search>
+    <image ext="png" id="5200 Menu (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="5200 Menu (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="5200 Menu (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="A.E. (USA) (Proto)">
+    <description>A.E. (USA) (Proto)</description>
+    <title_clean>A.E.</title_clean>
+    <title_search>ae</title_search>
+    <image ext="png" id="A.E. (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="A.E. (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="A.E. (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Activision Decathlon, The (USA)">
+    <description>Activision Decathlon, The (USA)</description>
+    <title_clean>The Activision Decathlon</title_clean>
+    <title_search>the activision decathlon</title_search>
+    <image ext="png" id="Activision Decathlon, The (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Activision Decathlon, The (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Activision Decathlon, The (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Asteroids (USA) (Proto)">
+    <description>Asteroids (USA) (Proto)</description>
+    <title_clean>Asteroids</title_clean>
+    <title_search>asteroids</title_search>
+    <image ext="png" id="Asteroids (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Asteroids (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Asteroids (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Astro Chase (USA)">
+    <description>Astro Chase (USA)</description>
+    <title_clean>Astro Chase</title_clean>
+    <title_search>astro chase</title_search>
+    <image ext="png" id="Astro Chase (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Astro Chase (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Astro Chase (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Atari PAM - Pete's Test (USA)">
+    <description>Atari PAM - Pete's Test (USA)</description>
+    <title_clean>Atari PAM - Pete's Test</title_clean>
+    <title_search>atari pam petes test</title_search>
+    <image ext="png" id="Atari PAM - Pete's Test (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Atari PAM - Pete's Test (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Atari PAM - Pete's Test (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Atari PAM Diagnostics (USA) (v2.0)">
+    <description>Atari PAM Diagnostics (USA) (v2.0)</description>
+    <title_clean>Atari PAM Diagnostics</title_clean>
+    <title_search>atari pam diagnostics</title_search>
+    <image ext="png" id="Atari PAM Diagnostics (USA) (v2.0)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Atari PAM Diagnostics (USA) (v2.0)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Atari PAM Diagnostics (USA) (v2.0)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Atari PAM Diagnostics (USA) (v2.3)">
+    <description>Atari PAM Diagnostics (USA) (v2.3)</description>
+    <title_clean>Atari PAM Diagnostics</title_clean>
+    <title_search>atari pam diagnostics</title_search>
+    <image ext="png" id="Atari PAM Diagnostics (USA) (v2.3)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Atari PAM Diagnostics (USA) (v2.3)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Atari PAM Diagnostics (USA) (v2.3)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Atari PAM System Test (USA) (v1.02)">
+    <description>Atari PAM System Test (USA) (v1.02)</description>
+    <title_clean>Atari PAM System Test</title_clean>
+    <title_search>atari pam system test</title_search>
+    <image ext="png" id="Atari PAM System Test (USA) (v1.02)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Atari PAM System Test (USA) (v1.02)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Atari PAM System Test (USA) (v1.02)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ballblazer (USA)">
+    <description>Ballblazer (USA)</description>
+    <title_clean>Ballblazer</title_clean>
+    <title_search>ballblazer</title_search>
+    <image ext="png" id="Ballblazer (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ballblazer (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ballblazer (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Barroom Baseball (USA) (Proto)">
+    <description>Barroom Baseball (USA) (Proto)</description>
+    <title_clean>Barroom Baseball</title_clean>
+    <title_search>barroom baseball</title_search>
+    <image ext="png" id="Barroom Baseball (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Barroom Baseball (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Barroom Baseball (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Battlezone (USA) (Proto)">
+    <description>Battlezone (USA) (Proto)</description>
+    <title_clean>Battlezone</title_clean>
+    <title_search>battlezone</title_search>
+    <image ext="png" id="Battlezone (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Battlezone (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Battlezone (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Beamrider (USA)">
+    <description>Beamrider (USA)</description>
+    <title_clean>Beamrider</title_clean>
+    <title_search>beamrider</title_search>
+    <image ext="png" id="Beamrider (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Beamrider (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Beamrider (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="BerZerk (USA)">
+    <description>BerZerk (USA)</description>
+    <title_clean>BerZerk</title_clean>
+    <title_search>berzerk</title_search>
+    <image ext="png" id="BerZerk (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="BerZerk (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="BerZerk (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Black Belt (USA) (Proto)">
+    <description>Black Belt (USA) (Proto)</description>
+    <title_clean>Black Belt</title_clean>
+    <title_search>black belt</title_search>
+    <image ext="png" id="Black Belt (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Black Belt (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Black Belt (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Blaster (USA) (Proto)">
+    <description>Blaster (USA) (Proto)</description>
+    <title_clean>Blaster</title_clean>
+    <title_search>blaster</title_search>
+    <image ext="png" id="Blaster (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Blaster (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Blaster (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Blue Print (USA)">
+    <description>Blue Print (USA)</description>
+    <title_clean>Blue Print</title_clean>
+    <title_search>blue print</title_search>
+    <image ext="png" id="Blue Print (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Blue Print (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Blue Print (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Boogie (USA) (Demo)">
+    <description>Boogie (USA) (Demo)</description>
+    <title_clean>Boogie</title_clean>
+    <title_search>boogie</title_search>
+    <image ext="png" id="Boogie (USA) (Demo)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Boogie (USA) (Demo)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Boogie (USA) (Demo)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bounty Bob Strikes Back! (USA)">
+    <description>Bounty Bob Strikes Back! (USA)</description>
+    <title_clean>Bounty Bob Strikes Back!</title_clean>
+    <title_search>bounty bob strikes back</title_search>
+    <image ext="png" id="Bounty Bob Strikes Back! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bounty Bob Strikes Back! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bounty Bob Strikes Back! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Buck Rogers - Planet of Zoom (USA)">
+    <description>Buck Rogers - Planet of Zoom (USA)</description>
+    <title_clean>Buck Rogers - Planet of Zoom</title_clean>
+    <title_search>buck rogers planet of zoom</title_search>
+    <image ext="png" id="Buck Rogers - Planet of Zoom (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Buck Rogers - Planet of Zoom (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Buck Rogers - Planet of Zoom (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Carol Shaw's River Raid (USA)">
+    <description>Carol Shaw's River Raid (USA)</description>
+    <title_clean>Carol Shaw's River Raid</title_clean>
+    <title_search>carol shaws river raid</title_search>
+    <image ext="png" id="Carol Shaw's River Raid (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Carol Shaw's River Raid (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Carol Shaw's River Raid (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Castle Blast (USA) (Unl)">
+    <description>Castle Blast (USA) (Unl)</description>
+    <title_clean>Castle Blast</title_clean>
+    <title_search>castle blast</title_search>
+    <image ext="png" id="Castle Blast (USA) (Unl)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Castle Blast (USA) (Unl)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Castle Blast (USA) (Unl)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Castle Crisis (USA) (Unl)">
+    <description>Castle Crisis (USA) (Unl)</description>
+    <title_clean>Castle Crisis</title_clean>
+    <title_search>castle crisis</title_search>
+    <image ext="png" id="Castle Crisis (USA) (Unl)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Castle Crisis (USA) (Unl)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Castle Crisis (USA) (Unl)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Centipede (USA)">
+    <description>Centipede (USA)</description>
+    <title_clean>Centipede</title_clean>
+    <title_search>centipede</title_search>
+    <image ext="png" id="Centipede (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Centipede (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Centipede (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Choplifter! (USA)">
+    <description>Choplifter! (USA)</description>
+    <title_clean>Choplifter!</title_clean>
+    <title_search>choplifter</title_search>
+    <image ext="png" id="Choplifter! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Choplifter! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Choplifter! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Congo Bongo (USA)">
+    <description>Congo Bongo (USA)</description>
+    <title_clean>Congo Bongo</title_clean>
+    <title_search>congo bongo</title_search>
+    <image ext="png" id="Congo Bongo (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Congo Bongo (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Congo Bongo (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Countermeasure (USA)">
+    <description>Countermeasure (USA)</description>
+    <title_clean>Countermeasure</title_clean>
+    <title_search>countermeasure</title_search>
+    <image ext="png" id="Countermeasure (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Countermeasure (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Countermeasure (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="David Crane's Pitfall II - Lost Caverns (USA)">
+    <description>David Crane's Pitfall II - Lost Caverns (USA)</description>
+    <title_clean>David Crane's Pitfall II - Lost Caverns</title_clean>
+    <title_search>david cranes pitfall ii lost caverns</title_search>
+    <image ext="png" id="David Crane's Pitfall II - Lost Caverns (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="David Crane's Pitfall II - Lost Caverns (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="David Crane's Pitfall II - Lost Caverns (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Defender (USA)">
+    <description>Defender (USA)</description>
+    <title_clean>Defender</title_clean>
+    <title_search>defender</title_search>
+    <image ext="png" id="Defender (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Defender (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Defender (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dig Dug (USA)">
+    <description>Dig Dug (USA)</description>
+    <title_clean>Dig Dug</title_clean>
+    <title_search>dig dug</title_search>
+    <image ext="png" id="Dig Dug (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dig Dug (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dig Dug (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dreadnaught Factor, The (USA)">
+    <description>Dreadnaught Factor, The (USA)</description>
+    <title_clean>The Dreadnaught Factor</title_clean>
+    <title_search>the dreadnaught factor</title_search>
+    <image ext="png" id="Dreadnaught Factor, The (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dreadnaught Factor, The (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dreadnaught Factor, The (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Final Legacy (USA) (Proto)">
+    <description>Final Legacy (USA) (Proto)</description>
+    <title_clean>Final Legacy</title_clean>
+    <title_search>final legacy</title_search>
+    <image ext="png" id="Final Legacy (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Final Legacy (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Final Legacy (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Frisky Tom (USA) (Proto)">
+    <description>Frisky Tom (USA) (Proto)</description>
+    <title_clean>Frisky Tom</title_clean>
+    <title_search>frisky tom</title_search>
+    <image ext="png" id="Frisky Tom (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Frisky Tom (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Frisky Tom (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Frogger (USA)">
+    <description>Frogger (USA)</description>
+    <title_clean>Frogger</title_clean>
+    <title_search>frogger</title_search>
+    <image ext="png" id="Frogger (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Frogger (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Frogger (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Frogger II - Threeedeep! (USA)">
+    <description>Frogger II - Threeedeep! (USA)</description>
+    <title_clean>Frogger II - Threeedeep!</title_clean>
+    <title_search>frogger ii threeedeep</title_search>
+    <image ext="png" id="Frogger II - Threeedeep! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Frogger II - Threeedeep! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Frogger II - Threeedeep! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Galaxian (USA)">
+    <description>Galaxian (USA)</description>
+    <title_clean>Galaxian</title_clean>
+    <title_search>galaxian</title_search>
+    <image ext="png" id="Galaxian (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Galaxian (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Galaxian (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gorf (USA)">
+    <description>Gorf (USA)</description>
+    <title_clean>Gorf</title_clean>
+    <title_search>gorf</title_search>
+    <image ext="png" id="Gorf (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gorf (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gorf (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gremlins (USA)">
+    <description>Gremlins (USA)</description>
+    <title_clean>Gremlins</title_clean>
+    <title_search>gremlins</title_search>
+    <image ext="png" id="Gremlins (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gremlins (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gremlins (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gyruss (USA)">
+    <description>Gyruss (USA)</description>
+    <title_clean>Gyruss</title_clean>
+    <title_search>gyruss</title_search>
+    <image ext="png" id="Gyruss (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gyruss (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gyruss (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="H.E.R.O. (USA)">
+    <description>H.E.R.O. (USA)</description>
+    <title_clean>H.E.R.O.</title_clean>
+    <title_search>hero</title_search>
+    <image ext="png" id="H.E.R.O. (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="H.E.R.O. (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="H.E.R.O. (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="James Bond 007 (USA)">
+    <description>James Bond 007 (USA)</description>
+    <title_clean>James Bond 007</title_clean>
+    <title_search>james bond 007</title_search>
+    <image ext="png" id="James Bond 007 (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="James Bond 007 (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="James Bond 007 (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Joust (USA)">
+    <description>Joust (USA)</description>
+    <title_clean>Joust</title_clean>
+    <title_search>joust</title_search>
+    <image ext="png" id="Joust (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Joust (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Joust (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jr. Pac-Man (USA) (Proto)">
+    <description>Jr. Pac-Man (USA) (Proto)</description>
+    <title_clean>Jr. Pac-Man</title_clean>
+    <title_search>jr pacman</title_search>
+    <image ext="png" id="Jr. Pac-Man (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jr. Pac-Man (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jr. Pac-Man (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jungle Hunt (USA)">
+    <description>Jungle Hunt (USA)</description>
+    <title_clean>Jungle Hunt</title_clean>
+    <title_search>jungle hunt</title_search>
+    <image ext="png" id="Jungle Hunt (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jungle Hunt (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jungle Hunt (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="K-Razy Shoot-Out (USA)">
+    <description>K-Razy Shoot-Out (USA)</description>
+    <title_clean>K-Razy Shoot-Out</title_clean>
+    <title_search>krazy shootout</title_search>
+    <image ext="png" id="K-Razy Shoot-Out (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="K-Razy Shoot-Out (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="K-Razy Shoot-Out (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kaboom! (USA)">
+    <description>Kaboom! (USA)</description>
+    <title_clean>Kaboom!</title_clean>
+    <title_search>kaboom</title_search>
+    <image ext="png" id="Kaboom! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kaboom! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kaboom! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kangaroo (USA)">
+    <description>Kangaroo (USA)</description>
+    <title_clean>Kangaroo</title_clean>
+    <title_search>kangaroo</title_search>
+    <image ext="png" id="Kangaroo (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kangaroo (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kangaroo (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Keystone Kapers (USA)">
+    <description>Keystone Kapers (USA)</description>
+    <title_clean>Keystone Kapers</title_clean>
+    <title_search>keystone kapers</title_search>
+    <image ext="png" id="Keystone Kapers (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Keystone Kapers (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Keystone Kapers (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Koffi - Yellow Kopter (USA) (Unl)">
+    <description>Koffi - Yellow Kopter (USA) (Unl)</description>
+    <title_clean>Koffi - Yellow Kopter</title_clean>
+    <title_search>koffi yellow kopter</title_search>
+    <image ext="png" id="Koffi - Yellow Kopter (USA) (Unl)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Koffi - Yellow Kopter (USA) (Unl)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Koffi - Yellow Kopter (USA) (Unl)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Last Starfighter, The (USA) (Proto)">
+    <description>Last Starfighter, The (USA) (Proto)</description>
+    <title_clean>The Last Starfighter</title_clean>
+    <title_search>the last starfighter</title_search>
+    <image ext="png" id="Last Starfighter, The (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Last Starfighter, The (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Last Starfighter, The (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Looney Tunes Hotel (USA) (Proto)">
+    <description>Looney Tunes Hotel (USA) (Proto)</description>
+    <title_clean>Looney Tunes Hotel</title_clean>
+    <title_search>looney tunes hotel</title_search>
+    <image ext="png" id="Looney Tunes Hotel (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Looney Tunes Hotel (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Looney Tunes Hotel (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mario Bros. (USA)">
+    <description>Mario Bros. (USA)</description>
+    <title_clean>Mario Bros.</title_clean>
+    <title_search>mario bros</title_search>
+    <image ext="png" id="Mario Bros. (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mario Bros. (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mario Bros. (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Meebzork (USA) (Proto)">
+    <description>Meebzork (USA) (Proto)</description>
+    <title_clean>Meebzork</title_clean>
+    <title_search>meebzork</title_search>
+    <image ext="png" id="Meebzork (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Meebzork (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Meebzork (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="MegaMania (USA)">
+    <description>MegaMania (USA)</description>
+    <title_clean>MegaMania</title_clean>
+    <title_search>megamania</title_search>
+    <image ext="png" id="MegaMania (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="MegaMania (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="MegaMania (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Meteorites (USA)">
+    <description>Meteorites (USA)</description>
+    <title_clean>Meteorites</title_clean>
+    <title_search>meteorites</title_search>
+    <image ext="png" id="Meteorites (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Meteorites (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Meteorites (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Microgammon SB (USA) (Proto)">
+    <description>Microgammon SB (USA) (Proto)</description>
+    <title_clean>Microgammon SB</title_clean>
+    <title_search>microgammon sb</title_search>
+    <image ext="png" id="Microgammon SB (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Microgammon SB (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Microgammon SB (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Millipede (USA) (Proto)">
+    <description>Millipede (USA) (Proto)</description>
+    <title_clean>Millipede</title_clean>
+    <title_search>millipede</title_search>
+    <image ext="png" id="Millipede (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Millipede (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Millipede (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Miner 2049er Starring Bounty Bob (USA)">
+    <description>Miner 2049er Starring Bounty Bob (USA)</description>
+    <title_clean>Miner 2049er Starring Bounty Bob</title_clean>
+    <title_search>miner 2049er starring bounty bob</title_search>
+    <image ext="png" id="Miner 2049er Starring Bounty Bob (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Miner 2049er Starring Bounty Bob (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Miner 2049er Starring Bounty Bob (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Miniature Golf (USA) (Proto)">
+    <description>Miniature Golf (USA) (Proto)</description>
+    <title_clean>Miniature Golf</title_clean>
+    <title_search>miniature golf</title_search>
+    <image ext="png" id="Miniature Golf (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Miniature Golf (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Miniature Golf (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Missile Command (USA)">
+    <description>Missile Command (USA)</description>
+    <title_clean>Missile Command</title_clean>
+    <title_search>missile command</title_search>
+    <image ext="png" id="Missile Command (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Missile Command (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Missile Command (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Montezuma's Revenge featuring Panama Joe (USA)">
+    <description>Montezuma's Revenge featuring Panama Joe (USA)</description>
+    <title_clean>Montezuma's Revenge featuring Panama Joe</title_clean>
+    <title_search>montezumas revenge featuring panama joe</title_search>
+    <image ext="png" id="Montezuma's Revenge featuring Panama Joe (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Montezuma's Revenge featuring Panama Joe (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Montezuma's Revenge featuring Panama Joe (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Moon Patrol (USA)">
+    <description>Moon Patrol (USA)</description>
+    <title_clean>Moon Patrol</title_clean>
+    <title_search>moon patrol</title_search>
+    <image ext="png" id="Moon Patrol (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Moon Patrol (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Moon Patrol (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mountain King (USA)">
+    <description>Mountain King (USA)</description>
+    <title_clean>Mountain King</title_clean>
+    <title_search>mountain king</title_search>
+    <image ext="png" id="Mountain King (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mountain King (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mountain King (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mr. Do!'s Castle (USA)">
+    <description>Mr. Do!'s Castle (USA)</description>
+    <title_clean>Mr. Do!'s Castle</title_clean>
+    <title_search>mr dos castle</title_search>
+    <image ext="png" id="Mr. Do!'s Castle (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mr. Do!'s Castle (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mr. Do!'s Castle (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ms. Pac-Man (USA)">
+    <description>Ms. Pac-Man (USA)</description>
+    <title_clean>Ms. Pac-Man</title_clean>
+    <title_search>ms pacman</title_search>
+    <image ext="png" id="Ms. Pac-Man (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ms. Pac-Man (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ms. Pac-Man (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pac-Man (USA)">
+    <description>Pac-Man (USA)</description>
+    <title_clean>Pac-Man</title_clean>
+    <title_search>pacman</title_search>
+    <image ext="png" id="Pac-Man (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pac-Man (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pac-Man (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pengo (USA)">
+    <description>Pengo (USA)</description>
+    <title_clean>Pengo</title_clean>
+    <title_search>pengo</title_search>
+    <image ext="png" id="Pengo (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pengo (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pengo (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pitfall! (USA)">
+    <description>Pitfall! (USA)</description>
+    <title_clean>Pitfall!</title_clean>
+    <title_search>pitfall</title_search>
+    <image ext="png" id="Pitfall! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pitfall! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pitfall! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pole Position (USA)">
+    <description>Pole Position (USA)</description>
+    <title_clean>Pole Position</title_clean>
+    <title_search>pole position</title_search>
+    <image ext="png" id="Pole Position (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pole Position (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pole Position (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Popeye (USA)">
+    <description>Popeye (USA)</description>
+    <title_clean>Popeye</title_clean>
+    <title_search>popeye</title_search>
+    <image ext="png" id="Popeye (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Popeye (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Popeye (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Q-bert (USA)">
+    <description>Q-bert (USA)</description>
+    <title_clean>Q-bert</title_clean>
+    <title_search>qbert</title_search>
+    <image ext="png" id="Q-bert (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Q-bert (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Q-bert (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="QIX (USA)">
+    <description>QIX (USA)</description>
+    <title_clean>QIX</title_clean>
+    <title_search>qix</title_search>
+    <image ext="png" id="QIX (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="QIX (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="QIX (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Quest for Quintana Roo (USA)">
+    <description>Quest for Quintana Roo (USA)</description>
+    <title_clean>Quest for Quintana Roo</title_clean>
+    <title_search>quest for quintana roo</title_search>
+    <image ext="png" id="Quest for Quintana Roo (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Quest for Quintana Roo (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Quest for Quintana Roo (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="RealSports Baseball (USA)">
+    <description>RealSports Baseball (USA)</description>
+    <title_clean>RealSports Baseball</title_clean>
+    <title_search>realsports baseball</title_search>
+    <image ext="png" id="RealSports Baseball (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="RealSports Baseball (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="RealSports Baseball (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="RealSports Basketball (USA)">
+    <description>RealSports Basketball (USA)</description>
+    <title_clean>RealSports Basketball</title_clean>
+    <title_search>realsports basketball</title_search>
+    <image ext="png" id="RealSports Basketball (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="RealSports Basketball (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="RealSports Basketball (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="RealSports Basketball (USA) (82-11-05) (Proto)">
+    <description>RealSports Basketball (USA) (82-11-05) (Proto)</description>
+    <title_clean>RealSports Basketball</title_clean>
+    <title_search>realsports basketball</title_search>
+    <image ext="png" id="RealSports Basketball (USA) (82-11-05) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="RealSports Basketball (USA) (82-11-05) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="RealSports Basketball (USA) (82-11-05) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="RealSports Basketball (USA) (83-10-31) (Proto)">
+    <description>RealSports Basketball (USA) (83-10-31) (Proto)</description>
+    <title_clean>RealSports Basketball</title_clean>
+    <title_search>realsports basketball</title_search>
+    <image ext="png" id="RealSports Basketball (USA) (83-10-31) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="RealSports Basketball (USA) (83-10-31) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="RealSports Basketball (USA) (83-10-31) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="RealSports Football (USA)">
+    <description>RealSports Football (USA)</description>
+    <title_clean>RealSports Football</title_clean>
+    <title_search>realsports football</title_search>
+    <image ext="png" id="RealSports Football (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="RealSports Football (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="RealSports Football (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="RealSports Soccer (USA)">
+    <description>RealSports Soccer (USA)</description>
+    <title_clean>RealSports Soccer</title_clean>
+    <title_search>realsports soccer</title_search>
+    <image ext="png" id="RealSports Soccer (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="RealSports Soccer (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="RealSports Soccer (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="RealSports Tennis (USA)">
+    <description>RealSports Tennis (USA)</description>
+    <title_clean>RealSports Tennis</title_clean>
+    <title_search>realsports tennis</title_search>
+    <image ext="png" id="RealSports Tennis (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="RealSports Tennis (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="RealSports Tennis (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rescue on Fractalus! (USA)">
+    <description>Rescue on Fractalus! (USA)</description>
+    <title_clean>Rescue on Fractalus!</title_clean>
+    <title_search>rescue on fractalus</title_search>
+    <image ext="png" id="Rescue on Fractalus! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rescue on Fractalus! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rescue on Fractalus! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Road Runner (USA) (Proto)">
+    <description>Road Runner (USA) (Proto)</description>
+    <title_clean>Road Runner</title_clean>
+    <title_search>road runner</title_search>
+    <image ext="png" id="Road Runner (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Road Runner (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Road Runner (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Robotron 2084 (USA)">
+    <description>Robotron 2084 (USA)</description>
+    <title_clean>Robotron 2084</title_clean>
+    <title_search>robotron 2084</title_search>
+    <image ext="png" id="Robotron 2084 (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Robotron 2084 (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Robotron 2084 (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Dungeon (USA)">
+    <description>Space Dungeon (USA)</description>
+    <title_clean>Space Dungeon</title_clean>
+    <title_search>space dungeon</title_search>
+    <image ext="png" id="Space Dungeon (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Dungeon (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Dungeon (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Invaders (USA)">
+    <description>Space Invaders (USA)</description>
+    <title_clean>Space Invaders</title_clean>
+    <title_search>space invaders</title_search>
+    <image ext="png" id="Space Invaders (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Invaders (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Invaders (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Shuttle - A Journey Into Space (USA)">
+    <description>Space Shuttle - A Journey Into Space (USA)</description>
+    <title_clean>Space Shuttle - A Journey Into Space</title_clean>
+    <title_search>space shuttle a journey into space</title_search>
+    <image ext="png" id="Space Shuttle - A Journey Into Space (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Shuttle - A Journey Into Space (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Shuttle - A Journey Into Space (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Spitfire (USA) (Proto)">
+    <description>Spitfire (USA) (Proto)</description>
+    <title_clean>Spitfire</title_clean>
+    <title_search>spitfire</title_search>
+    <image ext="png" id="Spitfire (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Spitfire (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Spitfire (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sport Goofy (USA) (Proto)">
+    <description>Sport Goofy (USA) (Proto)</description>
+    <title_clean>Sport Goofy</title_clean>
+    <title_search>sport goofy</title_search>
+    <image ext="png" id="Sport Goofy (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sport Goofy (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sport Goofy (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Raiders (USA)">
+    <description>Star Raiders (USA)</description>
+    <title_clean>Star Raiders</title_clean>
+    <title_search>star raiders</title_search>
+    <image ext="png" id="Star Raiders (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Raiders (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Raiders (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Trek - Strategic Operations Simulator (USA)">
+    <description>Star Trek - Strategic Operations Simulator (USA)</description>
+    <title_clean>Star Trek - Strategic Operations Simulator</title_clean>
+    <title_search>star trek strategic operations simulator</title_search>
+    <image ext="png" id="Star Trek - Strategic Operations Simulator (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Trek - Strategic Operations Simulator (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Trek - Strategic Operations Simulator (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Wars - Return of the Jedi - Death Star Battle (USA)">
+    <description>Star Wars - Return of the Jedi - Death Star Battle (USA)</description>
+    <title_clean>Star Wars - Return of the Jedi - Death Star Battle</title_clean>
+    <title_search>star wars return of the jedi death star battle</title_search>
+    <image ext="png" id="Star Wars - Return of the Jedi - Death Star Battle (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Wars - Return of the Jedi - Death Star Battle (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Wars - Return of the Jedi - Death Star Battle (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Wars - The Arcade Game (USA)">
+    <description>Star Wars - The Arcade Game (USA)</description>
+    <title_clean>Star Wars - The Arcade Game</title_clean>
+    <title_search>star wars the arcade game</title_search>
+    <image ext="png" id="Star Wars - The Arcade Game (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Wars - The Arcade Game (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Wars - The Arcade Game (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Stargate (USA) (Proto)">
+    <description>Stargate (USA) (Proto)</description>
+    <title_clean>Stargate</title_clean>
+    <title_search>stargate</title_search>
+    <image ext="png" id="Stargate (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Stargate (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Stargate (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Breakout (USA)">
+    <description>Super Breakout (USA)</description>
+    <title_clean>Super Breakout</title_clean>
+    <title_search>super breakout</title_search>
+    <image ext="png" id="Super Breakout (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Breakout (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Breakout (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Cobra (USA)">
+    <description>Super Cobra (USA)</description>
+    <title_clean>Super Cobra</title_clean>
+    <title_search>super cobra</title_search>
+    <image ext="png" id="Super Cobra (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Cobra (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Cobra (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Pac-Man (USA) (Proto)">
+    <description>Super Pac-Man (USA) (Proto)</description>
+    <title_clean>Super Pac-Man</title_clean>
+    <title_search>super pacman</title_search>
+    <image ext="png" id="Super Pac-Man (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Pac-Man (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Pac-Man (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tempest (USA) (Proto)">
+    <description>Tempest (USA) (Proto)</description>
+    <title_clean>Tempest</title_clean>
+    <title_search>tempest</title_search>
+    <image ext="png" id="Tempest (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tempest (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tempest (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Track and Field (USA) (Proto)">
+    <description>Track and Field (USA) (Proto)</description>
+    <title_clean>Track and Field</title_clean>
+    <title_search>track and field</title_search>
+    <image ext="png" id="Track and Field (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Track and Field (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Track and Field (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Vanguard (USA)">
+    <description>Vanguard (USA)</description>
+    <title_clean>Vanguard</title_clean>
+    <title_search>vanguard</title_search>
+    <image ext="png" id="Vanguard (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Vanguard (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Vanguard (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wizard of Wor (USA)">
+    <description>Wizard of Wor (USA)</description>
+    <title_clean>Wizard of Wor</title_clean>
+    <title_search>wizard of wor</title_search>
+    <image ext="png" id="Wizard of Wor (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wizard of Wor (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wizard of Wor (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Xari Arena (USA) (Proto)">
+    <description>Xari Arena (USA) (Proto)</description>
+    <title_clean>Xari Arena</title_clean>
+    <title_search>xari arena</title_search>
+    <image ext="png" id="Xari Arena (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Xari Arena (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Xari Arena (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Xevious (USA) (Proto)">
+    <description>Xevious (USA) (Proto)</description>
+    <title_clean>Xevious</title_clean>
+    <title_search>xevious</title_search>
+    <image ext="png" id="Xevious (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Xevious (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Xevious (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Yellow Submarine (USA) (Demo)">
+    <description>Yellow Submarine (USA) (Demo)</description>
+    <title_clean>Yellow Submarine</title_clean>
+    <title_search>yellow submarine</title_search>
+    <image ext="png" id="Yellow Submarine (USA) (Demo)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Yellow Submarine (USA) (Demo)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Yellow Submarine (USA) (Demo)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zaxxon (USA)">
+    <description>Zaxxon (USA)</description>
+    <title_clean>Zaxxon</title_clean>
+    <title_search>zaxxon</title_search>
+    <image ext="png" id="Zaxxon (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Zaxxon (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zaxxon (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zenji (USA)">
+    <description>Zenji (USA)</description>
+    <title_clean>Zenji</title_clean>
+    <title_search>zenji</title_search>
+    <image ext="png" id="Zenji (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Zenji (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zenji (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zone Ranger (USA)">
+    <description>Zone Ranger (USA)</description>
+    <title_clean>Zone Ranger</title_clean>
+    <title_search>zone ranger</title_search>
+    <image ext="png" id="Zone Ranger (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Zone Ranger (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zone Ranger (USA)" source="https://github.com/libretro-thumbnails/Atari_-_5200/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

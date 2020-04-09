@@ -1,0 +1,470 @@
+<datafile>
+  <game name="1st Grade (USA)">
+    <description>1st Grade (USA)</description>
+    <title_clean>1st Grade</title_clean>
+    <title_search>1st grade</title_search>
+  </game>
+  <game name="A la conquete des nombres (France)">
+    <description>A la conquete des nombres (France)</description>
+    <title_clean>A la conquete des nombres</title_clean>
+    <title_search>a la conquete des nombres</title_search>
+  </game>
+  <game name="Adibou - A la recherche de Robitoc (France)">
+    <description>Adibou - A la recherche de Robitoc (France)</description>
+    <title_clean>Adibou - A la recherche de Robitoc</title_clean>
+    <title_search>adibou a la recherche de robitoc</title_search>
+  </game>
+  <game name="Animal Genius (USA)">
+    <description>Animal Genius (USA)</description>
+    <title_clean>Animal Genius</title_clean>
+    <title_search>animal genius</title_search>
+  </game>
+  <game name="Backyardigans, The (USA)">
+    <description>Backyardigans, The (USA)</description>
+    <title_clean>The Backyardigans</title_clean>
+    <title_search>the backyardigans</title_search>
+  </game>
+  <game name="Batman, The - El poder de los numeros (Spain)">
+    <description>Batman, The - El poder de los numeros (Spain)</description>
+    <title_clean>The Batman - El poder de los numeros</title_clean>
+    <title_search>the batman el poder de los numeros</title_search>
+  </game>
+  <game name="Batman, The - Multipliziere, dividiere und regiere (Germany)">
+    <description>Batman, The - Multipliziere, dividiere und regiere (Germany)</description>
+    <title_clean>The Batman - Multipliziere, dividiere und regiere</title_clean>
+    <title_search>the batman multipliziere dividiere und regiere</title_search>
+  </game>
+  <game name="Batman, The - Strength in Numbers (USA)">
+    <description>Batman, The - Strength in Numbers (USA)</description>
+    <title_clean>The Batman - Strength in Numbers</title_clean>
+    <title_search>the batman strength in numbers</title_search>
+  </game>
+  <game name="Bob l'eponge - Heros d'un jour (France)">
+    <description>Bob l'eponge - Heros d'un jour (France)</description>
+    <title_clean>Bob l'eponge - Heros d'un jour</title_clean>
+    <title_search>bob leponge heros dun jour</title_search>
+  </game>
+  <game name="Cars (France)">
+    <description>Cars (France)</description>
+    <title_clean>Cars</title_clean>
+    <title_search>cars</title_search>
+  </game>
+  <game name="Cars (Germany)">
+    <description>Cars (Germany)</description>
+    <title_clean>Cars</title_clean>
+    <title_search>cars</title_search>
+  </game>
+  <game name="Cars (Spain)">
+    <description>Cars (Spain)</description>
+    <title_clean>Cars</title_clean>
+    <title_search>cars</title_search>
+  </game>
+  <game name="Cars (USA)">
+    <description>Cars (USA)</description>
+    <title_clean>Cars</title_clean>
+    <title_search>cars</title_search>
+    <image ext="png" id="Cars (USA)" source="https://github.com/libretro-thumbnails/LeapFrog_-_Leapster_Learning_Game_System/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cars (USA)" source="https://github.com/libretro-thumbnails/LeapFrog_-_Leapster_Learning_Game_System/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cars (USA)" source="https://github.com/libretro-thumbnails/LeapFrog_-_Leapster_Learning_Game_System/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cars - Supercharged (USA)">
+    <description>Cars - Supercharged (USA)</description>
+    <title_clean>Cars - Supercharged</title_clean>
+    <title_search>cars supercharged</title_search>
+  </game>
+  <game name="Cars 2 (USA)">
+    <description>Cars 2 (USA)</description>
+    <title_clean>Cars 2</title_clean>
+    <title_search>cars 2</title_search>
+  </game>
+  <game name="Clifford - The Big Red Dog - Reading (USA)">
+    <description>Clifford - The Big Red Dog - Reading (USA)</description>
+    <title_clean>Clifford - The Big Red Dog - Reading</title_clean>
+    <title_search>clifford the big red dog reading</title_search>
+  </game>
+  <game name="Cosmic Math (USA)">
+    <description>Cosmic Math (USA)</description>
+    <title_clean>Cosmic Math</title_clean>
+    <title_search>cosmic math</title_search>
+  </game>
+  <game name="Creature Create (USA)">
+    <description>Creature Create (USA)</description>
+    <title_clean>Creature Create</title_clean>
+    <title_search>creature create</title_search>
+  </game>
+  <game name="Demo - Herbst 2004 II (Germany)">
+    <description>Demo - Herbst 2004 II (Germany)</description>
+    <title_clean>Demo - Herbst 2004 II</title_clean>
+    <title_search>demo herbst 2004 ii</title_search>
+  </game>
+  <game name="Digging for Dinosaurs (USA)">
+    <description>Digging for Dinosaurs (USA)</description>
+    <title_clean>Digging for Dinosaurs</title_clean>
+    <title_search>digging for dinosaurs</title_search>
+  </game>
+  <game name="Dis pourquoi Kirikou (France)">
+    <description>Dis pourquoi Kirikou (France)</description>
+    <title_clean>Dis pourquoi Kirikou</title_clean>
+    <title_search>dis pourquoi kirikou</title_search>
+  </game>
+  <game name="Disney Fairies (Spain)">
+    <description>Disney Fairies (Spain)</description>
+    <title_clean>Disney Fairies</title_clean>
+    <title_search>disney fairies</title_search>
+  </game>
+  <game name="Disney Princesa - La magia de aprender (Spain)">
+    <description>Disney Princesa - La magia de aprender (Spain)</description>
+    <title_clean>Disney Princesa - La magia de aprender</title_clean>
+    <title_search>disney princesa la magia de aprender</title_search>
+  </game>
+  <game name="Disney Princess (USA)">
+    <description>Disney Princess (USA)</description>
+    <title_clean>Disney Princess</title_clean>
+    <title_search>disney princess</title_search>
+  </game>
+  <game name="Disney Princess - Worlds of Enchantment (USA)">
+    <description>Disney Princess - Worlds of Enchantment (USA)</description>
+    <title_clean>Disney Princess - Worlds of Enchantment</title_clean>
+    <title_search>disney princess worlds of enchantment</title_search>
+  </game>
+  <game name="Disney Princesse - La magie d'apprendre (France)">
+    <description>Disney Princesse - La magie d'apprendre (France)</description>
+    <title_clean>Disney Princesse - La magie d'apprendre</title_clean>
+    <title_search>disney princesse la magie dapprendre</title_search>
+  </game>
+  <game name="Disney Prinzessinnen - Zauberhaftes Lernen (Germany)">
+    <description>Disney Prinzessinnen - Zauberhaftes Lernen (Germany)</description>
+    <title_clean>Disney Prinzessinnen - Zauberhaftes Lernen</title_clean>
+    <title_search>disney prinzessinnen zauberhaftes lernen</title_search>
+  </game>
+  <game name="Dora - Retter der Wildnis (Germany)">
+    <description>Dora - Retter der Wildnis (Germany)</description>
+    <title_clean>Dora - Retter der Wildnis</title_clean>
+    <title_search>dora retter der wildnis</title_search>
+  </game>
+  <game name="Dora L'exploratrice - Le pont casse (France)">
+    <description>Dora L'exploratrice - Le pont casse (France)</description>
+    <title_clean>Dora L'exploratrice - Le pont casse</title_clean>
+    <title_search>dora lexploratrice le pont casse</title_search>
+  </game>
+  <game name="Dora l'exploratrice - Au secours des animaux (France)">
+    <description>Dora l'exploratrice - Au secours des animaux (France)</description>
+    <title_clean>Dora l'exploratrice - Au secours des animaux</title_clean>
+    <title_search>dora lexploratrice au secours des animaux</title_search>
+  </game>
+  <game name="Dora the Explorer - Camping Adventure (USA)">
+    <description>Dora the Explorer - Camping Adventure (USA)</description>
+    <title_clean>Dora the Explorer - Camping Adventure</title_clean>
+    <title_search>dora the explorer camping adventure</title_search>
+  </game>
+  <game name="Dora the Explorer - Pinata Party! (USA)">
+    <description>Dora the Explorer - Pinata Party! (USA)</description>
+    <title_clean>Dora the Explorer - Pinata Party!</title_clean>
+    <title_search>dora the explorer pinata party</title_search>
+  </game>
+  <game name="Dora the Explorer - Wildlife Rescue (USA) (L-MAX)">
+    <description>Dora the Explorer - Wildlife Rescue (USA) (L-MAX)</description>
+    <title_clean>Dora the Explorer - Wildlife Rescue</title_clean>
+    <title_search>dora the explorer wildlife rescue</title_search>
+  </game>
+  <game name="Findet Nemo (Germany)">
+    <description>Findet Nemo (Germany)</description>
+    <title_clean>Findet Nemo</title_clean>
+    <title_search>findet nemo</title_search>
+  </game>
+  <game name="Finding Nemo (USA)">
+    <description>Finding Nemo (USA)</description>
+    <title_clean>Finding Nemo</title_clean>
+    <title_search>finding nemo</title_search>
+  </game>
+  <game name="Foster's Home for Imaginary Friends (USA)">
+    <description>Foster's Home for Imaginary Friends (USA)</description>
+    <title_clean>Foster's Home for Imaginary Friends</title_clean>
+    <title_search>fosters home for imaginary friends</title_search>
+  </game>
+  <game name="Get Puzzled! (USA)">
+    <description>Get Puzzled! (USA)</description>
+    <title_clean>Get Puzzled!</title_clean>
+    <title_search>get puzzled</title_search>
+  </game>
+  <game name="Go Diego Go! - Animal Rescuer (USA)">
+    <description>Go Diego Go! - Animal Rescuer (USA)</description>
+    <title_clean>Go Diego Go! - Animal Rescuer</title_clean>
+    <title_search>go diego go animal rescuer</title_search>
+  </game>
+  <game name="Grundschule 1 (Germany)">
+    <description>Grundschule 1 (Germany)</description>
+    <title_clean>Grundschule 1</title_clean>
+    <title_search>grundschule 1</title_search>
+  </game>
+  <game name="Grundschule 2 - Musik in Gefahr (Germany)">
+    <description>Grundschule 2 - Musik in Gefahr (Germany)</description>
+    <title_clean>Grundschule 2 - Musik in Gefahr</title_clean>
+    <title_search>grundschule 2 musik in gefahr</title_search>
+  </game>
+  <game name="I Spy - Challenger (USA)">
+    <description>I Spy - Challenger (USA)</description>
+    <title_clean>I Spy - Challenger</title_clean>
+    <title_search>i spy challenger</title_search>
+  </game>
+  <game name="I Spy - Treasure Hunt (USA)">
+    <description>I Spy - Treasure Hunt (USA)</description>
+    <title_clean>I Spy - Treasure Hunt</title_clean>
+    <title_search>i spy treasure hunt</title_search>
+  </game>
+  <game name="Kindergarten (USA)">
+    <description>Kindergarten (USA)</description>
+    <title_clean>Kindergarten</title_clean>
+    <title_search>kindergarten</title_search>
+  </game>
+  <game name="La riviere des lapins + L'atelier de peinture (France)">
+    <description>La riviere des lapins + L'atelier de peinture (France)</description>
+    <title_clean>La riviere des lapins + L'atelier de peinture</title_clean>
+    <title_search>la riviere des lapins latelier de peinture</title_search>
+  </game>
+  <game name="Lapin Malin - Danse avec les mots (France)">
+    <description>Lapin Malin - Danse avec les mots (France)</description>
+    <title_clean>Lapin Malin - Danse avec les mots</title_clean>
+    <title_search>lapin malin danse avec les mots</title_search>
+  </game>
+  <game name="Learning with Leap (USA)">
+    <description>Learning with Leap (USA)</description>
+    <title_clean>Learning with Leap</title_clean>
+    <title_search>learning with leap</title_search>
+  </game>
+  <game name="Lernen mit Leap (Germany)">
+    <description>Lernen mit Leap (Germany)</description>
+    <title_clean>Lernen mit Leap</title_clean>
+    <title_search>lernen mit leap</title_search>
+  </game>
+  <game name="Letterpillar (USA) (Rev 1)">
+    <description>Letterpillar (USA) (Rev 1)</description>
+    <title_clean>Letterpillar</title_clean>
+    <title_search>letterpillar</title_search>
+  </game>
+  <game name="Letters on the Loose (USA) (L-MAX)">
+    <description>Letters on the Loose (USA) (L-MAX)</description>
+    <title_clean>Letters on the Loose</title_clean>
+    <title_search>letters on the loose</title_search>
+  </game>
+  <game name="Madagascar (USA) (L-MAX)">
+    <description>Madagascar (USA) (L-MAX)</description>
+    <title_clean>Madagascar</title_clean>
+    <title_search>madagascar</title_search>
+  </game>
+  <game name="Mit Bruno Bleistift lernst du Malen _ Schreiben (Germany)">
+    <description>Mit Bruno Bleistift lernst du Malen _ Schreiben (Germany)</description>
+    <title_clean>Mit Bruno Bleistift lernst du Malen _ Schreiben</title_clean>
+    <title_search>mit bruno bleistift lernst du malen schreiben</title_search>
+  </game>
+  <game name="Mr. Pencil's Learn to Draw _ Write (USA)">
+    <description>Mr. Pencil's Learn to Draw _ Write (USA)</description>
+    <title_clean>Mr. Pencil's Learn to Draw _ Write</title_clean>
+    <title_search>mr pencils learn to draw write</title_search>
+  </game>
+  <game name="My Amusement Park (USA)">
+    <description>My Amusement Park (USA)</description>
+    <title_clean>My Amusement Park</title_clean>
+    <title_search>my amusement park</title_search>
+  </game>
+  <game name="NASCAR (USA) (L-MAX)">
+    <description>NASCAR (USA) (L-MAX)</description>
+    <title_clean>NASCAR</title_clean>
+    <title_search>nascar</title_search>
+  </game>
+  <game name="Number Raiders (USA)">
+    <description>Number Raiders (USA)</description>
+    <title_clean>Number Raiders</title_clean>
+    <title_search>number raiders</title_search>
+  </game>
+  <game name="Numbers on the Run (USA) (L-MAX)">
+    <description>Numbers on the Run (USA) (L-MAX)</description>
+    <title_clean>Numbers on the Run</title_clean>
+    <title_search>numbers on the run</title_search>
+  </game>
+  <game name="Oui-Oui - Aventures au Pays des Jouets (France)">
+    <description>Oui-Oui - Aventures au Pays des Jouets (France)</description>
+    <title_clean>Oui-Oui - Aventures au Pays des Jouets</title_clean>
+    <title_search>ouioui aventures au pays des jouets</title_search>
+  </game>
+  <game name="OutWit! (USA)">
+    <description>OutWit! (USA)</description>
+    <title_clean>OutWit!</title_clean>
+    <title_search>outwit</title_search>
+  </game>
+  <game name="Perrito Club - Adopta un nuevo amiguito y aprende! (Spain)">
+    <description>Perrito Club - Adopta un nuevo amiguito y aprende! (Spain)</description>
+    <title_clean>Perrito Club - Adopta un nuevo amiguito y aprende!</title_clean>
+    <title_search>perrito club adopta un nuevo amiguito y aprende</title_search>
+  </game>
+  <game name="Pet Pals (USA)">
+    <description>Pet Pals (USA)</description>
+    <title_clean>Pet Pals</title_clean>
+    <title_search>pet pals</title_search>
+  </game>
+  <game name="Ratatouille (France)">
+    <description>Ratatouille (France)</description>
+    <title_clean>Ratatouille</title_clean>
+    <title_search>ratatouille</title_search>
+  </game>
+  <game name="Ratatouille (Germany)">
+    <description>Ratatouille (Germany)</description>
+    <title_clean>Ratatouille</title_clean>
+    <title_search>ratatouille</title_search>
+  </game>
+  <game name="Ratatouille (USA)">
+    <description>Ratatouille (USA)</description>
+    <title_clean>Ratatouille</title_clean>
+    <title_search>ratatouille</title_search>
+  </game>
+  <game name="Reading with Phonics - Mole's Huge Nose (USA)">
+    <description>Reading with Phonics - Mole's Huge Nose (USA)</description>
+    <title_clean>Reading with Phonics - Mole's Huge Nose</title_clean>
+    <title_search>reading with phonics moles huge nose</title_search>
+  </game>
+  <game name="Scooby-Doo! (USA)">
+    <description>Scooby-Doo! (USA)</description>
+    <title_clean>Scooby-Doo!</title_clean>
+    <title_search>scoobydoo</title_search>
+  </game>
+  <game name="Scooby-Doo! - Et les nombres fous ! (France)">
+    <description>Scooby-Doo! - Et les nombres fous ! (France)</description>
+    <title_clean>Scooby-Doo! - Et les nombres fous !</title_clean>
+    <title_search>scoobydoo et les nombres fous </title_search>
+  </game>
+  <game name="Scooby-Doo! - Spooky Snacks! (USA)">
+    <description>Scooby-Doo! - Spooky Snacks! (USA)</description>
+    <title_clean>Scooby-Doo! - Spooky Snacks!</title_clean>
+    <title_search>scoobydoo spooky snacks</title_search>
+  </game>
+  <game name="Sonic X (USA)">
+    <description>Sonic X (USA)</description>
+    <title_clean>Sonic X</title_clean>
+    <title_search>sonic x</title_search>
+  </game>
+  <game name="Spider-Man - L'affaire des mots mysteres (France)">
+    <description>Spider-Man - L'affaire des mots mysteres (France)</description>
+    <title_clean>Spider-Man - L'affaire des mots mysteres</title_clean>
+    <title_search>spiderman laffaire des mots mysteres</title_search>
+  </game>
+  <game name="Spider-Man - Schachmatt den Schildersaboteuren! (Germany)">
+    <description>Spider-Man - Schachmatt den Schildersaboteuren! (Germany)</description>
+    <title_clean>Spider-Man - Schachmatt den Schildersaboteuren!</title_clean>
+    <title_search>spiderman schachmatt den schildersaboteuren</title_search>
+  </game>
+  <game name="Spider-Man - The Case of the Sinister Speller (USA)">
+    <description>Spider-Man - The Case of the Sinister Speller (USA)</description>
+    <title_clean>Spider-Man - The Case of the Sinister Speller</title_clean>
+    <title_search>spiderman the case of the sinister speller</title_search>
+  </game>
+  <game name="Spider-Man - The Case of the Sinister Speller (USA) (L-MAX)">
+    <description>Spider-Man - The Case of the Sinister Speller (USA) (L-MAX)</description>
+    <title_clean>Spider-Man - The Case of the Sinister Speller</title_clean>
+    <title_search>spiderman the case of the sinister speller</title_search>
+  </game>
+  <game name="SpongeBob SquarePants - Through the Wormhole (USA)">
+    <description>SpongeBob SquarePants - Through the Wormhole (USA)</description>
+    <title_clean>SpongeBob SquarePants - Through the Wormhole</title_clean>
+    <title_search>spongebob squarepants through the wormhole</title_search>
+  </game>
+  <game name="Spongebob Schwammkopf - Zeitreise durch das Wurmloch (Germany)">
+    <description>Spongebob Schwammkopf - Zeitreise durch das Wurmloch (Germany)</description>
+    <title_clean>Spongebob Schwammkopf - Zeitreise durch das Wurmloch</title_clean>
+    <title_search>spongebob schwammkopf zeitreise durch das wurmloch</title_search>
+  </game>
+  <game name="Spongebob Schwammkopf hat alles im Griff (Germany)">
+    <description>Spongebob Schwammkopf hat alles im Griff (Germany)</description>
+    <title_clean>Spongebob Schwammkopf hat alles im Griff</title_clean>
+    <title_search>spongebob schwammkopf hat alles im griff</title_search>
+  </game>
+  <game name="Spongebob Squarepants - Saves the Day (USA)">
+    <description>Spongebob Squarepants - Saves the Day (USA)</description>
+    <title_clean>Spongebob Squarepants - Saves the Day</title_clean>
+    <title_search>spongebob squarepants saves the day</title_search>
+  </game>
+  <game name="Spongebob Squarepants - Saves the Day (USA) (L-MAX)">
+    <description>Spongebob Squarepants - Saves the Day (USA) (L-MAX)</description>
+    <title_clean>Spongebob Squarepants - Saves the Day</title_clean>
+    <title_search>spongebob squarepants saves the day</title_search>
+  </game>
+  <game name="Star Wars - Jedi Math (USA)">
+    <description>Star Wars - Jedi Math (USA)</description>
+    <title_clean>Star Wars - Jedi Math</title_clean>
+    <title_search>star wars jedi math</title_search>
+  </game>
+  <game name="Star Wars - Jedi Reading (USA)">
+    <description>Star Wars - Jedi Reading (USA)</description>
+    <title_clean>Star Wars - Jedi Reading</title_clean>
+    <title_search>star wars jedi reading</title_search>
+  </game>
+  <game name="Star Wars - Matematicas Jedi (Spain)">
+    <description>Star Wars - Matematicas Jedi (Spain)</description>
+    <title_clean>Star Wars - Matematicas Jedi</title_clean>
+    <title_search>star wars matematicas jedi</title_search>
+  </game>
+  <game name="Talking Words Factory (USA)">
+    <description>Talking Words Factory (USA)</description>
+    <title_clean>Talking Words Factory</title_clean>
+    <title_search>talking words factory</title_search>
+  </game>
+  <game name="Thomas _ Friends - Calling All Engines! (USA)">
+    <description>Thomas _ Friends - Calling All Engines! (USA)</description>
+    <title_clean>Thomas _ Friends - Calling All Engines!</title_clean>
+    <title_search>thomas friends calling all engines</title_search>
+  </game>
+  <game name="Toy Story 3 (USA)">
+    <description>Toy Story 3 (USA)</description>
+    <title_clean>Toy Story 3</title_clean>
+    <title_search>toy story 3</title_search>
+  </game>
+  <game name="Up (Spain)">
+    <description>Up (Spain)</description>
+    <title_clean>Up</title_clean>
+    <title_search>up</title_search>
+  </game>
+  <game name="Up (USA)">
+    <description>Up (USA)</description>
+    <title_clean>Up</title_clean>
+    <title_search>up</title_search>
+  </game>
+  <game name="Vorschule (Germany)">
+    <description>Vorschule (Germany)</description>
+    <title_clean>Vorschule</title_clean>
+    <title_search>vorschule</title_search>
+  </game>
+  <game name="Wall-E (Germany)">
+    <description>Wall-E (Germany)</description>
+    <title_clean>Wall-E</title_clean>
+    <title_search>walle</title_search>
+  </game>
+  <game name="Wall-E (Spain)">
+    <description>Wall-E (Spain)</description>
+    <title_clean>Wall-E</title_clean>
+    <title_search>walle</title_search>
+  </game>
+  <game name="Wall-E (USA)">
+    <description>Wall-E (USA)</description>
+    <title_clean>Wall-E</title_clean>
+    <title_search>walle</title_search>
+  </game>
+  <game name="Weltraum-Mathe (Germany)">
+    <description>Weltraum-Mathe (Germany)</description>
+    <title_clean>Weltraum-Mathe</title_clean>
+    <title_search>weltraummathe</title_search>
+  </game>
+  <game name="Woerterjaeger (Germany)">
+    <description>Woerterjaeger (Germany)</description>
+    <title_clean>Woerterjaeger</title_clean>
+    <title_search>woerterjaeger</title_search>
+  </game>
+  <game name="Wolverine and the X-Men (USA)">
+    <description>Wolverine and the X-Men (USA)</description>
+    <title_clean>Wolverine and the X-Men</title_clean>
+    <title_search>wolverine and the xmen</title_search>
+  </game>
+  <game name="Zahlenjaeger (Germany)">
+    <description>Zahlenjaeger (Germany)</description>
+    <title_clean>Zahlenjaeger</title_clean>
+    <title_search>zahlenjaeger</title_search>
+  </game>
+</datafile>

@@ -1,0 +1,10 @@
+<datafile>
+  <game name="Dinothawr (En)">
+    <description>Dinothawr (En)</description>
+    <title_clean>Dinothawr</title_clean>
+    <title_search>dinothawr</title_search>
+    <image ext="png" id="Dinothawr (En)" source="https://github.com/libretro-thumbnails/Dinothawr/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dinothawr (En)" source="https://github.com/libretro-thumbnails/Dinothawr/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dinothawr (En)" source="https://github.com/libretro-thumbnails/Dinothawr/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

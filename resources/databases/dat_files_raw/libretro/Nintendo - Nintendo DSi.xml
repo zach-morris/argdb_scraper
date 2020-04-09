@@ -1,0 +1,77 @@
+<datafile>
+  <game name="Face Training (Europe) (En,Fr,De,Es,It)">
+    <description>Face Training (Europe) (En,Fr,De,Es,It)</description>
+    <title_clean>Face Training</title_clean>
+    <title_search>face training</title_search>
+    <image ext="png" id="Face Training (Europe) (En,Fr,De,Es,It)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DSi/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Face Training (Europe) (En,Fr,De,Es,It)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DSi/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Face Training (Europe) (En,Fr,De,Es,It)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DSi/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Foto Showdown (USA)">
+    <description>Foto Showdown (USA)</description>
+    <title_clean>Foto Showdown</title_clean>
+    <title_search>foto showdown</title_search>
+    <image ext="png" id="Foto Showdown (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DSi/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Hair Salon (Europe) (En,Fr,De,Es,It)">
+    <description>Hair Salon (Europe) (En,Fr,De,Es,It)</description>
+    <title_clean>Hair Salon</title_clean>
+    <title_search>hair salon</title_search>
+  </game>
+  <game name="Hidden Photo (Europe)">
+    <description>Hidden Photo (Europe)</description>
+    <title_clean>Hidden Photo</title_clean>
+    <title_search>hidden photo</title_search>
+    <image ext="png" id="Hidden Photo (Europe)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DSi/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Monster Finder (Japan)">
+    <description>Monster Finder (Japan)</description>
+    <title_clean>Monster Finder</title_clean>
+    <title_search>monster finder</title_search>
+    <image ext="png" id="Monster Finder (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DSi/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Monster Finder (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DSi/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="NOE Movie Player Vol.1 (Europe)">
+    <description>NOE Movie Player Vol.1 (Europe)</description>
+    <title_clean>NOE Movie Player Vol.1</title_clean>
+    <title_search>noe movie player vol1</title_search>
+  </game>
+  <game name="Nintendo DSi XL Demo Video (USA)">
+    <description>Nintendo DSi XL Demo Video (USA)</description>
+    <title_clean>Nintendo DSi XL Demo Video</title_clean>
+    <title_search>nintendo dsi xl demo video</title_search>
+  </game>
+  <game name="Nintendo DSi XL Demo Video Volume 2 (USA)">
+    <description>Nintendo DSi XL Demo Video Volume 2 (USA)</description>
+    <title_clean>Nintendo DSi XL Demo Video Volume 2</title_clean>
+    <title_search>nintendo dsi xl demo video volume 2</title_search>
+  </game>
+  <game name="Picture Perfect Hair Salon (USA)">
+    <description>Picture Perfect Hair Salon (USA)</description>
+    <title_clean>Picture Perfect Hair Salon</title_clean>
+    <title_search>picture perfect hair salon</title_search>
+    <image ext="png" id="Picture Perfect Hair Salon (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DSi/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="System - Flaw (Europe)">
+    <description>System - Flaw (Europe)</description>
+    <title_clean>System - Flaw</title_clean>
+    <title_search>system flaw</title_search>
+  </game>
+  <game name="System - Flaw (USA)">
+    <description>System - Flaw (USA)</description>
+    <title_clean>System - Flaw</title_clean>
+    <title_search>system flaw</title_search>
+    <image ext="png" id="System - Flaw (USA)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DSi/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="WFRUTester (World)">
+    <description>WFRUTester (World)</description>
+    <title_clean>WFRUTester</title_clean>
+    <title_search>wfrutester</title_search>
+  </game>
+  <game name="Wimmelbild-Creator (Germany)">
+    <description>Wimmelbild-Creator (Germany)</description>
+    <title_clean>Wimmelbild-Creator</title_clean>
+    <title_search>wimmelbildcreator</title_search>
+    <image ext="png" id="Wimmelbild-Creator (Germany)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DSi/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+</datafile>

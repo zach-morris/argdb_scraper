@@ -1,0 +1,1044 @@
+<datafile>
+  <game name="4 en 1 Ligne (France)">
+    <description>4 en 1 Ligne (France)</description>
+    <title_clean>4 en 1 Ligne</title_clean>
+    <title_search>4 en 1 ligne</title_search>
+    <image ext="png" id="4 en 1 Ligne (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="4 en 1 Ligne (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="4 en 1 Ligne (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="4 in 1 Row (Europe)">
+    <description>4 in 1 Row (Europe)</description>
+    <title_clean>4 in 1 Row</title_clean>
+    <title_search>4 in 1 row</title_search>
+    <image ext="png" id="4 in 1 Row (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="4 in 1 Row (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="4 in 1 Row (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Alien Invaders - Plus (USA, Europe)">
+    <description>Alien Invaders - Plus (USA, Europe)</description>
+    <title_clean>Alien Invaders - Plus</title_clean>
+    <title_search>alien invaders plus</title_search>
+    <image ext="png" id="Alien Invaders - Plus (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Alien Invaders - Plus (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alien Invaders - Plus (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Alpine Skiing (USA, Europe)">
+    <description>Alpine Skiing (USA, Europe)</description>
+    <title_clean>Alpine Skiing</title_clean>
+    <title_search>alpine skiing</title_search>
+    <image ext="png" id="Alpine Skiing (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Alpine Skiing (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alpine Skiing (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Armored Encounter + Sub Chase (USA, Europe)">
+    <description>Armored Encounter + Sub Chase (USA, Europe)</description>
+    <title_clean>Armored Encounter + Sub Chase</title_clean>
+    <title_search>armored encounter sub chase</title_search>
+    <image ext="png" id="Armored Encounter + Sub Chase (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Armored Encounter + Sub Chase (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Armored Encounter + Sub Chase (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Atlantis (USA, Europe)">
+    <description>Atlantis (USA, Europe)</description>
+    <title_clean>Atlantis</title_clean>
+    <title_search>atlantis</title_search>
+    <image ext="png" id="Atlantis (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Atlantis (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Atlantis (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Attack of the Timelord (USA)">
+    <description>Attack of the Timelord (USA)</description>
+    <title_clean>Attack of the Timelord</title_clean>
+    <title_search>attack of the timelord</title_search>
+    <image ext="png" id="Attack of the Timelord (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Attack of the Timelord (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Attack of the Timelord (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Baseball (USA, Europe)">
+    <description>Baseball (USA, Europe)</description>
+    <title_clean>Baseball</title_clean>
+    <title_search>baseball</title_search>
+    <image ext="png" id="Baseball (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Baseball (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Baseball (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Billard Electrique (France)">
+    <description>Billard Electrique (France)</description>
+    <title_clean>Billard Electrique</title_clean>
+    <title_search>billard electrique</title_search>
+    <image ext="png" id="Billard Electrique (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Billard Electrique (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Billard Electrique (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Billiard Americain (France)">
+    <description>Billiard Americain (France)</description>
+    <title_clean>Billiard Americain</title_clean>
+    <title_search>billiard americain</title_search>
+    <image ext="png" id="Billiard Americain (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Billiard Americain (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Billiard Americain (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Blackjack (France)">
+    <description>Blackjack (France)</description>
+    <title_clean>Blackjack</title_clean>
+    <title_search>blackjack</title_search>
+    <image ext="png" id="Blackjack (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Blackjack (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Blackjack (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Blobbers, The (Europe)">
+    <description>Blobbers, The (Europe)</description>
+    <title_clean>The Blobbers</title_clean>
+    <title_search>the blobbers</title_search>
+    <image ext="png" id="Blobbers, The (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Blobbers, The (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Blobbers, The (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Blockout + Breakdown (USA, Europe)">
+    <description>Blockout + Breakdown (USA, Europe)</description>
+    <title_clean>Blockout + Breakdown</title_clean>
+    <title_search>blockout breakdown</title_search>
+    <image ext="png" id="Blockout + Breakdown (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Blockout + Breakdown (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Blockout + Breakdown (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bombardeio Submarino + Tiro ao Alvo (Brazil)">
+    <description>Bombardeio Submarino + Tiro ao Alvo (Brazil)</description>
+    <title_clean>Bombardeio Submarino + Tiro ao Alvo</title_clean>
+    <title_search>bombardeio submarino tiro ao alvo</title_search>
+    <image ext="png" id="Bombardeio Submarino + Tiro ao Alvo (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bombardeio Submarino + Tiro ao Alvo (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bombardeio Submarino + Tiro ao Alvo (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bowling + Basketball (USA, Europe)">
+    <description>Bowling + Basketball (USA, Europe)</description>
+    <title_clean>Bowling + Basketball</title_clean>
+    <title_search>bowling basketball</title_search>
+    <image ext="png" id="Bowling + Basketball (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bowling + Basketball (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bowling + Basketball (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Buraco Negro (Brazil)">
+    <description>Buraco Negro (Brazil)</description>
+    <title_clean>Buraco Negro</title_clean>
+    <title_search>buraco negro</title_search>
+    <image ext="png" id="Buraco Negro (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Buraco Negro (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Buraco Negro (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Casino Slot Machine (USA, Europe)">
+    <description>Casino Slot Machine (USA, Europe)</description>
+    <title_clean>Casino Slot Machine</title_clean>
+    <title_search>casino slot machine</title_search>
+    <image ext="png" id="Casino Slot Machine (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Casino Slot Machine (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Casino Slot Machine (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Catch the Ball + Noughts and Crosses (Europe)">
+    <description>Catch the Ball + Noughts and Crosses (Europe)</description>
+    <title_clean>Catch the Ball + Noughts and Crosses</title_clean>
+    <title_search>catch the ball noughts and crosses</title_search>
+    <image ext="png" id="Catch the Ball + Noughts and Crosses (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Catch the Ball + Noughts and Crosses (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Catch the Ball + Noughts and Crosses (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chat et Souris (France)">
+    <description>Chat et Souris (France)</description>
+    <title_clean>Chat et Souris</title_clean>
+    <title_search>chat et souris</title_search>
+    <image ext="png" id="Chat et Souris (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chat et Souris (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chat et Souris (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chess (Europe)">
+    <description>Chess (Europe)</description>
+    <title_clean>Chess</title_clean>
+    <title_search>chess</title_search>
+    <image ext="png" id="Chess (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chess (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chess (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chinese Logic (Europe)">
+    <description>Chinese Logic (Europe)</description>
+    <title_clean>Chinese Logic</title_clean>
+    <title_search>chinese logic</title_search>
+    <image ext="png" id="Chinese Logic (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chinese Logic (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chinese Logic (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Clay Pigeon (Brazil)">
+    <description>Clay Pigeon (Brazil)</description>
+    <title_clean>Clay Pigeon</title_clean>
+    <title_search>clay pigeon</title_search>
+    <image ext="png" id="Clay Pigeon (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Clay Pigeon (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Clay Pigeon (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Comando Noturno (Brazil)">
+    <description>Comando Noturno (Brazil)</description>
+    <title_clean>Comando Noturno</title_clean>
+    <title_search>comando noturno</title_search>
+    <image ext="png" id="Comando Noturno (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Comando Noturno (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Comando Noturno (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Computer Golf (USA)">
+    <description>Computer Golf (USA)</description>
+    <title_clean>Computer Golf</title_clean>
+    <title_search>computer golf</title_search>
+    <image ext="png" id="Computer Golf (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Computer Golf (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Computer Golf (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Computer Intro (USA)">
+    <description>Computer Intro (USA)</description>
+    <title_clean>Computer Intro</title_clean>
+    <title_search>computer intro</title_search>
+    <image ext="png" id="Computer Intro (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Computer Intro (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Computer Intro (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Computer Programmer (Europe)">
+    <description>Computer Programmer (Europe)</description>
+    <title_clean>Computer Programmer</title_clean>
+    <title_search>computer programmer</title_search>
+    <image ext="png" id="Computer Programmer (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Computer Programmer (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Computer Programmer (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Conflit Cosmique (Canada)">
+    <description>Conflit Cosmique (Canada)</description>
+    <title_clean>Conflit Cosmique</title_clean>
+    <title_search>conflit cosmique</title_search>
+    <image ext="png" id="Conflit Cosmique (Canada)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Conflit Cosmique (Canada)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Conflit Cosmique (Canada)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Conquest of the World (USA, Europe)">
+    <description>Conquest of the World (USA, Europe)</description>
+    <title_clean>Conquest of the World</title_clean>
+    <title_search>conquest of the world</title_search>
+    <image ext="png" id="Conquest of the World (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Conquest of the World (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Conquest of the World (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cosmic Conflict (Europe)">
+    <description>Cosmic Conflict (Europe)</description>
+    <title_clean>Cosmic Conflict</title_clean>
+    <title_search>cosmic conflict</title_search>
+    <image ext="png" id="Cosmic Conflict (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cosmic Conflict (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cosmic Conflict (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cosmic Conflict (Europe) (Alt 1)">
+    <description>Cosmic Conflict (Europe) (Alt 1)</description>
+    <title_clean>Cosmic Conflict</title_clean>
+    <title_search>cosmic conflict</title_search>
+    <image ext="png" id="Cosmic Conflict (Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cosmic Conflict (Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cosmic Conflict (Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cosmic Conflict (USA)">
+    <description>Cosmic Conflict (USA)</description>
+    <title_clean>Cosmic Conflict</title_clean>
+    <title_search>cosmic conflict</title_search>
+    <image ext="png" id="Cosmic Conflict (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cosmic Conflict (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cosmic Conflict (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Course de Voitures + Autodrome + Cryptogramme (France)">
+    <description>Course de Voitures + Autodrome + Cryptogramme (France)</description>
+    <title_clean>Course de Voitures + Autodrome + Cryptogramme</title_clean>
+    <title_search>course de voitures autodrome cryptogramme</title_search>
+    <image ext="png" id="Course de Voitures + Autodrome + Cryptogramme (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Course de Voitures + Autodrome + Cryptogramme (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Course de Voitures + Autodrome + Cryptogramme (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Demon Attack (USA, Europe)">
+    <description>Demon Attack (USA, Europe)</description>
+    <title_clean>Demon Attack</title_clean>
+    <title_search>demon attack</title_search>
+    <image ext="png" id="Demon Attack (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Demon Attack (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Demon Attack (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Depth Charge + Marksman (Europe)">
+    <description>Depth Charge + Marksman (Europe)</description>
+    <title_clean>Depth Charge + Marksman</title_clean>
+    <title_search>depth charge marksman</title_search>
+    <image ext="png" id="Depth Charge + Marksman (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Depth Charge + Marksman (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Depth Charge + Marksman (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Desafio Chines (Brazil)">
+    <description>Desafio Chines (Brazil)</description>
+    <title_clean>Desafio Chines</title_clean>
+    <title_search>desafio chines</title_search>
+    <image ext="png" id="Desafio Chines (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Desafio Chines (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Desafio Chines (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dynasty (USA)">
+    <description>Dynasty (USA)</description>
+    <title_clean>Dynasty</title_clean>
+    <title_search>dynasty</title_search>
+    <image ext="png" id="Dynasty (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dynasty (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dynasty (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Electronic Table Soccer (USA, Europe)">
+    <description>Electronic Table Soccer (USA, Europe)</description>
+    <title_clean>Electronic Table Soccer</title_clean>
+    <title_search>electronic table soccer</title_search>
+    <image ext="png" id="Electronic Table Soccer (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Electronic Table Soccer (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Electronic Table Soccer (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Football (USA, Europe)">
+    <description>Football (USA, Europe)</description>
+    <title_clean>Football</title_clean>
+    <title_search>football</title_search>
+    <image ext="png" id="Football (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Football (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Football (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Football Electronique + Hockey Electronique (France)">
+    <description>Football Electronique + Hockey Electronique (France)</description>
+    <title_clean>Football Electronique + Hockey Electronique</title_clean>
+    <title_search>football electronique hockey electronique</title_search>
+    <image ext="png" id="Football Electronique + Hockey Electronique (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Football Electronique + Hockey Electronique (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Football Electronique + Hockey Electronique (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Freedom Fighters (USA, Europe)">
+    <description>Freedom Fighters (USA, Europe)</description>
+    <title_clean>Freedom Fighters</title_clean>
+    <title_search>freedom fighters</title_search>
+    <image ext="png" id="Freedom Fighters (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Freedom Fighters (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Freedom Fighters (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Frogger (Brazil)">
+    <description>Frogger (Brazil)</description>
+    <title_clean>Frogger</title_clean>
+    <title_search>frogger</title_search>
+    <image ext="png" id="Frogger (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Frogger (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Frogger (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Frogger (Europe)">
+    <description>Frogger (Europe)</description>
+    <title_clean>Frogger</title_clean>
+    <title_search>frogger</title_search>
+    <image ext="png" id="Frogger (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Frogger (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Frogger (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Golf (Europe)">
+    <description>Golf (Europe)</description>
+    <title_clean>Golf</title_clean>
+    <title_search>golf</title_search>
+    <image ext="png" id="Golf (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Golf (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Golf (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Great Wall Street Fortune Hunt, The (USA, Europe)">
+    <description>Great Wall Street Fortune Hunt, The (USA, Europe)</description>
+    <title_clean>The Great Wall Street Fortune Hunt</title_clean>
+    <title_search>the great wall street fortune hunt</title_search>
+    <image ext="png" id="Great Wall Street Fortune Hunt, The (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Great Wall Street Fortune Hunt, The (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Great Wall Street Fortune Hunt, The (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Guerre Laser (France)">
+    <description>Guerre Laser (France)</description>
+    <title_clean>Guerre Laser</title_clean>
+    <title_search>guerre laser</title_search>
+    <image ext="png" id="Guerre Laser (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Guerre Laser (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Guerre Laser (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gunfighter (Europe)">
+    <description>Gunfighter (Europe)</description>
+    <title_clean>Gunfighter</title_clean>
+    <title_search>gunfighter</title_search>
+    <image ext="png" id="Gunfighter (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gunfighter (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gunfighter (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hockey + Soccer (USA, Europe)">
+    <description>Hockey + Soccer (USA, Europe)</description>
+    <title_clean>Hockey + Soccer</title_clean>
+    <title_search>hockey soccer</title_search>
+    <image ext="png" id="Hockey + Soccer (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hockey + Soccer (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hockey + Soccer (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="I've Got Your Number (USA, Europe)">
+    <description>I've Got Your Number (USA, Europe)</description>
+    <title_clean>I've Got Your Number</title_clean>
+    <title_search>ive got your number</title_search>
+    <image ext="png" id="I've Got Your Number (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="I've Got Your Number (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="I've Got Your Number (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Interpol (Europe) (Proto)">
+    <description>Interpol (Europe) (Proto)</description>
+    <title_clean>Interpol</title_clean>
+    <title_search>interpol</title_search>
+    <image ext="png" id="Interpol (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Interpol (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Interpol (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Invaders from Hyperspace (USA)">
+    <description>Invaders from Hyperspace (USA)</description>
+    <title_clean>Invaders from Hyperspace</title_clean>
+    <title_search>invaders from hyperspace</title_search>
+    <image ext="png" id="Invaders from Hyperspace (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Invaders from Hyperspace (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Invaders from Hyperspace (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jeu de Quilles + Basketball (France)">
+    <description>Jeu de Quilles + Basketball (France)</description>
+    <title_clean>Jeu de Quilles + Basketball</title_clean>
+    <title_search>jeu de quilles basketball</title_search>
+    <image ext="png" id="Jeu de Quilles + Basketball (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jeu de Quilles + Basketball (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jeu de Quilles + Basketball (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jumping Acrobats (Europe)">
+    <description>Jumping Acrobats (Europe)</description>
+    <title_clean>Jumping Acrobats</title_clean>
+    <title_search>jumping acrobats</title_search>
+    <image ext="png" id="Jumping Acrobats (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jumping Acrobats (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jumping Acrobats (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jumping Acrobats (Europe) (Alt 1)">
+    <description>Jumping Acrobats (Europe) (Alt 1)</description>
+    <title_clean>Jumping Acrobats</title_clean>
+    <title_search>jumping acrobats</title_search>
+    <image ext="png" id="Jumping Acrobats (Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jumping Acrobats (Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jumping Acrobats (Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="K.C. Munchkin (USA)">
+    <description>K.C. Munchkin (USA)</description>
+    <title_clean>K.C. Munchkin</title_clean>
+    <title_search>kc munchkin</title_search>
+    <image ext="png" id="K.C. Munchkin (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="K.C. Munchkin (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="K.C. Munchkin (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="K.C.'s Krazy Chase (USA, Europe)">
+    <description>K.C.'s Krazy Chase (USA, Europe)</description>
+    <title_clean>K.C.'s Krazy Chase</title_clean>
+    <title_search>kcs krazy chase</title_search>
+    <image ext="png" id="K.C.'s Krazy Chase (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="K.C.'s Krazy Chase (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="K.C.'s Krazy Chase (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Keyboard Creations (USA)">
+    <description>Keyboard Creations (USA)</description>
+    <title_clean>Keyboard Creations</title_clean>
+    <title_search>keyboard creations</title_search>
+    <image ext="png" id="Keyboard Creations (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Keyboard Creations (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Keyboard Creations (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Killer Bees (USA)">
+    <description>Killer Bees (USA)</description>
+    <title_clean>Killer Bees</title_clean>
+    <title_search>killer bees</title_search>
+    <image ext="png" id="Killer Bees (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Killer Bees (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Killer Bees (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kinder im Verkehr 1 (Germany)">
+    <description>Kinder im Verkehr 1 (Germany)</description>
+    <title_clean>Kinder im Verkehr 1</title_clean>
+    <title_search>kinder im verkehr 1</title_search>
+    <image ext="png" id="Kinder im Verkehr 1 (Germany)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kinder im Verkehr 1 (Germany)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kinder im Verkehr 1 (Germany)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="La Quete des Anneaux (France)">
+    <description>La Quete des Anneaux (France)</description>
+    <title_clean>La Quete des Anneaux</title_clean>
+    <title_search>la quete des anneaux</title_search>
+    <image ext="png" id="La Quete des Anneaux (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="La Quete des Anneaux (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="La Quete des Anneaux (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Labyrinth Game, A + Supermind (Europe)">
+    <description>Labyrinth Game, A + Supermind (Europe)</description>
+    <title_clean>Labyrinth Game, A + Supermind</title_clean>
+    <title_search>labyrinth game a supermind</title_search>
+    <image ext="png" id="Labyrinth Game, A + Supermind (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Labyrinth Game, A + Supermind (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Labyrinth Game, A + Supermind (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Las Vegas (France)">
+    <description>Las Vegas (France)</description>
+    <title_clean>Las Vegas</title_clean>
+    <title_search>las vegas</title_search>
+    <image ext="png" id="Las Vegas (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Las Vegas (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Las Vegas (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Las Vegas Blackjack (USA, Europe)">
+    <description>Las Vegas Blackjack (USA, Europe)</description>
+    <title_clean>Las Vegas Blackjack</title_clean>
+    <title_search>las vegas blackjack</title_search>
+    <image ext="png" id="Las Vegas Blackjack (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Las Vegas Blackjack (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Las Vegas Blackjack (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Laser War (Europe)">
+    <description>Laser War (Europe)</description>
+    <title_clean>Laser War</title_clean>
+    <title_search>laser war</title_search>
+    <image ext="png" id="Laser War (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Laser War (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Laser War (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Loony Balloon (Europe) (Proto)">
+    <description>Loony Balloon (Europe) (Proto)</description>
+    <title_clean>Loony Balloon</title_clean>
+    <title_search>loony balloon</title_search>
+    <image ext="png" id="Loony Balloon (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Loony Balloon (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Loony Balloon (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Martian Threat (Europe) (Proto)">
+    <description>Martian Threat (Europe) (Proto)</description>
+    <title_clean>Martian Threat</title_clean>
+    <title_search>martian threat</title_search>
+    <image ext="png" id="Martian Threat (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Martian Threat (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Martian Threat (Europe) (Proto) (Alt 1)">
+    <description>Martian Threat (Europe) (Proto) (Alt 1)</description>
+    <title_clean>Martian Threat</title_clean>
+    <title_search>martian threat</title_search>
+    <image ext="png" id="Martian Threat (Europe) (Proto) (Alt 1)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Martian Threat (Europe) (Proto) (Alt 1)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Matchmaker + Logix + Buzzword (USA)">
+    <description>Matchmaker + Logix + Buzzword (USA)</description>
+    <title_clean>Matchmaker + Logix + Buzzword</title_clean>
+    <title_search>matchmaker logix buzzword</title_search>
+    <image ext="png" id="Matchmaker + Logix + Buzzword (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Matchmaker + Logix + Buzzword (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Matchmaker + Logix + Buzzword (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Math-A-Magic + Echo (USA, Europe)">
+    <description>Math-A-Magic + Echo (USA, Europe)</description>
+    <title_clean>Math-A-Magic + Echo</title_clean>
+    <title_search>mathamagic echo</title_search>
+    <image ext="png" id="Math-A-Magic + Echo (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Math-A-Magic + Echo (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Math-A-Magic + Echo (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mathematicien + Echo (France)">
+    <description>Mathematicien + Echo (France)</description>
+    <title_clean>Mathematicien + Echo</title_clean>
+    <title_search>mathematicien echo</title_search>
+    <image ext="png" id="Mathematicien + Echo (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mathematicien + Echo (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mathematicien + Echo (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mission Impossible (Brazil) (Proto)">
+    <description>Mission Impossible (Brazil) (Proto)</description>
+    <title_clean>Mission Impossible</title_clean>
+    <title_search>mission impossible</title_search>
+    <image ext="png" id="Mission Impossible (Brazil) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mission Impossible (Brazil) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mission Impossible (Brazil) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Monkeyshines (USA, Europe)">
+    <description>Monkeyshines (USA, Europe)</description>
+    <title_clean>Monkeyshines</title_clean>
+    <title_search>monkeyshines</title_search>
+    <image ext="png" id="Monkeyshines (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Monkeyshines (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Monkeyshines (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Morse (Europe)">
+    <description>Morse (Europe)</description>
+    <title_clean>Morse</title_clean>
+    <title_search>morse</title_search>
+    <image ext="png" id="Morse (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Morse (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Morse (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Morse (France)">
+    <description>Morse (France)</description>
+    <title_clean>Morse</title_clean>
+    <title_search>morse</title_search>
+    <image ext="png" id="Morse (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Morse (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Morse (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mousing Cat, The (Europe)">
+    <description>Mousing Cat, The (Europe)</description>
+    <title_clean>The Mousing Cat</title_clean>
+    <title_search>the mousing cat</title_search>
+    <image ext="png" id="Mousing Cat, The (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mousing Cat, The (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mousing Cat, The (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Munchkin (Europe)">
+    <description>Munchkin (Europe)</description>
+    <title_clean>Munchkin</title_clean>
+    <title_search>munchkin</title_search>
+    <image ext="png" id="Munchkin (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Munchkin (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Munchkin (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mur Magique, Le (France)">
+    <description>Mur Magique, Le (France)</description>
+    <title_clean>Mur Magique, Le</title_clean>
+    <title_search>mur magique le</title_search>
+    <image ext="png" id="Mur Magique, Le (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mur Magique, Le (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mur Magique, Le (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Musician (Europe)">
+    <description>Musician (Europe)</description>
+    <title_clean>Musician</title_clean>
+    <title_search>musician</title_search>
+    <image ext="png" id="Musician (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Musician (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Musician (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Neutron Star (Europe) (Proto)">
+    <description>Neutron Star (Europe) (Proto)</description>
+    <title_clean>Neutron Star</title_clean>
+    <title_search>neutron star</title_search>
+    <image ext="png" id="Neutron Star (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Neutron Star (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Neutron Star (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Newscaster (Europe)">
+    <description>Newscaster (Europe)</description>
+    <title_clean>Newscaster</title_clean>
+    <title_search>newscaster</title_search>
+    <image ext="png" id="Newscaster (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Newscaster (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Newscaster (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nightfighter (Europe) (Proto)">
+    <description>Nightfighter (Europe) (Proto)</description>
+    <title_clean>Nightfighter</title_clean>
+    <title_search>nightfighter</title_search>
+    <image ext="png" id="Nightfighter (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Nightfighter (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nightfighter (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nightmare (Europe)">
+    <description>Nightmare (Europe)</description>
+    <title_clean>Nightmare</title_clean>
+    <title_search>nightmare</title_search>
+    <image ext="png" id="Nightmare (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Nightmare (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nightmare (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nimble Numbers Ned (USA)">
+    <description>Nimble Numbers Ned (USA)</description>
+    <title_clean>Nimble Numbers Ned</title_clean>
+    <title_search>nimble numbers ned</title_search>
+    <image ext="png" id="Nimble Numbers Ned (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Nimble Numbers Ned (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nimble Numbers Ned (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="O Malabarista + Jogo da Velha (Brazil)">
+    <description>O Malabarista + Jogo da Velha (Brazil)</description>
+    <title_clean>O Malabarista + Jogo da Velha</title_clean>
+    <title_search>o malabarista jogo da velha</title_search>
+    <image ext="png" id="O Malabarista + Jogo da Velha (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="O Malabarista + Jogo da Velha (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="O Segredo do Farao (Brazil)">
+    <description>O Segredo do Farao (Brazil)</description>
+    <title_clean>O Segredo do Farao</title_clean>
+    <title_search>o segredo do farao</title_search>
+    <image ext="png" id="O Segredo do Farao (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="O Segredo do Farao (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="O Segredo do Farao (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Out of this World + Helicopter Rescue (USA)">
+    <description>Out of this World + Helicopter Rescue (USA)</description>
+    <title_clean>Out of this World + Helicopter Rescue</title_clean>
+    <title_search>out of this world helicopter rescue</title_search>
+    <image ext="png" id="Out of this World + Helicopter Rescue (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Out of this World + Helicopter Rescue (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Out of this World + Helicopter Rescue (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="P.T. Barnum's Acrobats (USA)">
+    <description>P.T. Barnum's Acrobats (USA)</description>
+    <title_clean>P.T. Barnum's Acrobats</title_clean>
+    <title_search>pt barnums acrobats</title_search>
+    <image ext="png" id="P.T. Barnum's Acrobats (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="P.T. Barnum's Acrobats (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="P.T. Barnum's Acrobats (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pachinko (USA, Europe)">
+    <description>Pachinko (USA, Europe)</description>
+    <title_clean>Pachinko</title_clean>
+    <title_search>pachinko</title_search>
+    <image ext="png" id="Pachinko (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pachinko (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pachinko (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pairs + Space Rendezvous + Logic (Europe)">
+    <description>Pairs + Space Rendezvous + Logic (Europe)</description>
+    <title_clean>Pairs + Space Rendezvous + Logic</title_clean>
+    <title_search>pairs space rendezvous logic</title_search>
+    <image ext="png" id="Pairs + Space Rendezvous + Logic (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pairs + Space Rendezvous + Logic (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pairs + Space Rendezvous + Logic (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pick Axe Pete (USA, Europe)">
+    <description>Pick Axe Pete (USA, Europe)</description>
+    <title_clean>Pick Axe Pete</title_clean>
+    <title_search>pick axe pete</title_search>
+    <image ext="png" id="Pick Axe Pete (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pick Axe Pete (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pick Axe Pete (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pinball (USA) (Proto)">
+    <description>Pinball (USA) (Proto)</description>
+    <title_clean>Pinball</title_clean>
+    <title_search>pinball</title_search>
+    <image ext="png" id="Pinball (USA) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pinball (USA) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pinball (USA) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Playtag (Europe) (Proto)">
+    <description>Playtag (Europe) (Proto)</description>
+    <title_clean>Playtag</title_clean>
+    <title_search>playtag</title_search>
+    <image ext="png" id="Playtag (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Playtag (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Playtag (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pocket Billiards (USA, Europe)">
+    <description>Pocket Billiards (USA, Europe)</description>
+    <title_clean>Pocket Billiards</title_clean>
+    <title_search>pocket billiards</title_search>
+    <image ext="png" id="Pocket Billiards (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pocket Billiards (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pocket Billiards (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Popeye (Brazil)">
+    <description>Popeye (Brazil)</description>
+    <title_clean>Popeye</title_clean>
+    <title_search>popeye</title_search>
+    <image ext="png" id="Popeye (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Popeye (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Popeye (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Popeye (Europe)">
+    <description>Popeye (Europe)</description>
+    <title_clean>Popeye</title_clean>
+    <title_search>popeye</title_search>
+    <image ext="png" id="Popeye (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Popeye (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Popeye (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Power Lords (USA)">
+    <description>Power Lords (USA)</description>
+    <title_clean>Power Lords</title_clean>
+    <title_search>power lords</title_search>
+    <image ext="png" id="Power Lords (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Power Lords (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Power Lords (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Power Lords (USA) (Alt 1)">
+    <description>Power Lords (USA) (Alt 1)</description>
+    <title_clean>Power Lords</title_clean>
+    <title_search>power lords</title_search>
+    <image ext="png" id="Power Lords (USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Power Lords (USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Power Lords (USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Prendre l'Argent et Fuir (France)">
+    <description>Prendre l'Argent et Fuir (France)</description>
+    <title_clean>Prendre l'Argent et Fuir</title_clean>
+    <title_search>prendre largent et fuir</title_search>
+    <image ext="png" id="Prendre l'Argent et Fuir (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Prendre l'Argent et Fuir (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Prendre l'Argent et Fuir (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Q-Bert (Europe)">
+    <description>Q-Bert (Europe)</description>
+    <title_clean>Q-Bert</title_clean>
+    <title_search>qbert</title_search>
+    <image ext="png" id="Q-Bert (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Q-Bert (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Q-Bert (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Quest for the Rings (USA, Europe)">
+    <description>Quest for the Rings (USA, Europe)</description>
+    <title_clean>Quest for the Rings</title_clean>
+    <title_search>quest for the rings</title_search>
+    <image ext="png" id="Quest for the Rings (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Quest for the Rings (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Quest for the Rings (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Red Baron (Europe) (Proto)">
+    <description>Red Baron (Europe) (Proto)</description>
+    <title_clean>Red Baron</title_clean>
+    <title_search>red baron</title_search>
+    <image ext="png" id="Red Baron (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Red Baron (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Red Baron (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Red Baron (Europe) (Proto) (Alt 1)">
+    <description>Red Baron (Europe) (Proto) (Alt 1)</description>
+    <title_clean>Red Baron</title_clean>
+    <title_search>red baron</title_search>
+    <image ext="png" id="Red Baron (Europe) (Proto) (Alt 1)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Red Baron (Europe) (Proto) (Alt 1)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Red Baron (Europe) (Proto) (Alt 1)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Robot City (Europe) (Proto)">
+    <description>Robot City (Europe) (Proto)</description>
+    <title_clean>Robot City</title_clean>
+    <title_search>robot city</title_search>
+    <image ext="png" id="Robot City (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Robot City (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Robot City (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Samurai (Europe)">
+    <description>Samurai (Europe)</description>
+    <title_clean>Samurai</title_clean>
+    <title_search>samurai</title_search>
+    <image ext="png" id="Samurai (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Samurai (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Samurai (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Satellite Attack (Europe)">
+    <description>Satellite Attack (Europe)</description>
+    <title_clean>Satellite Attack</title_clean>
+    <title_search>satellite attack</title_search>
+    <image ext="png" id="Satellite Attack (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Satellite Attack (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Satellite Attack (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Secret of the Pharaohs (Europe)">
+    <description>Secret of the Pharaohs (Europe)</description>
+    <title_clean>Secret of the Pharaohs</title_clean>
+    <title_search>secret of the pharaohs</title_search>
+    <image ext="png" id="Secret of the Pharaohs (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Secret of the Pharaohs (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Secret of the Pharaohs (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shark Hunter (Europe) (Proto)">
+    <description>Shark Hunter (Europe) (Proto)</description>
+    <title_clean>Shark Hunter</title_clean>
+    <title_search>shark hunter</title_search>
+    <image ext="png" id="Shark Hunter (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shark Hunter (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shark Hunter (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Showdown in 2100 A.D. (USA)">
+    <description>Showdown in 2100 A.D. (USA)</description>
+    <title_clean>Showdown in 2100 A.D.</title_clean>
+    <title_search>showdown in 2100 ad</title_search>
+    <image ext="png" id="Showdown in 2100 A.D. (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Showdown in 2100 A.D. (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Showdown in 2100 A.D. (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sid the Spellbinder (USA)">
+    <description>Sid the Spellbinder (USA)</description>
+    <title_clean>Sid the Spellbinder</title_clean>
+    <title_search>sid the spellbinder</title_search>
+    <image ext="png" id="Sid the Spellbinder (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sid the Spellbinder (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sid the Spellbinder (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Skiing (France)">
+    <description>Skiing (France)</description>
+    <title_clean>Skiing</title_clean>
+    <title_search>skiing</title_search>
+    <image ext="png" id="Skiing (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Skiing (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Skiing (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Smithereens (USA)">
+    <description>Smithereens (USA)</description>
+    <title_clean>Smithereens</title_clean>
+    <title_search>smithereens</title_search>
+    <image ext="png" id="Smithereens (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Smithereens (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Smithereens (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Speedway + Spin-out + Crypto-logic (USA, Europe)">
+    <description>Speedway + Spin-out + Crypto-logic (USA, Europe)</description>
+    <title_clean>Speedway + Spin-out + Crypto-logic</title_clean>
+    <title_search>speedway spinout cryptologic</title_search>
+    <image ext="png" id="Speedway + Spin-out + Crypto-logic (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Speedway + Spin-out + Crypto-logic (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Speedway + Spin-out + Crypto-logic (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Spider-Man (Europe) (Proto)">
+    <description>Spider-Man (Europe) (Proto)</description>
+    <title_clean>Spider-Man</title_clean>
+    <title_search>spiderman</title_search>
+    <image ext="png" id="Spider-Man (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Spider-Man (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Spider-Man (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Spider-Man (Europe) (Proto) (Alt 1)">
+    <description>Spider-Man (Europe) (Proto) (Alt 1)</description>
+    <title_clean>Spider-Man</title_clean>
+    <title_search>spiderman</title_search>
+    <image ext="png" id="Spider-Man (Europe) (Proto) (Alt 1)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Spider-Man (Europe) (Proto) (Alt 1)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Spider-Man (Europe) (Proto) (Alt 1)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Stone Sling (Europe)">
+    <description>Stone Sling (Europe)</description>
+    <title_clean>Stone Sling</title_clean>
+    <title_search>stone sling</title_search>
+    <image ext="png" id="Stone Sling (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Stone Sling (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Stone Sling (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Bee (Brazil)">
+    <description>Super Bee (Brazil)</description>
+    <title_clean>Super Bee</title_clean>
+    <title_search>super bee</title_search>
+    <image ext="png" id="Super Bee (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Bee (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Bee (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Bee (Europe)">
+    <description>Super Bee (Europe)</description>
+    <title_clean>Super Bee</title_clean>
+    <title_search>super bee</title_search>
+    <image ext="png" id="Super Bee (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Bee (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Bee (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Cobra (Brazil)">
+    <description>Super Cobra (Brazil)</description>
+    <title_clean>Super Cobra</title_clean>
+    <title_search>super cobra</title_search>
+    <image ext="png" id="Super Cobra (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Cobra (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Cobra (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Cobra (Europe)">
+    <description>Super Cobra (Europe)</description>
+    <title_clean>Super Cobra</title_clean>
+    <title_search>super cobra</title_search>
+    <image ext="png" id="Super Cobra (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Cobra (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Cobra (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Take the Money and Run (USA, Europe)">
+    <description>Take the Money and Run (USA, Europe)</description>
+    <title_clean>Take the Money and Run</title_clean>
+    <title_search>take the money and run</title_search>
+    <image ext="png" id="Take the Money and Run (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Take the Money and Run (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Take the Money and Run (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Thunderball (USA, Europe)">
+    <description>Thunderball (USA, Europe)</description>
+    <title_clean>Thunderball</title_clean>
+    <title_search>thunderball</title_search>
+    <image ext="png" id="Thunderball (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Thunderball (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Thunderball (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Turtles (Europe)">
+    <description>Turtles (Europe)</description>
+    <title_clean>Turtles</title_clean>
+    <title_search>turtles</title_search>
+    <image ext="png" id="Turtles (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Turtles (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Turtles (Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Turtles (USA)">
+    <description>Turtles (USA)</description>
+    <title_clean>Turtles</title_clean>
+    <title_search>turtles</title_search>
+    <image ext="png" id="Turtles (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Turtles (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Turtles (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tutankham (Europe) (Proto)">
+    <description>Tutankham (Europe) (Proto)</description>
+    <title_clean>Tutankham</title_clean>
+    <title_search>tutankham</title_search>
+    <image ext="png" id="Tutankham (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tutankham (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tutankham (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Type _ Tell (USA)">
+    <description>Type _ Tell (USA)</description>
+    <title_clean>Type _ Tell</title_clean>
+    <title_search>type tell</title_search>
+    <image ext="png" id="Type _ Tell (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Type _ Tell (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="UFO (USA)">
+    <description>UFO (USA)</description>
+    <title_clean>UFO</title_clean>
+    <title_search>ufo</title_search>
+    <image ext="png" id="UFO (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="UFO (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="UFO (USA)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Verkehrsspiele 1 (Germany)">
+    <description>Verkehrsspiele 1 (Germany)</description>
+    <title_clean>Verkehrsspiele 1</title_clean>
+    <title_search>verkehrsspiele 1</title_search>
+    <image ext="png" id="Verkehrsspiele 1 (Germany)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Verkehrsspiele 1 (Germany)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Verkehrsspiele 2 (Germany)">
+    <description>Verkehrsspiele 2 (Germany)</description>
+    <title_clean>Verkehrsspiele 2</title_clean>
+    <title_search>verkehrsspiele 2</title_search>
+    <image ext="png" id="Verkehrsspiele 2 (Germany)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Verkehrsspiele 2 (Germany)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Volleyball (USA, Europe)">
+    <description>Volleyball (USA, Europe)</description>
+    <title_clean>Volleyball</title_clean>
+    <title_search>volleyball</title_search>
+    <image ext="png" id="Volleyball (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Volleyball (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Volleyball (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Volleyball Electronique (France)">
+    <description>Volleyball Electronique (France)</description>
+    <title_clean>Volleyball Electronique</title_clean>
+    <title_search>volleyball electronique</title_search>
+    <image ext="png" id="Volleyball Electronique (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Volleyball Electronique (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Volleyball Electronique (France)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wall Street (Brazil)">
+    <description>Wall Street (Brazil)</description>
+    <title_clean>Wall Street</title_clean>
+    <title_search>wall street</title_search>
+    <image ext="png" id="Wall Street (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wall Street (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wall Street (Brazil)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="War of Nerves (USA, Europe)">
+    <description>War of Nerves (USA, Europe)</description>
+    <title_clean>War of Nerves</title_clean>
+    <title_search>war of nerves</title_search>
+    <image ext="png" id="War of Nerves (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="War of Nerves (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="War of Nerves (USA, Europe)" source="https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

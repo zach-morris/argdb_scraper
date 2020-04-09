@@ -1,0 +1,8 @@
+FILE "Langrisser IV - Final Edition (Japan) [T-En by Kil v1.3].bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    PREGAP 00:02:00
+    INDEX 01 54:27:17
+  TRACK 03 AUDIO
+    INDEX 01 56:39:44

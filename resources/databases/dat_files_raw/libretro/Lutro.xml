@@ -1,0 +1,64 @@
+<datafile>
+  <game name="Deep Dungeon">
+    <description>Deep Dungeon</description>
+    <title_clean>Deep Dungeon</title_clean>
+    <title_search>deep dungeon</title_search>
+    <image ext="png" id="Deep Dungeon" source="https://github.com/libretro-thumbnails/Lutro/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Deep Dungeon" source="https://github.com/libretro-thumbnails/Lutro/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Game of Life">
+    <description>Game of Life</description>
+    <title_clean>Game of Life</title_clean>
+    <title_search>game of life</title_search>
+    <image ext="png" id="Game of Life" source="https://github.com/libretro-thumbnails/Lutro/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="In Your Face City Trains">
+    <description>In Your Face City Trains</description>
+    <title_clean>In Your Face City Trains</title_clean>
+    <title_search>in your face city trains</title_search>
+    <image ext="png" id="In Your Face City Trains" source="https://github.com/libretro-thumbnails/Lutro/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="In Your Face City Trains" source="https://github.com/libretro-thumbnails/Lutro/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lutris Launcher">
+    <description>Lutris Launcher</description>
+    <title_clean>Lutris Launcher</title_clean>
+    <title_search>lutris launcher</title_search>
+  </game>
+  <game name="Platformer">
+    <description>Platformer</description>
+    <title_clean>Platformer</title_clean>
+    <title_search>platformer</title_search>
+    <image ext="png" id="Platformer" source="https://github.com/libretro-thumbnails/Lutro/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Pong">
+    <description>Pong</description>
+    <title_clean>Pong</title_clean>
+    <title_search>pong</title_search>
+    <image ext="png" id="Pong" source="https://github.com/libretro-thumbnails/Lutro/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Sienna">
+    <description>Sienna</description>
+    <title_clean>Sienna</title_clean>
+    <title_search>sienna</title_search>
+    <image ext="png" id="Sienna" source="https://github.com/libretro-thumbnails/Lutro/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sienna" source="https://github.com/libretro-thumbnails/Lutro/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Snake">
+    <description>Snake</description>
+    <title_clean>Snake</title_clean>
+    <title_search>snake</title_search>
+    <image ext="png" id="Snake" source="https://github.com/libretro-thumbnails/Lutro/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Spaceship">
+    <description>Spaceship</description>
+    <title_clean>Spaceship</title_clean>
+    <title_search>spaceship</title_search>
+    <image ext="png" id="Spaceship" source="https://github.com/libretro-thumbnails/Lutro/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Tetris">
+    <description>Tetris</description>
+    <title_clean>Tetris</title_clean>
+    <title_search>tetris</title_search>
+    <image ext="png" id="Tetris" source="https://github.com/libretro-thumbnails/Lutro/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+</datafile>

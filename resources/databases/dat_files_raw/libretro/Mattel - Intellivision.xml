@@ -1,0 +1,983 @@
+<datafile>
+  <game name="4-TRIS (2000) (Joseph Zbiciak)">
+    <description>4-TRIS (2000) (Joseph Zbiciak)</description>
+    <title_clean>4-TRIS</title_clean>
+    <title_search>4tris</title_search>
+  </game>
+  <game name="ABPA Backgammon ~ Backgammon (World)">
+    <description>ABPA Backgammon ~ Backgammon (World)</description>
+    <title_clean>ABPA Backgammon ~ Backgammon</title_clean>
+    <title_search>abpa backgammon backgammon</title_search>
+  </game>
+  <game name="Advanced Dungeons _ Dragons (USA, Europe)">
+    <description>Advanced Dungeons _ Dragons (USA, Europe)</description>
+    <title_clean>Advanced Dungeons _ Dragons</title_clean>
+    <title_search>advanced dungeons dragons</title_search>
+  </game>
+  <game name="Advanced Dungeons _ Dragons - Treasure of Tarmin (USA)">
+    <description>Advanced Dungeons _ Dragons - Treasure of Tarmin (USA)</description>
+    <title_clean>Advanced Dungeons _ Dragons - Treasure of Tarmin</title_clean>
+    <title_search>advanced dungeons dragons treasure of tarmin</title_search>
+  </game>
+  <game name="Adventure (USA, Europe)">
+    <description>Adventure (USA, Europe)</description>
+    <title_clean>Adventure</title_clean>
+    <title_search>adventure</title_search>
+  </game>
+  <game name="Air Strike (USA) (Proto)">
+    <description>Air Strike (USA) (Proto)</description>
+    <title_clean>Air Strike</title_clean>
+    <title_search>air strike</title_search>
+  </game>
+  <game name="All-Star Major League Baseball (USA) (Beta)">
+    <description>All-Star Major League Baseball (USA) (Beta)</description>
+    <title_clean>All-Star Major League Baseball</title_clean>
+    <title_search>allstar major league baseball</title_search>
+  </game>
+  <game name="Armor Battle (USA, Europe)">
+    <description>Armor Battle (USA, Europe)</description>
+    <title_clean>Armor Battle</title_clean>
+    <title_search>armor battle</title_search>
+  </game>
+  <game name="Astrosmash (USA, Europe)">
+    <description>Astrosmash (USA, Europe)</description>
+    <title_clean>Astrosmash</title_clean>
+    <title_search>astrosmash</title_search>
+  </game>
+  <game name="Atlantis (USA, Europe)">
+    <description>Atlantis (USA, Europe)</description>
+    <title_clean>Atlantis</title_clean>
+    <title_search>atlantis</title_search>
+  </game>
+  <game name="Auto Racing (World)">
+    <description>Auto Racing (World)</description>
+    <title_clean>Auto Racing</title_clean>
+    <title_search>auto racing</title_search>
+    <image ext="png" id="Auto Racing (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Auto Racing (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Auto Racing (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="B-17 Bomber (USA, Europe)">
+    <description>B-17 Bomber (USA, Europe)</description>
+    <title_clean>B-17 Bomber</title_clean>
+    <title_search>b17 bomber</title_search>
+  </game>
+  <game name="BattleTanks (USA)">
+    <description>BattleTanks (USA)</description>
+    <title_clean>BattleTanks</title_clean>
+    <title_search>battletanks</title_search>
+  </game>
+  <game name="Beamrider (USA, Europe)">
+    <description>Beamrider (USA, Europe)</description>
+    <title_clean>Beamrider</title_clean>
+    <title_search>beamrider</title_search>
+  </game>
+  <game name="Beauty _ the Beast (USA, Europe)">
+    <description>Beauty _ the Beast (USA, Europe)</description>
+    <title_clean>Beauty _ the Beast</title_clean>
+    <title_search>beauty the beast</title_search>
+  </game>
+  <game name="Biplanes (USA)">
+    <description>Biplanes (USA)</description>
+    <title_clean>Biplanes</title_clean>
+    <title_search>biplanes</title_search>
+  </game>
+  <game name="Blockade Runner (USA)">
+    <description>Blockade Runner (USA)</description>
+    <title_clean>Blockade Runner</title_clean>
+    <title_search>blockade runner</title_search>
+  </game>
+  <game name="Body Slam! - Super Pro Wrestling (USA)">
+    <description>Body Slam! - Super Pro Wrestling (USA)</description>
+    <title_clean>Body Slam! - Super Pro Wrestling</title_clean>
+    <title_search>body slam super pro wrestling</title_search>
+  </game>
+  <game name="Bomb Squad (USA)">
+    <description>Bomb Squad (USA)</description>
+    <title_clean>Bomb Squad</title_clean>
+    <title_search>bomb squad</title_search>
+  </game>
+  <game name="Boxing (World)">
+    <description>Boxing (World)</description>
+    <title_clean>Boxing</title_clean>
+    <title_search>boxing</title_search>
+    <image ext="png" id="Boxing (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Boxing (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Boxing (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Brickout! (USA) (Proto)">
+    <description>Brickout! (USA) (Proto)</description>
+    <title_clean>Brickout!</title_clean>
+    <title_search>brickout</title_search>
+  </game>
+  <game name="Bump 'n' Jump (USA)">
+    <description>Bump 'n' Jump (USA)</description>
+    <title_clean>Bump 'n' Jump</title_clean>
+    <title_search>bump n jump</title_search>
+  </game>
+  <game name="BurgerTime (USA, Europe)">
+    <description>BurgerTime (USA, Europe)</description>
+    <title_clean>BurgerTime</title_clean>
+    <title_search>burgertime</title_search>
+  </game>
+  <game name="Buzz Bombers (USA, Europe)">
+    <description>Buzz Bombers (USA, Europe)</description>
+    <title_clean>Buzz Bombers</title_clean>
+    <title_search>buzz bombers</title_search>
+  </game>
+  <game name="Buzz Bombers (USA, Europe) (Alt 1)">
+    <description>Buzz Bombers (USA, Europe) (Alt 1)</description>
+    <title_clean>Buzz Bombers</title_clean>
+    <title_search>buzz bombers</title_search>
+  </game>
+  <game name="Carnival (USA, Europe)">
+    <description>Carnival (USA, Europe)</description>
+    <title_clean>Carnival</title_clean>
+    <title_search>carnival</title_search>
+  </game>
+  <game name="Centipede (USA)">
+    <description>Centipede (USA)</description>
+    <title_clean>Centipede</title_clean>
+    <title_search>centipede</title_search>
+  </game>
+  <game name="Championship Tennis (Europe)">
+    <description>Championship Tennis (Europe)</description>
+    <title_clean>Championship Tennis</title_clean>
+    <title_search>championship tennis</title_search>
+  </game>
+  <game name="Checkers ~ Draughts (USA, Europe)">
+    <description>Checkers ~ Draughts (USA, Europe)</description>
+    <title_clean>Checkers ~ Draughts</title_clean>
+    <title_search>checkers draughts</title_search>
+  </game>
+  <game name="Chip Shot - Super Pro Golf (USA)">
+    <description>Chip Shot - Super Pro Golf (USA)</description>
+    <title_clean>Chip Shot - Super Pro Golf</title_clean>
+    <title_search>chip shot super pro golf</title_search>
+  </game>
+  <game name="Commando (USA)">
+    <description>Commando (USA)</description>
+    <title_clean>Commando</title_clean>
+    <title_search>commando</title_search>
+  </game>
+  <game name="Congo Bongo (USA)">
+    <description>Congo Bongo (USA)</description>
+    <title_clean>Congo Bongo</title_clean>
+    <title_search>congo bongo</title_search>
+  </game>
+  <game name="Crazy Clones (USA) (Proto)">
+    <description>Crazy Clones (USA) (Proto)</description>
+    <title_clean>Crazy Clones</title_clean>
+    <title_search>crazy clones</title_search>
+  </game>
+  <game name="Crosswords (USA)">
+    <description>Crosswords (USA)</description>
+    <title_clean>Crosswords</title_clean>
+    <title_search>crosswords</title_search>
+  </game>
+  <game name="Deadly Dogs (USA, Europe) (Beta)">
+    <description>Deadly Dogs (USA, Europe) (Beta)</description>
+    <title_clean>Deadly Dogs</title_clean>
+    <title_search>deadly dogs</title_search>
+  </game>
+  <game name="Deep Pockets - Super Pro Pool _ Billiards (USA) (Proto)">
+    <description>Deep Pockets - Super Pro Pool _ Billiards (USA) (Proto)</description>
+    <title_clean>Deep Pockets - Super Pro Pool _ Billiards</title_clean>
+    <title_search>deep pockets super pro pool billiards</title_search>
+  </game>
+  <game name="Defender (USA)">
+    <description>Defender (USA)</description>
+    <title_clean>Defender</title_clean>
+    <title_search>defender</title_search>
+  </game>
+  <game name="Demon Attack (USA, Europe)">
+    <description>Demon Attack (USA, Europe)</description>
+    <title_clean>Demon Attack</title_clean>
+    <title_search>demon attack</title_search>
+  </game>
+  <game name="Demonstration Cartridge - Blue (USA)">
+    <description>Demonstration Cartridge - Blue (USA)</description>
+    <title_clean>Demonstration Cartridge - Blue</title_clean>
+    <title_search>demonstration cartridge blue</title_search>
+  </game>
+  <game name="Demonstration Cartridge - Green (USA)">
+    <description>Demonstration Cartridge - Green (USA)</description>
+    <title_clean>Demonstration Cartridge - Green</title_clean>
+    <title_search>demonstration cartridge green</title_search>
+  </game>
+  <game name="Demonstration Cartridge - Red (USA)">
+    <description>Demonstration Cartridge - Red (USA)</description>
+    <title_clean>Demonstration Cartridge - Red</title_clean>
+    <title_search>demonstration cartridge red</title_search>
+  </game>
+  <game name="Dig Dug (USA)">
+    <description>Dig Dug (USA)</description>
+    <title_clean>Dig Dug</title_clean>
+    <title_search>dig dug</title_search>
+  </game>
+  <game name="Diner (USA)">
+    <description>Diner (USA)</description>
+    <title_clean>Diner</title_clean>
+    <title_search>diner</title_search>
+  </game>
+  <game name="Donkey Kong (USA, Europe)">
+    <description>Donkey Kong (USA, Europe)</description>
+    <title_clean>Donkey Kong</title_clean>
+    <title_search>donkey kong</title_search>
+  </game>
+  <game name="Donkey Kong Junior (USA, Europe)">
+    <description>Donkey Kong Junior (USA, Europe)</description>
+    <title_clean>Donkey Kong Junior</title_clean>
+    <title_search>donkey kong junior</title_search>
+  </game>
+  <game name="Dracula (USA, Europe)">
+    <description>Dracula (USA, Europe)</description>
+    <title_clean>Dracula</title_clean>
+    <title_search>dracula</title_search>
+  </game>
+  <game name="Dragonfire (USA, Europe)">
+    <description>Dragonfire (USA, Europe)</description>
+    <title_clean>Dragonfire</title_clean>
+    <title_search>dragonfire</title_search>
+  </game>
+  <game name="Dreadnaught Factor, The (USA)">
+    <description>Dreadnaught Factor, The (USA)</description>
+    <title_clean>The Dreadnaught Factor</title_clean>
+    <title_search>the dreadnaught factor</title_search>
+  </game>
+  <game name="Dreadnaught Factor, The (USA) (Beta)">
+    <description>Dreadnaught Factor, The (USA) (Beta)</description>
+    <title_clean>The Dreadnaught Factor</title_clean>
+    <title_search>the dreadnaught factor</title_search>
+  </game>
+  <game name="Duncan's Thin Ice (USA)">
+    <description>Duncan's Thin Ice (USA)</description>
+    <title_clean>Duncan's Thin Ice</title_clean>
+    <title_search>duncans thin ice</title_search>
+  </game>
+  <game name="Electric Company, The - Math Fun (USA, Europe)">
+    <description>Electric Company, The - Math Fun (USA, Europe)</description>
+    <title_clean>The Electric Company - Math Fun</title_clean>
+    <title_search>the electric company math fun</title_search>
+  </game>
+  <game name="Electric Company, The - Word Fun (USA, Europe)">
+    <description>Electric Company, The - Word Fun (USA, Europe)</description>
+    <title_clean>The Electric Company - Word Fun</title_clean>
+    <title_search>the electric company word fun</title_search>
+  </game>
+  <game name="Factor Fun (USA)">
+    <description>Factor Fun (USA)</description>
+    <title_clean>Factor Fun</title_clean>
+    <title_search>factor fun</title_search>
+  </game>
+  <game name="Fathom (USA, Europe)">
+    <description>Fathom (USA, Europe)</description>
+    <title_clean>Fathom</title_clean>
+    <title_search>fathom</title_search>
+  </game>
+  <game name="Frog Bog (World)">
+    <description>Frog Bog (World)</description>
+    <title_clean>Frog Bog</title_clean>
+    <title_search>frog bog</title_search>
+    <image ext="png" id="Frog Bog (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Frog Bog (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Frog Bog (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Frogger (USA, Europe)">
+    <description>Frogger (USA, Europe)</description>
+    <title_clean>Frogger</title_clean>
+    <title_search>frogger</title_search>
+  </game>
+  <game name="Game Factory (USA) (Proto)">
+    <description>Game Factory (USA) (Proto)</description>
+    <title_clean>Game Factory</title_clean>
+    <title_search>game factory</title_search>
+  </game>
+  <game name="Go for the Gold (USA) (Proto)">
+    <description>Go for the Gold (USA) (Proto)</description>
+    <title_clean>Go for the Gold</title_clean>
+    <title_search>go for the gold</title_search>
+  </game>
+  <game name="Grid Shock (USA) (Proto)">
+    <description>Grid Shock (USA) (Proto)</description>
+    <title_clean>Grid Shock</title_clean>
+    <title_search>grid shock</title_search>
+  </game>
+  <game name="Happy Holidays - Easter Eggcitement (USA) (Proto)">
+    <description>Happy Holidays - Easter Eggcitement (USA) (Proto)</description>
+    <title_clean>Happy Holidays - Easter Eggcitement</title_clean>
+    <title_search>happy holidays easter eggcitement</title_search>
+  </game>
+  <game name="Happy Holidays - Santa's Helper (USA) (Proto)">
+    <description>Happy Holidays - Santa's Helper (USA) (Proto)</description>
+    <title_clean>Happy Holidays - Santa's Helper</title_clean>
+    <title_search>happy holidays santas helper</title_search>
+  </game>
+  <game name="Happy Trails (USA, Europe)">
+    <description>Happy Trails (USA, Europe)</description>
+    <title_clean>Happy Trails</title_clean>
+    <title_search>happy trails</title_search>
+  </game>
+  <game name="Horse Racing (World)">
+    <description>Horse Racing (World)</description>
+    <title_clean>Horse Racing</title_clean>
+    <title_search>horse racing</title_search>
+    <image ext="png" id="Horse Racing (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Horse Racing (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Horse Racing (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hover Force (USA)">
+    <description>Hover Force (USA)</description>
+    <title_clean>Hover Force</title_clean>
+    <title_search>hover force</title_search>
+  </game>
+  <game name="Hypnotic Lights (USA) (Proto)">
+    <description>Hypnotic Lights (USA) (Proto)</description>
+    <title_clean>Hypnotic Lights</title_clean>
+    <title_search>hypnotic lights</title_search>
+  </game>
+  <game name="IMI Test Cartridge (USA)">
+    <description>IMI Test Cartridge (USA)</description>
+    <title_clean>IMI Test Cartridge</title_clean>
+    <title_search>imi test cartridge</title_search>
+  </game>
+  <game name="Ice Trek (USA, Europe)">
+    <description>Ice Trek (USA, Europe)</description>
+    <title_clean>Ice Trek</title_clean>
+    <title_search>ice trek</title_search>
+  </game>
+  <game name="Illusions (USA) (Proto)">
+    <description>Illusions (USA) (Proto)</description>
+    <title_clean>Illusions</title_clean>
+    <title_search>illusions</title_search>
+  </game>
+  <game name="International Demonstration Cartridge (World)">
+    <description>International Demonstration Cartridge (World)</description>
+    <title_clean>International Demonstration Cartridge</title_clean>
+    <title_search>international demonstration cartridge</title_search>
+  </game>
+  <game name="Jetsons' Ways with Words, The (USA)">
+    <description>Jetsons' Ways with Words, The (USA)</description>
+    <title_clean>The Jetsons' Ways with Words</title_clean>
+    <title_search>the jetsons ways with words</title_search>
+  </game>
+  <game name="King of the Mountain (USA) (Proto)">
+    <description>King of the Mountain (USA) (Proto)</description>
+    <title_clean>King of the Mountain</title_clean>
+    <title_search>king of the mountain</title_search>
+  </game>
+  <game name="Kool-Aid Man (USA)">
+    <description>Kool-Aid Man (USA)</description>
+    <title_clean>Kool-Aid Man</title_clean>
+    <title_search>koolaid man</title_search>
+  </game>
+  <game name="Lady Bug (USA, Europe)">
+    <description>Lady Bug (USA, Europe)</description>
+    <title_clean>Lady Bug</title_clean>
+    <title_search>lady bug</title_search>
+  </game>
+  <game name="Land Battle (USA) (Proto)">
+    <description>Land Battle (USA) (Proto)</description>
+    <title_clean>Land Battle</title_clean>
+    <title_search>land battle</title_search>
+  </game>
+  <game name="Las Vegas Poker _ Blackjack (World)">
+    <description>Las Vegas Poker _ Blackjack (World)</description>
+    <title_clean>Las Vegas Poker _ Blackjack</title_clean>
+    <title_search>las vegas poker blackjack</title_search>
+  </game>
+  <game name="Las Vegas Roulette (World)">
+    <description>Las Vegas Roulette (World)</description>
+    <title_clean>Las Vegas Roulette</title_clean>
+    <title_search>las vegas roulette</title_search>
+    <image ext="png" id="Las Vegas Roulette (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Las Vegas Roulette (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Las Vegas Roulette (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="League of Light (USA) (Proto)">
+    <description>League of Light (USA) (Proto)</description>
+    <title_clean>League of Light</title_clean>
+    <title_search>league of light</title_search>
+  </game>
+  <game name="Learning Fun I - Math Master, Factor Fun (USA)">
+    <description>Learning Fun I - Math Master, Factor Fun (USA)</description>
+    <title_clean>Learning Fun I - Math Master, Factor Fun</title_clean>
+    <title_search>learning fun i math master factor fun</title_search>
+  </game>
+  <game name="Learning Fun II - Word Wizard, Memory Fun (USA)">
+    <description>Learning Fun II - Word Wizard, Memory Fun (USA)</description>
+    <title_clean>Learning Fun II - Word Wizard, Memory Fun</title_clean>
+    <title_search>learning fun ii word wizard memory fun</title_search>
+  </game>
+  <game name="Lock 'N' Chase (USA, Europe)">
+    <description>Lock 'N' Chase (USA, Europe)</description>
+    <title_clean>Lock 'N' Chase</title_clean>
+    <title_search>lock n chase</title_search>
+  </game>
+  <game name="Lock 'N' Chase (USA, Europe) (Rev 1)">
+    <description>Lock 'N' Chase (USA, Europe) (Rev 1)</description>
+    <title_clean>Lock 'N' Chase</title_clean>
+    <title_search>lock n chase</title_search>
+  </game>
+  <game name="Loco-Motion (USA)">
+    <description>Loco-Motion (USA)</description>
+    <title_clean>Loco-Motion</title_clean>
+    <title_search>locomotion</title_search>
+  </game>
+  <game name="MTE201 Intellivision Test Cartridge (USA)">
+    <description>MTE201 Intellivision Test Cartridge (USA)</description>
+    <title_clean>MTE201 Intellivision Test Cartridge</title_clean>
+    <title_search>mte201 intellivision test cartridge</title_search>
+  </game>
+  <game name="Magic Carousel (USA) (Proto)">
+    <description>Magic Carousel (USA) (Proto)</description>
+    <title_clean>Magic Carousel</title_clean>
+    <title_search>magic carousel</title_search>
+  </game>
+  <game name="Magic Carousel (USA) (Proto) (Alt 1)">
+    <description>Magic Carousel (USA) (Proto) (Alt 1)</description>
+    <title_clean>Magic Carousel</title_clean>
+    <title_search>magic carousel</title_search>
+  </game>
+  <game name="Major League Baseball ~ Big League Baseball ~ Baseball (World)">
+    <description>Major League Baseball ~ Big League Baseball ~ Baseball (World)</description>
+    <title_clean>Major League Baseball ~ Big League Baseball ~ Baseball</title_clean>
+    <title_search>major league baseball big league baseball baseball</title_search>
+  </game>
+  <game name="Masters of the Universe - The Power of He-Man (USA, Europe)">
+    <description>Masters of the Universe - The Power of He-Man (USA, Europe)</description>
+    <title_clean>Masters of the Universe - The Power of He-Man</title_clean>
+    <title_search>masters of the universe the power of heman</title_search>
+  </game>
+  <game name="Math Master (USA)">
+    <description>Math Master (USA)</description>
+    <title_clean>Math Master</title_clean>
+    <title_search>math master</title_search>
+  </game>
+  <game name="Melody Blaster (USA, Europe)">
+    <description>Melody Blaster (USA, Europe)</description>
+    <title_clean>Melody Blaster</title_clean>
+    <title_search>melody blaster</title_search>
+  </game>
+  <game name="Memory Fun (USA)">
+    <description>Memory Fun (USA)</description>
+    <title_clean>Memory Fun</title_clean>
+    <title_search>memory fun</title_search>
+  </game>
+  <game name="Meteor (USA, Europe) (Beta)">
+    <description>Meteor (USA, Europe) (Beta)</description>
+    <title_clean>Meteor</title_clean>
+    <title_search>meteor</title_search>
+  </game>
+  <game name="Microsurgeon (USA, Europe)">
+    <description>Microsurgeon (USA, Europe)</description>
+    <title_clean>Microsurgeon</title_clean>
+    <title_search>microsurgeon</title_search>
+  </game>
+  <game name="Mind Strike (USA, Europe)">
+    <description>Mind Strike (USA, Europe)</description>
+    <title_clean>Mind Strike</title_clean>
+    <title_search>mind strike</title_search>
+  </game>
+  <game name="Minotaur (USA)">
+    <description>Minotaur (USA)</description>
+    <title_clean>Minotaur</title_clean>
+    <title_search>minotaur</title_search>
+  </game>
+  <game name="Mission X (USA, Europe)">
+    <description>Mission X (USA, Europe)</description>
+    <title_clean>Mission X</title_clean>
+    <title_search>mission x</title_search>
+  </game>
+  <game name="Motocross (USA)">
+    <description>Motocross (USA)</description>
+    <title_clean>Motocross</title_clean>
+    <title_search>motocross</title_search>
+  </game>
+  <game name="Mountain Madness - Super Pro Skiing (USA)">
+    <description>Mountain Madness - Super Pro Skiing (USA)</description>
+    <title_clean>Mountain Madness - Super Pro Skiing</title_clean>
+    <title_search>mountain madness super pro skiing</title_search>
+  </game>
+  <game name="Mouse Trap (USA, Europe)">
+    <description>Mouse Trap (USA, Europe)</description>
+    <title_clean>Mouse Trap</title_clean>
+    <title_search>mouse trap</title_search>
+  </game>
+  <game name="Mr. BASIC Meets Bits 'N Bytes (USA)">
+    <description>Mr. BASIC Meets Bits 'N Bytes (USA)</description>
+    <title_clean>Mr. BASIC Meets Bits 'N Bytes</title_clean>
+    <title_search>mr basic meets bits n bytes</title_search>
+  </game>
+  <game name="NASL Soccer ~ Soccer (World)">
+    <description>NASL Soccer ~ Soccer (World)</description>
+    <title_clean>NASL Soccer ~ Soccer</title_clean>
+    <title_search>nasl soccer soccer</title_search>
+  </game>
+  <game name="NBA Basketball ~ Basketball (USA, Europe)">
+    <description>NBA Basketball ~ Basketball (USA, Europe)</description>
+    <title_clean>NBA Basketball ~ Basketball</title_clean>
+    <title_search>nba basketball basketball</title_search>
+  </game>
+  <game name="NFL Football ~ Football (World)">
+    <description>NFL Football ~ Football (World)</description>
+    <title_clean>NFL Football ~ Football</title_clean>
+    <title_search>nfl football football</title_search>
+  </game>
+  <game name="NHL Hockey ~ Hockey (World)">
+    <description>NHL Hockey ~ Hockey (World)</description>
+    <title_clean>NHL Hockey ~ Hockey</title_clean>
+    <title_search>nhl hockey hockey</title_search>
+  </game>
+  <game name="Night Stalker (World)">
+    <description>Night Stalker (World)</description>
+    <title_clean>Night Stalker</title_clean>
+    <title_search>night stalker</title_search>
+    <image ext="png" id="Night Stalker (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Night Stalker (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Night Stalker (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nova Blast (USA, Europe)">
+    <description>Nova Blast (USA, Europe)</description>
+    <title_clean>Nova Blast</title_clean>
+    <title_search>nova blast</title_search>
+  </game>
+  <game name="Number Jumble (USA) (Proto)">
+    <description>Number Jumble (USA) (Proto)</description>
+    <title_clean>Number Jumble</title_clean>
+    <title_search>number jumble</title_search>
+  </game>
+  <game name="Number Jumble (USA) (Proto) (Alt 1)">
+    <description>Number Jumble (USA) (Proto) (Alt 1)</description>
+    <title_clean>Number Jumble</title_clean>
+    <title_search>number jumble</title_search>
+  </game>
+  <game name="PBA Bowling ~ Bowling (World)">
+    <description>PBA Bowling ~ Bowling (World)</description>
+    <title_clean>PBA Bowling ~ Bowling</title_clean>
+    <title_search>pba bowling bowling</title_search>
+  </game>
+  <game name="PGA Golf ~ Golf (World)">
+    <description>PGA Golf ~ Golf (World)</description>
+    <title_clean>PGA Golf ~ Golf</title_clean>
+    <title_search>pga golf golf</title_search>
+  </game>
+  <game name="Pac-Man (USA) (Atarisoft)">
+    <description>Pac-Man (USA) (Atarisoft)</description>
+    <title_clean>Pac-Man</title_clean>
+    <title_search>pacman</title_search>
+  </game>
+  <game name="Pac-Man (USA) (INTV Corp.)">
+    <description>Pac-Man (USA) (INTV Corp.)</description>
+    <title_clean>Pac-Man</title_clean>
+    <title_search>pacman</title_search>
+  </game>
+  <game name="Party Line - Blow Out (USA) (Proto)">
+    <description>Party Line - Blow Out (USA) (Proto)</description>
+    <title_clean>Party Line - Blow Out</title_clean>
+    <title_search>party line blow out</title_search>
+  </game>
+  <game name="Party Line - Hard Hat (USA) (Proto)">
+    <description>Party Line - Hard Hat (USA) (Proto)</description>
+    <title_clean>Party Line - Hard Hat</title_clean>
+    <title_search>party line hard hat</title_search>
+  </game>
+  <game name="Party Line - Space Cadet (USA) (Proto)">
+    <description>Party Line - Space Cadet (USA) (Proto)</description>
+    <title_clean>Party Line - Space Cadet</title_clean>
+    <title_search>party line space cadet</title_search>
+  </game>
+  <game name="Party Line - Space Cadet (USA) (Proto) (Alt 1)">
+    <description>Party Line - Space Cadet (USA) (Proto) (Alt 1)</description>
+    <title_clean>Party Line - Space Cadet</title_clean>
+    <title_search>party line space cadet</title_search>
+  </game>
+  <game name="Pinball (USA)">
+    <description>Pinball (USA)</description>
+    <title_clean>Pinball</title_clean>
+    <title_search>pinball</title_search>
+  </game>
+  <game name="Pitfall! (USA, Europe)">
+    <description>Pitfall! (USA, Europe)</description>
+    <title_clean>Pitfall!</title_clean>
+    <title_search>pitfall</title_search>
+  </game>
+  <game name="Pole Position (USA)">
+    <description>Pole Position (USA)</description>
+    <title_clean>Pole Position</title_clean>
+    <title_search>pole position</title_search>
+  </game>
+  <game name="Popeye (USA, Europe)">
+    <description>Popeye (USA, Europe)</description>
+    <title_clean>Popeye</title_clean>
+    <title_search>popeye</title_search>
+  </game>
+  <game name="Q-bert (USA, Europe)">
+    <description>Q-bert (USA, Europe)</description>
+    <title_clean>Q-bert</title_clean>
+    <title_search>qbert</title_search>
+  </game>
+  <game name="Racing Cars (USA)">
+    <description>Racing Cars (USA)</description>
+    <title_clean>Racing Cars</title_clean>
+    <title_search>racing cars</title_search>
+  </game>
+  <game name="Reversi (USA, Europe)">
+    <description>Reversi (USA, Europe)</description>
+    <title_clean>Reversi</title_clean>
+    <title_search>reversi</title_search>
+  </game>
+  <game name="River Raid (USA, Europe)">
+    <description>River Raid (USA, Europe)</description>
+    <title_clean>River Raid</title_clean>
+    <title_search>river raid</title_search>
+  </game>
+  <game name="River Raid (USA, Europe) (Beta)">
+    <description>River Raid (USA, Europe) (Beta)</description>
+    <title_clean>River Raid</title_clean>
+    <title_search>river raid</title_search>
+  </game>
+  <game name="Robot Rubble (USA) (Proto 1)">
+    <description>Robot Rubble (USA) (Proto 1)</description>
+    <title_clean>Robot Rubble</title_clean>
+    <title_search>robot rubble</title_search>
+  </game>
+  <game name="Robot Rubble (USA) (Proto 2)">
+    <description>Robot Rubble (USA) (Proto 2)</description>
+    <title_clean>Robot Rubble</title_clean>
+    <title_search>robot rubble</title_search>
+  </game>
+  <game name="Robot Rubble (USA) (Proto 3)">
+    <description>Robot Rubble (USA) (Proto 3)</description>
+    <title_clean>Robot Rubble</title_clean>
+    <title_search>robot rubble</title_search>
+  </game>
+  <game name="Rocky _ Bullwinckle (USA) (Proto)">
+    <description>Rocky _ Bullwinckle (USA) (Proto)</description>
+    <title_clean>Rocky _ Bullwinckle</title_clean>
+    <title_search>rocky bullwinckle</title_search>
+  </game>
+  <game name="Royal Dealer (USA, Europe)">
+    <description>Royal Dealer (USA, Europe)</description>
+    <title_clean>Royal Dealer</title_clean>
+    <title_search>royal dealer</title_search>
+  </game>
+  <game name="SNAFU (World)">
+    <description>SNAFU (World)</description>
+    <title_clean>SNAFU</title_clean>
+    <title_search>snafu</title_search>
+  </game>
+  <game name="Safecracker (USA, Europe)">
+    <description>Safecracker (USA, Europe)</description>
+    <title_clean>Safecracker</title_clean>
+    <title_search>safecracker</title_search>
+  </game>
+  <game name="Scarfinger (USA) (Proto)">
+    <description>Scarfinger (USA) (Proto)</description>
+    <title_clean>Scarfinger</title_clean>
+    <title_search>scarfinger</title_search>
+  </game>
+  <game name="Scooby Doo's Maze Chase (USA, Europe)">
+    <description>Scooby Doo's Maze Chase (USA, Europe)</description>
+    <title_clean>Scooby Doo's Maze Chase</title_clean>
+    <title_search>scooby doos maze chase</title_search>
+  </game>
+  <game name="Sea Battle (World)">
+    <description>Sea Battle (World)</description>
+    <title_clean>Sea Battle</title_clean>
+    <title_search>sea battle</title_search>
+    <image ext="png" id="Sea Battle (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sea Battle (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sea Battle (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sewer Sam (USA)">
+    <description>Sewer Sam (USA)</description>
+    <title_clean>Sewer Sam</title_clean>
+    <title_search>sewer sam</title_search>
+  </game>
+  <game name="Shark! Shark! (USA, Europe)">
+    <description>Shark! Shark! (USA, Europe)</description>
+    <title_clean>Shark! Shark!</title_clean>
+    <title_search>shark shark</title_search>
+  </game>
+  <game name="Sharp Shot (USA, Europe)">
+    <description>Sharp Shot (USA, Europe)</description>
+    <title_clean>Sharp Shot</title_clean>
+    <title_search>sharp shot</title_search>
+  </game>
+  <game name="Slam Dunk - Super Pro Basketball (USA)">
+    <description>Slam Dunk - Super Pro Basketball (USA)</description>
+    <title_clean>Slam Dunk - Super Pro Basketball</title_clean>
+    <title_search>slam dunk super pro basketball</title_search>
+  </game>
+  <game name="Slap Shot - Super Pro Hockey (USA)">
+    <description>Slap Shot - Super Pro Hockey (USA)</description>
+    <title_clean>Slap Shot - Super Pro Hockey</title_clean>
+    <title_search>slap shot super pro hockey</title_search>
+  </game>
+  <game name="Space Armada (World)">
+    <description>Space Armada (World)</description>
+    <title_clean>Space Armada</title_clean>
+    <title_search>space armada</title_search>
+    <image ext="png" id="Space Armada (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Armada (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Armada (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Battle (World)">
+    <description>Space Battle (World)</description>
+    <title_clean>Space Battle</title_clean>
+    <title_search>space battle</title_search>
+    <image ext="png" id="Space Battle (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Battle (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Battle (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Hawk (USA, Europe)">
+    <description>Space Hawk (USA, Europe)</description>
+    <title_clean>Space Hawk</title_clean>
+    <title_search>space hawk</title_search>
+  </game>
+  <game name="Space Spartans (USA, Europe)">
+    <description>Space Spartans (USA, Europe)</description>
+    <title_clean>Space Spartans</title_clean>
+    <title_search>space spartans</title_search>
+  </game>
+  <game name="Spiker - Super Pro Volleyball (USA)">
+    <description>Spiker - Super Pro Volleyball (USA)</description>
+    <title_clean>Spiker - Super Pro Volleyball</title_clean>
+    <title_search>spiker super pro volleyball</title_search>
+  </game>
+  <game name="Stadium Mud Buggies (USA)">
+    <description>Stadium Mud Buggies (USA)</description>
+    <title_clean>Stadium Mud Buggies</title_clean>
+    <title_search>stadium mud buggies</title_search>
+  </game>
+  <game name="Stampede (USA, Europe)">
+    <description>Stampede (USA, Europe)</description>
+    <title_clean>Stampede</title_clean>
+    <title_search>stampede</title_search>
+  </game>
+  <game name="Star Strike (World)">
+    <description>Star Strike (World)</description>
+    <title_clean>Star Strike</title_clean>
+    <title_search>star strike</title_search>
+    <image ext="png" id="Star Strike (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Strike (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Strike (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Wars - The Empire Strikes Back (USA, Europe)">
+    <description>Star Wars - The Empire Strikes Back (USA, Europe)</description>
+    <title_clean>Star Wars - The Empire Strikes Back</title_clean>
+    <title_search>star wars the empire strikes back</title_search>
+  </game>
+  <game name="Street ~ Happy Holidays - Trick or Treat (USA) (Proto)">
+    <description>Street ~ Happy Holidays - Trick or Treat (USA) (Proto)</description>
+    <title_clean>Street ~ Happy Holidays - Trick or Treat</title_clean>
+    <title_search>street happy holidays trick or treat</title_search>
+  </game>
+  <game name="Sub Hunt (USA, Europe)">
+    <description>Sub Hunt (USA, Europe)</description>
+    <title_clean>Sub Hunt</title_clean>
+    <title_search>sub hunt</title_search>
+  </game>
+  <game name="Super Cobra (Europe, Canada)">
+    <description>Super Cobra (Europe, Canada)</description>
+    <title_clean>Super Cobra</title_clean>
+    <title_search>super cobra</title_search>
+  </game>
+  <game name="Super Masters! (USA) (Proto)">
+    <description>Super Masters! (USA) (Proto)</description>
+    <title_clean>Super Masters!</title_clean>
+    <title_search>super masters</title_search>
+  </game>
+  <game name="Super NFL Footbal (USA) (Proto)">
+    <description>Super NFL Footbal (USA) (Proto)</description>
+    <title_clean>Super NFL Footbal</title_clean>
+    <title_search>super nfl footbal</title_search>
+  </game>
+  <game name="Super Pro Decathlon (USA)">
+    <description>Super Pro Decathlon (USA)</description>
+    <title_clean>Super Pro Decathlon</title_clean>
+    <title_search>super pro decathlon</title_search>
+  </game>
+  <game name="Super Pro Football (USA)">
+    <description>Super Pro Football (USA)</description>
+    <title_clean>Super Pro Football</title_clean>
+    <title_search>super pro football</title_search>
+  </game>
+  <game name="Super Soccer (USA) (Proto)">
+    <description>Super Soccer (USA) (Proto)</description>
+    <title_clean>Super Soccer</title_clean>
+    <title_search>super soccer</title_search>
+  </game>
+  <game name="Swords _ Serpents (USA, Europe)">
+    <description>Swords _ Serpents (USA, Europe)</description>
+    <title_clean>Swords _ Serpents</title_clean>
+    <title_search>swords serpents</title_search>
+  </game>
+  <game name="TRON (USA) (Proto)">
+    <description>TRON (USA) (Proto)</description>
+    <title_clean>TRON</title_clean>
+    <title_search>tron</title_search>
+  </game>
+  <game name="TRON Deadly Discs (USA, Europe)">
+    <description>TRON Deadly Discs (USA, Europe)</description>
+    <title_clean>TRON Deadly Discs</title_clean>
+    <title_search>tron deadly discs</title_search>
+  </game>
+  <game name="TRON Maze-A-Tron (USA, Europe)">
+    <description>TRON Maze-A-Tron (USA, Europe)</description>
+    <title_clean>TRON Maze-A-Tron</title_clean>
+    <title_search>tron mazeatron</title_search>
+  </game>
+  <game name="TRON Solar Sailer (USA, Europe)">
+    <description>TRON Solar Sailer (USA, Europe)</description>
+    <title_clean>TRON Solar Sailer</title_clean>
+    <title_search>tron solar sailer</title_search>
+  </game>
+  <game name="Takeover (USA) (Proto)">
+    <description>Takeover (USA) (Proto)</description>
+    <title_clean>Takeover</title_clean>
+    <title_search>takeover</title_search>
+  </game>
+  <game name="Tennis (World)">
+    <description>Tennis (World)</description>
+    <title_clean>Tennis</title_clean>
+    <title_search>tennis</title_search>
+    <image ext="png" id="Tennis (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tennis (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tennis (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Thin Ice (USA)">
+    <description>Thin Ice (USA)</description>
+    <title_clean>Thin Ice</title_clean>
+    <title_search>thin ice</title_search>
+  </game>
+  <game name="Thin Ice (USA) (Beta)">
+    <description>Thin Ice (USA) (Beta)</description>
+    <title_clean>Thin Ice</title_clean>
+    <title_search>thin ice</title_search>
+  </game>
+  <game name="Thunder Castle (USA)">
+    <description>Thunder Castle (USA)</description>
+    <title_clean>Thunder Castle</title_clean>
+    <title_search>thunder castle</title_search>
+  </game>
+  <game name="Tower of Doom (USA)">
+    <description>Tower of Doom (USA)</description>
+    <title_clean>Tower of Doom</title_clean>
+    <title_search>tower of doom</title_search>
+  </game>
+  <game name="Triple Action (World)">
+    <description>Triple Action (World)</description>
+    <title_clean>Triple Action</title_clean>
+    <title_search>triple action</title_search>
+    <image ext="png" id="Triple Action (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Triple Action (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Triple Action (World)" source="https://github.com/libretro-thumbnails/Mattel_-_Intellivision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Triple Challenge - Chess, Checkers, Backgammon (USA)">
+    <description>Triple Challenge - Chess, Checkers, Backgammon (USA)</description>
+    <title_clean>Triple Challenge - Chess, Checkers, Backgammon</title_clean>
+    <title_search>triple challenge chess checkers backgammon</title_search>
+  </game>
+  <game name="Tropical Trouble (USA, Europe)">
+    <description>Tropical Trouble (USA, Europe)</description>
+    <title_clean>Tropical Trouble</title_clean>
+    <title_search>tropical trouble</title_search>
+  </game>
+  <game name="Truckin' (USA)">
+    <description>Truckin' (USA)</description>
+    <title_clean>Truckin'</title_clean>
+    <title_search>truckin</title_search>
+  </game>
+  <game name="Turbo (USA, Europe)">
+    <description>Turbo (USA, Europe)</description>
+    <title_clean>Turbo</title_clean>
+    <title_search>turbo</title_search>
+  </game>
+  <game name="Tutankham (Europe)">
+    <description>Tutankham (Europe)</description>
+    <title_clean>Tutankham</title_clean>
+    <title_search>tutankham</title_search>
+  </game>
+  <game name="US Ski Team Skiing ~ Skiing (World)">
+    <description>US Ski Team Skiing ~ Skiing (World)</description>
+    <title_clean>US Ski Team Skiing ~ Skiing</title_clean>
+    <title_search>us ski team skiing skiing</title_search>
+  </game>
+  <game name="USCF Chess ~ Chess (USA, Europe)">
+    <description>USCF Chess ~ Chess (USA, Europe)</description>
+    <title_clean>USCF Chess ~ Chess</title_clean>
+    <title_search>uscf chess chess</title_search>
+  </game>
+  <game name="Utopia (USA, Europe)">
+    <description>Utopia (USA, Europe)</description>
+    <title_clean>Utopia</title_clean>
+    <title_search>utopia</title_search>
+  </game>
+  <game name="Vectron (USA, Europe)">
+    <description>Vectron (USA, Europe)</description>
+    <title_clean>Vectron</title_clean>
+    <title_search>vectron</title_search>
+  </game>
+  <game name="Vectron (USA, Europe) (Alt 1)">
+    <description>Vectron (USA, Europe) (Alt 1)</description>
+    <title_clean>Vectron</title_clean>
+    <title_search>vectron</title_search>
+  </game>
+  <game name="Venture (USA, Europe)">
+    <description>Venture (USA, Europe)</description>
+    <title_clean>Venture</title_clean>
+    <title_search>venture</title_search>
+  </game>
+  <game name="White Water! (USA, Europe)">
+    <description>White Water! (USA, Europe)</description>
+    <title_clean>White Water!</title_clean>
+    <title_search>white water</title_search>
+  </game>
+  <game name="Word Hunt (USA)">
+    <description>Word Hunt (USA)</description>
+    <title_clean>Word Hunt</title_clean>
+    <title_search>word hunt</title_search>
+  </game>
+  <game name="Word Rockets (USA)">
+    <description>Word Rockets (USA)</description>
+    <title_clean>Word Rockets</title_clean>
+    <title_search>word rockets</title_search>
+  </game>
+  <game name="World Championship Baseball (USA)">
+    <description>World Championship Baseball (USA)</description>
+    <title_clean>World Championship Baseball</title_clean>
+    <title_search>world championship baseball</title_search>
+  </game>
+  <game name="World Cup Football (Europe)">
+    <description>World Cup Football (Europe)</description>
+    <title_clean>World Cup Football</title_clean>
+    <title_search>world cup football</title_search>
+  </game>
+  <game name="World Series Major League Baseball (USA)">
+    <description>World Series Major League Baseball (USA)</description>
+    <title_clean>World Series Major League Baseball</title_clean>
+    <title_search>world series major league baseball</title_search>
+  </game>
+  <game name="Worm Whomper (USA, Europe)">
+    <description>Worm Whomper (USA, Europe)</description>
+    <title_clean>Worm Whomper</title_clean>
+    <title_search>worm whomper</title_search>
+  </game>
+  <game name="Yogi's Frustration (USA) (Proto)">
+    <description>Yogi's Frustration (USA) (Proto)</description>
+    <title_clean>Yogi's Frustration</title_clean>
+    <title_search>yogis frustration</title_search>
+  </game>
+  <game name="Zaxxon (USA, Europe)">
+    <description>Zaxxon (USA, Europe)</description>
+    <title_clean>Zaxxon</title_clean>
+    <title_search>zaxxon</title_search>
+  </game>
+  <game name="Zzzz! Spina the Bee (Europe) (Proto)">
+    <description>Zzzz! Spina the Bee (Europe) (Proto)</description>
+    <title_clean>Zzzz! Spina the Bee</title_clean>
+    <title_search>zzzz spina the bee</title_search>
+  </game>
+</datafile>

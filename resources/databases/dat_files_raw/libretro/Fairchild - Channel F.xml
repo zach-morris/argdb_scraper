@@ -1,0 +1,274 @@
+<datafile>
+  <game name="Alien Invasion (USA)">
+    <description>Alien Invasion (USA)</description>
+    <title_clean>Alien Invasion</title_clean>
+    <title_search>alien invasion</title_search>
+    <image ext="png" id="Alien Invasion (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Alien Invasion (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alien Invasion (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Backgammon, Acey-Deucey (USA)">
+    <description>Backgammon, Acey-Deucey (USA)</description>
+    <title_clean>Backgammon, Acey-Deucey</title_clean>
+    <title_search>backgammon aceydeucey</title_search>
+    <image ext="png" id="Backgammon, Acey-Deucey (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Backgammon, Acey-Deucey (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Backgammon, Acey-Deucey (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Baseball (USA)">
+    <description>Baseball (USA)</description>
+    <title_clean>Baseball</title_clean>
+    <title_search>baseball</title_search>
+    <image ext="png" id="Baseball (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Baseball (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Baseball (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bowling (USA)">
+    <description>Bowling (USA)</description>
+    <title_clean>Bowling</title_clean>
+    <title_search>bowling</title_search>
+    <image ext="png" id="Bowling (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bowling (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bowling (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Casino Poker (USA)">
+    <description>Casino Poker (USA)</description>
+    <title_clean>Casino Poker</title_clean>
+    <title_search>casino poker</title_search>
+    <image ext="png" id="Casino Poker (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Casino Poker (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Casino Poker (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Checkers (USA)">
+    <description>Checkers (USA)</description>
+    <title_clean>Checkers</title_clean>
+    <title_search>checkers</title_search>
+    <image ext="png" id="Checkers (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Checkers (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Checkers (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Demonstration Cartridge (USA)">
+    <description>Demonstration Cartridge (USA)</description>
+    <title_clean>Demonstration Cartridge</title_clean>
+    <title_search>demonstration cartridge</title_search>
+    <image ext="png" id="Demonstration Cartridge (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Demonstration Cartridge (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Demonstration Cartridge (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Demonstration Cartridge 2 (USA)">
+    <description>Demonstration Cartridge 2 (USA)</description>
+    <title_clean>Demonstration Cartridge 2</title_clean>
+    <title_search>demonstration cartridge 2</title_search>
+    <image ext="png" id="Demonstration Cartridge 2 (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Demonstration Cartridge 2 (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Demonstration Cartridge 2 (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Desert Fox, Shooting Gallery (USA)">
+    <description>Desert Fox, Shooting Gallery (USA)</description>
+    <title_clean>Desert Fox, Shooting Gallery</title_clean>
+    <title_search>desert fox shooting gallery</title_search>
+    <image ext="png" id="Desert Fox, Shooting Gallery (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Desert Fox, Shooting Gallery (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Desert Fox, Shooting Gallery (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dodge It (USA)">
+    <description>Dodge It (USA)</description>
+    <title_clean>Dodge It</title_clean>
+    <title_search>dodge it</title_search>
+    <image ext="png" id="Dodge It (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dodge It (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dodge It (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Drag Race (USA)">
+    <description>Drag Race (USA)</description>
+    <title_clean>Drag Race</title_clean>
+    <title_search>drag race</title_search>
+    <image ext="png" id="Drag Race (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Drag Race (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Drag Race (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Galactic Space Wars, Lunar Lander (USA)">
+    <description>Galactic Space Wars, Lunar Lander (USA)</description>
+    <title_clean>Galactic Space Wars, Lunar Lander</title_clean>
+    <title_search>galactic space wars lunar lander</title_search>
+    <image ext="png" id="Galactic Space Wars, Lunar Lander (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Galactic Space Wars, Lunar Lander (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Galactic Space Wars, Lunar Lander (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hangman (USA)">
+    <description>Hangman (USA)</description>
+    <title_clean>Hangman</title_clean>
+    <title_search>hangman</title_search>
+    <image ext="png" id="Hangman (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hangman (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hangman (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Magic Numbers - Mind Reader + Nim (USA)">
+    <description>Magic Numbers - Mind Reader + Nim (USA)</description>
+    <title_clean>Magic Numbers - Mind Reader + Nim</title_clean>
+    <title_search>magic numbers mind reader nim</title_search>
+    <image ext="png" id="Magic Numbers - Mind Reader + Nim (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Magic Numbers - Mind Reader + Nim (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Magic Numbers - Mind Reader + Nim (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Math Quiz I - Addition + Subtraction (USA)">
+    <description>Math Quiz I - Addition + Subtraction (USA)</description>
+    <title_clean>Math Quiz I - Addition + Subtraction</title_clean>
+    <title_search>math quiz i addition subtraction</title_search>
+    <image ext="png" id="Math Quiz I - Addition + Subtraction (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Math Quiz I - Addition + Subtraction (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Math Quiz I - Addition + Subtraction (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Math Quiz II - Multiplication + Division (USA)">
+    <description>Math Quiz II - Multiplication + Division (USA)</description>
+    <title_clean>Math Quiz II - Multiplication + Division</title_clean>
+    <title_search>math quiz ii multiplication division</title_search>
+    <image ext="png" id="Math Quiz II - Multiplication + Division (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Math Quiz II - Multiplication + Division (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Math Quiz II - Multiplication + Division (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)">
+    <description>Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)</description>
+    <title_clean>Maze, Jailbreak, Blind-man's-bluff, Trailblazer</title_clean>
+    <title_search>maze jailbreak blindmansbluff trailblazer</title_search>
+    <image ext="png" id="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt 1)">
+    <description>Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt 1)</description>
+    <title_clean>Maze, Jailbreak, Blind-man's-bluff, Trailblazer</title_clean>
+    <title_search>maze jailbreak blindmansbluff trailblazer</title_search>
+    <image ext="png" id="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Memory Match 1 _ 2 (USA)">
+    <description>Memory Match 1 _ 2 (USA)</description>
+    <title_clean>Memory Match 1 _ 2</title_clean>
+    <title_search>memory match 1 2</title_search>
+    <image ext="png" id="Memory Match 1 _ 2 (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Memory Match 1 _ 2 (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Memory Match 1 _ 2 (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope (Germany)">
+    <description>Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope (Germany)</description>
+    <title_clean>Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope</title_clean>
+    <title_search>muehle tontaubenschiessen kreatives malspiel videoscope</title_search>
+    <image ext="png" id="Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope (Germany)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope (Germany)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope (Germany)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ordtaevling (Sweden)">
+    <description>Ordtaevling (Sweden)</description>
+    <title_clean>Ordtaevling</title_clean>
+    <title_search>ordtaevling</title_search>
+    <image ext="png" id="Ordtaevling (Sweden)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ordtaevling (Sweden)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ordtaevling (Sweden)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pinball Challenge (USA)">
+    <description>Pinball Challenge (USA)</description>
+    <title_clean>Pinball Challenge</title_clean>
+    <title_search>pinball challenge</title_search>
+    <image ext="png" id="Pinball Challenge (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pinball Challenge (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pinball Challenge (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pinball Challenge (USA) (Alt 1)">
+    <description>Pinball Challenge (USA) (Alt 1)</description>
+    <title_clean>Pinball Challenge</title_clean>
+    <title_search>pinball challenge</title_search>
+    <image ext="png" id="Pinball Challenge (USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pinball Challenge (USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pinball Challenge (USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pro Football (USA)">
+    <description>Pro Football (USA)</description>
+    <title_clean>Pro Football</title_clean>
+    <title_search>pro football</title_search>
+    <image ext="png" id="Pro Football (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pro Football (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pro Football (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rat' Mal (Germany)">
+    <description>Rat' Mal (Germany)</description>
+    <title_clean>Rat' Mal</title_clean>
+    <title_search>rat mal</title_search>
+    <image ext="png" id="Rat' Mal (Germany)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rat' Mal (Germany)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rat' Mal (Germany)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Robot War, Torpedo Alley (USA)">
+    <description>Robot War, Torpedo Alley (USA)</description>
+    <title_clean>Robot War, Torpedo Alley</title_clean>
+    <title_search>robot war torpedo alley</title_search>
+    <image ext="png" id="Robot War, Torpedo Alley (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Robot War, Torpedo Alley (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Robot War, Torpedo Alley (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Schach (Germany)">
+    <description>Schach (Germany)</description>
+    <title_clean>Schach</title_clean>
+    <title_search>schach</title_search>
+    <image ext="png" id="Schach (Germany)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Schach (Germany)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Schach (Germany)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Slot Machine (USA)">
+    <description>Slot Machine (USA)</description>
+    <title_clean>Slot Machine</title_clean>
+    <title_search>slot machine</title_search>
+    <image ext="png" id="Slot Machine (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Slot Machine (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Slot Machine (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sonar Search (USA)">
+    <description>Sonar Search (USA)</description>
+    <title_clean>Sonar Search</title_clean>
+    <title_search>sonar search</title_search>
+    <image ext="png" id="Sonar Search (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sonar Search (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sonar Search (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space War (USA)">
+    <description>Space War (USA)</description>
+    <title_clean>Space War</title_clean>
+    <title_search>space war</title_search>
+    <image ext="png" id="Space War (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space War (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space War (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Spitfire (USA)">
+    <description>Spitfire (USA)</description>
+    <title_clean>Spitfire</title_clean>
+    <title_search>spitfire</title_search>
+    <image ext="png" id="Spitfire (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Spitfire (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Spitfire (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)">
+    <description>Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)</description>
+    <title_clean>Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle</title_clean>
+    <title_search>tictactoe shooting gallery doodle quadradoodle</title_search>
+    <image ext="png" id="Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Video Blackjack (USA)">
+    <description>Video Blackjack (USA)</description>
+    <title_clean>Video Blackjack</title_clean>
+    <title_search>video blackjack</title_search>
+    <image ext="png" id="Video Blackjack (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Video Blackjack (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Video Blackjack (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Video Whizball (USA)">
+    <description>Video Whizball (USA)</description>
+    <title_clean>Video Whizball</title_clean>
+    <title_search>video whizball</title_search>
+    <image ext="png" id="Video Whizball (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Video Whizball (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Video Whizball (USA)" source="https://github.com/libretro-thumbnails/Fairchild_-_Channel_F/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

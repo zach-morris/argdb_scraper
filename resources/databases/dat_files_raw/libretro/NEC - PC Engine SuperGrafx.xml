@@ -1,0 +1,42 @@
+<datafile>
+  <game name="1941 - Counter Attack (Japan)">
+    <description>1941 - Counter Attack (Japan)</description>
+    <title_clean>1941 - Counter Attack</title_clean>
+    <title_search>1941 counter attack</title_search>
+    <image ext="png" id="1941 - Counter Attack (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_SuperGrafx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="1941 - Counter Attack (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_SuperGrafx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="1941 - Counter Attack (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_SuperGrafx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Aldynes - The Misson Code for Rage Crisis (Japan)">
+    <description>Aldynes - The Misson Code for Rage Crisis (Japan)</description>
+    <title_clean>Aldynes - The Misson Code for Rage Crisis</title_clean>
+    <title_search>aldynes the misson code for rage crisis</title_search>
+    <image ext="png" id="Aldynes - The Misson Code for Rage Crisis (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_SuperGrafx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Aldynes - The Misson Code for Rage Crisis (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_SuperGrafx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Aldynes - The Misson Code for Rage Crisis (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_SuperGrafx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Battle Ace (Japan)">
+    <description>Battle Ace (Japan)</description>
+    <title_clean>Battle Ace</title_clean>
+    <title_search>battle ace</title_search>
+    <image ext="png" id="Battle Ace (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_SuperGrafx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Battle Ace (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_SuperGrafx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Battle Ace (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_SuperGrafx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Daimakaimura (Japan)">
+    <description>Daimakaimura (Japan)</description>
+    <title_clean>Daimakaimura</title_clean>
+    <title_search>daimakaimura</title_search>
+    <image ext="png" id="Daimakaimura (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_SuperGrafx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Daimakaimura (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_SuperGrafx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Daimakaimura (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_SuperGrafx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Madou King Granzort (Japan)">
+    <description>Madou King Granzort (Japan)</description>
+    <title_clean>Madou King Granzort</title_clean>
+    <title_search>madou king granzort</title_search>
+    <image ext="png" id="Madou King Granzort (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_SuperGrafx/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Madou King Granzort (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_SuperGrafx/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Madou King Granzort (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC_Engine_SuperGrafx/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

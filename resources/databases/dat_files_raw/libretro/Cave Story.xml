@@ -1,0 +1,26 @@
+<datafile>
+  <game name="Cave Story (De)">
+    <description>Cave Story (De)</description>
+    <title_clean>Cave Story</title_clean>
+    <title_search>cave story</title_search>
+    <image ext="png" id="Cave Story (De)" source="https://github.com/libretro-thumbnails/Cave_Story/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cave Story (De)" source="https://github.com/libretro-thumbnails/Cave_Story/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cave Story (De)" source="https://github.com/libretro-thumbnails/Cave_Story/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cave Story (En)">
+    <description>Cave Story (En)</description>
+    <title_clean>Cave Story</title_clean>
+    <title_search>cave story</title_search>
+    <image ext="png" id="Cave Story (En)" source="https://github.com/libretro-thumbnails/Cave_Story/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cave Story (En)" source="https://github.com/libretro-thumbnails/Cave_Story/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cave Story (En)" source="https://github.com/libretro-thumbnails/Cave_Story/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Doukutsu Monogatari (Ja)">
+    <description>Doukutsu Monogatari (Ja)</description>
+    <title_clean>Doukutsu Monogatari</title_clean>
+    <title_search>doukutsu monogatari</title_search>
+    <image ext="png" id="Doukutsu Monogatari (Ja)" source="https://github.com/libretro-thumbnails/Cave_Story/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Doukutsu Monogatari (Ja)" source="https://github.com/libretro-thumbnails/Cave_Story/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Doukutsu Monogatari (Ja)" source="https://github.com/libretro-thumbnails/Cave_Story/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

@@ -1,0 +1,3827 @@
+<datafile>
+  <game name="10,000 BC (Europe)">
+    <description>10,000 BC (Europe)</description>
+    <title_clean>10,000 BC</title_clean>
+    <title_search>10000 bc</title_search>
+  </game>
+  <game name="13 Going on 30 (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar)">
+    <description>13 Going on 30 (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar)</description>
+    <title_clean>13 Going on 30</title_clean>
+    <title_search>13 going on 30</title_search>
+  </game>
+  <game name="16 Blocks (USA)">
+    <description>16 Blocks (USA)</description>
+    <title_clean>16 Blocks</title_clean>
+    <title_search>16 blocks</title_search>
+  </game>
+  <game name="2 Fast 2 Furious (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Hr)">
+    <description>2 Fast 2 Furious (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Hr)</description>
+    <title_clean>2 Fast 2 Furious</title_clean>
+    <title_search>2 fast 2 furious</title_search>
+  </game>
+  <game name="21 (USA) (En,Fr,Es,Pt,Zh,Ko,Th)">
+    <description>21 (USA) (En,Fr,Es,Pt,Zh,Ko,Th)</description>
+    <title_clean>21</title_clean>
+    <title_search>21</title_search>
+  </game>
+  <game name="24 Season 1 (Europe)">
+    <description>24 Season 1 (Europe)</description>
+    <title_clean>24 Season 1</title_clean>
+    <title_search>24 season 1</title_search>
+  </game>
+  <game name="28 Days Later (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)">
+    <description>28 Days Later (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>28 Days Later</title_clean>
+    <title_search>28 days later</title_search>
+  </game>
+  <game name="28 Days Later (Japan) (En,Ja)">
+    <description>28 Days Later (Japan) (En,Ja)</description>
+    <title_clean>28 Days Later</title_clean>
+    <title_search>28 days later</title_search>
+  </game>
+  <game name="28 Weeks Later (Japan, Europe)">
+    <description>28 Weeks Later (Japan, Europe)</description>
+    <title_clean>28 Weeks Later</title_clean>
+    <title_search>28 weeks later</title_search>
+  </game>
+  <game name="30 Days of Night (USA) (En,Fr,Es,Pt,Zh,Th)">
+    <description>30 Days of Night (USA) (En,Fr,Es,Pt,Zh,Th)</description>
+    <title_clean>30 Days of Night</title_clean>
+    <title_search>30 days of night</title_search>
+  </game>
+  <game name="300 (World)">
+    <description>300 (World)</description>
+    <title_clean>300</title_clean>
+    <title_search>300</title_search>
+  </game>
+  <game name="50 First Dates (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Is,Ro)">
+    <description>50 First Dates (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Is,Ro)</description>
+    <title_clean>50 First Dates</title_clean>
+    <title_search>50 first dates</title_search>
+  </game>
+  <game name="7 Seconds (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>7 Seconds (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>7 Seconds</title_clean>
+    <title_search>7 seconds</title_search>
+  </game>
+  <game name="7 Seconds (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]">
+    <description>7 Seconds (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]</description>
+    <title_clean>7 Seconds</title_clean>
+    <title_search>7 seconds</title_search>
+  </game>
+  <game name="8 Mile (Japan, Europe)">
+    <description>8 Mile (Japan, Europe)</description>
+    <title_clean>8 Mile</title_clean>
+    <title_search>8 mile</title_search>
+  </game>
+  <game name="9 Songs (Europe)">
+    <description>9 Songs (Europe)</description>
+    <title_clean>9 Songs</title_clean>
+    <title_search>9 songs</title_search>
+  </game>
+  <game name="AKB1-48 - Idol to Guam to Koishitara (Japan) (Bonus UMD Movie)">
+    <description>AKB1-48 - Idol to Guam to Koishitara (Japan) (Bonus UMD Movie)</description>
+    <title_clean>AKB1-48 - Idol to Guam to Koishitara</title_clean>
+    <title_search>akb148 idol to guam to koishitara</title_search>
+  </game>
+  <game name="Acchereland - Datenshi tachi no Sasayaki Contents.2 (in the school) (Japan)">
+    <description>Acchereland - Datenshi tachi no Sasayaki Contents.2 (in the school) (Japan)</description>
+    <title_clean>Acchereland - Datenshi tachi no Sasayaki Contents.2</title_clean>
+    <title_search>acchereland datenshi tachi no sasayaki contents2</title_search>
+  </game>
+  <game name="Ace Ventura - Pet Detective (Europe)">
+    <description>Ace Ventura - Pet Detective (Europe)</description>
+    <title_clean>Ace Ventura - Pet Detective</title_clean>
+    <title_search>ace ventura pet detective</title_search>
+  </game>
+  <game name="Adventures Of Sharkboy And Lavagirl, The (Europe) (En,Fr,De,Es,It,Nl,Pt,Zh,Ko,Tr,Th,Ar)">
+    <description>Adventures Of Sharkboy And Lavagirl, The (Europe) (En,Fr,De,Es,It,Nl,Pt,Zh,Ko,Tr,Th,Ar)</description>
+    <title_clean>The Adventures Of Sharkboy And Lavagirl</title_clean>
+    <title_search>the adventures of sharkboy and lavagirl</title_search>
+  </game>
+  <game name="Aeon Flux (World)">
+    <description>Aeon Flux (World)</description>
+    <title_clean>Aeon Flux</title_clean>
+    <title_search>aeon flux</title_search>
+  </game>
+  <game name="Ah! My Goddess - The Movie (USA) (En,Ja)">
+    <description>Ah! My Goddess - The Movie (USA) (En,Ja)</description>
+    <title_clean>Ah! My Goddess - The Movie</title_clean>
+    <title_search>ah my goddess the movie</title_search>
+  </game>
+  <game name="Aki no Urara no Akaneiro Shoutengai (Japan) (UMD-PG Edition)">
+    <description>Aki no Urara no Akaneiro Shoutengai (Japan) (UMD-PG Edition)</description>
+    <title_clean>Aki no Urara no Akaneiro Shoutengai</title_clean>
+    <title_search>aki no urara no akaneiro shoutengai</title_search>
+  </game>
+  <game name="Akihabara Enta Matsuri Original Eizou-Shuu (Japan)">
+    <description>Akihabara Enta Matsuri Original Eizou-Shuu (Japan)</description>
+    <title_clean>Akihabara Enta Matsuri Original Eizou-Shuu</title_clean>
+    <title_search>akihabara enta matsuri original eizoushuu</title_search>
+  </game>
+  <game name="Akira (Europe)">
+    <description>Akira (Europe)</description>
+    <title_clean>Akira</title_clean>
+    <title_search>akira</title_search>
+  </game>
+  <game name="Akira (USA) (En,Ja)">
+    <description>Akira (USA) (En,Ja)</description>
+    <title_clean>Akira</title_clean>
+    <title_search>akira</title_search>
+  </game>
+  <game name="Ali (USA)">
+    <description>Ali (USA)</description>
+    <title_clean>Ali</title_clean>
+    <title_search>ali</title_search>
+  </game>
+  <game name="Alien (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)">
+    <description>Alien (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>Alien</title_clean>
+    <title_search>alien</title_search>
+  </game>
+  <game name="Alien (Japan, Europe)">
+    <description>Alien (Japan, Europe)</description>
+    <title_clean>Alien</title_clean>
+    <title_search>alien</title_search>
+  </game>
+  <game name="Alien vs. Predator (Europe) (En,De,Es)">
+    <description>Alien vs. Predator (Europe) (En,De,Es)</description>
+    <title_clean>Alien vs. Predator</title_clean>
+    <title_search>alien vs predator</title_search>
+  </game>
+  <game name="Alien vs. Predator (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)">
+    <description>Alien vs. Predator (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>Alien vs. Predator</title_clean>
+    <title_search>alien vs predator</title_search>
+  </game>
+  <game name="Alien vs. Predator (Japan) (En,Ja)">
+    <description>Alien vs. Predator (Japan) (En,Ja)</description>
+    <title_clean>Alien vs. Predator</title_clean>
+    <title_search>alien vs predator</title_search>
+  </game>
+  <game name="Aliens (Europe) (En,Sv,No,Da,Fi)">
+    <description>Aliens (Europe) (En,Sv,No,Da,Fi)</description>
+    <title_clean>Aliens</title_clean>
+    <title_search>aliens</title_search>
+  </game>
+  <game name="Aliens vs. Predator - Requiem (Japan) (En,Ja)">
+    <description>Aliens vs. Predator - Requiem (Japan) (En,Ja)</description>
+    <title_clean>Aliens vs. Predator - Requiem</title_clean>
+    <title_search>aliens vs predator requiem</title_search>
+  </game>
+  <game name="All Star Janken Battle (Japan)">
+    <description>All Star Janken Battle (Japan)</description>
+    <title_clean>All Star Janken Battle</title_clean>
+    <title_search>all star janken battle</title_search>
+  </game>
+  <game name="American History X (Europe)">
+    <description>American History X (Europe)</description>
+    <title_clean>American History X</title_clean>
+    <title_search>american history x</title_search>
+  </game>
+  <game name="American Pie 2 - Unrated (USA)">
+    <description>American Pie 2 - Unrated (USA)</description>
+    <title_clean>American Pie 2 - Unrated</title_clean>
+    <title_search>american pie 2 unrated</title_search>
+  </game>
+  <game name="American Pie Unrated (USA) (En,Es) [b]">
+    <description>American Pie Unrated (USA) (En,Es) [b]</description>
+    <title_clean>American Pie Unrated</title_clean>
+    <title_search>american pie unrated</title_search>
+  </game>
+  <game name="American Psycho - Killer Collector's Edition (USA) (En,Es)">
+    <description>American Psycho - Killer Collector's Edition (USA) (En,Es)</description>
+    <title_clean>American Psycho - Killer Collector's Edition</title_clean>
+    <title_search>american psycho killer collectors edition</title_search>
+  </game>
+  <game name="American Wedding Unrated (USA) (En,Fr,Es)">
+    <description>American Wedding Unrated (USA) (En,Fr,Es)</description>
+    <title_clean>American Wedding Unrated</title_clean>
+    <title_search>american wedding unrated</title_search>
+  </game>
+  <game name="Amityville Horror, The (Europe) (En,Fr,De,Tr,Hi)">
+    <description>Amityville Horror, The (Europe) (En,Fr,De,Tr,Hi)</description>
+    <title_clean>The Amityville Horror</title_clean>
+    <title_search>the amityville horror</title_search>
+  </game>
+  <game name="Anacondas - The Hunt for the Blood Orchid (Europe) (All Ages)">
+    <description>Anacondas - The Hunt for the Blood Orchid (Europe) (All Ages)</description>
+    <title_clean>Anacondas - The Hunt for the Blood Orchid</title_clean>
+    <title_search>anacondas the hunt for the blood orchid</title_search>
+  </game>
+  <game name="Anacondas - The Hunt for the Blood Orchid (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro,Bg) (16 and older)">
+    <description>Anacondas - The Hunt for the Blood Orchid (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro,Bg) (16 and older)</description>
+    <title_clean>Anacondas - The Hunt for the Blood Orchid</title_clean>
+    <title_search>anacondas the hunt for the blood orchid</title_search>
+  </game>
+  <game name="Aneimo 2 - Second Stage (Japan) [b]">
+    <description>Aneimo 2 - Second Stage (Japan) [b]</description>
+    <title_clean>Aneimo 2 - Second Stage</title_clean>
+    <title_search>aneimo 2 second stage</title_search>
+  </game>
+  <game name="Angels _ Demons (Europe) (En,De,Tr,Hi)">
+    <description>Angels _ Demons (Europe) (En,De,Tr,Hi)</description>
+    <title_clean>Angels _ Demons</title_clean>
+    <title_search>angels demons</title_search>
+  </game>
+  <game name="Anger Management (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar)">
+    <description>Anger Management (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar)</description>
+    <title_clean>Anger Management</title_clean>
+    <title_search>anger management</title_search>
+  </game>
+  <game name="Anger Management (USA) (En,Fr) [b]">
+    <description>Anger Management (USA) (En,Fr) [b]</description>
+    <title_clean>Anger Management</title_clean>
+    <title_search>anger management</title_search>
+  </game>
+  <game name="Animatrix, The (Japan) (En,Ja)">
+    <description>Animatrix, The (Japan) (En,Ja)</description>
+    <title_clean>The Animatrix</title_clean>
+    <title_search>the animatrix</title_search>
+  </game>
+  <game name="Anime Sampler 1 (World)">
+    <description>Anime Sampler 1 (World)</description>
+    <title_clean>Anime Sampler 1</title_clean>
+    <title_search>anime sampler 1</title_search>
+  </game>
+  <game name="Another 250 Goals (USA)">
+    <description>Another 250 Goals (USA)</description>
+    <title_clean>Another 250 Goals</title_clean>
+    <title_search>another 250 goals</title_search>
+  </game>
+  <game name="Appleseed (Japan) (En,Ja)">
+    <description>Appleseed (Japan) (En,Ja)</description>
+    <title_clean>Appleseed</title_clean>
+    <title_search>appleseed</title_search>
+  </game>
+  <game name="Appleseed (USA) (En,Ja)">
+    <description>Appleseed (USA) (En,Ja)</description>
+    <title_clean>Appleseed</title_clean>
+    <title_search>appleseed</title_search>
+  </game>
+  <game name="Are We Done Yet (USA) (En,Fr,Es,Pt,Zh,Ko,Th)">
+    <description>Are We Done Yet (USA) (En,Fr,Es,Pt,Zh,Ko,Th)</description>
+    <title_clean>Are We Done Yet</title_clean>
+    <title_search>are we done yet</title_search>
+  </game>
+  <game name="Are We There Yet (USA) (En,Fr) [b]">
+    <description>Are We There Yet (USA) (En,Fr) [b]</description>
+    <title_clean>Are We There Yet</title_clean>
+    <title_search>are we there yet</title_search>
+  </game>
+  <game name="Armageddon (Europe) (En,Fr,Nl)">
+    <description>Armageddon (Europe) (En,Fr,Nl)</description>
+    <title_clean>Armageddon</title_clean>
+    <title_search>armageddon</title_search>
+  </game>
+  <game name="Armageddon (Europe) (En,Sv,No,Da,Fi)">
+    <description>Armageddon (Europe) (En,Sv,No,Da,Fi)</description>
+    <title_clean>Armageddon</title_clean>
+    <title_search>armageddon</title_search>
+  </game>
+  <game name="Assault on Precinct 13 (Netherlands) (En,Nl)">
+    <description>Assault on Precinct 13 (Netherlands) (En,Nl)</description>
+    <title_clean>Assault on Precinct 13</title_clean>
+    <title_search>assault on precinct 13</title_search>
+  </game>
+  <game name="Astro Boy - Volume 1 - Astro Boy Blasts Off! (USA)">
+    <description>Astro Boy - Volume 1 - Astro Boy Blasts Off! (USA)</description>
+    <title_clean>Astro Boy - Volume 1 - Astro Boy Blasts Off!</title_clean>
+    <title_search>astro boy volume 1 astro boy blasts off</title_search>
+  </game>
+  <game name="Austin Powers - International Man Of Mystery (USA) (En,Es) [b]">
+    <description>Austin Powers - International Man Of Mystery (USA) (En,Es) [b]</description>
+    <title_clean>Austin Powers - International Man Of Mystery</title_clean>
+    <title_search>austin powers international man of mystery</title_search>
+  </game>
+  <game name="Baadasssss! (Netherlands) (En,Nl)">
+    <description>Baadasssss! (Netherlands) (En,Nl)</description>
+    <title_clean>Baadasssss!</title_clean>
+    <title_search>baadasssss</title_search>
+  </game>
+  <game name="Backyard, The (USA)">
+    <description>Backyard, The (USA)</description>
+    <title_clean>The Backyard</title_clean>
+    <title_search>the backyard</title_search>
+  </game>
+  <game name="Bad Boys (Europe) (En,Es,It,Pt,El,Hu) [b]">
+    <description>Bad Boys (Europe) (En,Es,It,Pt,El,Hu) [b]</description>
+    <title_clean>Bad Boys</title_clean>
+    <title_search>bad boys</title_search>
+  </game>
+  <game name="Bad Boys (Japan, Europe) (En,Fr,De,Nl,Sv,No,Da,Fi,Tr,Ar)">
+    <description>Bad Boys (Japan, Europe) (En,Fr,De,Nl,Sv,No,Da,Fi,Tr,Ar)</description>
+    <title_clean>Bad Boys</title_clean>
+    <title_search>bad boys</title_search>
+  </game>
+  <game name="Bad Boys 2 (USA) (En,Fr,Es,Pt,Ko)">
+    <description>Bad Boys 2 (USA) (En,Fr,Es,Pt,Ko)</description>
+    <title_clean>Bad Boys 2</title_clean>
+    <title_search>bad boys 2</title_search>
+  </game>
+  <game name="Bad Santa - UR Version (Europe) (En,Fr,De,Es,It,Zh,Tr,Hi,Ar)">
+    <description>Bad Santa - UR Version (Europe) (En,Fr,De,Es,It,Zh,Tr,Hi,Ar)</description>
+    <title_clean>Bad Santa - UR Version</title_clean>
+    <title_search>bad santa ur version</title_search>
+  </game>
+  <game name="Barbershop (USA) (En,Fr) [b]">
+    <description>Barbershop (USA) (En,Fr) [b]</description>
+    <title_clean>Barbershop</title_clean>
+    <title_search>barbershop</title_search>
+  </game>
+  <game name="Basic (Europe) (En,Fr,Nl)">
+    <description>Basic (Europe) (En,Fr,Nl)</description>
+    <title_clean>Basic</title_clean>
+    <title_search>basic</title_search>
+  </game>
+  <game name="Batman (Europe) (En,De,Nl,Sv)">
+    <description>Batman (Europe) (En,De,Nl,Sv)</description>
+    <title_clean>Batman</title_clean>
+    <title_search>batman</title_search>
+  </game>
+  <game name="Batman (Europe) (En,Fr,Es,No)">
+    <description>Batman (Europe) (En,Fr,Es,No)</description>
+    <title_clean>Batman</title_clean>
+    <title_search>batman</title_search>
+  </game>
+  <game name="Batman Begins (Europe) (En,De,Nl,Sv)">
+    <description>Batman Begins (Europe) (En,De,Nl,Sv)</description>
+    <title_clean>Batman Begins</title_clean>
+    <title_search>batman begins</title_search>
+  </game>
+  <game name="Batman Begins (USA)">
+    <description>Batman Begins (USA)</description>
+    <title_clean>Batman Begins</title_clean>
+    <title_search>batman begins</title_search>
+  </game>
+  <game name="Battlestar Galactica Season 1 (Europe)">
+    <description>Battlestar Galactica Season 1 (Europe)</description>
+    <title_clean>Battlestar Galactica Season 1</title_clean>
+    <title_search>battlestar galactica season 1</title_search>
+  </game>
+  <game name="Be Cool (Europe) (En,Fr,De,Nl)">
+    <description>Be Cool (Europe) (En,Fr,De,Nl)</description>
+    <title_clean>Be Cool</title_clean>
+    <title_search>be cool</title_search>
+  </game>
+  <game name="Beach, The (Europe)">
+    <description>Beach, The (Europe)</description>
+    <title_clean>The Beach</title_clean>
+    <title_search>the beach</title_search>
+  </game>
+  <game name="Beauty Shop (Europe) (En,Fr,De,Nl) [b]">
+    <description>Beauty Shop (Europe) (En,Fr,De,Nl) [b]</description>
+    <title_clean>Beauty Shop</title_clean>
+    <title_search>beauty shop</title_search>
+  </game>
+  <game name="Beauty Shop (USA) (En,Fr) [b]">
+    <description>Beauty Shop (USA) (En,Fr) [b]</description>
+    <title_clean>Beauty Shop</title_clean>
+    <title_search>beauty shop</title_search>
+  </game>
+  <game name="Beavis _ Butt-Head - The Mike Judge Collection - Volume 2 (World)">
+    <description>Beavis _ Butt-Head - The Mike Judge Collection - Volume 2 (World)</description>
+    <title_clean>Beavis _ Butt-Head - The Mike Judge Collection - Volume 2</title_clean>
+    <title_search>beavis butthead the mike judge collection volume 2</title_search>
+  </game>
+  <game name="Beavis _ Butt-Head - The Mike Judge Collection - Volume 3 (USA) (En,De,Pl,El,Tr,Cs,Hu,He)">
+    <description>Beavis _ Butt-Head - The Mike Judge Collection - Volume 3 (USA) (En,De,Pl,El,Tr,Cs,Hu,He)</description>
+    <title_clean>Beavis _ Butt-Head - The Mike Judge Collection - Volume 3</title_clean>
+    <title_search>beavis butthead the mike judge collection volume 3</title_search>
+  </game>
+  <game name="Behind Enemy Lines (Europe) (En,De,Es) [b]">
+    <description>Behind Enemy Lines (Europe) (En,De,Es) [b]</description>
+    <title_clean>Behind Enemy Lines</title_clean>
+    <title_search>behind enemy lines</title_search>
+  </game>
+  <game name="Behind Enemy Lines (Japan, Europe)">
+    <description>Behind Enemy Lines (Japan, Europe)</description>
+    <title_clean>Behind Enemy Lines</title_clean>
+    <title_search>behind enemy lines</title_search>
+  </game>
+  <game name="Benchwarmers, The (Europe) (En,Fr,Nl,Ar)">
+    <description>Benchwarmers, The (Europe) (En,Fr,Nl,Ar)</description>
+    <title_clean>The Benchwarmers</title_clean>
+    <title_search>the benchwarmers</title_search>
+  </game>
+  <game name="Benchwarmers, The (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]">
+    <description>Benchwarmers, The (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]</description>
+    <title_clean>The Benchwarmers</title_clean>
+    <title_search>the benchwarmers</title_search>
+  </game>
+  <game name="Beowolf (USA)">
+    <description>Beowolf (USA)</description>
+    <title_clean>Beowolf</title_clean>
+    <title_search>beowolf</title_search>
+  </game>
+  <game name="Bewitched (Japan, Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu,Hi,He)">
+    <description>Bewitched (Japan, Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu,Hi,He)</description>
+    <title_clean>Bewitched</title_clean>
+    <title_search>bewitched</title_search>
+  </game>
+  <game name="Big Hit, The (USA) (En,Fr,Es,Pt,Zh,Ko,Th)">
+    <description>Big Hit, The (USA) (En,Fr,Es,Pt,Zh,Ko,Th)</description>
+    <title_clean>The Big Hit</title_clean>
+    <title_search>the big hit</title_search>
+  </game>
+  <game name="Big Trouble in Little China (Europe)">
+    <description>Big Trouble in Little China (Europe)</description>
+    <title_clean>Big Trouble in Little China</title_clean>
+    <title_search>big trouble in little china</title_search>
+  </game>
+  <game name="Bill _ Ted's Excellent Adventure (USA) (En,Fr)">
+    <description>Bill _ Ted's Excellent Adventure (USA) (En,Fr)</description>
+    <title_clean>Bill _ Ted's Excellent Adventure</title_clean>
+    <title_search>bill teds excellent adventure</title_search>
+  </game>
+  <game name="Biohazard 2 Apocalypse (Japan) (En,Ja)">
+    <description>Biohazard 2 Apocalypse (Japan) (En,Ja)</description>
+    <title_clean>Biohazard 2 Apocalypse</title_clean>
+    <title_search>biohazard 2 apocalypse</title_search>
+  </game>
+  <game name="Black Dawn (Europe) (En,De,Es,Nl,Pt)">
+    <description>Black Dawn (Europe) (En,De,Es,Nl,Pt)</description>
+    <title_clean>Black Dawn</title_clean>
+    <title_search>black dawn</title_search>
+  </game>
+  <game name="Black Hawk Down (Europe) (En,Nl,Pl,El,Hi)">
+    <description>Black Hawk Down (Europe) (En,Nl,Pl,El,Hi)</description>
+    <title_clean>Black Hawk Down</title_clean>
+    <title_search>black hawk down</title_search>
+  </game>
+  <game name="Black Hawk Down (USA) (En,Fr,Es,Pt,Zh,Ko,Tr) [b]">
+    <description>Black Hawk Down (USA) (En,Fr,Es,Pt,Zh,Ko,Tr) [b]</description>
+    <title_clean>Black Hawk Down</title_clean>
+    <title_search>black hawk down</title_search>
+  </game>
+  <game name="Blade (Europe)">
+    <description>Blade (Europe)</description>
+    <title_clean>Blade</title_clean>
+    <title_search>blade</title_search>
+  </game>
+  <game name="Blade (USA) (En,Es)">
+    <description>Blade (USA) (En,Es)</description>
+    <title_clean>Blade</title_clean>
+    <title_search>blade</title_search>
+  </game>
+  <game name="Blade 2 (Italy) (En,It)">
+    <description>Blade 2 (Italy) (En,It)</description>
+    <title_clean>Blade 2</title_clean>
+    <title_search>blade 2</title_search>
+  </game>
+  <game name="Blade 2 (USA)">
+    <description>Blade 2 (USA)</description>
+    <title_clean>Blade 2</title_clean>
+    <title_search>blade 2</title_search>
+  </game>
+  <game name="Blood - The Last Vampire (Japan)">
+    <description>Blood - The Last Vampire (Japan)</description>
+    <title_clean>Blood - The Last Vampire</title_clean>
+    <title_search>blood the last vampire</title_search>
+  </game>
+  <game name="Blood Diamond (Japan) (En,Ja)">
+    <description>Blood Diamond (Japan) (En,Ja)</description>
+    <title_clean>Blood Diamond</title_clean>
+    <title_search>blood diamond</title_search>
+  </game>
+  <game name="Blood and Chocolate (USA) (En,Fr,Es)">
+    <description>Blood and Chocolate (USA) (En,Fr,Es)</description>
+    <title_clean>Blood and Chocolate</title_clean>
+    <title_search>blood and chocolate</title_search>
+  </game>
+  <game name="Boat Trip (USA) (En,Es) [b]">
+    <description>Boat Trip (USA) (En,Es) [b]</description>
+    <title_clean>Boat Trip</title_clean>
+    <title_search>boat trip</title_search>
+  </game>
+  <game name="Body of Lies (Japan)">
+    <description>Body of Lies (Japan)</description>
+    <title_clean>Body of Lies</title_clean>
+    <title_search>body of lies</title_search>
+  </game>
+  <game name="Boin (Japan) (UMD-PG Edition)">
+    <description>Boin (Japan) (UMD-PG Edition)</description>
+    <title_clean>Boin</title_clean>
+    <title_search>boin</title_search>
+  </game>
+  <game name="Bokudake No Kajitsu (Japan)">
+    <description>Bokudake No Kajitsu (Japan)</description>
+    <title_clean>Bokudake No Kajitsu</title_clean>
+    <title_search>bokudake no kajitsu</title_search>
+  </game>
+  <game name="Bone Collector, The (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He,Is,Ro)">
+    <description>Bone Collector, The (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He,Is,Ro)</description>
+    <title_clean>The Bone Collector</title_clean>
+    <title_search>the bone collector</title_search>
+  </game>
+  <game name="Boogeyman (USA) (En,Fr,Zh) [b]">
+    <description>Boogeyman (USA) (En,Fr,Zh) [b]</description>
+    <title_clean>Boogeyman</title_clean>
+    <title_search>boogeyman</title_search>
+  </game>
+  <game name="Borat (Japan, Europe)">
+    <description>Borat (Japan, Europe)</description>
+    <title_clean>Borat</title_clean>
+    <title_search>borat</title_search>
+  </game>
+  <game name="Borat (USA) (En,Fr,Es)">
+    <description>Borat (USA) (En,Fr,Es)</description>
+    <title_clean>Borat</title_clean>
+    <title_search>borat</title_search>
+  </game>
+  <game name="Bottom Series 1 (Europe)">
+    <description>Bottom Series 1 (Europe)</description>
+    <title_clean>Bottom Series 1</title_clean>
+    <title_search>bottom series 1</title_search>
+  </game>
+  <game name="Bouncy (USA) [b]">
+    <description>Bouncy (USA) [b]</description>
+    <title_clean>Bouncy</title_clean>
+    <title_search>bouncy</title_search>
+  </game>
+  <game name="Bourne Identity, The (Europe) (En,Ja,De,Zh,Ko,Pl,El,Tr,Cs,Hu,Th,He)">
+    <description>Bourne Identity, The (Europe) (En,Ja,De,Zh,Ko,Pl,El,Tr,Cs,Hu,Th,He)</description>
+    <title_clean>The Bourne Identity</title_clean>
+    <title_search>the bourne identity</title_search>
+  </game>
+  <game name="Bourne Identity, The (Japan, Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Hr,Is)">
+    <description>Bourne Identity, The (Japan, Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Hr,Is)</description>
+    <title_clean>The Bourne Identity</title_clean>
+    <title_search>the bourne identity</title_search>
+  </game>
+  <game name="Bourne Supremacy, The (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Hr,Is)">
+    <description>Bourne Supremacy, The (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Hr,Is)</description>
+    <title_clean>The Bourne Supremacy</title_clean>
+    <title_search>the bourne supremacy</title_search>
+  </game>
+  <game name="Bourne Supremacy, The (Japan, Europe) (En,Ja,De,Zh,Ko,Pl,El,Tr,Cs,Hu,Th) [b]">
+    <description>Bourne Supremacy, The (Japan, Europe) (En,Ja,De,Zh,Ko,Pl,El,Tr,Cs,Hu,Th) [b]</description>
+    <title_clean>The Bourne Supremacy</title_clean>
+    <title_search>the bourne supremacy</title_search>
+  </game>
+  <game name="Bourne Ultimatum, The (Europe)">
+    <description>Bourne Ultimatum, The (Europe)</description>
+    <title_clean>The Bourne Ultimatum</title_clean>
+    <title_search>the bourne ultimatum</title_search>
+  </game>
+  <game name="Boys From Brazil, The (Europe)">
+    <description>Boys From Brazil, The (Europe)</description>
+    <title_clean>The Boys From Brazil</title_clean>
+    <title_search>the boys from brazil</title_search>
+  </game>
+  <game name="Boyz 'N the Hood (Japan, Europe) (En,Fr,De,Es,It,Nl,Pt,Tr,Hi,Ar)">
+    <description>Boyz 'N the Hood (Japan, Europe) (En,Fr,De,Es,It,Nl,Pt,Tr,Hi,Ar)</description>
+    <title_clean>Boyz 'N the Hood</title_clean>
+    <title_search>boyz n the hood</title_search>
+  </game>
+  <game name="Bret Hitman Hart - The Best There Is (Europe)">
+    <description>Bret Hitman Hart - The Best There Is (Europe)</description>
+    <title_clean>Bret Hitman Hart - The Best There Is</title_clean>
+    <title_search>bret hitman hart the best there is</title_search>
+  </game>
+  <game name="Brothers Grimm (Japan, Europe)">
+    <description>Brothers Grimm (Japan, Europe)</description>
+    <title_clean>Brothers Grimm</title_clean>
+    <title_search>brothers grimm</title_search>
+  </game>
+  <game name="Bruno (Europe)">
+    <description>Bruno (Europe)</description>
+    <title_clean>Bruno</title_clean>
+    <title_search>bruno</title_search>
+  </game>
+  <game name="Bulletproof Monk (Portugal) (En,Pt)">
+    <description>Bulletproof Monk (Portugal) (En,Pt)</description>
+    <title_clean>Bulletproof Monk</title_clean>
+    <title_search>bulletproof monk</title_search>
+  </game>
+  <game name="Business, The (Europe)">
+    <description>Business, The (Europe)</description>
+    <title_clean>The Business</title_clean>
+    <title_search>the business</title_search>
+  </game>
+  <game name="Butterfly Effect, The (USA) (En,Es) [b]">
+    <description>Butterfly Effect, The (USA) (En,Es) [b]</description>
+    <title_clean>The Butterfly Effect</title_clean>
+    <title_search>the butterfly effect</title_search>
+  </game>
+  <game name="Cabin Fever (Europe) (En,Fr,Nl)">
+    <description>Cabin Fever (Europe) (En,Fr,Nl)</description>
+    <title_clean>Cabin Fever</title_clean>
+    <title_search>cabin fever</title_search>
+  </game>
+  <game name="Carry On Camping (World)">
+    <description>Carry On Camping (World)</description>
+    <title_clean>Carry On Camping</title_clean>
+    <title_search>carry on camping</title_search>
+  </game>
+  <game name="Casa de las Dagas Voladoras, La (Japan, Europe)">
+    <description>Casa de las Dagas Voladoras, La (Japan, Europe)</description>
+    <title_clean>Casa de las Dagas Voladoras, La</title_clean>
+    <title_search>casa de las dagas voladoras la</title_search>
+  </game>
+  <game name="Casey the CO-ED (Europe)">
+    <description>Casey the CO-ED (Europe)</description>
+    <title_clean>Casey the CO-ED</title_clean>
+    <title_search>casey the coed</title_search>
+  </game>
+  <game name="Casino Royale (Europe)">
+    <description>Casino Royale (Europe)</description>
+    <title_clean>Casino Royale</title_clean>
+    <title_search>casino royale</title_search>
+  </game>
+  <game name="Casino Royale (Europe) (En,Es,Nl,Pt,Sv,No,Da,Fi,El)">
+    <description>Casino Royale (Europe) (En,Es,Nl,Pt,Sv,No,Da,Fi,El)</description>
+    <title_clean>Casino Royale</title_clean>
+    <title_search>casino royale</title_search>
+  </game>
+  <game name="Casino Royale (Japan, Europe) [b]">
+    <description>Casino Royale (Japan, Europe) [b]</description>
+    <title_clean>Casino Royale</title_clean>
+    <title_search>casino royale</title_search>
+  </game>
+  <game name="Casino Royale (USA) (En,Fr,Ko)">
+    <description>Casino Royale (USA) (En,Fr,Ko)</description>
+    <title_clean>Casino Royale</title_clean>
+    <title_search>casino royale</title_search>
+  </game>
+  <game name="Cave, The (Europe) (En,Es,It,Nl,Pt)">
+    <description>Cave, The (Europe) (En,Es,It,Nl,Pt)</description>
+    <title_clean>The Cave</title_clean>
+    <title_search>the cave</title_search>
+  </game>
+  <game name="Cave, The (Europe) (En,Pl,Ru,Cs,Hu)">
+    <description>Cave, The (Europe) (En,Pl,Ru,Cs,Hu)</description>
+    <title_clean>The Cave</title_clean>
+    <title_search>the cave</title_search>
+  </game>
+  <game name="Cave, The (USA) (En,Fr,Es,Pt) [b]">
+    <description>Cave, The (USA) (En,Fr,Es,Pt) [b]</description>
+    <title_clean>The Cave</title_clean>
+    <title_search>the cave</title_search>
+  </game>
+  <game name="Chain Reaction (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)">
+    <description>Chain Reaction (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>Chain Reaction</title_clean>
+    <title_search>chain reaction</title_search>
+  </game>
+  <game name="Charlie and the Chocolate Factory (Europe) (En,De,Nl,Sv)">
+    <description>Charlie and the Chocolate Factory (Europe) (En,De,Nl,Sv)</description>
+    <title_clean>Charlie and the Chocolate Factory</title_clean>
+    <title_search>charlie and the chocolate factory</title_search>
+  </game>
+  <game name="Charlie and the Chocolate Factory (Japan, Europe)">
+    <description>Charlie and the Chocolate Factory (Japan, Europe)</description>
+    <title_clean>Charlie and the Chocolate Factory</title_clean>
+    <title_search>charlie and the chocolate factory</title_search>
+  </game>
+  <game name="Charlie's Angels (Europe) (En,Es,It,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu,He,Is,Bg)">
+    <description>Charlie's Angels (Europe) (En,Es,It,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu,He,Is,Bg)</description>
+    <title_clean>Charlie's Angels</title_clean>
+    <title_search>charlies angels</title_search>
+  </game>
+  <game name="Charlie's Angels (Europe) (En,Fr,De,Nl,Tr,Hi,Ar)">
+    <description>Charlie's Angels (Europe) (En,Fr,De,Nl,Tr,Hi,Ar)</description>
+    <title_clean>Charlie's Angels</title_clean>
+    <title_search>charlies angels</title_search>
+  </game>
+  <game name="Cheaper by the Dozen (Europe) (En,Fr,It,Nl,Sv,No,Fi) [b]">
+    <description>Cheaper by the Dozen (Europe) (En,Fr,It,Nl,Sv,No,Fi) [b]</description>
+    <title_clean>Cheaper by the Dozen</title_clean>
+    <title_search>cheaper by the dozen</title_search>
+  </game>
+  <game name="Chicken Run (World)">
+    <description>Chicken Run (World)</description>
+    <title_clean>Chicken Run</title_clean>
+    <title_search>chicken run</title_search>
+  </game>
+  <game name="Children of the Corn (Europe)">
+    <description>Children of the Corn (Europe)</description>
+    <title_clean>Children of the Corn</title_clean>
+    <title_search>children of the corn</title_search>
+  </game>
+  <game name="Chopper (Japan, Europe)">
+    <description>Chopper (Japan, Europe)</description>
+    <title_clean>Chopper</title_clean>
+    <title_search>chopper</title_search>
+  </game>
+  <game name="Chris Rock - Bigger and Blacker (USA)">
+    <description>Chris Rock - Bigger and Blacker (USA)</description>
+    <title_clean>Chris Rock - Bigger and Blacker</title_clean>
+    <title_search>chris rock bigger and blacker</title_search>
+  </game>
+  <game name="Christmas with the Kranks (Europe) (En,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar)">
+    <description>Christmas with the Kranks (Europe) (En,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar)</description>
+    <title_clean>Christmas with the Kranks</title_clean>
+    <title_search>christmas with the kranks</title_search>
+  </game>
+  <game name="Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (Europe) (En,Fr,Nl)">
+    <description>Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (Europe) (En,Fr,Nl)</description>
+    <title_clean>The Chronicles of Narnia - The Lion, the Witch and the Wardrobe</title_clean>
+    <title_search>the chronicles of narnia the lion the witch and the wardrobe</title_search>
+  </game>
+  <game name="Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (Europe) (En,Ja,Sv,No,Da,Fi) [b]">
+    <description>Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (Europe) (En,Ja,Sv,No,Da,Fi) [b]</description>
+    <title_clean>The Chronicles of Narnia - The Lion, the Witch and the Wardrobe</title_clean>
+    <title_search>the chronicles of narnia the lion the witch and the wardrobe</title_search>
+  </game>
+  <game name="Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA) (En,Fr,Es)">
+    <description>Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA) (En,Fr,Es)</description>
+    <title_clean>The Chronicles of Narnia - The Lion, the Witch and the Wardrobe</title_clean>
+    <title_search>the chronicles of narnia the lion the witch and the wardrobe</title_search>
+  </game>
+  <game name="Chronicles of Riddick, The (Europe) (En,Es,Pt,Zh,Pl,El,Tr,Cs,Hu,He)">
+    <description>Chronicles of Riddick, The (Europe) (En,Es,Pt,Zh,Pl,El,Tr,Cs,Hu,He)</description>
+    <title_clean>The Chronicles of Riddick</title_clean>
+    <title_search>the chronicles of riddick</title_search>
+  </game>
+  <game name="Chronicles of Riddick, The (Japan, Europe)">
+    <description>Chronicles of Riddick, The (Japan, Europe)</description>
+    <title_clean>The Chronicles of Riddick</title_clean>
+    <title_search>the chronicles of riddick</title_search>
+  </game>
+  <game name="Clerks (USA) (En,Es)">
+    <description>Clerks (USA) (En,Es)</description>
+    <title_clean>Clerks</title_clean>
+    <title_search>clerks</title_search>
+  </game>
+  <game name="Click (Europe) (En,Es,Nl,Pt,Sv,No,Da,Fi,Hi)">
+    <description>Click (Europe) (En,Es,Nl,Pt,Sv,No,Da,Fi,Hi)</description>
+    <title_clean>Click</title_clean>
+    <title_search>click</title_search>
+  </game>
+  <game name="Click (USA) (En,Fr,Es,Pt,Zh,Ko,Th)">
+    <description>Click (USA) (En,Fr,Es,Pt,Zh,Ko,Th)</description>
+    <title_clean>Click</title_clean>
+    <title_search>click</title_search>
+  </game>
+  <game name="Clockwork Orange (USA)">
+    <description>Clockwork Orange (USA)</description>
+    <title_clean>Clockwork Orange</title_clean>
+    <title_search>clockwork orange</title_search>
+  </game>
+  <game name="Clover Heart's Rea Hen (Japan) [b]">
+    <description>Clover Heart's Rea Hen (Japan) [b]</description>
+    <title_clean>Clover Heart's Rea Hen</title_clean>
+    <title_search>clover hearts rea hen</title_search>
+  </game>
+  <game name="Clover Heart's Rio Hen (Japan) (UMD-PG Edition)">
+    <description>Clover Heart's Rio Hen (Japan) (UMD-PG Edition)</description>
+    <title_clean>Clover Heart's Rio Hen</title_clean>
+    <title_search>clover hearts rio hen</title_search>
+  </game>
+  <game name="Company of Wolves, The (Europe)">
+    <description>Company of Wolves, The (Europe)</description>
+    <title_clean>The Company of Wolves</title_clean>
+    <title_search>the company of wolves</title_search>
+  </game>
+  <game name="Constantine (Europe) (En,De,Nl,Sv)">
+    <description>Constantine (Europe) (En,De,Nl,Sv)</description>
+    <title_clean>Constantine</title_clean>
+    <title_search>constantine</title_search>
+  </game>
+  <game name="Constantine (Europe) (En,Fr,Es,No)">
+    <description>Constantine (Europe) (En,Fr,Es,No)</description>
+    <title_clean>Constantine</title_clean>
+    <title_search>constantine</title_search>
+  </game>
+  <game name="Corpse Bride, The (Europe) (En,Fr,Es,No)">
+    <description>Corpse Bride, The (Europe) (En,Fr,Es,No)</description>
+    <title_clean>The Corpse Bride</title_clean>
+    <title_search>the corpse bride</title_search>
+  </game>
+  <game name="Cowboy Bebop - The Movie (Europe) (En,Ja,Es,It,Pt,Zh,Ko,Th) [b]">
+    <description>Cowboy Bebop - The Movie (Europe) (En,Ja,Es,It,Pt,Zh,Ko,Th) [b]</description>
+    <title_clean>Cowboy Bebop - The Movie</title_clean>
+    <title_search>cowboy bebop the movie</title_search>
+  </game>
+  <game name="Cowboy Bebop - The Movie (Japan, Europe) (En,Fr,De,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>Cowboy Bebop - The Movie (Japan, Europe) (En,Fr,De,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>Cowboy Bebop - The Movie</title_clean>
+    <title_search>cowboy bebop the movie</title_search>
+  </game>
+  <game name="Cowboy Bebop - The Movie (USA) (En,Ja,Fr)">
+    <description>Cowboy Bebop - The Movie (USA) (En,Ja,Fr)</description>
+    <title_clean>Cowboy Bebop - The Movie</title_clean>
+    <title_search>cowboy bebop the movie</title_search>
+  </game>
+  <game name="Cowboy Bebop - Volume 1 (USA)">
+    <description>Cowboy Bebop - Volume 1 (USA)</description>
+    <title_clean>Cowboy Bebop - Volume 1</title_clean>
+    <title_search>cowboy bebop volume 1</title_search>
+  </game>
+  <game name="Coyote Ugly - The Unrated Extended Cut (USA) (En,Fr,Es)">
+    <description>Coyote Ugly - The Unrated Extended Cut (USA) (En,Fr,Es)</description>
+    <title_clean>Coyote Ugly - The Unrated Extended Cut</title_clean>
+    <title_search>coyote ugly the unrated extended cut</title_search>
+  </game>
+  <game name="Cradle 2 The Grave (Japan, Europe) (En,De,Nl,Sv)">
+    <description>Cradle 2 The Grave (Japan, Europe) (En,De,Nl,Sv)</description>
+    <title_clean>Cradle 2 The Grave</title_clean>
+    <title_search>cradle 2 the grave</title_search>
+  </game>
+  <game name="Craft, The (USA) (En,Es,Ar)">
+    <description>Craft, The (USA) (En,Es,Ar)</description>
+    <title_clean>The Craft</title_clean>
+    <title_search>the craft</title_search>
+  </game>
+  <game name="Crash (USA) (En,Es)">
+    <description>Crash (USA) (En,Es)</description>
+    <title_clean>Crash</title_clean>
+    <title_search>crash</title_search>
+  </game>
+  <game name="Crossover (USA)">
+    <description>Crossover (USA)</description>
+    <title_clean>Crossover</title_clean>
+    <title_search>crossover</title_search>
+  </game>
+  <game name="Crouching Tiger, Hidden Dragon (Europe) (En,Fr,Es,Nl,Pt,Zh,Ko,Ar)">
+    <description>Crouching Tiger, Hidden Dragon (Europe) (En,Fr,Es,Nl,Pt,Zh,Ko,Ar)</description>
+    <title_clean>Crouching Tiger, Hidden Dragon</title_clean>
+    <title_search>crouching tiger hidden dragon</title_search>
+  </game>
+  <game name="Crouching Tiger, Hidden Dragon (USA) (En,Fr,Es,Pt,Zh,Ko)">
+    <description>Crouching Tiger, Hidden Dragon (USA) (En,Fr,Es,Pt,Zh,Ko)</description>
+    <title_clean>Crouching Tiger, Hidden Dragon</title_clean>
+    <title_search>crouching tiger hidden dragon</title_search>
+  </game>
+  <game name="Crow, The (Europe)">
+    <description>Crow, The (Europe)</description>
+    <title_clean>The Crow</title_clean>
+    <title_search>the crow</title_search>
+  </game>
+  <game name="Crow, The (USA)">
+    <description>Crow, The (USA)</description>
+    <title_clean>The Crow</title_clean>
+    <title_search>the crow</title_search>
+  </game>
+  <game name="Cruel Intensions (Europe) (En,Fr,Es,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar,He)">
+    <description>Cruel Intensions (Europe) (En,Fr,Es,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar,He)</description>
+    <title_clean>Cruel Intensions</title_clean>
+    <title_search>cruel intensions</title_search>
+  </game>
+  <game name="Crying First (Korea) (En,Ko)">
+    <description>Crying First (Korea) (En,Ko)</description>
+    <title_clean>Crying First</title_clean>
+    <title_search>crying first</title_search>
+  </game>
+  <game name="Curse of the Golden Flower (USA) (En,Es,Pt,Zh)">
+    <description>Curse of the Golden Flower (USA) (En,Es,Pt,Zh)</description>
+    <title_clean>Curse of the Golden Flower</title_clean>
+    <title_search>curse of the golden flower</title_search>
+  </game>
+  <game name="Cursed (Japan, Europe) (En,Es,It)">
+    <description>Cursed (Japan, Europe) (En,Es,It)</description>
+    <title_clean>Cursed</title_clean>
+    <title_search>cursed</title_search>
+  </game>
+  <game name="Cursed (USA) [b]">
+    <description>Cursed (USA) [b]</description>
+    <title_clean>Cursed</title_clean>
+    <title_search>cursed</title_search>
+  </game>
+  <game name="Da Ali G Show - Season 2 (USA) [b]">
+    <description>Da Ali G Show - Season 2 (USA) [b]</description>
+    <title_clean>Da Ali G Show - Season 2</title_clean>
+    <title_search>da ali g show season 2</title_search>
+  </game>
+  <game name="Da Vinci Code, The (Europe) (En,Es,Pt,Sv,No,Da,Fi,Pl,El,Tr,Ar,Is,Ro)">
+    <description>Da Vinci Code, The (Europe) (En,Es,Pt,Sv,No,Da,Fi,Pl,El,Tr,Ar,Is,Ro)</description>
+    <title_clean>The Da Vinci Code</title_clean>
+    <title_search>the da vinci code</title_search>
+  </game>
+  <game name="Da Vinci Code, The (Europe) (En,Nl,Zh,Ko,Ru,Cs,Hu,Th,Hr,Hi,He,Sl)">
+    <description>Da Vinci Code, The (Europe) (En,Nl,Zh,Ko,Ru,Cs,Hu,Th,Hr,Hi,He,Sl)</description>
+    <title_clean>The Da Vinci Code</title_clean>
+    <title_search>the da vinci code</title_search>
+  </game>
+  <game name="Da Vinci Code, The (Japan, Europe) (En,Ja)">
+    <description>Da Vinci Code, The (Japan, Europe) (En,Ja)</description>
+    <title_clean>The Da Vinci Code</title_clean>
+    <title_search>the da vinci code</title_search>
+  </game>
+  <game name="Daddy Day CAre (USA) (En,Fr,Ko)">
+    <description>Daddy Day CAre (USA) (En,Fr,Ko)</description>
+    <title_clean>Daddy Day CAre</title_clean>
+    <title_search>daddy day care</title_search>
+  </game>
+  <game name="Dappere Broodroostertje, Het (Netherlands) (Fr,Nl)">
+    <description>Dappere Broodroostertje, Het (Netherlands) (Fr,Nl)</description>
+    <title_clean>Dappere Broodroostertje, Het</title_clean>
+    <title_search>dappere broodroostertje het</title_search>
+  </game>
+  <game name="Daredevil (Europe) (En,Fr,It,Nl,Sv,No,Da)">
+    <description>Daredevil (Europe) (En,Fr,It,Nl,Sv,No,Da)</description>
+    <title_clean>Daredevil</title_clean>
+    <title_search>daredevil</title_search>
+  </game>
+  <game name="Daredevil (Japan) (En,Ja)">
+    <description>Daredevil (Japan) (En,Ja)</description>
+    <title_clean>Daredevil</title_clean>
+    <title_search>daredevil</title_search>
+  </game>
+  <game name="Dark Crystal, The (Europe) (En,Fr,De,Es,Nl,Pl,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>Dark Crystal, The (Europe) (En,Fr,De,Es,Nl,Pl,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>The Dark Crystal</title_clean>
+    <title_search>the dark crystal</title_search>
+  </game>
+  <game name="Dark Knight, The (Europe)">
+    <description>Dark Knight, The (Europe)</description>
+    <title_clean>The Dark Knight</title_clean>
+    <title_search>the dark knight</title_search>
+  </game>
+  <game name="Dark Star (Europe)">
+    <description>Dark Star (Europe)</description>
+    <title_clean>Dark Star</title_clean>
+    <title_search>dark star</title_search>
+  </game>
+  <game name="Dark Water (Europe) (En,Fr,Nl)">
+    <description>Dark Water (Europe) (En,Fr,Nl)</description>
+    <title_clean>Dark Water</title_clean>
+    <title_search>dark water</title_search>
+  </game>
+  <game name="Dark Water (Japan, Europe)">
+    <description>Dark Water (Japan, Europe)</description>
+    <title_clean>Dark Water</title_clean>
+    <title_search>dark water</title_search>
+  </game>
+  <game name="Dave Chappelle - For What Its Worth (USA) (En,Fr) [b]">
+    <description>Dave Chappelle - For What Its Worth (USA) (En,Fr) [b]</description>
+    <title_clean>Dave Chappelle - For What Its Worth</title_clean>
+    <title_search>dave chappelle for what its worth</title_search>
+  </game>
+  <game name="Dawn of the Dead (USA)">
+    <description>Dawn of the Dead (USA)</description>
+    <title_clean>Dawn of the Dead</title_clean>
+    <title_search>dawn of the dead</title_search>
+  </game>
+  <game name="Dawn of the Dead - Unrated (USA)">
+    <description>Dawn of the Dead - Unrated (USA)</description>
+    <title_clean>Dawn of the Dead - Unrated</title_clean>
+    <title_search>dawn of the dead unrated</title_search>
+  </game>
+  <game name="Day After Tomorrow, The (Europe) (En,De,Es) [b]">
+    <description>Day After Tomorrow, The (Europe) (En,De,Es) [b]</description>
+    <title_clean>The Day After Tomorrow</title_clean>
+    <title_search>the day after tomorrow</title_search>
+  </game>
+  <game name="Day After Tomorrow, The (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)">
+    <description>Day After Tomorrow, The (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>The Day After Tomorrow</title_clean>
+    <title_search>the day after tomorrow</title_search>
+  </game>
+  <game name="Day After Tomorrow, The (Japan) (En,Ja)">
+    <description>Day After Tomorrow, The (Japan) (En,Ja)</description>
+    <title_clean>The Day After Tomorrow</title_clean>
+    <title_search>the day after tomorrow</title_search>
+  </game>
+  <game name="Dead Leaves (USA)">
+    <description>Dead Leaves (USA)</description>
+    <title_clean>Dead Leaves</title_clean>
+    <title_search>dead leaves</title_search>
+  </game>
+  <game name="Dead Or Alive (Spain) (En,Es)">
+    <description>Dead Or Alive (Spain) (En,Es)</description>
+    <title_clean>Dead Or Alive</title_clean>
+    <title_search>dead or alive</title_search>
+  </game>
+  <game name="Desperado (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar,He,Is,Ro)">
+    <description>Desperado (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar,He,Is,Ro)</description>
+    <title_clean>Desperado</title_clean>
+    <title_search>desperado</title_search>
+  </game>
+  <game name="Detonator, The (USA) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro) [b]">
+    <description>Detonator, The (USA) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro) [b]</description>
+    <title_clean>The Detonator</title_clean>
+    <title_search>the detonator</title_search>
+  </game>
+  <game name="Deuce Bigalow - European Gigolo (Europe) (En,Es,Nl,Pt,Hi)">
+    <description>Deuce Bigalow - European Gigolo (Europe) (En,Es,Nl,Pt,Hi)</description>
+    <title_clean>Deuce Bigalow - European Gigolo</title_clean>
+    <title_search>deuce bigalow european gigolo</title_search>
+  </game>
+  <game name="Die Hard (USA) (En,Fr,Es)">
+    <description>Die Hard (USA) (En,Fr,Es)</description>
+    <title_clean>Die Hard</title_clean>
+    <title_search>die hard</title_search>
+  </game>
+  <game name="Die Hard 2 (USA) (En,Fr,Es)">
+    <description>Die Hard 2 (USA) (En,Fr,Es)</description>
+    <title_clean>Die Hard 2</title_clean>
+    <title_search>die hard 2</title_search>
+  </game>
+  <game name="Die Hard 4.0 (Europe) (En,Ja)">
+    <description>Die Hard 4.0 (Europe) (En,Ja)</description>
+    <title_clean>Die Hard 4.0</title_clean>
+    <title_search>die hard 40</title_search>
+  </game>
+  <game name="Dirty (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Ro)">
+    <description>Dirty (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Ro)</description>
+    <title_clean>Dirty</title_clean>
+    <title_search>dirty</title_search>
+  </game>
+  <game name="Dirty Sanchez - The Movie (Europe)">
+    <description>Dirty Sanchez - The Movie (Europe)</description>
+    <title_clean>Dirty Sanchez - The Movie</title_clean>
+    <title_search>dirty sanchez the movie</title_search>
+  </game>
+  <game name="District 9 (Europe)">
+    <description>District 9 (Europe)</description>
+    <title_clean>District 9</title_clean>
+    <title_search>district 9</title_search>
+  </game>
+  <game name="Doctor Who Volume 4 (Europe)">
+    <description>Doctor Who Volume 4 (Europe)</description>
+    <title_clean>Doctor Who Volume 4</title_clean>
+    <title_search>doctor who volume 4</title_search>
+  </game>
+  <game name="Dodgeball (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)">
+    <description>Dodgeball (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>Dodgeball</title_clean>
+    <title_search>dodgeball</title_search>
+  </game>
+  <game name="Dogma (USA) (En,Es)">
+    <description>Dogma (USA) (En,Es)</description>
+    <title_clean>Dogma</title_clean>
+    <title_search>dogma</title_search>
+  </game>
+  <game name="Domino (Europe)">
+    <description>Domino (Europe)</description>
+    <title_clean>Domino</title_clean>
+    <title_search>domino</title_search>
+  </game>
+  <game name="Domino (USA) (En,Es) [b]">
+    <description>Domino (USA) (En,Es) [b]</description>
+    <title_clean>Domino</title_clean>
+    <title_search>domino</title_search>
+  </game>
+  <game name="Donnie Brasco (Europe)">
+    <description>Donnie Brasco (Europe)</description>
+    <title_clean>Donnie Brasco</title_clean>
+    <title_search>donnie brasco</title_search>
+  </game>
+  <game name="Donnie Darko (Europe)">
+    <description>Donnie Darko (Europe)</description>
+    <title_clean>Donnie Darko</title_clean>
+    <title_search>donnie darko</title_search>
+  </game>
+  <game name="Doom (Europe) (En,Fr,Nl)">
+    <description>Doom (Europe) (En,Fr,Nl)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (Japan, Europe)">
+    <description>Doom (Japan, Europe)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (USA) (En,Fr,Es)">
+    <description>Doom (USA) (En,Fr,Es)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doors, The (USA) (En,Es)">
+    <description>Doors, The (USA) (En,Es)</description>
+    <title_clean>The Doors</title_clean>
+    <title_search>the doors</title_search>
+  </game>
+  <game name="Dream Models (USA)">
+    <description>Dream Models (USA)</description>
+    <title_clean>Dream Models</title_clean>
+    <title_search>dream models</title_search>
+  </game>
+  <game name="Dreamer (Europe)">
+    <description>Dreamer (Europe)</description>
+    <title_clean>Dreamer</title_clean>
+    <title_search>dreamer</title_search>
+  </game>
+  <game name="Drunken Master II (Japan)">
+    <description>Drunken Master II (Japan)</description>
+    <title_clean>Drunken Master II</title_clean>
+    <title_search>drunken master ii</title_search>
+  </game>
+  <game name="Dukes Of Hazzard, The (Europe) (En,De,Nl,Sv,No)">
+    <description>Dukes Of Hazzard, The (Europe) (En,De,Nl,Sv,No)</description>
+    <title_clean>The Dukes Of Hazzard</title_clean>
+    <title_search>the dukes of hazzard</title_search>
+  </game>
+  <game name="Dumb _ Dumber (Italy) (En,It) [b]">
+    <description>Dumb _ Dumber (Italy) (En,It) [b]</description>
+    <title_clean>Dumb _ Dumber</title_clean>
+    <title_search>dumb dumber</title_search>
+  </game>
+  <game name="Dune (Europe)">
+    <description>Dune (Europe)</description>
+    <title_clean>Dune</title_clean>
+    <title_search>dune</title_search>
+  </game>
+  <game name="Dungeons and Dragons (Europe)">
+    <description>Dungeons and Dragons (Europe)</description>
+    <title_clean>Dungeons and Dragons</title_clean>
+    <title_search>dungeons and dragons</title_search>
+  </game>
+  <game name="Elektra (Europe) (En,Fr,Nl,Sv,No,Da,Fi)">
+    <description>Elektra (Europe) (En,Fr,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>Elektra</title_clean>
+    <title_search>elektra</title_search>
+  </game>
+  <game name="Elf (USA) (En,Es) [b]">
+    <description>Elf (USA) (En,Es) [b]</description>
+    <title_clean>Elf</title_clean>
+    <title_search>elf</title_search>
+  </game>
+  <game name="Empire des Loups, L' (France) (En,Fr)">
+    <description>Empire des Loups, L' (France) (En,Fr)</description>
+    <title_clean>Empire des Loups, L'</title_clean>
+    <title_search>empire des loups l</title_search>
+  </game>
+  <game name="Endless Waltz - Gundam Wing - The Movie (USA) (En,Ja) [b]">
+    <description>Endless Waltz - Gundam Wing - The Movie (USA) (En,Ja) [b]</description>
+    <title_clean>Endless Waltz - Gundam Wing - The Movie</title_clean>
+    <title_search>endless waltz gundam wing the movie</title_search>
+  </game>
+  <game name="English Cram School (Japan)">
+    <description>English Cram School (Japan)</description>
+    <title_clean>English Cram School</title_clean>
+    <title_search>english cram school</title_search>
+  </game>
+  <game name="Enter the Dragon (Europe) (En,De,Nl,Sv)">
+    <description>Enter the Dragon (Europe) (En,De,Nl,Sv)</description>
+    <title_clean>Enter the Dragon</title_clean>
+    <title_search>enter the dragon</title_search>
+  </game>
+  <game name="Equilibrium (Europe)">
+    <description>Equilibrium (Europe)</description>
+    <title_clean>Equilibrium</title_clean>
+    <title_search>equilibrium</title_search>
+  </game>
+  <game name="Escaflowne (USA) (En,Ja)">
+    <description>Escaflowne (USA) (En,Ja)</description>
+    <title_clean>Escaflowne</title_clean>
+    <title_search>escaflowne</title_search>
+  </game>
+  <game name="Escape From New York (USA) (En,Fr)">
+    <description>Escape From New York (USA) (En,Fr)</description>
+    <title_clean>Escape From New York</title_clean>
+    <title_search>escape from new york</title_search>
+  </game>
+  <game name="Evil Dead (USA)">
+    <description>Evil Dead (USA)</description>
+    <title_clean>Evil Dead</title_clean>
+    <title_search>evil dead</title_search>
+  </game>
+  <game name="Evolution (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>Evolution (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>Evolution</title_clean>
+    <title_search>evolution</title_search>
+  </game>
+  <game name="Exorcism of Emily Rose, The - Unrated version (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,El,Hi,Ar,He)">
+    <description>Exorcism of Emily Rose, The - Unrated version (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,El,Hi,Ar,He)</description>
+    <title_clean>The Exorcism of Emily Rose - Unrated version</title_clean>
+    <title_search>the exorcism of emily rose unrated version</title_search>
+  </game>
+  <game name="Exterminator, The (USA)">
+    <description>Exterminator, The (USA)</description>
+    <title_clean>The Exterminator</title_clean>
+    <title_search>the exterminator</title_search>
+  </game>
+  <game name="Face Off (Japan, Europe) [b]">
+    <description>Face Off (Japan, Europe) [b]</description>
+    <title_clean>Face Off</title_clean>
+    <title_search>face off</title_search>
+  </game>
+  <game name="Family Guy - Freakin' Sweet Collection (USA) (En,Fr,Es)">
+    <description>Family Guy - Freakin' Sweet Collection (USA) (En,Fr,Es)</description>
+    <title_clean>Family Guy - Freakin' Sweet Collection</title_clean>
+    <title_search>family guy freakin sweet collection</title_search>
+  </game>
+  <game name="Family Guy - Presents Blue Harvest (USA, Europe)">
+    <description>Family Guy - Presents Blue Harvest (USA, Europe)</description>
+    <title_clean>Family Guy - Presents Blue Harvest</title_clean>
+    <title_search>family guy presents blue harvest</title_search>
+  </game>
+  <game name="Family Guy Presents Stewie Griffin - The Untold Story (Japan, Europe)">
+    <description>Family Guy Presents Stewie Griffin - The Untold Story (Japan, Europe)</description>
+    <title_clean>Family Guy Presents Stewie Griffin - The Untold Story</title_clean>
+    <title_search>family guy presents stewie griffin the untold story</title_search>
+  </game>
+  <game name="Family Guy Vol. 1 (USA) (En,Fr,Es)">
+    <description>Family Guy Vol. 1 (USA) (En,Fr,Es)</description>
+    <title_clean>Family Guy Vol. 1</title_clean>
+    <title_search>family guy vol 1</title_search>
+  </game>
+  <game name="Family Guy Vol. 2 (USA) (En,Fr,Es)">
+    <description>Family Guy Vol. 2 (USA) (En,Fr,Es)</description>
+    <title_clean>Family Guy Vol. 2</title_clean>
+    <title_search>family guy vol 2</title_search>
+  </game>
+  <game name="Fantastic 4 (Europe)">
+    <description>Fantastic 4 (Europe)</description>
+    <title_clean>Fantastic 4</title_clean>
+    <title_search>fantastic 4</title_search>
+  </game>
+  <game name="Fantastic 4 (Europe) (En,Fr,Nl,Sv,No,Da,Fi)">
+    <description>Fantastic 4 (Europe) (En,Fr,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>Fantastic 4</title_clean>
+    <title_search>fantastic 4</title_search>
+  </game>
+  <game name="Fantastic 4 (Japan) (En,Ja)">
+    <description>Fantastic 4 (Japan) (En,Ja)</description>
+    <title_clean>Fantastic 4</title_clean>
+    <title_search>fantastic 4</title_search>
+  </game>
+  <game name="Fantastic 4 - Rise of the Silver Surfer (Japan) (En,Ja)">
+    <description>Fantastic 4 - Rise of the Silver Surfer (Japan) (En,Ja)</description>
+    <title_clean>Fantastic 4 - Rise of the Silver Surfer</title_clean>
+    <title_search>fantastic 4 rise of the silver surfer</title_search>
+  </game>
+  <game name="Fast and the Furious, The (Europe)">
+    <description>Fast and the Furious, The (Europe)</description>
+    <title_clean>The Fast and the Furious</title_clean>
+    <title_search>the fast and the furious</title_search>
+  </game>
+  <game name="Fast and the Furious, The (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Hr)">
+    <description>Fast and the Furious, The (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Hr)</description>
+    <title_clean>The Fast and the Furious</title_clean>
+    <title_search>the fast and the furious</title_search>
+  </game>
+  <game name="Fast and the Furious, The (Japan, Europe) (En,Ja,De,Zh,Ko,Pl,El,Tr,Cs,Hu,Th,He)">
+    <description>Fast and the Furious, The (Japan, Europe) (En,Ja,De,Zh,Ko,Pl,El,Tr,Cs,Hu,Th,He)</description>
+    <title_clean>The Fast and the Furious</title_clean>
+    <title_search>the fast and the furious</title_search>
+  </game>
+  <game name="Fawlty Towers - Series 1 (Europe)">
+    <description>Fawlty Towers - Series 1 (Europe)</description>
+    <title_clean>Fawlty Towers - Series 1</title_clean>
+    <title_search>fawlty towers series 1</title_search>
+  </game>
+  <game name="Few Good Men, A (USA) (En,Es)">
+    <description>Few Good Men, A (USA) (En,Es)</description>
+    <title_clean>Few Good Men, A</title_clean>
+    <title_search>few good men a</title_search>
+  </game>
+  <game name="Fifth Element (Australia)">
+    <description>Fifth Element (Australia)</description>
+    <title_clean>Fifth Element</title_clean>
+    <title_search>fifth element</title_search>
+  </game>
+  <game name="Fight Club (Europe)">
+    <description>Fight Club (Europe)</description>
+    <title_clean>Fight Club</title_clean>
+    <title_search>fight club</title_search>
+  </game>
+  <game name="Final Destination (Europe)">
+    <description>Final Destination (Europe)</description>
+    <title_clean>Final Destination</title_clean>
+    <title_search>final destination</title_search>
+  </game>
+  <game name="Final Destination 2 (Europe)">
+    <description>Final Destination 2 (Europe)</description>
+    <title_clean>Final Destination 2</title_clean>
+    <title_search>final destination 2</title_search>
+  </game>
+  <game name="Final Destination 3 (Europe)">
+    <description>Final Destination 3 (Europe)</description>
+    <title_clean>Final Destination 3</title_clean>
+    <title_search>final destination 3</title_search>
+  </game>
+  <game name="Final Fantasy - The Spirits Within (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>Final Fantasy - The Spirits Within (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>Final Fantasy - The Spirits Within</title_clean>
+    <title_search>final fantasy the spirits within</title_search>
+  </game>
+  <game name="Final Fantasy VII - Advent Children (Europe) (En,Ja,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Sl,Ro)">
+    <description>Final Fantasy VII - Advent Children (Europe) (En,Ja,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Sl,Ro)</description>
+    <title_clean>Final Fantasy VII - Advent Children</title_clean>
+    <title_search>final fantasy vii advent children</title_search>
+  </game>
+  <game name="Final Fantasy VII - Advent Children (Europe) (En,Ja,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Sl,Ro) (Alt1)">
+    <description>Final Fantasy VII - Advent Children (Europe) (En,Ja,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Sl,Ro) (Alt1)</description>
+    <title_clean>Final Fantasy VII - Advent Children</title_clean>
+    <title_search>final fantasy vii advent children</title_search>
+  </game>
+  <game name="Final Fantasy VII - Advent Children (Japan, Europe) (En,Ja,Es,Pt) [b]">
+    <description>Final Fantasy VII - Advent Children (Japan, Europe) (En,Ja,Es,Pt) [b]</description>
+    <title_clean>Final Fantasy VII - Advent Children</title_clean>
+    <title_search>final fantasy vii advent children</title_search>
+  </game>
+  <game name="First Blood (USA) (En,Es)">
+    <description>First Blood (USA) (En,Es)</description>
+    <title_clean>First Blood</title_clean>
+    <title_search>first blood</title_search>
+  </game>
+  <game name="First Descent (USA) (En,Fr,Es) [b]">
+    <description>First Descent (USA) (En,Fr,Es) [b]</description>
+    <title_clean>First Descent</title_clean>
+    <title_search>first descent</title_search>
+  </game>
+  <game name="First Sunday (USA) (En,Fr) [b]">
+    <description>First Sunday (USA) (En,Fr) [b]</description>
+    <title_clean>First Sunday</title_clean>
+    <title_search>first sunday</title_search>
+  </game>
+  <game name="Flightplan (Europe) (En,Fr,Nl)">
+    <description>Flightplan (Europe) (En,Fr,Nl)</description>
+    <title_clean>Flightplan</title_clean>
+    <title_search>flightplan</title_search>
+  </game>
+  <game name="Fog, The (USA) (En,Fr) [b]">
+    <description>Fog, The (USA) (En,Fr) [b]</description>
+    <title_clean>The Fog</title_clean>
+    <title_search>the fog</title_search>
+  </game>
+  <game name="Four Brothers (USA)">
+    <description>Four Brothers (USA)</description>
+    <title_clean>Four Brothers</title_clean>
+    <title_search>four brothers</title_search>
+  </game>
+  <game name="Freddy VS. Jason (USA) (En,Es) [b]">
+    <description>Freddy VS. Jason (USA) (En,Es) [b]</description>
+    <title_clean>Freddy VS. Jason</title_clean>
+    <title_search>freddy vs jason</title_search>
+  </game>
+  <game name="Freshest Kids, The - A History of the B-Boy (USA)">
+    <description>Freshest Kids, The - A History of the B-Boy (USA)</description>
+    <title_clean>The Freshest Kids - A History of the B-Boy</title_clean>
+    <title_search>the freshest kids a history of the bboy</title_search>
+  </game>
+  <game name="Friday (USA) (En,Es) [b]">
+    <description>Friday (USA) (En,Es) [b]</description>
+    <title_clean>Friday</title_clean>
+    <title_search>friday</title_search>
+  </game>
+  <game name="From Dusk Till Dawn (USA) (En,Es) [b]">
+    <description>From Dusk Till Dawn (USA) (En,Es) [b]</description>
+    <title_clean>From Dusk Till Dawn</title_clean>
+    <title_search>from dusk till dawn</title_search>
+  </game>
+  <game name="Fun with Dick _ Jane (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Is,Sl,Ro)">
+    <description>Fun with Dick _ Jane (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Is,Sl,Ro)</description>
+    <title_clean>Fun with Dick _ Jane</title_clean>
+    <title_search>fun with dick jane</title_search>
+  </game>
+  <game name="Futurama - Bender's Big Score (Japan, Europe)">
+    <description>Futurama - Bender's Big Score (Japan, Europe)</description>
+    <title_clean>Futurama - Bender's Big Score</title_clean>
+    <title_search>futurama benders big score</title_search>
+  </game>
+  <game name="Galerians - Rion (USA) (En,Ja)">
+    <description>Galerians - Rion (USA) (En,Ja)</description>
+    <title_clean>Galerians - Rion</title_clean>
+    <title_search>galerians rion</title_search>
+  </game>
+  <game name="Game Portable - Mijika ni Hisomu Toshi Densetsu no Shinjitsu ni Semaru (Japan)">
+    <description>Game Portable - Mijika ni Hisomu Toshi Densetsu no Shinjitsu ni Semaru (Japan)</description>
+    <title_clean>Game Portable - Mijika ni Hisomu Toshi Densetsu no Shinjitsu ni Semaru</title_clean>
+    <title_search>game portable mijika ni hisomu toshi densetsu no shinjitsu ni semaru</title_search>
+  </game>
+  <game name="Garfield (Europe) (En,De,Es,It)">
+    <description>Garfield (Europe) (En,De,Es,It)</description>
+    <title_clean>Garfield</title_clean>
+    <title_search>garfield</title_search>
+  </game>
+  <game name="Garfield - The Movie (Europe)">
+    <description>Garfield - The Movie (Europe)</description>
+    <title_clean>Garfield - The Movie</title_clean>
+    <title_search>garfield the movie</title_search>
+  </game>
+  <game name="Garfield - The Movie (Europe) (En,Fr,Nl)">
+    <description>Garfield - The Movie (Europe) (En,Fr,Nl)</description>
+    <title_clean>Garfield - The Movie</title_clean>
+    <title_search>garfield the movie</title_search>
+  </game>
+  <game name="Get Smart (World)">
+    <description>Get Smart (World)</description>
+    <title_clean>Get Smart</title_clean>
+    <title_search>get smart</title_search>
+  </game>
+  <game name="Ghost Rider (Europe) (En,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Hi,Ar,Is)">
+    <description>Ghost Rider (Europe) (En,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Hi,Ar,Is)</description>
+    <title_clean>Ghost Rider</title_clean>
+    <title_search>ghost rider</title_search>
+  </game>
+  <game name="Ghost Rider (USA) (En,Fr,Es,Pt,Zh,Ko,Th)">
+    <description>Ghost Rider (USA) (En,Fr,Es,Pt,Zh,Ko,Th)</description>
+    <title_clean>Ghost Rider</title_clean>
+    <title_search>ghost rider</title_search>
+  </game>
+  <game name="Ghost Ship (Europe) (En,De,Nl,Sv)">
+    <description>Ghost Ship (Europe) (En,De,Nl,Sv)</description>
+    <title_clean>Ghost Ship</title_clean>
+    <title_search>ghost ship</title_search>
+  </game>
+  <game name="Ghost in the Shell (Europe)">
+    <description>Ghost in the Shell (Europe)</description>
+    <title_clean>Ghost in the Shell</title_clean>
+    <title_search>ghost in the shell</title_search>
+  </game>
+  <game name="Ghost in the Shell - Stand Alone Complex - Vol.01 (World) (En,Ja)">
+    <description>Ghost in the Shell - Stand Alone Complex - Vol.01 (World) (En,Ja)</description>
+    <title_clean>Ghost in the Shell - Stand Alone Complex - Vol.01</title_clean>
+    <title_search>ghost in the shell stand alone complex vol01</title_search>
+  </game>
+  <game name="Ghost in the Shell 2.0 (Japan)">
+    <description>Ghost in the Shell 2.0 (Japan)</description>
+    <title_clean>Ghost in the Shell 2.0</title_clean>
+    <title_search>ghost in the shell 20</title_search>
+  </game>
+  <game name="Ghostbusters (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>Ghostbusters (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>Ghostbusters</title_clean>
+    <title_search>ghostbusters</title_search>
+  </game>
+  <game name="Ghostbusters (Japan, Europe)">
+    <description>Ghostbusters (Japan, Europe)</description>
+    <title_clean>Ghostbusters</title_clean>
+    <title_search>ghostbusters</title_search>
+  </game>
+  <game name="Gitai Saimin (Japan) (UMD-PG Edition)">
+    <description>Gitai Saimin (Japan) (UMD-PG Edition)</description>
+    <title_clean>Gitai Saimin</title_clean>
+    <title_search>gitai saimin</title_search>
+  </game>
+  <game name="Glengarry Glen Ross (Europe)">
+    <description>Glengarry Glen Ross (Europe)</description>
+    <title_clean>Glengarry Glen Ross</title_clean>
+    <title_search>glengarry glen ross</title_search>
+  </game>
+  <game name="Godzilla (Europe) (En,Nl,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu,Hi,He)">
+    <description>Godzilla (Europe) (En,Nl,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu,Hi,He)</description>
+    <title_clean>Godzilla</title_clean>
+    <title_search>godzilla</title_search>
+  </game>
+  <game name="Gone In 60 Seconds (USA) (En,Fr,Es)">
+    <description>Gone In 60 Seconds (USA) (En,Fr,Es)</description>
+    <title_clean>Gone In 60 Seconds</title_clean>
+    <title_search>gone in 60 seconds</title_search>
+  </game>
+  <game name="Gone in 60 Seconds (Europe) (En,Sv,No,Da,Fi)">
+    <description>Gone in 60 Seconds (Europe) (En,Sv,No,Da,Fi)</description>
+    <title_clean>Gone in 60 Seconds</title_clean>
+    <title_search>gone in 60 seconds</title_search>
+  </game>
+  <game name="GoodFellas (Europe)">
+    <description>GoodFellas (Europe)</description>
+    <title_clean>GoodFellas</title_clean>
+    <title_search>goodfellas</title_search>
+  </game>
+  <game name="Goonies (Japan, Europe)">
+    <description>Goonies (Japan, Europe)</description>
+    <title_clean>Goonies</title_clean>
+    <title_search>goonies</title_search>
+  </game>
+  <game name="Gothika (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>Gothika (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>Gothika</title_clean>
+    <title_search>gothika</title_search>
+  </game>
+  <game name="Grand Theft Auto (Europe)">
+    <description>Grand Theft Auto (Europe)</description>
+    <title_clean>Grand Theft Auto</title_clean>
+    <title_search>grand theft auto</title_search>
+  </game>
+  <game name="Great Escape, The (World)">
+    <description>Great Escape, The (World)</description>
+    <title_clean>The Great Escape</title_clean>
+    <title_search>the great escape</title_search>
+  </game>
+  <game name="Gremlins (Japan) (En,Ja)">
+    <description>Gremlins (Japan) (En,Ja)</description>
+    <title_clean>Gremlins</title_clean>
+    <title_search>gremlins</title_search>
+  </game>
+  <game name="Growlanser V - Characters Guide (Japan)">
+    <description>Growlanser V - Characters Guide (Japan)</description>
+    <title_clean>Growlanser V - Characters Guide</title_clean>
+    <title_search>growlanser v characters guide</title_search>
+  </game>
+  <game name="Grudge 2, The (USA) (En,Fr)">
+    <description>Grudge 2, The (USA) (En,Fr)</description>
+    <title_clean>The Grudge 2</title_clean>
+    <title_search>the grudge 2</title_search>
+  </game>
+  <game name="Grudge, The (Europe) (En,Fr,Nl)">
+    <description>Grudge, The (Europe) (En,Fr,Nl)</description>
+    <title_clean>The Grudge</title_clean>
+    <title_search>the grudge</title_search>
+  </game>
+  <game name="Grudge, The (USA) (En,Fr) [b]">
+    <description>Grudge, The (USA) (En,Fr) [b]</description>
+    <title_clean>The Grudge</title_clean>
+    <title_search>the grudge</title_search>
+  </game>
+  <game name="Guess Who (USA) (En,Fr)">
+    <description>Guess Who (USA) (En,Fr)</description>
+    <title_clean>Guess Who</title_clean>
+    <title_search>guess who</title_search>
+  </game>
+  <game name="Gungrave - Episodes 1 _ 2 (USA) (En,Ja)">
+    <description>Gungrave - Episodes 1 _ 2 (USA) (En,Ja)</description>
+    <title_clean>Gungrave - Episodes 1 _ 2</title_clean>
+    <title_search>gungrave episodes 1 2</title_search>
+  </game>
+  <game name="Hackers (Europe) (En,Fr,De,Nl,Tr,Hi,Ar)">
+    <description>Hackers (Europe) (En,Fr,De,Nl,Tr,Hi,Ar)</description>
+    <title_clean>Hackers</title_clean>
+    <title_search>hackers</title_search>
+  </game>
+  <game name="Halloween (Europe)">
+    <description>Halloween (Europe)</description>
+    <title_clean>Halloween</title_clean>
+    <title_search>halloween</title_search>
+  </game>
+  <game name="Hancock (Europe) (En,De,Nl,Tr,Ar)">
+    <description>Hancock (Europe) (En,De,Nl,Tr,Ar)</description>
+    <title_clean>Hancock</title_clean>
+    <title_search>hancock</title_search>
+  </game>
+  <game name="Hangover, The (Europe)">
+    <description>Hangover, The (Europe)</description>
+    <title_clean>The Hangover</title_clean>
+    <title_search>the hangover</title_search>
+  </game>
+  <game name="Happening, The (Europe)">
+    <description>Happening, The (Europe)</description>
+    <title_clean>The Happening</title_clean>
+    <title_search>the happening</title_search>
+  </game>
+  <game name="Hard Corps, The (Europe) (En,Fr,Es,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro,Bg)">
+    <description>Hard Corps, The (Europe) (En,Fr,Es,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro,Bg)</description>
+    <title_clean>The Hard Corps</title_clean>
+    <title_search>the hard corps</title_search>
+  </game>
+  <game name="Hard Luck (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro,Bg)">
+    <description>Hard Luck (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro,Bg)</description>
+    <title_clean>Hard Luck</title_clean>
+    <title_search>hard luck</title_search>
+  </game>
+  <game name="Harold _ Kumar Go To White Castle Extreme Unrated (USA) (En,Es) [b]">
+    <description>Harold _ Kumar Go To White Castle Extreme Unrated (USA) (En,Es) [b]</description>
+    <title_clean>Harold _ Kumar Go To White Castle Extreme Unrated</title_clean>
+    <title_search>harold kumar go to white castle extreme unrated</title_search>
+  </game>
+  <game name="Harry Potter and the Chamber of Secrets (Europe) (En,Fr,Es,No)">
+    <description>Harry Potter and the Chamber of Secrets (Europe) (En,Fr,Es,No)</description>
+    <title_clean>Harry Potter and the Chamber of Secrets</title_clean>
+    <title_search>harry potter and the chamber of secrets</title_search>
+  </game>
+  <game name="Harry Potter and the Deathly Hallows - Part 1 (World)">
+    <description>Harry Potter and the Deathly Hallows - Part 1 (World)</description>
+    <title_clean>Harry Potter and the Deathly Hallows - Part 1</title_clean>
+    <title_search>harry potter and the deathly hallows part 1</title_search>
+  </game>
+  <game name="Harry Potter and the Deathly Hallows - Part 2 (World)">
+    <description>Harry Potter and the Deathly Hallows - Part 2 (World)</description>
+    <title_clean>Harry Potter and the Deathly Hallows - Part 2</title_clean>
+    <title_search>harry potter and the deathly hallows part 2</title_search>
+  </game>
+  <game name="Harry Potter and the Goblet of Fire (Europe) (En,Fr,Es,No)">
+    <description>Harry Potter and the Goblet of Fire (Europe) (En,Fr,Es,No)</description>
+    <title_clean>Harry Potter and the Goblet of Fire</title_clean>
+    <title_search>harry potter and the goblet of fire</title_search>
+  </game>
+  <game name="Harry Potter and the Order of the Phoenix (Europe)">
+    <description>Harry Potter and the Order of the Phoenix (Europe)</description>
+    <title_clean>Harry Potter and the Order of the Phoenix</title_clean>
+    <title_search>harry potter and the order of the phoenix</title_search>
+  </game>
+  <game name="Harry Potter and the Philosopher's Stone (Europe) (En,Fr,Es,No)">
+    <description>Harry Potter and the Philosopher's Stone (Europe) (En,Fr,Es,No)</description>
+    <title_clean>Harry Potter and the Philosopher's Stone</title_clean>
+    <title_search>harry potter and the philosophers stone</title_search>
+  </game>
+  <game name="Harry Potter and the Prisoner of Azkaban (Europe) (En,Fr,Es,No)">
+    <description>Harry Potter and the Prisoner of Azkaban (Europe) (En,Fr,Es,No)</description>
+    <title_clean>Harry Potter and the Prisoner of Azkaban</title_clean>
+    <title_search>harry potter and the prisoner of azkaban</title_search>
+  </game>
+  <game name="Harry Potter to Fushichou no Kishidan (Japan) (En,Ja)">
+    <description>Harry Potter to Fushichou no Kishidan (Japan) (En,Ja)</description>
+    <title_clean>Harry Potter to Fushichou no Kishidan</title_clean>
+    <title_search>harry potter to fushichou no kishidan</title_search>
+  </game>
+  <game name="Heavy Metal (Japan, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar,He)">
+    <description>Heavy Metal (Japan, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar,He)</description>
+    <title_clean>Heavy Metal</title_clean>
+    <title_search>heavy metal</title_search>
+  </game>
+  <game name="Hellboy (Japan) (En,Ja)">
+    <description>Hellboy (Japan) (En,Ja)</description>
+    <title_clean>Hellboy</title_clean>
+    <title_search>hellboy</title_search>
+  </game>
+  <game name="Hellboy (Japan, Europe) (En,De,Nl,El,Tr)">
+    <description>Hellboy (Japan, Europe) (En,De,Nl,El,Tr)</description>
+    <title_clean>Hellboy</title_clean>
+    <title_search>hellboy</title_search>
+  </game>
+  <game name="Hellraiser (Europe)">
+    <description>Hellraiser (Europe)</description>
+    <title_clean>Hellraiser</title_clean>
+    <title_search>hellraiser</title_search>
+  </game>
+  <game name="Herbie Fully Loaded (Japan, Europe)">
+    <description>Herbie Fully Loaded (Japan, Europe)</description>
+    <title_clean>Herbie Fully Loaded</title_clean>
+    <title_search>herbie fully loaded</title_search>
+  </game>
+  <game name="Hero (USA) (En,Fr,Es,Zh)">
+    <description>Hero (USA) (En,Fr,Es,Zh)</description>
+    <title_clean>Hero</title_clean>
+    <title_search>hero</title_search>
+  </game>
+  <game name="High Tension (USA) (En,Fr,Es) [b]">
+    <description>High Tension (USA) (En,Fr,Es) [b]</description>
+    <title_clean>High Tension</title_clean>
+    <title_search>high tension</title_search>
+  </game>
+  <game name="Hills Have Eyes 2, The (Europe)">
+    <description>Hills Have Eyes 2, The (Europe)</description>
+    <title_clean>The Hills Have Eyes 2</title_clean>
+    <title_search>the hills have eyes 2</title_search>
+  </game>
+  <game name="Hills Have Eyes, The (Europe) [b]">
+    <description>Hills Have Eyes, The (Europe) [b]</description>
+    <title_clean>The Hills Have Eyes</title_clean>
+    <title_search>the hills have eyes</title_search>
+  </game>
+  <game name="Hillz, The (USA) (En,Es)">
+    <description>Hillz, The (USA) (En,Es)</description>
+    <title_clean>The Hillz</title_clean>
+    <title_search>the hillz</title_search>
+  </game>
+  <game name="History of Violence, A (Europe)">
+    <description>History of Violence, A (Europe)</description>
+    <title_clean>History of Violence, A</title_clean>
+    <title_search>history of violence a</title_search>
+  </game>
+  <game name="Hitch (Europe) (En,Es,It,Pt,Sv,No,Da,Fi)">
+    <description>Hitch (Europe) (En,Es,It,Pt,Sv,No,Da,Fi)</description>
+    <title_clean>Hitch</title_clean>
+    <title_search>hitch</title_search>
+  </game>
+  <game name="Hitch (Europe) (En,Fr,De,Nl,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>Hitch (Europe) (En,Fr,De,Nl,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>Hitch</title_clean>
+    <title_search>hitch</title_search>
+  </game>
+  <game name="Hitchhiker's Guide to the Galaxy, The (Europe) (En,Es,Sv,No,Da,Fi)">
+    <description>Hitchhiker's Guide to the Galaxy, The (Europe) (En,Es,Sv,No,Da,Fi)</description>
+    <title_clean>The Hitchhiker's Guide to the Galaxy</title_clean>
+    <title_search>the hitchhikers guide to the galaxy</title_search>
+  </game>
+  <game name="Hitchhiker's Guide to the Galaxy, The (Europe) (En,Fr,Nl)">
+    <description>Hitchhiker's Guide to the Galaxy, The (Europe) (En,Fr,Nl)</description>
+    <title_clean>The Hitchhiker's Guide to the Galaxy</title_clean>
+    <title_search>the hitchhikers guide to the galaxy</title_search>
+  </game>
+  <game name="Hollow Man (Europe) (En,Fr,De,Nl,Tr,Cs,Hu,Ar)">
+    <description>Hollow Man (Europe) (En,Fr,De,Nl,Tr,Cs,Hu,Ar)</description>
+    <title_clean>Hollow Man</title_clean>
+    <title_search>hollow man</title_search>
+  </game>
+  <game name="Hollow Man (USA)">
+    <description>Hollow Man (USA)</description>
+    <title_clean>Hollow Man</title_clean>
+    <title_search>hollow man</title_search>
+  </game>
+  <game name="Hollow Man 2 (Europe) (En,Es,Pt,Sv,No,Da,Fi,El,Hi,Ar)">
+    <description>Hollow Man 2 (Europe) (En,Es,Pt,Sv,No,Da,Fi,El,Hi,Ar)</description>
+    <title_clean>Hollow Man 2</title_clean>
+    <title_search>hollow man 2</title_search>
+  </game>
+  <game name="Home Alone (World)">
+    <description>Home Alone (World)</description>
+    <title_clean>Home Alone</title_clean>
+    <title_search>home alone</title_search>
+  </game>
+  <game name="Home Alone 2 (World)">
+    <description>Home Alone 2 (World)</description>
+    <title_clean>Home Alone 2</title_clean>
+    <title_search>home alone 2</title_search>
+  </game>
+  <game name="Hoshi no Koe - The Voices of a Distant Star (Japan)">
+    <description>Hoshi no Koe - The Voices of a Distant Star (Japan)</description>
+    <title_clean>Hoshi no Koe - The Voices of a Distant Star</title_clean>
+    <title_search>hoshi no koe the voices of a distant star</title_search>
+  </game>
+  <game name="Hostage (Europe)">
+    <description>Hostage (Europe)</description>
+    <title_clean>Hostage</title_clean>
+    <title_search>hostage</title_search>
+  </game>
+  <game name="Hostel (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,El,Tr,Cs,Th,Hr,Hi,Ar,He,Is,Sl,Ro)">
+    <description>Hostel (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,El,Tr,Cs,Th,Hr,Hi,Ar,He,Is,Sl,Ro)</description>
+    <title_clean>Hostel</title_clean>
+    <title_search>hostel</title_search>
+  </game>
+  <game name="Hostel - Part II (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Tr,Hi,Ar,Is)">
+    <description>Hostel - Part II (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Tr,Hi,Ar,Is)</description>
+    <title_clean>Hostel - Part II</title_clean>
+    <title_search>hostel part ii</title_search>
+  </game>
+  <game name="Hostel - Part II Unrated (USA) (En,Fr,Es) [b]">
+    <description>Hostel - Part II Unrated (USA) (En,Fr,Es) [b]</description>
+    <title_clean>Hostel - Part II Unrated</title_clean>
+    <title_search>hostel part ii unrated</title_search>
+  </game>
+  <game name="Hostel Unrated (USA) (En,Fr) [b]">
+    <description>Hostel Unrated (USA) (En,Fr) [b]</description>
+    <title_clean>Hostel Unrated</title_clean>
+    <title_search>hostel unrated</title_search>
+  </game>
+  <game name="Hot Fuzz (Europe)">
+    <description>Hot Fuzz (Europe)</description>
+    <title_clean>Hot Fuzz</title_clean>
+    <title_search>hot fuzz</title_search>
+  </game>
+  <game name="Hotel Rwanda (Europe)">
+    <description>Hotel Rwanda (Europe)</description>
+    <title_clean>Hotel Rwanda</title_clean>
+    <title_search>hotel rwanda</title_search>
+  </game>
+  <game name="House Bunny, The (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]">
+    <description>House Bunny, The (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]</description>
+    <title_clean>The House Bunny</title_clean>
+    <title_search>the house bunny</title_search>
+  </game>
+  <game name="House Of Wax (Europe) (En,De,Nl,Sv)">
+    <description>House Of Wax (Europe) (En,De,Nl,Sv)</description>
+    <title_clean>House Of Wax</title_clean>
+    <title_search>house of wax</title_search>
+  </game>
+  <game name="House of Flying Daggers (Europe) (En,Zh)">
+    <description>House of Flying Daggers (Europe) (En,Zh)</description>
+    <title_clean>House of Flying Daggers</title_clean>
+    <title_search>house of flying daggers</title_search>
+  </game>
+  <game name="House of Flying Daggers (USA) (En,Fr,Zh) [b]">
+    <description>House of Flying Daggers (USA) (En,Fr,Zh) [b]</description>
+    <title_clean>House of Flying Daggers</title_clean>
+    <title_search>house of flying daggers</title_search>
+  </game>
+  <game name="House of the Dead II (Europe) (En,Es,Sv,No,Da,Fi,El,Hi,Ar)">
+    <description>House of the Dead II (Europe) (En,Es,Sv,No,Da,Fi,El,Hi,Ar)</description>
+    <title_clean>House of the Dead II</title_clean>
+    <title_search>house of the dead ii</title_search>
+  </game>
+  <game name="Hulk (Europe) (En,De,Pl,El,Tr,Cs,Hu)">
+    <description>Hulk (Europe) (En,De,Pl,El,Tr,Cs,Hu)</description>
+    <title_clean>Hulk</title_clean>
+    <title_search>hulk</title_search>
+  </game>
+  <game name="Hulk (Europe) (En,Fr,Nl,Sv,No,Da,Fi,Is)">
+    <description>Hulk (Europe) (En,Fr,Nl,Sv,No,Da,Fi,Is)</description>
+    <title_clean>Hulk</title_clean>
+    <title_search>hulk</title_search>
+  </game>
+  <game name="Hulk (Japan) (Ja,Zh,Ko,Th) [b]">
+    <description>Hulk (Japan) (Ja,Zh,Ko,Th) [b]</description>
+    <title_clean>Hulk</title_clean>
+    <title_search>hulk</title_search>
+  </game>
+  <game name="Hustle _ Flow (USA) [b]">
+    <description>Hustle _ Flow (USA) [b]</description>
+    <title_clean>Hustle _ Flow</title_clean>
+    <title_search>hustle flow</title_search>
+  </game>
+  <game name="I Spit on Your Grave (Europe)">
+    <description>I Spit on Your Grave (Europe)</description>
+    <title_clean>I Spit on Your Grave</title_clean>
+    <title_search>i spit on your grave</title_search>
+  </game>
+  <game name="I'll Always Know What You Did Last Summer (Europe) (En,Fr,Nl,Sv,No,Da,Fi,El,Hi,Ar)">
+    <description>I'll Always Know What You Did Last Summer (Europe) (En,Fr,Nl,Sv,No,Da,Fi,El,Hi,Ar)</description>
+    <title_clean>I'll Always Know What You Did Last Summer</title_clean>
+    <title_search>ill always know what you did last summer</title_search>
+  </game>
+  <game name="I, Robot (Europe) (En,De,Es)">
+    <description>I, Robot (Europe) (En,De,Es)</description>
+    <title_clean>I, Robot</title_clean>
+    <title_search>i robot</title_search>
+  </game>
+  <game name="I, Robot (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)">
+    <description>I, Robot (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>I, Robot</title_clean>
+    <title_search>i robot</title_search>
+  </game>
+  <game name="Ice Age (Europe) (En,Sv,No,Da,Fi)">
+    <description>Ice Age (Europe) (En,Sv,No,Da,Fi)</description>
+    <title_clean>Ice Age</title_clean>
+    <title_search>ice age</title_search>
+  </game>
+  <game name="Ice Age (Japan) (En,Ja)">
+    <description>Ice Age (Japan) (En,Ja)</description>
+    <title_clean>Ice Age</title_clean>
+    <title_search>ice age</title_search>
+  </game>
+  <game name="Ice Age 2 - The Meltdown (USA) (En,Fr,Es) [b]">
+    <description>Ice Age 2 - The Meltdown (USA) (En,Fr,Es) [b]</description>
+    <title_clean>Ice Age 2 - The Meltdown</title_clean>
+    <title_search>ice age 2 the meltdown</title_search>
+  </game>
+  <game name="Idle Hands (USA) (En,Es)">
+    <description>Idle Hands (USA) (En,Es)</description>
+    <title_clean>Idle Hands</title_clean>
+    <title_search>idle hands</title_search>
+  </game>
+  <game name="Idol to Yakyuken (Japan, Europe)">
+    <description>Idol to Yakyuken (Japan, Europe)</description>
+    <title_clean>Idol to Yakyuken</title_clean>
+    <title_search>idol to yakyuken</title_search>
+  </game>
+  <game name="Incredibles, The (USA) (En,Fr,Es)">
+    <description>Incredibles, The (USA) (En,Fr,Es)</description>
+    <title_clean>The Incredibles</title_clean>
+    <title_search>the incredibles</title_search>
+  </game>
+  <game name="Independence Day (Europe) (En,Sv,No,Da,Fi)">
+    <description>Independence Day (Europe) (En,Sv,No,Da,Fi)</description>
+    <title_clean>Independence Day</title_clean>
+    <title_search>independence day</title_search>
+  </game>
+  <game name="Independence Day (Japan) (En,Ja)">
+    <description>Independence Day (Japan) (En,Ja)</description>
+    <title_clean>Independence Day</title_clean>
+    <title_search>independence day</title_search>
+  </game>
+  <game name="Independence Day (Japan, Europe) (En,Fr,Nl)">
+    <description>Independence Day (Japan, Europe) (En,Fr,Nl)</description>
+    <title_clean>Independence Day</title_clean>
+    <title_search>independence day</title_search>
+  </game>
+  <game name="Independence Day (USA) (En,Es) [b]">
+    <description>Independence Day (USA) (En,Es) [b]</description>
+    <title_clean>Independence Day</title_clean>
+    <title_search>independence day</title_search>
+  </game>
+  <game name="Informant, The (Europe)">
+    <description>Informant, The (Europe)</description>
+    <title_clean>The Informant</title_clean>
+    <title_search>the informant</title_search>
+  </game>
+  <game name="Inglorious Basterds (Europe)">
+    <description>Inglorious Basterds (Europe)</description>
+    <title_clean>Inglorious Basterds</title_clean>
+    <title_search>inglorious basterds</title_search>
+  </game>
+  <game name="Initial D (USA) (En,Zh)">
+    <description>Initial D (USA) (En,Zh)</description>
+    <title_clean>Initial D</title_clean>
+    <title_search>initial d</title_search>
+  </game>
+  <game name="International, The (USA) (En,Fr,Es,Pt,Zh,Ko,Th)">
+    <description>International, The (USA) (En,Fr,Es,Pt,Zh,Ko,Th)</description>
+    <title_clean>The International</title_clean>
+    <title_search>the international</title_search>
+  </game>
+  <game name="Into the Blue (Europe) (En,Nl,Ko,Hi)">
+    <description>Into the Blue (Europe) (En,Nl,Ko,Hi)</description>
+    <title_clean>Into the Blue</title_clean>
+    <title_search>into the blue</title_search>
+  </game>
+  <game name="Into the Blue (USA) (En,Fr) [b]">
+    <description>Into the Blue (USA) (En,Fr) [b]</description>
+    <title_clean>Into the Blue</title_clean>
+    <title_search>into the blue</title_search>
+  </game>
+  <game name="Ipcress File, The (Europe)">
+    <description>Ipcress File, The (Europe)</description>
+    <title_clean>The Ipcress File</title_clean>
+    <title_search>the ipcress file</title_search>
+  </game>
+  <game name="Iron Man (Spain) (En,Es,Ca)">
+    <description>Iron Man (Spain) (En,Es,Ca)</description>
+    <title_clean>Iron Man</title_clean>
+    <title_search>iron man</title_search>
+  </game>
+  <game name="Island, The (Europe) (En,De,Nl,Sv)">
+    <description>Island, The (Europe) (En,De,Nl,Sv)</description>
+    <title_clean>The Island</title_clean>
+    <title_search>the island</title_search>
+  </game>
+  <game name="Italian Job, The (USA) [b]">
+    <description>Italian Job, The (USA) [b]</description>
+    <title_clean>The Italian Job</title_clean>
+    <title_search>the italian job</title_search>
+  </game>
+  <game name="Jackass - The Movie (Australia)">
+    <description>Jackass - The Movie (Australia)</description>
+    <title_clean>Jackass - The Movie</title_clean>
+    <title_search>jackass the movie</title_search>
+  </game>
+  <game name="Jackass Vol. 2 (World)">
+    <description>Jackass Vol. 2 (World)</description>
+    <title_clean>Jackass Vol. 2</title_clean>
+    <title_search>jackass vol 2</title_search>
+  </game>
+  <game name="Jackass Vol. 3 (World)">
+    <description>Jackass Vol. 3 (World)</description>
+    <title_clean>Jackass Vol. 3</title_clean>
+    <title_search>jackass vol 3</title_search>
+  </game>
+  <game name="Jerry Maguire (Japan, Europe)">
+    <description>Jerry Maguire (Japan, Europe)</description>
+    <title_clean>Jerry Maguire</title_clean>
+    <title_search>jerry maguire</title_search>
+  </game>
+  <game name="Joe Dirt (USA) (En,Fr,Es,Pt,Zh,Ko,Th)">
+    <description>Joe Dirt (USA) (En,Fr,Es,Pt,Zh,Ko,Th)</description>
+    <title_clean>Joe Dirt</title_clean>
+    <title_search>joe dirt</title_search>
+  </game>
+  <game name="John Carpenter's Vampires (USA) (En,Es)">
+    <description>John Carpenter's Vampires (USA) (En,Es)</description>
+    <title_clean>John Carpenter's Vampires</title_clean>
+    <title_search>john carpenters vampires</title_search>
+  </game>
+  <game name="Jumanji (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar,He)">
+    <description>Jumanji (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar,He)</description>
+    <title_clean>Jumanji</title_clean>
+    <title_search>jumanji</title_search>
+  </game>
+  <game name="Kaede Matsushima (Japan) (En,Ja)">
+    <description>Kaede Matsushima (Japan) (En,Ja)</description>
+    <title_clean>Kaede Matsushima</title_clean>
+    <title_search>kaede matsushima</title_search>
+  </game>
+  <game name="Kanojo x Kanojo x Kanojo - Dokidoki Full Throttle! (Japan) (UMD-PG Edition)">
+    <description>Kanojo x Kanojo x Kanojo - Dokidoki Full Throttle! (Japan) (UMD-PG Edition)</description>
+    <title_clean>Kanojo x Kanojo x Kanojo - Dokidoki Full Throttle!</title_clean>
+    <title_search>kanojo x kanojo x kanojo dokidoki full throttle</title_search>
+  </game>
+  <game name="Kanojo x Kanojo x Kanojo - Sanshimai tono Doki Doki Kyoudou Seikatsu (Japan) [b]">
+    <description>Kanojo x Kanojo x Kanojo - Sanshimai tono Doki Doki Kyoudou Seikatsu (Japan) [b]</description>
+    <title_clean>Kanojo x Kanojo x Kanojo - Sanshimai tono Doki Doki Kyoudou Seikatsu</title_clean>
+    <title_search>kanojo x kanojo x kanojo sanshimai tono doki doki kyoudou seikatsu</title_search>
+  </game>
+  <game name="Karas - The Prophecy (USA)">
+    <description>Karas - The Prophecy (USA)</description>
+    <title_clean>Karas - The Prophecy</title_clean>
+    <title_search>karas the prophecy</title_search>
+  </game>
+  <game name="Keeping Mum (Europe)">
+    <description>Keeping Mum (Europe)</description>
+    <title_clean>Keeping Mum</title_clean>
+    <title_search>keeping mum</title_search>
+  </game>
+  <game name="Kill Bill - Vol.1 (Japan, Europe) (En,De,Es,It)">
+    <description>Kill Bill - Vol.1 (Japan, Europe) (En,De,Es,It)</description>
+    <title_clean>Kill Bill - Vol.1</title_clean>
+    <title_search>kill bill vol1</title_search>
+  </game>
+  <game name="Kill Bill - Vol.2 (Japan, Europe) (En,Es)">
+    <description>Kill Bill - Vol.2 (Japan, Europe) (En,Es)</description>
+    <title_clean>Kill Bill - Vol.2</title_clean>
+    <title_search>kill bill vol2</title_search>
+  </game>
+  <game name="King Arthur DC (Japan, Europe)">
+    <description>King Arthur DC (Japan, Europe)</description>
+    <title_clean>King Arthur DC</title_clean>
+    <title_search>king arthur dc</title_search>
+  </game>
+  <game name="King Arthur Directors Cut (Europe) (En,Fr,Nl)">
+    <description>King Arthur Directors Cut (Europe) (En,Fr,Nl)</description>
+    <title_clean>King Arthur Directors Cut</title_clean>
+    <title_search>king arthur directors cut</title_search>
+  </game>
+  <game name="King Kong (Europe) (En,De)">
+    <description>King Kong (Europe) (En,De)</description>
+    <title_clean>King Kong</title_clean>
+    <title_search>king kong</title_search>
+  </game>
+  <game name="King Kong (Europe) (En,Pt,Ca)">
+    <description>King Kong (Europe) (En,Pt,Ca)</description>
+    <title_clean>King Kong</title_clean>
+    <title_search>king kong</title_search>
+  </game>
+  <game name="King of New York (Europe) (En,Es)">
+    <description>King of New York (Europe) (En,Es)</description>
+    <title_clean>King of New York</title_clean>
+    <title_search>king of new york</title_search>
+  </game>
+  <game name="Kingdom of Heaven (Japan, Europe) (En,Nl,Sv,No,Da,Fi)">
+    <description>Kingdom of Heaven (Japan, Europe) (En,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>Kingdom of Heaven</title_clean>
+    <title_search>kingdom of heaven</title_search>
+  </game>
+  <game name="Kiss of the Dragon (Europe) (En,Es,It)">
+    <description>Kiss of the Dragon (Europe) (En,Es,It)</description>
+    <title_clean>Kiss of the Dragon</title_clean>
+    <title_search>kiss of the dragon</title_search>
+  </game>
+  <game name="Knight's Tale, A (Europe) (En,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>Knight's Tale, A (Europe) (En,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>Knight's Tale, A</title_clean>
+    <title_search>knights tale a</title_search>
+  </game>
+  <game name="Kung Fu Hustle (Europe) (En,Fr,De,Es,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>Kung Fu Hustle (Europe) (En,Fr,De,Es,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>Kung Fu Hustle</title_clean>
+    <title_search>kung fu hustle</title_search>
+  </game>
+  <game name="L4yer Cake (Japan, Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>L4yer Cake (Japan, Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>L4yer Cake</title_clean>
+    <title_search>l4yer cake</title_search>
+  </game>
+  <game name="LOVERS -Koi ni Ochitara...- (Japan) [b]">
+    <description>LOVERS -Koi ni Ochitara...- (Japan) [b]</description>
+    <title_clean>LOVERS -Koi ni Ochitara...-</title_clean>
+    <title_search>lovers koi ni ochitara</title_search>
+  </game>
+  <game name="La Blue Girl Returns (World)">
+    <description>La Blue Girl Returns (World)</description>
+    <title_clean>La Blue Girl Returns</title_clean>
+    <title_search>la blue girl returns</title_search>
+  </game>
+  <game name="Labyrinth (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Cs,Hu,Hi,Ar,He)">
+    <description>Labyrinth (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>Labyrinth</title_clean>
+    <title_search>labyrinth</title_search>
+  </game>
+  <game name="Labyrinth (USA)">
+    <description>Labyrinth (USA)</description>
+    <title_clean>Labyrinth</title_clean>
+    <title_search>labyrinth</title_search>
+  </game>
+  <game name="Lady in the Water (Japan) (En,Ja)">
+    <description>Lady in the Water (Japan) (En,Ja)</description>
+    <title_clean>Lady in the Water</title_clean>
+    <title_search>lady in the water</title_search>
+  </game>
+  <game name="Lakeview Terrace (Europe) (En,It,Hi,Ar)">
+    <description>Lakeview Terrace (Europe) (En,It,Hi,Ar)</description>
+    <title_clean>Lakeview Terrace</title_clean>
+    <title_search>lakeview terrace</title_search>
+  </game>
+  <game name="Land of the Dead (Europe) (En,Es,It,Pt,Hr) [b]">
+    <description>Land of the Dead (Europe) (En,Es,It,Pt,Hr) [b]</description>
+    <title_clean>Land of the Dead</title_clean>
+    <title_search>land of the dead</title_search>
+  </game>
+  <game name="Land of the Dead (Japan, Europe)">
+    <description>Land of the Dead (Japan, Europe)</description>
+    <title_clean>Land of the Dead</title_clean>
+    <title_search>land of the dead</title_search>
+  </game>
+  <game name="Lara Croft Tomb Raider (USA)">
+    <description>Lara Croft Tomb Raider (USA)</description>
+    <title_clean>Lara Croft Tomb Raider</title_clean>
+    <title_search>lara croft tomb raider</title_search>
+  </game>
+  <game name="Lara Croft Tomb Raider - The Cradle of Life (USA)">
+    <description>Lara Croft Tomb Raider - The Cradle of Life (USA)</description>
+    <title_clean>Lara Croft Tomb Raider - The Cradle of Life</title_clean>
+    <title_search>lara croft tomb raider the cradle of life</title_search>
+  </game>
+  <game name="Last Exile (USA) (En,Ja)">
+    <description>Last Exile (USA) (En,Ja)</description>
+    <title_clean>Last Exile</title_clean>
+    <title_search>last exile</title_search>
+  </game>
+  <game name="Last Samurai, The (Europe) (En,De,Nl,Sv)">
+    <description>Last Samurai, The (Europe) (En,De,Nl,Sv)</description>
+    <title_clean>The Last Samurai</title_clean>
+    <title_search>the last samurai</title_search>
+  </game>
+  <game name="League of Extraordinary Gentleman, The (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)">
+    <description>League of Extraordinary Gentleman, The (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>The League of Extraordinary Gentleman</title_clean>
+    <title_search>the league of extraordinary gentleman</title_search>
+  </game>
+  <game name="League of Extraordinary Gentleman, The (Japan) (En,Ja)">
+    <description>League of Extraordinary Gentleman, The (Japan) (En,Ja)</description>
+    <title_clean>The League of Extraordinary Gentleman</title_clean>
+    <title_search>the league of extraordinary gentleman</title_search>
+  </game>
+  <game name="League of Gentlemen's Apocalypse, The (Europe)">
+    <description>League of Gentlemen's Apocalypse, The (Europe)</description>
+    <title_clean>The League of Gentlemen's Apocalypse</title_clean>
+    <title_search>the league of gentlemens apocalypse</title_search>
+  </game>
+  <game name="League of Gentlemen, The - The First Series (Europe)">
+    <description>League of Gentlemen, The - The First Series (Europe)</description>
+    <title_clean>The League of Gentlemen - The First Series</title_clean>
+    <title_search>the league of gentlemen the first series</title_search>
+  </game>
+  <game name="League of Gentlemen, The - The Second Series (Europe)">
+    <description>League of Gentlemen, The - The Second Series (Europe)</description>
+    <title_clean>The League of Gentlemen - The Second Series</title_clean>
+    <title_search>the league of gentlemen the second series</title_search>
+  </game>
+  <game name="Legend of Zorro, The (Europe) (En,De,Nl,Sv,No,Da,Fi,Ru,Tr,Cs,Hi,Ar)">
+    <description>Legend of Zorro, The (Europe) (En,De,Nl,Sv,No,Da,Fi,Ru,Tr,Cs,Hi,Ar)</description>
+    <title_clean>The Legend of Zorro</title_clean>
+    <title_search>the legend of zorro</title_search>
+  </game>
+  <game name="Legend of Zorro, The (Europe) (En,Es,It,Hi)">
+    <description>Legend of Zorro, The (Europe) (En,Es,It,Hi)</description>
+    <title_clean>The Legend of Zorro</title_clean>
+    <title_search>the legend of zorro</title_search>
+  </game>
+  <game name="Little Britain - The Complete First Series (World) [b]">
+    <description>Little Britain - The Complete First Series (World) [b]</description>
+    <title_clean>Little Britain - The Complete First Series</title_clean>
+    <title_search>little britain the complete first series</title_search>
+  </game>
+  <game name="Little Man (Europe) (En,Fr,De,Es,Nl,Pl,Tr,Hi,Ar,Is)">
+    <description>Little Man (Europe) (En,Fr,De,Es,Nl,Pl,Tr,Hi,Ar,Is)</description>
+    <title_clean>Little Man</title_clean>
+    <title_search>little man</title_search>
+  </game>
+  <game name="Little Man (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]">
+    <description>Little Man (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]</description>
+    <title_clean>Little Man</title_clean>
+    <title_search>little man</title_search>
+  </game>
+  <game name="Live Freaky! Die Freaky! (USA)">
+    <description>Live Freaky! Die Freaky! (USA)</description>
+    <title_clean>Live Freaky! Die Freaky!</title_clean>
+    <title_search>live freaky die freaky</title_search>
+  </game>
+  <game name="Longest Yard, The (Europe, Australia) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar,He)">
+    <description>Longest Yard, The (Europe, Australia) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar,He)</description>
+    <title_clean>The Longest Yard</title_clean>
+    <title_search>the longest yard</title_search>
+  </game>
+  <game name="Lord Of War (USA) (En,Es)">
+    <description>Lord Of War (USA) (En,Es)</description>
+    <title_clean>Lord Of War</title_clean>
+    <title_search>lord of war</title_search>
+  </game>
+  <game name="Lords of Dogtown (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>Lords of Dogtown (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>Lords of Dogtown</title_clean>
+    <title_search>lords of dogtown</title_search>
+  </game>
+  <game name="Lords of Dogtown (USA) (En,Fr,Zh,Ko,Th)">
+    <description>Lords of Dogtown (USA) (En,Fr,Zh,Ko,Th)</description>
+    <title_clean>Lords of Dogtown</title_clean>
+    <title_search>lords of dogtown</title_search>
+  </game>
+  <game name="Lost - The Series Pilot Episodes (USA)">
+    <description>Lost - The Series Pilot Episodes (USA)</description>
+    <title_clean>Lost - The Series Pilot Episodes</title_clean>
+    <title_search>lost the series pilot episodes</title_search>
+  </game>
+  <game name="Lost Boys - The Tribe (Europe)">
+    <description>Lost Boys - The Tribe (Europe)</description>
+    <title_clean>Lost Boys - The Tribe</title_clean>
+    <title_search>lost boys the tribe</title_search>
+  </game>
+  <game name="Lost Boys, The (Europe)">
+    <description>Lost Boys, The (Europe)</description>
+    <title_clean>The Lost Boys</title_clean>
+    <title_search>the lost boys</title_search>
+  </game>
+  <game name="Love Fetish - Te Koki Hen (Japan) (UMD-PG Edition)">
+    <description>Love Fetish - Te Koki Hen (Japan) (UMD-PG Edition)</description>
+    <title_clean>Love Fetish - Te Koki Hen</title_clean>
+    <title_search>love fetish te koki hen</title_search>
+  </game>
+  <game name="Macross Ultimate Frontier - Super Dimension (Chou Jikuu Nyan Nyan Pack) (Japan) [b]">
+    <description>Macross Ultimate Frontier - Super Dimension (Chou Jikuu Nyan Nyan Pack) (Japan) [b]</description>
+    <title_clean>Macross Ultimate Frontier - Super Dimension</title_clean>
+    <title_search>macross ultimate frontier super dimension</title_search>
+  </game>
+  <game name="Mad Max (USA) (En,Fr)">
+    <description>Mad Max (USA) (En,Fr)</description>
+    <title_clean>Mad Max</title_clean>
+    <title_search>mad max</title_search>
+  </game>
+  <game name="Man Of the House (USA) (En,Fr) [b]">
+    <description>Man Of the House (USA) (En,Fr) [b]</description>
+    <title_clean>Man Of the House</title_clean>
+    <title_search>man of the house</title_search>
+  </game>
+  <game name="Man on Fire (Europe)">
+    <description>Man on Fire (Europe)</description>
+    <title_clean>Man on Fire</title_clean>
+    <title_search>man on fire</title_search>
+  </game>
+  <game name="Man on Fire (USA) (En,Es)">
+    <description>Man on Fire (USA) (En,Es)</description>
+    <title_clean>Man on Fire</title_clean>
+    <title_search>man on fire</title_search>
+  </game>
+  <game name="Mask of Zorro, The (Europe) (En,De,Tr)">
+    <description>Mask of Zorro, The (Europe) (En,De,Tr)</description>
+    <title_clean>The Mask of Zorro</title_clean>
+    <title_search>the mask of zorro</title_search>
+  </game>
+  <game name="Mask of Zorro, The (Europe) (En,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>Mask of Zorro, The (Europe) (En,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>The Mask of Zorro</title_clean>
+    <title_search>the mask of zorro</title_search>
+  </game>
+  <game name="Master and Commander - The Far Side of the World (Europe) (En,Sv,No,Da,Fi)">
+    <description>Master and Commander - The Far Side of the World (Europe) (En,Sv,No,Da,Fi)</description>
+    <title_clean>Master and Commander - The Far Side of the World</title_clean>
+    <title_search>master and commander the far side of the world</title_search>
+  </game>
+  <game name="Master and Commander - The Far Side of the World (Japan) (En,Ja) [b]">
+    <description>Master and Commander - The Far Side of the World (Japan) (En,Ja) [b]</description>
+    <title_clean>Master and Commander - The Far Side of the World</title_clean>
+    <title_search>master and commander the far side of the world</title_search>
+  </game>
+  <game name="Matrix Reloaded, The (Europe) (En,De,Nl,Sv)">
+    <description>Matrix Reloaded, The (Europe) (En,De,Nl,Sv)</description>
+    <title_clean>The Matrix Reloaded</title_clean>
+    <title_search>the matrix reloaded</title_search>
+  </game>
+  <game name="Matrix Reloaded, The (Europe) (En,Fr,Es,No)">
+    <description>Matrix Reloaded, The (Europe) (En,Fr,Es,No)</description>
+    <title_clean>The Matrix Reloaded</title_clean>
+    <title_search>the matrix reloaded</title_search>
+  </game>
+  <game name="Matrix Revolutions, The (Europe) (En,Fr,Es)">
+    <description>Matrix Revolutions, The (Europe) (En,Fr,Es)</description>
+    <title_clean>The Matrix Revolutions</title_clean>
+    <title_search>the matrix revolutions</title_search>
+  </game>
+  <game name="Matrix, The (Europe) (En,De,Nl,Sv)">
+    <description>Matrix, The (Europe) (En,De,Nl,Sv)</description>
+    <title_clean>The Matrix</title_clean>
+    <title_search>the matrix</title_search>
+  </game>
+  <game name="Matrix, The (Europe) (En,Fr,Es,No)">
+    <description>Matrix, The (Europe) (En,Fr,Es,No)</description>
+    <title_clean>The Matrix</title_clean>
+    <title_search>the matrix</title_search>
+  </game>
+  <game name="Matrix, The (Europe) (En,Fr,Es,No) (Alt1)">
+    <description>Matrix, The (Europe) (En,Fr,Es,No) (Alt1)</description>
+    <title_clean>The Matrix</title_clean>
+    <title_search>the matrix</title_search>
+  </game>
+  <game name="Matrix, The (Japan) (En,Ja)">
+    <description>Matrix, The (Japan) (En,Ja)</description>
+    <title_clean>The Matrix</title_clean>
+    <title_search>the matrix</title_search>
+  </game>
+  <game name="Max Payne - Harder Cut (Europe)">
+    <description>Max Payne - Harder Cut (Europe)</description>
+    <title_clean>Max Payne - Harder Cut</title_clean>
+    <title_search>max payne harder cut</title_search>
+  </game>
+  <game name="Me Myself _ Irene (Europe)">
+    <description>Me Myself _ Irene (Europe)</description>
+    <title_clean>Me Myself _ Irene</title_clean>
+    <title_search>me myself irene</title_search>
+  </game>
+  <game name="Mei Shoujo (Japan) [b]">
+    <description>Mei Shoujo (Japan) [b]</description>
+    <title_clean>Mei Shoujo</title_clean>
+    <title_search>mei shoujo</title_search>
+  </game>
+  <game name="Men in Black (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Ro)">
+    <description>Men in Black (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Ro)</description>
+    <title_clean>Men in Black</title_clean>
+    <title_search>men in black</title_search>
+  </game>
+  <game name="Messengers, The (USA) (En,Fr) [b]">
+    <description>Messengers, The (USA) (En,Fr) [b]</description>
+    <title_clean>The Messengers</title_clean>
+    <title_search>the messengers</title_search>
+  </game>
+  <game name="Metropolis (Europe) (En,Ja,Fr,Es,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar,He)">
+    <description>Metropolis (Europe) (En,Ja,Fr,Es,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar,He)</description>
+    <title_clean>Metropolis</title_clean>
+    <title_search>metropolis</title_search>
+  </game>
+  <game name="Mihiro's Sexy Casino Game - Gold Ru$h (Japan) [b]">
+    <description>Mihiro's Sexy Casino Game - Gold Ru$h (Japan) [b]</description>
+    <title_clean>Mihiro's Sexy Casino Game - Gold Ru$h</title_clean>
+    <title_search>mihiros sexy casino game gold ruh</title_search>
+  </game>
+  <game name="Miku no Hi 39's Giving Day Project DIVA (Japan) [b]">
+    <description>Miku no Hi 39's Giving Day Project DIVA (Japan) [b]</description>
+    <title_clean>Miku no Hi 39's Giving Day Project DIVA</title_clean>
+    <title_search>miku no hi 39s giving day project diva</title_search>
+  </game>
+  <game name="Million Dollar Baby (Europe)">
+    <description>Million Dollar Baby (Europe)</description>
+    <title_clean>Million Dollar Baby</title_clean>
+    <title_search>million dollar baby</title_search>
+  </game>
+  <game name="Mirror Mask (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]">
+    <description>Mirror Mask (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]</description>
+    <title_clean>Mirror Mask</title_clean>
+    <title_search>mirror mask</title_search>
+  </game>
+  <game name="Mirrors (Europe)">
+    <description>Mirrors (Europe)</description>
+    <title_clean>Mirrors</title_clean>
+    <title_search>mirrors</title_search>
+  </game>
+  <game name="Mobile Suit Gundam Seed - The Empty Battlefield (USA) (En,Ja)">
+    <description>Mobile Suit Gundam Seed - The Empty Battlefield (USA) (En,Ja)</description>
+    <title_clean>Mobile Suit Gundam Seed - The Empty Battlefield</title_clean>
+    <title_search>mobile suit gundam seed the empty battlefield</title_search>
+  </game>
+  <game name="Momichupa Teacher - Kyonyuu Shimai to Sankaku Kankei (Japan) [b]">
+    <description>Momichupa Teacher - Kyonyuu Shimai to Sankaku Kankei (Japan) [b]</description>
+    <title_clean>Momichupa Teacher - Kyonyuu Shimai to Sankaku Kankei</title_clean>
+    <title_search>momichupa teacher kyonyuu shimai to sankaku kankei</title_search>
+  </game>
+  <game name="Momo Iro Imouto Yakyuuken Portable (Japan)">
+    <description>Momo Iro Imouto Yakyuuken Portable (Japan)</description>
+    <title_clean>Momo Iro Imouto Yakyuuken Portable</title_clean>
+    <title_search>momo iro imouto yakyuuken portable</title_search>
+  </game>
+  <game name="Monster House (Europe) (En,Es,Nl,Pt,Pl,El,Cs,Hu,Hi,Ar,He,Is,Ro)">
+    <description>Monster House (Europe) (En,Es,Nl,Pt,Pl,El,Cs,Hu,Hi,Ar,He,Is,Ro)</description>
+    <title_clean>Monster House</title_clean>
+    <title_search>monster house</title_search>
+  </game>
+  <game name="Monster House (USA) (En,Fr,Ko) [b]">
+    <description>Monster House (USA) (En,Fr,Ko) [b]</description>
+    <title_clean>Monster House</title_clean>
+    <title_search>monster house</title_search>
+  </game>
+  <game name="Monty Python and the Holy Grail (Japan, Europe) (En,De,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi)">
+    <description>Monty Python and the Holy Grail (Japan, Europe) (En,De,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi)</description>
+    <title_clean>Monty Python and the Holy Grail</title_clean>
+    <title_search>monty python and the holy grail</title_search>
+  </game>
+  <game name="Mr. _ Mrs. Smith (Europe) (En,Es,Nl,Sv,No,Da,Fi)">
+    <description>Mr. _ Mrs. Smith (Europe) (En,Es,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>Mr. _ Mrs. Smith</title_clean>
+    <title_search>mr mrs smith</title_search>
+  </game>
+  <game name="Mr. _ Mrs. Smith (Europe) (En,Es,Nl,Sv,No,Da,Fi) (Alt1)">
+    <description>Mr. _ Mrs. Smith (Europe) (En,Es,Nl,Sv,No,Da,Fi) (Alt1)</description>
+    <title_clean>Mr. _ Mrs. Smith</title_clean>
+    <title_search>mr mrs smith</title_search>
+  </game>
+  <game name="Mr. _ Mrs. Smith (Europe) (En,Fr,Es,Nl,Sv,No,Da,Fi)">
+    <description>Mr. _ Mrs. Smith (Europe) (En,Fr,Es,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>Mr. _ Mrs. Smith</title_clean>
+    <title_search>mr mrs smith</title_search>
+  </game>
+  <game name="Mr. and Mrs. Smith (USA) (En,Fr,Es)">
+    <description>Mr. and Mrs. Smith (USA) (En,Fr,Es)</description>
+    <title_clean>Mr. and Mrs. Smith</title_clean>
+    <title_search>mr and mrs smith</title_search>
+  </game>
+  <game name="Mummy Returns, The (Europe) (En,Es,Pt,El,Tr,He) [b]">
+    <description>Mummy Returns, The (Europe) (En,Es,Pt,El,Tr,He) [b]</description>
+    <title_clean>The Mummy Returns</title_clean>
+    <title_search>the mummy returns</title_search>
+  </game>
+  <game name="Mummy Returns, The (Europe) (En,Fr,It,Hr)">
+    <description>Mummy Returns, The (Europe) (En,Fr,It,Hr)</description>
+    <title_clean>The Mummy Returns</title_clean>
+    <title_search>the mummy returns</title_search>
+  </game>
+  <game name="Mummy Returns, The (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi,Hr,Is)">
+    <description>Mummy Returns, The (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi,Hr,Is)</description>
+    <title_clean>The Mummy Returns</title_clean>
+    <title_search>the mummy returns</title_search>
+  </game>
+  <game name="Mummy, The (Japan, Europe) (En,Ja,De,Es,Pt,Zh,Ko,Pl,El,Tr,Cs,Hu,Th,He)">
+    <description>Mummy, The (Japan, Europe) (En,Ja,De,Es,Pt,Zh,Ko,Pl,El,Tr,Cs,Hu,Th,He)</description>
+    <title_clean>The Mummy</title_clean>
+    <title_search>the mummy</title_search>
+  </game>
+  <game name="Napoleon Dynamite (USA)">
+    <description>Napoleon Dynamite (USA)</description>
+    <title_clean>Napoleon Dynamite</title_clean>
+    <title_search>napoleon dynamite</title_search>
+  </game>
+  <game name="National Lampoon's Animal House (USA) (En,Fr,Es)">
+    <description>National Lampoon's Animal House (USA) (En,Fr,Es)</description>
+    <title_clean>National Lampoon's Animal House</title_clean>
+    <title_search>national lampoons animal house</title_search>
+  </game>
+  <game name="National Lampoon's Christmas Vacation (Europe)">
+    <description>National Lampoon's Christmas Vacation (Europe)</description>
+    <title_clean>National Lampoon's Christmas Vacation</title_clean>
+    <title_search>national lampoons christmas vacation</title_search>
+  </game>
+  <game name="National Lampoon's European Vacation (Europe)">
+    <description>National Lampoon's European Vacation (Europe)</description>
+    <title_clean>National Lampoon's European Vacation</title_clean>
+    <title_search>national lampoons european vacation</title_search>
+  </game>
+  <game name="National Lampoon's Vacation (Europe)">
+    <description>National Lampoon's Vacation (Europe)</description>
+    <title_clean>National Lampoon's Vacation</title_clean>
+    <title_search>national lampoons vacation</title_search>
+  </game>
+  <game name="National Lampoon's Van Wilder (USA) (En,Es)">
+    <description>National Lampoon's Van Wilder (USA) (En,Es)</description>
+    <title_clean>National Lampoon's Van Wilder</title_clean>
+    <title_search>national lampoons van wilder</title_search>
+  </game>
+  <game name="National Treasure (Europe)">
+    <description>National Treasure (Europe)</description>
+    <title_clean>National Treasure</title_clean>
+    <title_search>national treasure</title_search>
+  </game>
+  <game name="National Treasure (USA) (En,Fr) [b]">
+    <description>National Treasure (USA) (En,Fr) [b]</description>
+    <title_clean>National Treasure</title_clean>
+    <title_search>national treasure</title_search>
+  </game>
+  <game name="Neon Genesis Evangelion - Death (True)2 (Japan)">
+    <description>Neon Genesis Evangelion - Death (True)2 (Japan)</description>
+    <title_clean>Neon Genesis Evangelion - Death 2</title_clean>
+    <title_search>neon genesis evangelion death 2</title_search>
+  </game>
+  <game name="Nettou! Sexy Yakyuuken 2nd (Japan)">
+    <description>Nettou! Sexy Yakyuuken 2nd (Japan)</description>
+    <title_clean>Nettou! Sexy Yakyuuken 2nd</title_clean>
+    <title_search>nettou sexy yakyuuken 2nd</title_search>
+  </game>
+  <game name="Night Watch (Europe) (En,Nl,Sv,No,Da,Fi,Ru)">
+    <description>Night Watch (Europe) (En,Nl,Sv,No,Da,Fi,Ru)</description>
+    <title_clean>Night Watch</title_clean>
+    <title_search>night watch</title_search>
+  </game>
+  <game name="Nightmare Before Christmas, The (USA) (En,Fr,Es) [b]">
+    <description>Nightmare Before Christmas, The (USA) (En,Fr,Es) [b]</description>
+    <title_clean>The Nightmare Before Christmas</title_clean>
+    <title_search>the nightmare before christmas</title_search>
+  </game>
+  <game name="Ninja Scroll (USA)">
+    <description>Ninja Scroll (USA)</description>
+    <title_clean>Ninja Scroll</title_clean>
+    <title_search>ninja scroll</title_search>
+  </game>
+  <game name="Not Another Teen Movie (USA) (En,Fr) [b]">
+    <description>Not Another Teen Movie (USA) (En,Fr) [b]</description>
+    <title_clean>Not Another Teen Movie</title_clean>
+    <title_search>not another teen movie</title_search>
+  </game>
+  <game name="Nugase Discipline Mahjong DX (Japan) [b]">
+    <description>Nugase Discipline Mahjong DX (Japan) [b]</description>
+    <title_clean>Nugase Discipline Mahjong DX</title_clean>
+    <title_search>nugase discipline mahjong dx</title_search>
+  </game>
+  <game name="Nugase! Yakyuuken Polorigurabia Tengoku (Japan)">
+    <description>Nugase! Yakyuuken Polorigurabia Tengoku (Japan)</description>
+    <title_clean>Nugase! Yakyuuken Polorigurabia Tengoku</title_clean>
+    <title_search>nugase yakyuuken polorigurabia tengoku</title_search>
+  </game>
+  <game name="Nugase! Yakyuuken Porori Gravure Tengoku Portable (Japan) [b]">
+    <description>Nugase! Yakyuuken Porori Gravure Tengoku Portable (Japan) [b]</description>
+    <title_clean>Nugase! Yakyuuken Porori Gravure Tengoku Portable</title_clean>
+    <title_search>nugase yakyuuken porori gravure tengoku portable</title_search>
+  </game>
+  <game name="Nugase!! Super Sexy Mahjong (Japan) [b]">
+    <description>Nugase!! Super Sexy Mahjong (Japan) [b]</description>
+    <title_clean>Nugase!! Super Sexy Mahjong</title_clean>
+    <title_search>nugase super sexy mahjong</title_search>
+  </game>
+  <game name="Nugase!! Super Sexy Mahjong 2 (Japan) [b]">
+    <description>Nugase!! Super Sexy Mahjong 2 (Japan) [b]</description>
+    <title_clean>Nugase!! Super Sexy Mahjong 2</title_clean>
+    <title_search>nugase super sexy mahjong 2</title_search>
+  </game>
+  <game name="Nugase!! Super Sexy Mahjong 3 (Japan) [b]">
+    <description>Nugase!! Super Sexy Mahjong 3 (Japan) [b]</description>
+    <title_clean>Nugase!! Super Sexy Mahjong 3</title_clean>
+    <title_search>nugase super sexy mahjong 3</title_search>
+  </game>
+  <game name="Nugase!! Super Sexy Mahjong 4 (Japan)">
+    <description>Nugase!! Super Sexy Mahjong 4 (Japan)</description>
+    <title_clean>Nugase!! Super Sexy Mahjong 4</title_clean>
+    <title_search>nugase super sexy mahjong 4</title_search>
+  </game>
+  <game name="Nugase!! Super Sexy Mahjong 6 (Japan)">
+    <description>Nugase!! Super Sexy Mahjong 6 (Japan)</description>
+    <title_clean>Nugase!! Super Sexy Mahjong 6</title_clean>
+    <title_search>nugase super sexy mahjong 6</title_search>
+  </game>
+  <game name="Ocean's Thirteen (Europe)">
+    <description>Ocean's Thirteen (Europe)</description>
+    <title_clean>Ocean's Thirteen</title_clean>
+    <title_search>oceans thirteen</title_search>
+  </game>
+  <game name="Oceans 11 (Japan, Europe)">
+    <description>Oceans 11 (Japan, Europe)</description>
+    <title_clean>Oceans 11</title_clean>
+    <title_search>oceans 11</title_search>
+  </game>
+  <game name="Office Space (USA) (En,Fr,Es) [b]">
+    <description>Office Space (USA) (En,Fr,Es) [b]</description>
+    <title_clean>Office Space</title_clean>
+    <title_search>office space</title_search>
+  </game>
+  <game name="Office, The - The Complete First Series (World)">
+    <description>Office, The - The Complete First Series (World)</description>
+    <title_clean>The Office - The Complete First Series</title_clean>
+    <title_search>the office the complete first series</title_search>
+  </game>
+  <game name="Ogura Yuko - Milky _ Duo (Japan)">
+    <description>Ogura Yuko - Milky _ Duo (Japan)</description>
+    <title_clean>Ogura Yuko - Milky _ Duo</title_clean>
+    <title_search>ogura yuko milky duo</title_search>
+  </game>
+  <game name="Oldboy (Japan, Europe) (En,Ko)">
+    <description>Oldboy (Japan, Europe) (En,Ko)</description>
+    <title_clean>Oldboy</title_clean>
+    <title_search>oldboy</title_search>
+  </game>
+  <game name="Once Upon a Time in Mexico (Europe) (En,Es,It,Pt)">
+    <description>Once Upon a Time in Mexico (Europe) (En,Es,It,Pt)</description>
+    <title_clean>Once Upon a Time in Mexico</title_clean>
+    <title_search>once upon a time in mexico</title_search>
+  </game>
+  <game name="Once Upon a Time in Mexico (Europe) (En,Fr,De,Nl,Pl,Tr,Ar)">
+    <description>Once Upon a Time in Mexico (Europe) (En,Fr,De,Nl,Pl,Tr,Ar)</description>
+    <title_clean>Once Upon a Time in Mexico</title_clean>
+    <title_search>once upon a time in mexico</title_search>
+  </game>
+  <game name="Once Upon a Time in Mexico (USA) (En,Fr,Es,Pt,Zh,Ko,Th)">
+    <description>Once Upon a Time in Mexico (USA) (En,Fr,Es,Pt,Zh,Ko,Th)</description>
+    <title_clean>Once Upon a Time in Mexico</title_clean>
+    <title_search>once upon a time in mexico</title_search>
+  </game>
+  <game name="One, The (Japan, Europe) (En,Fr,Es,It,Nl,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar)">
+    <description>One, The (Japan, Europe) (En,Fr,Es,It,Nl,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar)</description>
+    <title_clean>The One</title_clean>
+    <title_search>the one</title_search>
+  </game>
+  <game name="Ong Bak (Japan, Europe) (En,Th)">
+    <description>Ong Bak (Japan, Europe) (En,Th)</description>
+    <title_clean>Ong Bak</title_clean>
+    <title_search>ong bak</title_search>
+  </game>
+  <game name="Open Season (Europe) (En,Es,It,Nl,Pt,Pl,Cs,Hu,Hi,Ar,He,Is,Ro)">
+    <description>Open Season (Europe) (En,Es,It,Nl,Pt,Pl,Cs,Hu,Hi,Ar,He,Is,Ro)</description>
+    <title_clean>Open Season</title_clean>
+    <title_search>open season</title_search>
+  </game>
+  <game name="Open Season (USA) (En,Fr,Es) [b]">
+    <description>Open Season (USA) (En,Fr,Es) [b]</description>
+    <title_clean>Open Season</title_clean>
+    <title_search>open season</title_search>
+  </game>
+  <game name="Open Water (USA) (En,Es)">
+    <description>Open Water (USA) (En,Es)</description>
+    <title_clean>Open Water</title_clean>
+    <title_search>open water</title_search>
+  </game>
+  <game name="Osananajimi to Amaku H ni Sugosu Houhou (Japan) [b]">
+    <description>Osananajimi to Amaku H ni Sugosu Houhou (Japan) [b]</description>
+    <title_clean>Osananajimi to Amaku H ni Sugosu Houhou</title_clean>
+    <title_search>osananajimi to amaku h ni sugosu houhou</title_search>
+  </game>
+  <game name="Paprika (USA) (En,Ja,Fr,Es)">
+    <description>Paprika (USA) (En,Ja,Fr,Es)</description>
+    <title_clean>Paprika</title_clean>
+    <title_search>paprika</title_search>
+  </game>
+  <game name="Paranoia Agent - Volume 1 (USA) (En,Ja)">
+    <description>Paranoia Agent - Volume 1 (USA) (En,Ja)</description>
+    <title_clean>Paranoia Agent - Volume 1</title_clean>
+    <title_search>paranoia agent volume 1</title_search>
+  </game>
+  <game name="Perfect Blue (Europe)">
+    <description>Perfect Blue (Europe)</description>
+    <title_clean>Perfect Blue</title_clean>
+    <title_search>perfect blue</title_search>
+  </game>
+  <game name="Perfect Stranger (Europe)">
+    <description>Perfect Stranger (Europe)</description>
+    <title_clean>Perfect Stranger</title_clean>
+    <title_search>perfect stranger</title_search>
+  </game>
+  <game name="Peter Kay Live at the Manchester Arena (Europe)">
+    <description>Peter Kay Live at the Manchester Arena (Europe)</description>
+    <title_clean>Peter Kay Live at the Manchester Arena</title_clean>
+    <title_search>peter kay live at the manchester arena</title_search>
+  </game>
+  <game name="Phone Booth (Europe) (En,De,Es) [b]">
+    <description>Phone Booth (Europe) (En,De,Es) [b]</description>
+    <title_clean>Phone Booth</title_clean>
+    <title_search>phone booth</title_search>
+  </game>
+  <game name="Phone Booth (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)">
+    <description>Phone Booth (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>Phone Booth</title_clean>
+    <title_search>phone booth</title_search>
+  </game>
+  <game name="PiNMeN (Japan)">
+    <description>PiNMeN (Japan)</description>
+    <title_clean>PiNMeN</title_clean>
+    <title_search>pinmen</title_search>
+  </game>
+  <game name="Pineapple Express (Japan, Europe) (En,Hi)">
+    <description>Pineapple Express (Japan, Europe) (En,Hi)</description>
+    <title_clean>Pineapple Express</title_clean>
+    <title_search>pineapple express</title_search>
+  </game>
+  <game name="Pink Panther, The (USA) (En,Fr,Ko) [b]">
+    <description>Pink Panther, The (USA) (En,Fr,Ko) [b]</description>
+    <title_clean>The Pink Panther</title_clean>
+    <title_search>the pink panther</title_search>
+  </game>
+  <game name="Pirates of the Caribbean - The Curse of the Black Pearl (Europe) (En,Fr,Nl)">
+    <description>Pirates of the Caribbean - The Curse of the Black Pearl (Europe) (En,Fr,Nl)</description>
+    <title_clean>Pirates of the Caribbean - The Curse of the Black Pearl</title_clean>
+    <title_search>pirates of the caribbean the curse of the black pearl</title_search>
+  </game>
+  <game name="Pirates of the Caribbean - The Curse of the Black Pearl (Japan) (En,Ja)">
+    <description>Pirates of the Caribbean - The Curse of the Black Pearl (Japan) (En,Ja)</description>
+    <title_clean>Pirates of the Caribbean - The Curse of the Black Pearl</title_clean>
+    <title_search>pirates of the caribbean the curse of the black pearl</title_search>
+  </game>
+  <game name="Pirates of the Caribbean - The Curse of the Black Pearl (Japan, Europe) (En,Sv,No,Da,Fi)">
+    <description>Pirates of the Caribbean - The Curse of the Black Pearl (Japan, Europe) (En,Sv,No,Da,Fi)</description>
+    <title_clean>Pirates of the Caribbean - The Curse of the Black Pearl</title_clean>
+    <title_search>pirates of the caribbean the curse of the black pearl</title_search>
+  </game>
+  <game name="Pitch Black - Unrated Director's Cut (USA)">
+    <description>Pitch Black - Unrated Director's Cut (USA)</description>
+    <title_clean>Pitch Black - Unrated Director's Cut</title_clean>
+    <title_search>pitch black unrated directors cut</title_search>
+  </game>
+  <game name="Planet of the Apes (USA) (En,Fr,Es)">
+    <description>Planet of the Apes (USA) (En,Fr,Es)</description>
+    <title_clean>Planet of the Apes</title_clean>
+    <title_search>planet of the apes</title_search>
+  </game>
+  <game name="Platoon (World)">
+    <description>Platoon (World)</description>
+    <title_clean>Platoon</title_clean>
+    <title_search>platoon</title_search>
+  </game>
+  <game name="Poseidon (Europe) (En,Fr)">
+    <description>Poseidon (Europe) (En,Fr)</description>
+    <title_clean>Poseidon</title_clean>
+    <title_search>poseidon</title_search>
+  </game>
+  <game name="Poseidon (Japan) (En,Ja)">
+    <description>Poseidon (Japan) (En,Ja)</description>
+    <title_clean>Poseidon</title_clean>
+    <title_search>poseidon</title_search>
+  </game>
+  <game name="Predator (Europe) (En,De,Es) [b]">
+    <description>Predator (Europe) (En,De,Es) [b]</description>
+    <title_clean>Predator</title_clean>
+    <title_search>predator</title_search>
+  </game>
+  <game name="Predator (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)">
+    <description>Predator (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>Predator</title_clean>
+    <title_search>predator</title_search>
+  </game>
+  <game name="Prison Break Season 1 (Europe)">
+    <description>Prison Break Season 1 (Europe)</description>
+    <title_clean>Prison Break Season 1</title_clean>
+    <title_search>prison break season 1</title_search>
+  </game>
+  <game name="Private Gladiator, The (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,El) [b]">
+    <description>Private Gladiator, The (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,El) [b]</description>
+    <title_clean>The Private Gladiator</title_clean>
+    <title_search>the private gladiator</title_search>
+  </game>
+  <game name="Producers, The (Europe) (En,Fr,Nl,Ar)">
+    <description>Producers, The (Europe) (En,Fr,Nl,Ar)</description>
+    <title_clean>The Producers</title_clean>
+    <title_search>the producers</title_search>
+  </game>
+  <game name="Prom Night (Europe) (En,Es,Pt,Tr,Hi,Ar)">
+    <description>Prom Night (Europe) (En,Es,Pt,Tr,Hi,Ar)</description>
+    <title_clean>Prom Night</title_clean>
+    <title_search>prom night</title_search>
+  </game>
+  <game name="Promise (Asia) (Ja,Zh)">
+    <description>Promise (Asia) (Ja,Zh)</description>
+    <title_clean>Promise</title_clean>
+    <title_search>promise</title_search>
+  </game>
+  <game name="Pulp Fiction (Europe)">
+    <description>Pulp Fiction (Europe)</description>
+    <title_clean>Pulp Fiction</title_clean>
+    <title_search>pulp fiction</title_search>
+  </game>
+  <game name="Pulp Fiction (USA) [b]">
+    <description>Pulp Fiction (USA) [b]</description>
+    <title_clean>Pulp Fiction</title_clean>
+    <title_search>pulp fiction</title_search>
+  </game>
+  <game name="Punisher, The (Europe) (En,Fr,Nl,Hi,Ar)">
+    <description>Punisher, The (Europe) (En,Fr,Nl,Hi,Ar)</description>
+    <title_clean>The Punisher</title_clean>
+    <title_search>the punisher</title_search>
+  </game>
+  <game name="Punisher, The (Europe) (En,It,Sv,No,Da,Fi,El,Cs,Hr,Is,Bg) [b]">
+    <description>Punisher, The (Europe) (En,It,Sv,No,Da,Fi,El,Cs,Hr,Is,Bg) [b]</description>
+    <title_clean>The Punisher</title_clean>
+    <title_search>the punisher</title_search>
+  </game>
+  <game name="Punisher, The - War Zone (Europe) (En,Es,It,Pt,Hi,Ar)">
+    <description>Punisher, The - War Zone (Europe) (En,Es,It,Pt,Hi,Ar)</description>
+    <title_clean>The Punisher - War Zone</title_clean>
+    <title_search>the punisher war zone</title_search>
+  </game>
+  <game name="Pursuit Of Happiness, The (USA) (En,Es,Pt,Hi) [b]">
+    <description>Pursuit Of Happiness, The (USA) (En,Es,Pt,Hi) [b]</description>
+    <title_clean>The Pursuit Of Happiness</title_clean>
+    <title_search>the pursuit of happiness</title_search>
+  </game>
+  <game name="R.O.D. The TV - Vol.1 - We Are the Paper Sisters Detective Company (USA) (En,Ja)">
+    <description>R.O.D. The TV - Vol.1 - We Are the Paper Sisters Detective Company (USA) (En,Ja)</description>
+    <title_clean>R.O.D. The TV - Vol.1 - We Are the Paper Sisters Detective Company</title_clean>
+    <title_search>rod the tv vol1 we are the paper sisters detective company</title_search>
+  </game>
+  <game name="Rambo (Europe) (En,Hi) [b]">
+    <description>Rambo (Europe) (En,Hi) [b]</description>
+    <title_clean>Rambo</title_clean>
+    <title_search>rambo</title_search>
+  </game>
+  <game name="Rambo IV (Europe) (En,Hi)">
+    <description>Rambo IV (Europe) (En,Hi)</description>
+    <title_clean>Rambo IV</title_clean>
+    <title_search>rambo iv</title_search>
+  </game>
+  <game name="Red Scorpion (USA)">
+    <description>Red Scorpion (USA)</description>
+    <title_clean>Red Scorpion</title_clean>
+    <title_search>red scorpion</title_search>
+  </game>
+  <game name="Reign of Fire (USA) (En,Fr) [b]">
+    <description>Reign of Fire (USA) (En,Fr) [b]</description>
+    <title_clean>Reign of Fire</title_clean>
+    <title_search>reign of fire</title_search>
+  </game>
+  <game name="Renai Adventure Game - Love Love Kiss Portable (Japan)">
+    <description>Renai Adventure Game - Love Love Kiss Portable (Japan)</description>
+    <title_clean>Renai Adventure Game - Love Love Kiss Portable</title_clean>
+    <title_search>renai adventure game love love kiss portable</title_search>
+  </game>
+  <game name="Rent (USA) (En,Fr)">
+    <description>Rent (USA) (En,Fr)</description>
+    <title_clean>Rent</title_clean>
+    <title_search>rent</title_search>
+  </game>
+  <game name="Replacement Killers, The (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He,Is)">
+    <description>Replacement Killers, The (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He,Is)</description>
+    <title_clean>The Replacement Killers</title_clean>
+    <title_search>the replacement killers</title_search>
+  </game>
+  <game name="Reservoir Dogs (Europe)">
+    <description>Reservoir Dogs (Europe)</description>
+    <title_clean>Reservoir Dogs</title_clean>
+    <title_search>reservoir dogs</title_search>
+  </game>
+  <game name="Resident Evil (USA) (En,Fr,Es,Pt)">
+    <description>Resident Evil (USA) (En,Fr,Es,Pt)</description>
+    <title_clean>Resident Evil</title_clean>
+    <title_search>resident evil</title_search>
+  </game>
+  <game name="Resident Evil - Apocalypse (Europe) (En,Fr,Es,It,Pt,Sv,No)">
+    <description>Resident Evil - Apocalypse (Europe) (En,Fr,Es,It,Pt,Sv,No)</description>
+    <title_clean>Resident Evil - Apocalypse</title_clean>
+    <title_search>resident evil apocalypse</title_search>
+  </game>
+  <game name="Resident Evil - Apocalypse (USA) (En,Fr,Es,It,Pt,Sv,No,Da,Fi)">
+    <description>Resident Evil - Apocalypse (USA) (En,Fr,Es,It,Pt,Sv,No,Da,Fi)</description>
+    <title_clean>Resident Evil - Apocalypse</title_clean>
+    <title_search>resident evil apocalypse</title_search>
+  </game>
+  <game name="Resident Evil - Degeneration (Europe) (En,Fr)">
+    <description>Resident Evil - Degeneration (Europe) (En,Fr)</description>
+    <title_clean>Resident Evil - Degeneration</title_clean>
+    <title_search>resident evil degeneration</title_search>
+  </game>
+  <game name="Resident Evil - Extinction (Europe) (En,Es,It,Pt,Sv,No,Da,Fi,Hi,Ro)">
+    <description>Resident Evil - Extinction (Europe) (En,Es,It,Pt,Sv,No,Da,Fi,Hi,Ro)</description>
+    <title_clean>Resident Evil - Extinction</title_clean>
+    <title_search>resident evil extinction</title_search>
+  </game>
+  <game name="Resident Evil - Extinction (USA) (En,Fr)">
+    <description>Resident Evil - Extinction (USA) (En,Fr)</description>
+    <title_clean>Resident Evil - Extinction</title_clean>
+    <title_search>resident evil extinction</title_search>
+  </game>
+  <game name="Riding the Bullet (Japan, Europe)">
+    <description>Riding the Bullet (Japan, Europe)</description>
+    <title_clean>Riding the Bullet</title_clean>
+    <title_search>riding the bullet</title_search>
+  </game>
+  <game name="Ringers Lord of the Fans (Japan, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>Ringers Lord of the Fans (Japan, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>Ringers Lord of the Fans</title_clean>
+    <title_search>ringers lord of the fans</title_search>
+  </game>
+  <game name="RoboCop (Europe) (En,Es,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,El,Tr,Cs,Hu,Th,Hi,Ar,He) [b]">
+    <description>RoboCop (Europe) (En,Es,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,El,Tr,Cs,Hu,Th,Hi,Ar,He) [b]</description>
+    <title_clean>RoboCop</title_clean>
+    <title_search>robocop</title_search>
+  </game>
+  <game name="RoboCop (Europe) (En,Fr,Nl,Hi,Ar)">
+    <description>RoboCop (Europe) (En,Fr,Nl,Hi,Ar)</description>
+    <title_clean>RoboCop</title_clean>
+    <title_search>robocop</title_search>
+  </game>
+  <game name="Robots (Europe) (En,Fr,Nl)">
+    <description>Robots (Europe) (En,Fr,Nl)</description>
+    <title_clean>Robots</title_clean>
+    <title_search>robots</title_search>
+  </game>
+  <game name="Robots (Europe) (En,Sv,No,Da,Fi)">
+    <description>Robots (Europe) (En,Sv,No,Da,Fi)</description>
+    <title_clean>Robots</title_clean>
+    <title_search>robots</title_search>
+  </game>
+  <game name="Rocky (Europe)">
+    <description>Rocky (Europe)</description>
+    <title_clean>Rocky</title_clean>
+    <title_search>rocky</title_search>
+  </game>
+  <game name="Rocky II (Europe)">
+    <description>Rocky II (Europe)</description>
+    <title_clean>Rocky II</title_clean>
+    <title_search>rocky ii</title_search>
+  </game>
+  <game name="Rocky III (Europe)">
+    <description>Rocky III (Europe)</description>
+    <title_clean>Rocky III</title_clean>
+    <title_search>rocky iii</title_search>
+  </game>
+  <game name="Rocky IV (Europe)">
+    <description>Rocky IV (Europe)</description>
+    <title_clean>Rocky IV</title_clean>
+    <title_search>rocky iv</title_search>
+  </game>
+  <game name="Rocky V (Europe)">
+    <description>Rocky V (Europe)</description>
+    <title_clean>Rocky V</title_clean>
+    <title_search>rocky v</title_search>
+  </game>
+  <game name="Romeo Must Die (Europe) (En,Fr,Es,No) [b]">
+    <description>Romeo Must Die (Europe) (En,Fr,Es,No) [b]</description>
+    <title_clean>Romeo Must Die</title_clean>
+    <title_search>romeo must die</title_search>
+  </game>
+  <game name="Romeo Must Die (Japan, Europe) (En,De,Nl,Sv)">
+    <description>Romeo Must Die (Japan, Europe) (En,De,Nl,Sv)</description>
+    <title_clean>Romeo Must Die</title_clean>
+    <title_search>romeo must die</title_search>
+  </game>
+  <game name="Ronin (Europe) (En,Es,It,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>Ronin (Europe) (En,Es,It,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>Ronin</title_clean>
+    <title_search>ronin</title_search>
+  </game>
+  <game name="Ronin (Europe) (En,Fr,De,Nl,Tr,Hi,Ar)">
+    <description>Ronin (Europe) (En,Fr,De,Nl,Tr,Hi,Ar)</description>
+    <title_clean>Ronin</title_clean>
+    <title_search>ronin</title_search>
+  </game>
+  <game name="Royle Family, The - The Complete Series 1 (World)">
+    <description>Royle Family, The - The Complete Series 1 (World)</description>
+    <title_clean>The Royle Family - The Complete Series 1</title_clean>
+    <title_search>the royle family the complete series 1</title_search>
+  </game>
+  <game name="Rush Hour (USA) (En,Es)">
+    <description>Rush Hour (USA) (En,Es)</description>
+    <title_clean>Rush Hour</title_clean>
+    <title_search>rush hour</title_search>
+  </game>
+  <game name="Rush Hour 2 (Europe)">
+    <description>Rush Hour 2 (Europe)</description>
+    <title_clean>Rush Hour 2</title_clean>
+    <title_search>rush hour 2</title_search>
+  </game>
+  <game name="S.W.A.T. (Europe) (En,Fr,De,Nl,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>S.W.A.T. (Europe) (En,Fr,De,Nl,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>S.W.A.T.</title_clean>
+    <title_search>swat</title_search>
+  </game>
+  <game name="S.W.A.T. (Europe) (En,Fr,De,Nl,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He) (German edition)">
+    <description>S.W.A.T. (Europe) (En,Fr,De,Nl,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He) (German edition)</description>
+    <title_clean>S.W.A.T.</title_clean>
+    <title_search>swat</title_search>
+  </game>
+  <game name="S.W.A.T. (Japan) (Ja,Zh)">
+    <description>S.W.A.T. (Japan) (Ja,Zh)</description>
+    <title_clean>S.W.A.T.</title_clean>
+    <title_search>swat</title_search>
+  </game>
+  <game name="Sahara (USA)">
+    <description>Sahara (USA)</description>
+    <title_clean>Sahara</title_clean>
+    <title_search>sahara</title_search>
+  </game>
+  <game name="Saimin Seikatsu - Kousoku Dakara Shikatanai (Japan) (UMD-PG Edition)">
+    <description>Saimin Seikatsu - Kousoku Dakara Shikatanai (Japan) (UMD-PG Edition)</description>
+    <title_clean>Saimin Seikatsu - Kousoku Dakara Shikatanai</title_clean>
+    <title_search>saimin seikatsu kousoku dakara shikatanai</title_search>
+  </game>
+  <game name="Sakura Wars - The Movie (USA) (En,Ja)">
+    <description>Sakura Wars - The Movie (USA) (En,Ja)</description>
+    <title_clean>Sakura Wars - The Movie</title_clean>
+    <title_search>sakura wars the movie</title_search>
+  </game>
+  <game name="Samurai 7 - Vol.03 (Japan)">
+    <description>Samurai 7 - Vol.03 (Japan)</description>
+    <title_clean>Samurai 7 - Vol.03</title_clean>
+    <title_search>samurai 7 vol03</title_search>
+  </game>
+  <game name="Samurai 7 - Vol.05 (Japan)">
+    <description>Samurai 7 - Vol.05 (Japan)</description>
+    <title_clean>Samurai 7 - Vol.05</title_clean>
+    <title_search>samurai 7 vol05</title_search>
+  </game>
+  <game name="Samurai 7 - Vol.07 (Japan)">
+    <description>Samurai 7 - Vol.07 (Japan)</description>
+    <title_clean>Samurai 7 - Vol.07</title_clean>
+    <title_search>samurai 7 vol07</title_search>
+  </game>
+  <game name="Samurai 7 - Vol.08 (Japan)">
+    <description>Samurai 7 - Vol.08 (Japan)</description>
+    <title_clean>Samurai 7 - Vol.08</title_clean>
+    <title_search>samurai 7 vol08</title_search>
+  </game>
+  <game name="Samurai 7 - Vol.09 (Japan)">
+    <description>Samurai 7 - Vol.09 (Japan)</description>
+    <title_clean>Samurai 7 - Vol.09</title_clean>
+    <title_search>samurai 7 vol09</title_search>
+  </game>
+  <game name="Samurai Champloo - Volume 2 (USA) (En,Ja)">
+    <description>Samurai Champloo - Volume 2 (USA) (En,Ja)</description>
+    <title_clean>Samurai Champloo - Volume 2</title_clean>
+    <title_search>samurai champloo volume 2</title_search>
+  </game>
+  <game name="Samurai Champloo - Volume 3 (USA) (En,Ja)">
+    <description>Samurai Champloo - Volume 3 (USA) (En,Ja)</description>
+    <title_clean>Samurai Champloo - Volume 3</title_clean>
+    <title_search>samurai champloo volume 3</title_search>
+  </game>
+  <game name="Samurai Champloo - Volume 4 (USA) (En,Ja)">
+    <description>Samurai Champloo - Volume 4 (USA) (En,Ja)</description>
+    <title_clean>Samurai Champloo - Volume 4</title_clean>
+    <title_search>samurai champloo volume 4</title_search>
+  </game>
+  <game name="Samurai Champloo Volume 1 (USA) (En,Ja)">
+    <description>Samurai Champloo Volume 1 (USA) (En,Ja)</description>
+    <title_clean>Samurai Champloo Volume 1</title_clean>
+    <title_search>samurai champloo volume 1</title_search>
+  </game>
+  <game name="Saw (USA) (En,Es)">
+    <description>Saw (USA) (En,Es)</description>
+    <title_clean>Saw</title_clean>
+    <title_search>saw</title_search>
+  </game>
+  <game name="Saw II (Europe)">
+    <description>Saw II (Europe)</description>
+    <title_clean>Saw II</title_clean>
+    <title_search>saw ii</title_search>
+  </game>
+  <game name="Scarface (USA) (En,Fr,Es)">
+    <description>Scarface (USA) (En,Fr,Es)</description>
+    <title_clean>Scarface</title_clean>
+    <title_search>scarface</title_search>
+  </game>
+  <game name="School Days (Japan) (UMD-PG Edition) [b]">
+    <description>School Days (Japan) (UMD-PG Edition) [b]</description>
+    <title_clean>School Days</title_clean>
+    <title_search>school days</title_search>
+  </game>
+  <game name="School Project (Japan) [b]">
+    <description>School Project (Japan) [b]</description>
+    <title_clean>School Project</title_clean>
+    <title_search>school project</title_search>
+  </game>
+  <game name="Screamers Shockers and Sharpshooters (World) [b]">
+    <description>Screamers Shockers and Sharpshooters (World) [b]</description>
+    <title_clean>Screamers Shockers and Sharpshooters</title_clean>
+    <title_search>screamers shockers and sharpshooters</title_search>
+  </game>
+  <game name="Second In Command (Europe) (En,Fr,Es,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Ro) [b]">
+    <description>Second In Command (Europe) (En,Fr,Es,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Ro) [b]</description>
+    <title_clean>Second In Command</title_clean>
+    <title_search>second in command</title_search>
+  </game>
+  <game name="Secondhand Lions (Europe)">
+    <description>Secondhand Lions (Europe)</description>
+    <title_clean>Secondhand Lions</title_clean>
+    <title_search>secondhand lions</title_search>
+  </game>
+  <game name="Sekai wo Seifuku Suru Tame no, 3tsu no Houhou (Japan)">
+    <description>Sekai wo Seifuku Suru Tame no, 3tsu no Houhou (Japan)</description>
+    <title_clean>Sekai wo Seifuku Suru Tame no, 3tsu no Houhou</title_clean>
+    <title_search>sekai wo seifuku suru tame no 3tsu no houhou</title_search>
+  </game>
+  <game name="Serenity (Japan, Europe)">
+    <description>Serenity (Japan, Europe)</description>
+    <title_clean>Serenity</title_clean>
+    <title_search>serenity</title_search>
+  </game>
+  <game name="Seven (Europe)">
+    <description>Seven (Europe)</description>
+    <title_clean>Seven</title_clean>
+    <title_search>seven</title_search>
+  </game>
+  <game name="Seven Pounds (USA) (En,Fr,Es)">
+    <description>Seven Pounds (USA) (En,Fr,Es)</description>
+    <title_clean>Seven Pounds</title_clean>
+    <title_search>seven pounds</title_search>
+  </game>
+  <game name="Severance (Europe)">
+    <description>Severance (Europe)</description>
+    <title_clean>Severance</title_clean>
+    <title_search>severance</title_search>
+  </game>
+  <game name="Shadow Man (Europe) (En,Fr,It,Nl,Sv,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro)">
+    <description>Shadow Man (Europe) (En,Fr,It,Nl,Sv,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro)</description>
+    <title_clean>Shadow Man</title_clean>
+    <title_search>shadow man</title_search>
+  </game>
+  <game name="Shallow Hal (USA) (En,Fr,Es)">
+    <description>Shallow Hal (USA) (En,Fr,Es)</description>
+    <title_clean>Shallow Hal</title_clean>
+    <title_search>shallow hal</title_search>
+  </game>
+  <game name="Shaolin Soccer (USA) (En,Es,Zh)">
+    <description>Shaolin Soccer (USA) (En,Es,Zh)</description>
+    <title_clean>Shaolin Soccer</title_clean>
+    <title_search>shaolin soccer</title_search>
+  </game>
+  <game name="Sharin no Kuni Himawari no Shoujo (Japan) [b]">
+    <description>Sharin no Kuni Himawari no Shoujo (Japan) [b]</description>
+    <title_clean>Sharin no Kuni Himawari no Shoujo</title_clean>
+    <title_search>sharin no kuni himawari no shoujo</title_search>
+  </game>
+  <game name="Shaun of the Dead (USA) (En,Fr,Es)">
+    <description>Shaun of the Dead (USA) (En,Fr,Es)</description>
+    <title_clean>Shaun of the Dead</title_clean>
+    <title_search>shaun of the dead</title_search>
+  </game>
+  <game name="Shawshank Redemption, The (Europe) [b]">
+    <description>Shawshank Redemption, The (Europe) [b]</description>
+    <title_clean>The Shawshank Redemption</title_clean>
+    <title_search>the shawshank redemption</title_search>
+  </game>
+  <game name="Sherlock Holmes (World)">
+    <description>Sherlock Holmes (World)</description>
+    <title_clean>Sherlock Holmes</title_clean>
+    <title_search>sherlock holmes</title_search>
+  </game>
+  <game name="Silent Hill (Europe)">
+    <description>Silent Hill (Europe)</description>
+    <title_clean>Silent Hill</title_clean>
+    <title_search>silent hill</title_search>
+  </game>
+  <game name="Silent Hill Experience (Japan, Europe)">
+    <description>Silent Hill Experience (Japan, Europe)</description>
+    <title_clean>Silent Hill Experience</title_clean>
+    <title_search>silent hill experience</title_search>
+  </game>
+  <game name="Simpsons Movie, The (Europe)">
+    <description>Simpsons Movie, The (Europe)</description>
+    <title_clean>The Simpsons Movie</title_clean>
+    <title_search>the simpsons movie</title_search>
+  </game>
+  <game name="Sin City (Europe) (En,It) [b]">
+    <description>Sin City (Europe) (En,It) [b]</description>
+    <title_clean>Sin City</title_clean>
+    <title_search>sin city</title_search>
+  </game>
+  <game name="Sin City (USA)">
+    <description>Sin City (USA)</description>
+    <title_clean>Sin City</title_clean>
+    <title_search>sin city</title_search>
+  </game>
+  <game name="Sixth Sense, The (Europe) (En,Es,Sv,No,Da,Fi)">
+    <description>Sixth Sense, The (Europe) (En,Es,Sv,No,Da,Fi)</description>
+    <title_clean>The Sixth Sense</title_clean>
+    <title_search>the sixth sense</title_search>
+  </game>
+  <game name="Sixth Sense, The (Europe) (En,Fr,It,Nl)">
+    <description>Sixth Sense, The (Europe) (En,Fr,It,Nl)</description>
+    <title_clean>The Sixth Sense</title_clean>
+    <title_search>the sixth sense</title_search>
+  </game>
+  <game name="Skeleton Key, The (Europe) (En,De,Pl,El,Tr,Cs,Hu,Sl)">
+    <description>Skeleton Key, The (Europe) (En,De,Pl,El,Tr,Cs,Hu,Sl)</description>
+    <title_clean>The Skeleton Key</title_clean>
+    <title_search>the skeleton key</title_search>
+  </game>
+  <game name="Skeleton Key, The (Europe) (En,Fr,Nl)">
+    <description>Skeleton Key, The (Europe) (En,Fr,Nl)</description>
+    <title_clean>The Skeleton Key</title_clean>
+    <title_search>the skeleton key</title_search>
+  </game>
+  <game name="Skeleton Key, The (Japan, Europe)">
+    <description>Skeleton Key, The (Japan, Europe)</description>
+    <title_clean>The Skeleton Key</title_clean>
+    <title_search>the skeleton key</title_search>
+  </game>
+  <game name="Sky Blue (World)">
+    <description>Sky Blue (World)</description>
+    <title_clean>Sky Blue</title_clean>
+    <title_search>sky blue</title_search>
+  </game>
+  <game name="Sky High (Japan, Europe)">
+    <description>Sky High (Japan, Europe)</description>
+    <title_clean>Sky High</title_clean>
+    <title_search>sky high</title_search>
+  </game>
+  <game name="Sky High (USA) (En,Fr,Es) [b]">
+    <description>Sky High (USA) (En,Fr,Es) [b]</description>
+    <title_clean>Sky High</title_clean>
+    <title_search>sky high</title_search>
+  </game>
+  <game name="Snatch (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He) [b]">
+    <description>Snatch (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He) [b]</description>
+    <title_clean>Snatch</title_clean>
+    <title_search>snatch</title_search>
+  </game>
+  <game name="Snatch (USA)">
+    <description>Snatch (USA)</description>
+    <title_clean>Snatch</title_clean>
+    <title_search>snatch</title_search>
+  </game>
+  <game name="Soreiyu - Me, Myself and Master (Europe) (Ja)">
+    <description>Soreiyu - Me, Myself and Master (Europe) (Ja)</description>
+    <title_clean>Soreiyu - Me, Myself and Master</title_clean>
+    <title_search>soreiyu me myself and master</title_search>
+  </game>
+  <game name="South Park - Bigger, Longer _ Uncut (World)">
+    <description>South Park - Bigger, Longer _ Uncut (World)</description>
+    <title_clean>South Park - Bigger, Longer _ Uncut</title_clean>
+    <title_search>south park bigger longer uncut</title_search>
+  </game>
+  <game name="Species (Europe) (En,Fr,De,Nl,Tr,Hi,Ar)">
+    <description>Species (Europe) (En,Fr,De,Nl,Tr,Hi,Ar)</description>
+    <title_clean>Species</title_clean>
+    <title_search>species</title_search>
+  </game>
+  <game name="Speed (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)">
+    <description>Speed (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>Speed</title_clean>
+    <title_search>speed</title_search>
+  </game>
+  <game name="Speed (Japan) (En,Ja)">
+    <description>Speed (Japan) (En,Ja)</description>
+    <title_clean>Speed</title_clean>
+    <title_search>speed</title_search>
+  </game>
+  <game name="Spider-Man (USA) (En,Fr,Es,Pt,Zh,Ko,Th)">
+    <description>Spider-Man (USA) (En,Fr,Es,Pt,Zh,Ko,Th)</description>
+    <title_clean>Spider-Man</title_clean>
+    <title_search>spiderman</title_search>
+  </game>
+  <game name="Spider-Man - The New Animated Series - The Mutant Menace (USA) [b]">
+    <description>Spider-Man - The New Animated Series - The Mutant Menace (USA) [b]</description>
+    <title_clean>Spider-Man - The New Animated Series - The Mutant Menace</title_clean>
+    <title_search>spiderman the new animated series the mutant menace</title_search>
+  </game>
+  <game name="Spider-Man 2 (Europe) (En,Es,It,Pt)">
+    <description>Spider-Man 2 (Europe) (En,Es,It,Pt)</description>
+    <title_clean>Spider-Man 2</title_clean>
+    <title_search>spiderman 2</title_search>
+  </game>
+  <game name="Spider-Man 2 (Europe) (En,Fr,De,Nl,Ar)">
+    <description>Spider-Man 2 (Europe) (En,Fr,De,Nl,Ar)</description>
+    <title_clean>Spider-Man 2</title_clean>
+    <title_search>spiderman 2</title_search>
+  </game>
+  <game name="Spider-Man 2 (USA) (En,Fr)">
+    <description>Spider-Man 2 (USA) (En,Fr)</description>
+    <title_clean>Spider-Man 2</title_clean>
+    <title_search>spiderman 2</title_search>
+  </game>
+  <game name="Spider-man 2 (Europe) (En,Es,Nl,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Is,Sl,Ro,Bg) [b]">
+    <description>Spider-man 2 (Europe) (En,Es,Nl,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Is,Sl,Ro,Bg) [b]</description>
+    <title_clean>Spider-man 2</title_clean>
+    <title_search>spiderman 2</title_search>
+  </game>
+  <game name="Spider-man 3 (Europe) (En,Nl,El,Hi,Ar,Is)">
+    <description>Spider-man 3 (Europe) (En,Nl,El,Hi,Ar,Is)</description>
+    <title_clean>Spider-man 3</title_clean>
+    <title_search>spiderman 3</title_search>
+  </game>
+  <game name="Spider-man 3 (USA) (En,Fr,Es)">
+    <description>Spider-man 3 (USA) (En,Fr,Es)</description>
+    <title_clean>Spider-man 3</title_clean>
+    <title_search>spiderman 3</title_search>
+  </game>
+  <game name="Spun (USA)">
+    <description>Spun (USA)</description>
+    <title_clean>Spun</title_clean>
+    <title_search>spun</title_search>
+  </game>
+  <game name="Star Wars - The Clone Wars (Europe)">
+    <description>Star Wars - The Clone Wars (Europe)</description>
+    <title_clean>Star Wars - The Clone Wars</title_clean>
+    <title_search>star wars the clone wars</title_search>
+  </game>
+  <game name="Stargate (USA) (En,Es) [b]">
+    <description>Stargate (USA) (En,Es) [b]</description>
+    <title_clean>Stargate</title_clean>
+    <title_search>stargate</title_search>
+  </game>
+  <game name="Starry Sky in Spring Portable - Digital Settei Shiryoushuu UMD VIDEO - Etsuran Shite Please Etsu Pri! (Japan)">
+    <description>Starry Sky in Spring Portable - Digital Settei Shiryoushuu UMD VIDEO - Etsuran Shite Please Etsu Pri! (Japan)</description>
+    <title_clean>Starry Sky in Spring Portable - Digital Settei Shiryoushuu UMD VIDEO - Etsuran Shite Please Etsu Pri!</title_clean>
+    <title_search>starry sky in spring portable digital settei shiryoushuu umd video etsuran shite please etsu pri</title_search>
+  </game>
+  <game name="Starship Troopers (Europe) (En,Es,Sv,No,Da,Fi)">
+    <description>Starship Troopers (Europe) (En,Es,Sv,No,Da,Fi)</description>
+    <title_clean>Starship Troopers</title_clean>
+    <title_search>starship troopers</title_search>
+  </game>
+  <game name="Starship Troopers 3 - Marauder (USA) (En,Fr)">
+    <description>Starship Troopers 3 - Marauder (USA) (En,Fr)</description>
+    <title_clean>Starship Troopers 3 - Marauder</title_clean>
+    <title_search>starship troopers 3 marauder</title_search>
+  </game>
+  <game name="Steamboy (USA) (En,Ja,Fr,Es,Pt)">
+    <description>Steamboy (USA) (En,Ja,Fr,Es,Pt)</description>
+    <title_clean>Steamboy</title_clean>
+    <title_search>steamboy</title_search>
+  </game>
+  <game name="Steamboy Director's Cut (Europe) (En,Ja,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>Steamboy Director's Cut (Europe) (En,Ja,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>Steamboy Director's Cut</title_clean>
+    <title_search>steamboy directors cut</title_search>
+  </game>
+  <game name="Steve-O - The Greatest Hits (World)">
+    <description>Steve-O - The Greatest Hits (World)</description>
+    <title_clean>Steve-O - The Greatest Hits</title_clean>
+    <title_search>steveo the greatest hits</title_search>
+  </game>
+  <game name="Stomp the Yard (USA) (En,Fr) [b]">
+    <description>Stomp the Yard (USA) (En,Fr) [b]</description>
+    <title_clean>Stomp the Yard</title_clean>
+    <title_search>stomp the yard</title_search>
+  </game>
+  <game name="Stranger than Fiction (Europe) (En,Es,It,Nl,Hi)">
+    <description>Stranger than Fiction (Europe) (En,Es,It,Nl,Hi)</description>
+    <title_clean>Stranger than Fiction</title_clean>
+    <title_search>stranger than fiction</title_search>
+  </game>
+  <game name="Stranger than Fiction (Japan, Europe)">
+    <description>Stranger than Fiction (Japan, Europe)</description>
+    <title_clean>Stranger than Fiction</title_clean>
+    <title_search>stranger than fiction</title_search>
+  </game>
+  <game name="Straw Dogs (World)">
+    <description>Straw Dogs (World)</description>
+    <title_clean>Straw Dogs</title_clean>
+    <title_search>straw dogs</title_search>
+  </game>
+  <game name="Street Kings (Europe)">
+    <description>Street Kings (Europe)</description>
+    <title_clean>Street Kings</title_clean>
+    <title_search>street kings</title_search>
+  </game>
+  <game name="Stripes - Extended Cut (USA) (En,Fr,Es,Pt,Zh,Th)">
+    <description>Stripes - Extended Cut (USA) (En,Fr,Es,Pt,Zh,Th)</description>
+    <title_clean>Stripes - Extended Cut</title_clean>
+    <title_search>stripes extended cut</title_search>
+  </game>
+  <game name="Stuart Little (Europe) (En,Fr,De,Es,It,Nl,Pt,Tr,Hi,Ar)">
+    <description>Stuart Little (Europe) (En,Fr,De,Es,It,Nl,Pt,Tr,Hi,Ar)</description>
+    <title_clean>Stuart Little</title_clean>
+    <title_search>stuart little</title_search>
+  </game>
+  <game name="Stuart Little (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]">
+    <description>Stuart Little (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]</description>
+    <title_clean>Stuart Little</title_clean>
+    <title_search>stuart little</title_search>
+  </game>
+  <game name="Stuart Little 2 (Japan, Europe) (En,Fr,De,Es,It,Nl,Pt,El,Tr,Hi,Ar)">
+    <description>Stuart Little 2 (Japan, Europe) (En,Fr,De,Es,It,Nl,Pt,El,Tr,Hi,Ar)</description>
+    <title_clean>Stuart Little 2</title_clean>
+    <title_search>stuart little 2</title_search>
+  </game>
+  <game name="Stuart Little 2 (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]">
+    <description>Stuart Little 2 (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]</description>
+    <title_clean>Stuart Little 2</title_clean>
+    <title_search>stuart little 2</title_search>
+  </game>
+  <game name="Stuart Little 3 (Europe) (En,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar,He)">
+    <description>Stuart Little 3 (Europe) (En,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar,He)</description>
+    <title_clean>Stuart Little 3</title_clean>
+    <title_search>stuart little 3</title_search>
+  </game>
+  <game name="Sugao no Hohoemi (Japan) [b]">
+    <description>Sugao no Hohoemi (Japan) [b]</description>
+    <title_clean>Sugao no Hohoemi</title_clean>
+    <title_search>sugao no hohoemi</title_search>
+  </game>
+  <game name="Summer Days (Japan)">
+    <description>Summer Days (Japan)</description>
+    <title_clean>Summer Days</title_clean>
+    <title_search>summer days</title_search>
+  </game>
+  <game name="Sunshine (Europe)">
+    <description>Sunshine (Europe)</description>
+    <title_clean>Sunshine</title_clean>
+    <title_search>sunshine</title_search>
+  </game>
+  <game name="Superbad (Europe) (En,It,Sv,No,Da,Fi,Hi,Ar,Is)">
+    <description>Superbad (Europe) (En,It,Sv,No,Da,Fi,Hi,Ar,Is)</description>
+    <title_clean>Superbad</title_clean>
+    <title_search>superbad</title_search>
+  </game>
+  <game name="Superbad (USA) (En,Fr,Es) [b]">
+    <description>Superbad (USA) (En,Fr,Es) [b]</description>
+    <title_clean>Superbad</title_clean>
+    <title_search>superbad</title_search>
+  </game>
+  <game name="Superman Returns (USA) [b]">
+    <description>Superman Returns (USA) [b]</description>
+    <title_clean>Superman Returns</title_clean>
+    <title_search>superman returns</title_search>
+  </game>
+  <game name="Surf's Up (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]">
+    <description>Surf's Up (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]</description>
+    <title_clean>Surf's Up</title_clean>
+    <title_search>surfs up</title_search>
+  </game>
+  <game name="Suspect Zero (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar)">
+    <description>Suspect Zero (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar)</description>
+    <title_clean>Suspect Zero</title_clean>
+    <title_search>suspect zero</title_search>
+  </game>
+  <game name="Sweeney Todd - The Demon Barber of Fleet Street (World)">
+    <description>Sweeney Todd - The Demon Barber of Fleet Street (World)</description>
+    <title_clean>Sweeney Todd - The Demon Barber of Fleet Street</title_clean>
+    <title_search>sweeney todd the demon barber of fleet street</title_search>
+  </game>
+  <game name="Sweetest Thing, The (USA)">
+    <description>Sweetest Thing, The (USA)</description>
+    <title_clean>The Sweetest Thing</title_clean>
+    <title_search>the sweetest thing</title_search>
+  </game>
+  <game name="Swordfish (Japan, Europe) (En,De,Nl,Sv)">
+    <description>Swordfish (Japan, Europe) (En,De,Nl,Sv)</description>
+    <title_clean>Swordfish</title_clean>
+    <title_search>swordfish</title_search>
+  </game>
+  <game name="Syriana (Japan) (En,Ja)">
+    <description>Syriana (Japan) (En,Ja)</description>
+    <title_clean>Syriana</title_clean>
+    <title_search>syriana</title_search>
+  </game>
+  <game name="Taken (Europe)">
+    <description>Taken (Europe)</description>
+    <title_clean>Taken</title_clean>
+    <title_search>taken</title_search>
+  </game>
+  <game name="Talladega Nights - The Ballad Of Ricky Bobby (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Cs,Hu,Hi,Ar,He,Is,Ro) [b]">
+    <description>Talladega Nights - The Ballad Of Ricky Bobby (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Cs,Hu,Hi,Ar,He,Is,Ro) [b]</description>
+    <title_clean>Talladega Nights - The Ballad Of Ricky Bobby</title_clean>
+    <title_search>talladega nights the ballad of ricky bobby</title_search>
+  </game>
+  <game name="Talladega Nights - The Ballad Of Ricky Bobby (USA) (En,Fr,Ko)">
+    <description>Talladega Nights - The Ballad Of Ricky Bobby (USA) (En,Fr,Ko)</description>
+    <title_clean>Talladega Nights - The Ballad Of Ricky Bobby</title_clean>
+    <title_search>talladega nights the ballad of ricky bobby</title_search>
+  </game>
+  <game name="Team America - World Police (Europe) (En,Fr,De,Nl)">
+    <description>Team America - World Police (Europe) (En,Fr,De,Nl)</description>
+    <title_clean>Team America - World Police</title_clean>
+    <title_search>team america world police</title_search>
+  </game>
+  <game name="Team America - World Police (USA)">
+    <description>Team America - World Police (USA)</description>
+    <title_clean>Team America - World Police</title_clean>
+    <title_search>team america world police</title_search>
+  </game>
+  <game name="Tekkonkinkreet (USA) (En,Ja,Fr,Es,Pt)">
+    <description>Tekkonkinkreet (USA) (En,Ja,Fr,Es,Pt)</description>
+    <title_clean>Tekkonkinkreet</title_clean>
+    <title_search>tekkonkinkreet</title_search>
+  </game>
+  <game name="Tenjho Tenge - Vol. 1 (USA) (En,Ja)">
+    <description>Tenjho Tenge - Vol. 1 (USA) (En,Ja)</description>
+    <title_clean>Tenjho Tenge - Vol. 1</title_clean>
+    <title_search>tenjho tenge vol 1</title_search>
+  </game>
+  <game name="Terminator 2 - Judgement Day (USA)">
+    <description>Terminator 2 - Judgement Day (USA)</description>
+    <title_clean>Terminator 2 - Judgement Day</title_clean>
+    <title_search>terminator 2 judgement day</title_search>
+  </game>
+  <game name="Terminator 3 - Rise of the Machines (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hi,Ar,He)">
+    <description>Terminator 3 - Rise of the Machines (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hi,Ar,He)</description>
+    <title_clean>Terminator 3 - Rise of the Machines</title_clean>
+    <title_search>terminator 3 rise of the machines</title_search>
+  </game>
+  <game name="Terminator Salvation (Europe)">
+    <description>Terminator Salvation (Europe)</description>
+    <title_clean>Terminator Salvation</title_clean>
+    <title_search>terminator salvation</title_search>
+  </game>
+  <game name="Terminator Salvation (Europe) (En,De,Es,It,Pt,Tr,Hi)">
+    <description>Terminator Salvation (Europe) (En,De,Es,It,Pt,Tr,Hi)</description>
+    <title_clean>Terminator Salvation</title_clean>
+    <title_search>terminator salvation</title_search>
+  </game>
+  <game name="Terminator, The (Europe) (En,Fr,Nl,Hi,Ar)">
+    <description>Terminator, The (Europe) (En,Fr,Nl,Hi,Ar)</description>
+    <title_clean>The Terminator</title_clean>
+    <title_search>the terminator</title_search>
+  </game>
+  <game name="Terminator, The (USA) (En,Es,It,Pt,Zh,Ko,Pl,El,Tr,Hu,Th,Hi,Ar,He) [b]">
+    <description>Terminator, The (USA) (En,Es,It,Pt,Zh,Ko,Pl,El,Tr,Hu,Th,Hi,Ar,He) [b]</description>
+    <title_clean>The Terminator</title_clean>
+    <title_search>the terminator</title_search>
+  </game>
+  <game name="Texas Chainsaw Massacre, The (USA) (En,Es) [b]">
+    <description>Texas Chainsaw Massacre, The (USA) (En,Es) [b]</description>
+    <title_clean>The Texas Chainsaw Massacre</title_clean>
+    <title_search>the texas chainsaw massacre</title_search>
+  </game>
+  <game name="There's Something about Mary (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)">
+    <description>There's Something about Mary (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>There's Something about Mary</title_clean>
+    <title_search>theres something about mary</title_search>
+  </game>
+  <game name="Thir13en Ghosts (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Bg)">
+    <description>Thir13en Ghosts (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Bg)</description>
+    <title_clean>Thir13en Ghosts</title_clean>
+    <title_search>thir13en ghosts</title_search>
+  </game>
+  <game name="Thir13en Ghosts (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Bg) (French edition)">
+    <description>Thir13en Ghosts (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Bg) (French edition)</description>
+    <title_clean>Thir13en Ghosts</title_clean>
+    <title_search>thir13en ghosts</title_search>
+  </game>
+  <game name="Time Bandits (Europe)">
+    <description>Time Bandits (Europe)</description>
+    <title_clean>Time Bandits</title_clean>
+    <title_search>time bandits</title_search>
+  </game>
+  <game name="Todd McFarlane's Spawn (USA)">
+    <description>Todd McFarlane's Spawn (USA)</description>
+    <title_clean>Todd McFarlane's Spawn</title_clean>
+    <title_search>todd mcfarlanes spawn</title_search>
+  </game>
+  <game name="Toono no Yakata - Dai-1-Shou Keiyaku (Japan)">
+    <description>Toono no Yakata - Dai-1-Shou Keiyaku (Japan)</description>
+    <title_clean>Toono no Yakata - Dai-1-Shou Keiyaku</title_clean>
+    <title_search>toono no yakata dai1shou keiyaku</title_search>
+  </game>
+  <game name="Top Gun (Europe) (En,Fr,De,Nl)">
+    <description>Top Gun (Europe) (En,Fr,De,Nl)</description>
+    <title_clean>Top Gun</title_clean>
+    <title_search>top gun</title_search>
+  </game>
+  <game name="Top o Nerae! 2 Gekijouban (Japan)">
+    <description>Top o Nerae! 2 Gekijouban (Japan)</description>
+    <title_clean>Top o Nerae! 2 Gekijouban</title_clean>
+    <title_search>top o nerae 2 gekijouban</title_search>
+  </game>
+  <game name="Toriko no Hime - Inma no Chouritsu (Japan) [b]">
+    <description>Toriko no Hime - Inma no Chouritsu (Japan) [b]</description>
+    <title_clean>Toriko no Hime - Inma no Chouritsu</title_clean>
+    <title_search>toriko no hime inma no chouritsu</title_search>
+  </game>
+  <game name="Total Recall (USA) (En,Es)">
+    <description>Total Recall (USA) (En,Es)</description>
+    <title_clean>Total Recall</title_clean>
+    <title_search>total recall</title_search>
+  </game>
+  <game name="Toxic Avenger, The (World)">
+    <description>Toxic Avenger, The (World)</description>
+    <title_clean>The Toxic Avenger</title_clean>
+    <title_search>the toxic avenger</title_search>
+  </game>
+  <game name="Toy Story (USA) (En,Fr,Es)">
+    <description>Toy Story (USA) (En,Fr,Es)</description>
+    <title_clean>Toy Story</title_clean>
+    <title_search>toy story</title_search>
+  </game>
+  <game name="Training Day (Europe) (En,De,Nl,Sv)">
+    <description>Training Day (Europe) (En,De,Nl,Sv)</description>
+    <title_clean>Training Day</title_clean>
+    <title_search>training day</title_search>
+  </game>
+  <game name="Training Day (Europe) (En,Fr,Es,No)">
+    <description>Training Day (Europe) (En,Fr,Es,No)</description>
+    <title_clean>Training Day</title_clean>
+    <title_search>training day</title_search>
+  </game>
+  <game name="Transporter 2 (Europe) (En,Fr,Es,It,Nl,Sv,No,Da,Fi)">
+    <description>Transporter 2 (Europe) (En,Fr,Es,It,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>Transporter 2</title_clean>
+    <title_search>transporter 2</title_search>
+  </game>
+  <game name="Transporter 2 (USA) (En,Fr,Es) [b]">
+    <description>Transporter 2 (USA) (En,Fr,Es) [b]</description>
+    <title_clean>Transporter 2</title_clean>
+    <title_search>transporter 2</title_search>
+  </game>
+  <game name="Transporter, The (Europe) (En,Nl,Sv,No,Da,Fi)">
+    <description>Transporter, The (Europe) (En,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>The Transporter</title_clean>
+    <title_search>the transporter</title_search>
+  </game>
+  <game name="Transporter, The (USA) (En,Fr,Es) [b]">
+    <description>Transporter, The (USA) (En,Fr,Es) [b]</description>
+    <title_clean>The Transporter</title_clean>
+    <title_search>the transporter</title_search>
+  </game>
+  <game name="Trigun - Vol.1 (Eps 1 _ 2) (USA) (En,Ja)">
+    <description>Trigun - Vol.1 (Eps 1 _ 2) (USA) (En,Ja)</description>
+    <title_clean>Trigun - Vol.1</title_clean>
+    <title_search>trigun vol1</title_search>
+  </game>
+  <game name="Tron (Japan) (En,Ja) [b]">
+    <description>Tron (Japan) (En,Ja) [b]</description>
+    <title_clean>Tron</title_clean>
+    <title_search>tron</title_search>
+  </game>
+  <game name="Tron (USA) (En,Fr,Es) [b]">
+    <description>Tron (USA) (En,Fr,Es) [b]</description>
+    <title_clean>Tron</title_clean>
+    <title_search>tron</title_search>
+  </game>
+  <game name="Troy (Europe) (En,De,Nl,Sv)">
+    <description>Troy (Europe) (En,De,Nl,Sv)</description>
+    <title_clean>Troy</title_clean>
+    <title_search>troy</title_search>
+  </game>
+  <game name="True Romance (Europe)">
+    <description>True Romance (Europe)</description>
+    <title_clean>True Romance</title_clean>
+    <title_search>true romance</title_search>
+  </game>
+  <game name="U2 Rattle and Hum (Europe) (En,Fr,De,Nl)">
+    <description>U2 Rattle and Hum (Europe) (En,Fr,De,Nl)</description>
+    <title_clean>U2 Rattle and Hum</title_clean>
+    <title_search>u2 rattle and hum</title_search>
+  </game>
+  <game name="Ultraviolet (Europe) (En,Es,It,Nl,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro) [b]">
+    <description>Ultraviolet (Europe) (En,Es,It,Nl,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro) [b]</description>
+    <title_clean>Ultraviolet</title_clean>
+    <title_search>ultraviolet</title_search>
+  </game>
+  <game name="Ultraviolet (Japan, Europe)">
+    <description>Ultraviolet (Japan, Europe)</description>
+    <title_clean>Ultraviolet</title_clean>
+    <title_search>ultraviolet</title_search>
+  </game>
+  <game name="Under Siege (Japan) (En,Ja)">
+    <description>Under Siege (Japan) (En,Ja)</description>
+    <title_clean>Under Siege</title_clean>
+    <title_search>under siege</title_search>
+  </game>
+  <game name="Underworld (Europe) (Special Extended Edition)">
+    <description>Underworld (Europe) (Special Extended Edition)</description>
+    <title_clean>Underworld</title_clean>
+    <title_search>underworld</title_search>
+  </game>
+  <game name="Underworld (Japan, Europe)">
+    <description>Underworld (Japan, Europe)</description>
+    <title_clean>Underworld</title_clean>
+    <title_search>underworld</title_search>
+  </game>
+  <game name="Underworld - Rise of the Lycans (USA) (En,Fr)">
+    <description>Underworld - Rise of the Lycans (USA) (En,Fr)</description>
+    <title_clean>Underworld - Rise of the Lycans</title_clean>
+    <title_search>underworld rise of the lycans</title_search>
+  </game>
+  <game name="Underworld Evolution (Europe)">
+    <description>Underworld Evolution (Europe)</description>
+    <title_clean>Underworld Evolution</title_clean>
+    <title_search>underworld evolution</title_search>
+  </game>
+  <game name="Underworld Evolution (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi,Ar,He,Is)">
+    <description>Underworld Evolution (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi,Ar,He,Is)</description>
+    <title_clean>Underworld Evolution</title_clean>
+    <title_search>underworld evolution</title_search>
+  </game>
+  <game name="Underworld Evolution (USA) (En,Fr)">
+    <description>Underworld Evolution (USA) (En,Fr)</description>
+    <title_clean>Underworld Evolution</title_clean>
+    <title_search>underworld evolution</title_search>
+  </game>
+  <game name="Unleashed (USA) (En,Fr,Es)">
+    <description>Unleashed (USA) (En,Fr,Es)</description>
+    <title_clean>Unleashed</title_clean>
+    <title_search>unleashed</title_search>
+  </game>
+  <game name="Ura Saiminjutsu 2 (Japan) (UMD-PG Edition) [b]">
+    <description>Ura Saiminjutsu 2 (Japan) (UMD-PG Edition) [b]</description>
+    <title_clean>Ura Saiminjutsu 2</title_clean>
+    <title_search>ura saiminjutsu 2</title_search>
+  </game>
+  <game name="Usual Suspects, The (Europe)">
+    <description>Usual Suspects, The (Europe)</description>
+    <title_clean>The Usual Suspects</title_clean>
+    <title_search>the usual suspects</title_search>
+  </game>
+  <game name="V for Vendetta (Europe) (En,De)">
+    <description>V for Vendetta (Europe) (En,De)</description>
+    <title_clean>V for Vendetta</title_clean>
+    <title_search>v for vendetta</title_search>
+  </game>
+  <game name="V for Vendetta (Japan) (En,Ja)">
+    <description>V for Vendetta (Japan) (En,Ja)</description>
+    <title_clean>V for Vendetta</title_clean>
+    <title_search>v for vendetta</title_search>
+  </game>
+  <game name="Vacancy (Europe) (En,Fr,De,Es,Pt,Tr,Ar)">
+    <description>Vacancy (Europe) (En,Fr,De,Es,Pt,Tr,Ar)</description>
+    <title_clean>Vacancy</title_clean>
+    <title_search>vacancy</title_search>
+  </game>
+  <game name="Vacancy (USA) (En,Fr)">
+    <description>Vacancy (USA) (En,Fr)</description>
+    <title_clean>Vacancy</title_clean>
+    <title_search>vacancy</title_search>
+  </game>
+  <game name="Van Helsing (Europe) (En,Fr,Nl,Sv,No,Da,Fi)">
+    <description>Van Helsing (Europe) (En,Fr,Nl,Sv,No,Da,Fi)</description>
+    <title_clean>Van Helsing</title_clean>
+    <title_search>van helsing</title_search>
+  </game>
+  <game name="Van Helsing (Europe) (En,It)">
+    <description>Van Helsing (Europe) (En,It)</description>
+    <title_clean>Van Helsing</title_clean>
+    <title_search>van helsing</title_search>
+  </game>
+  <game name="Van Helsing (USA) [b]">
+    <description>Van Helsing (USA) [b]</description>
+    <title_clean>Van Helsing</title_clean>
+    <title_search>van helsing</title_search>
+  </game>
+  <game name="Vantage Point (USA) (En,Fr,Es)">
+    <description>Vantage Point (USA) (En,Fr,Es)</description>
+    <title_clean>Vantage Point</title_clean>
+    <title_search>vantage point</title_search>
+  </game>
+  <game name="Viewtiful Joe - Vol. 1 (USA)">
+    <description>Viewtiful Joe - Vol. 1 (USA)</description>
+    <title_clean>Viewtiful Joe - Vol. 1</title_clean>
+    <title_search>viewtiful joe vol 1</title_search>
+  </game>
+  <game name="Viva la Bam - Volume 2 (World)">
+    <description>Viva la Bam - Volume 2 (World)</description>
+    <title_clean>Viva la Bam - Volume 2</title_clean>
+    <title_search>viva la bam volume 2</title_search>
+  </game>
+  <game name="Viva la Bam - Volume 3 (World)">
+    <description>Viva la Bam - Volume 3 (World)</description>
+    <title_clean>Viva la Bam - Volume 3</title_clean>
+    <title_search>viva la bam volume 3</title_search>
+  </game>
+  <game name="Wanted (Europe)">
+    <description>Wanted (Europe)</description>
+    <title_clean>Wanted</title_clean>
+    <title_search>wanted</title_search>
+  </game>
+  <game name="Water Boy (Japan) (En,Ja) [b]">
+    <description>Water Boy (Japan) (En,Ja) [b]</description>
+    <title_clean>Water Boy</title_clean>
+    <title_search>water boy</title_search>
+  </game>
+  <game name="Water Horse, The (Europe) (En,De,Es,It,Tr,Hi,Ar)">
+    <description>Water Horse, The (Europe) (En,De,Es,It,Tr,Hi,Ar)</description>
+    <title_clean>The Water Horse</title_clean>
+    <title_search>the water horse</title_search>
+  </game>
+  <game name="We Own The Night (USA) (En,Fr,Es)">
+    <description>We Own The Night (USA) (En,Fr,Es)</description>
+    <title_clean>We Own The Night</title_clean>
+    <title_search>we own the night</title_search>
+  </game>
+  <game name="Welcome to the Jungle (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar)">
+    <description>Welcome to the Jungle (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar)</description>
+    <title_clean>Welcome to the Jungle</title_clean>
+    <title_search>welcome to the jungle</title_search>
+  </game>
+  <game name="When a Stranger Calls (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Is,Ro)">
+    <description>When a Stranger Calls (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Is,Ro)</description>
+    <title_clean>When a Stranger Calls</title_clean>
+    <title_search>when a stranger calls</title_search>
+  </game>
+  <game name="When a Stranger Calls (USA) (En,Fr)">
+    <description>When a Stranger Calls (USA) (En,Fr)</description>
+    <title_clean>When a Stranger Calls</title_clean>
+    <title_search>when a stranger calls</title_search>
+  </game>
+  <game name="White Chicks (Europe) (En,Fr,Es,Nl,Pt,Zh,Ko,Pl,El,Cs,Hu,Th,Ar) (Unrated)">
+    <description>White Chicks (Europe) (En,Fr,Es,Nl,Pt,Zh,Ko,Pl,El,Cs,Hu,Th,Ar) (Unrated)</description>
+    <title_clean>White Chicks</title_clean>
+    <title_search>white chicks</title_search>
+  </game>
+  <game name="White Noise (Europe) (En,Fr,Nl)">
+    <description>White Noise (Europe) (En,Fr,Nl)</description>
+    <title_clean>White Noise</title_clean>
+    <title_search>white noise</title_search>
+  </game>
+  <game name="Wildboyz Volume One (World)">
+    <description>Wildboyz Volume One (World)</description>
+    <title_clean>Wildboyz Volume One</title_clean>
+    <title_search>wildboyz volume one</title_search>
+  </game>
+  <game name="Wolf Creek (Europe)">
+    <description>Wolf Creek (Europe)</description>
+    <title_clean>Wolf Creek</title_clean>
+    <title_search>wolf creek</title_search>
+  </game>
+  <game name="Wonderful Days (Japan, Europe) [b]">
+    <description>Wonderful Days (Japan, Europe) [b]</description>
+    <title_clean>Wonderful Days</title_clean>
+    <title_search>wonderful days</title_search>
+  </game>
+  <game name="X Files, The - I Want to Believe (Europe)">
+    <description>X Files, The - I Want to Believe (Europe)</description>
+    <title_clean>The X Files - I Want to Believe</title_clean>
+    <title_search>the x files i want to believe</title_search>
+  </game>
+  <game name="X-Men (Japan, Europe)">
+    <description>X-Men (Japan, Europe)</description>
+    <title_clean>X-Men</title_clean>
+    <title_search>xmen</title_search>
+  </game>
+  <game name="X-Men (USA) (En,Fr,Es)">
+    <description>X-Men (USA) (En,Fr,Es)</description>
+    <title_clean>X-Men</title_clean>
+    <title_search>xmen</title_search>
+  </game>
+  <game name="X-Men - The Last Stand (USA) (En,Fr,Es)">
+    <description>X-Men - The Last Stand (USA) (En,Fr,Es)</description>
+    <title_clean>X-Men - The Last Stand</title_clean>
+    <title_search>xmen the last stand</title_search>
+  </game>
+  <game name="X-Men 2 (Japan, Europe) [b]">
+    <description>X-Men 2 (Japan, Europe) [b]</description>
+    <title_clean>X-Men 2</title_clean>
+    <title_search>xmen 2</title_search>
+  </game>
+  <game name="X2 - X-Men United (Europe) (En,Fr,Nl)">
+    <description>X2 - X-Men United (Europe) (En,Fr,Nl)</description>
+    <title_clean>X2 - X-Men United</title_clean>
+    <title_search>x2 xmen united</title_search>
+  </game>
+  <game name="Year One (USA) (En,Fr)">
+    <description>Year One (USA) (En,Fr)</description>
+    <title_clean>Year One</title_clean>
+    <title_search>year one</title_search>
+  </game>
+  <game name="Yes Man (Europe)">
+    <description>Yes Man (Europe)</description>
+    <title_clean>Yes Man</title_clean>
+    <title_search>yes man</title_search>
+  </game>
+  <game name="You Got Served (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hi,Ar,He)">
+    <description>You Got Served (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hi,Ar,He)</description>
+    <title_clean>You Got Served</title_clean>
+    <title_search>you got served</title_search>
+  </game>
+  <game name="Young Guns (USA) (En,Es)">
+    <description>Young Guns (USA) (En,Es)</description>
+    <title_clean>Young Guns</title_clean>
+    <title_search>young guns</title_search>
+  </game>
+  <game name="Yours, Mine _ Ours (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro)">
+    <description>Yours, Mine _ Ours (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro)</description>
+    <title_clean>Yours, Mine _ Ours</title_clean>
+    <title_search>yours mine ours</title_search>
+  </game>
+  <game name="Zathura - A Space Adventure (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,El,Tr,Cs,Hu,Th,Hi,Ar,Is)">
+    <description>Zathura - A Space Adventure (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,El,Tr,Cs,Hu,Th,Hi,Ar,Is)</description>
+    <title_clean>Zathura - A Space Adventure</title_clean>
+    <title_search>zathura a space adventure</title_search>
+  </game>
+  <game name="Zathura - A Space Adventure (Europe) (En,Hi) [b]">
+    <description>Zathura - A Space Adventure (Europe) (En,Hi) [b]</description>
+    <title_clean>Zathura - A Space Adventure</title_clean>
+    <title_search>zathura a space adventure</title_search>
+  </game>
+  <game name="Zathura - A Space Adventure (USA) (En,Fr)">
+    <description>Zathura - A Space Adventure (USA) (En,Fr)</description>
+    <title_clean>Zathura - A Space Adventure</title_clean>
+    <title_search>zathura a space adventure</title_search>
+  </game>
+  <game name="Zombieland (USA) (En,Fr,Es)">
+    <description>Zombieland (USA) (En,Fr,Es)</description>
+    <title_clean>Zombieland</title_clean>
+    <title_search>zombieland</title_search>
+  </game>
+  <game name="s-CRY-ed - Vol. 1 - The Lost Ground (USA) (En,Ja)">
+    <description>s-CRY-ed - Vol. 1 - The Lost Ground (USA) (En,Ja)</description>
+    <title_clean>s-CRY-ed - Vol. 1 - The Lost Ground</title_clean>
+    <title_search>scryed vol 1 the lost ground</title_search>
+  </game>
+  <game name="xXx (Europe) (En,Nl,Pl,El,Tr,Cs,Hu,Hi,Ar)">
+    <description>xXx (Europe) (En,Nl,Pl,El,Tr,Cs,Hu,Hi,Ar)</description>
+    <title_clean>xXx</title_clean>
+    <title_search>xxx</title_search>
+  </game>
+  <game name="xXx (Japan, Europe)">
+    <description>xXx (Japan, Europe)</description>
+    <title_clean>xXx</title_clean>
+    <title_search>xxx</title_search>
+  </game>
+  <game name="xXx - The Next Level (Europe) (En,De,Es,It,Nl,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar)">
+    <description>xXx - The Next Level (Europe) (En,De,Es,It,Nl,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar)</description>
+    <title_clean>xXx - The Next Level</title_clean>
+    <title_search>xxx the next level</title_search>
+  </game>
+</datafile>

@@ -1,0 +1,58 @@
+<datafile>
+  <game name="Anime Land (Japan)">
+    <description>Anime Land (Japan)</description>
+    <title_clean>Anime Land</title_clean>
+    <title_search>anime land</title_search>
+    <image ext="png" id="Anime Land (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Anime Land (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Anime Land (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dream Change - Kogane-chan no Fashion Party (Japan)">
+    <description>Dream Change - Kogane-chan no Fashion Party (Japan)</description>
+    <title_clean>Dream Change - Kogane-chan no Fashion Party</title_clean>
+    <title_search>dream change koganechan no fashion party</title_search>
+    <image ext="png" id="Dream Change - Kogane-chan no Fashion Party (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dream Change - Kogane-chan no Fashion Party (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dream Change - Kogane-chan no Fashion Party (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="HARIHARI Seal Paradise (Japan)">
+    <description>HARIHARI Seal Paradise (Japan)</description>
+    <title_clean>HARIHARI Seal Paradise</title_clean>
+    <title_search>harihari seal paradise</title_search>
+    <image ext="png" id="HARIHARI Seal Paradise (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="HARIHARI Seal Paradise (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="HARIHARI Seal Paradise (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lupiton no Wonder Palette (Japan)">
+    <description>Lupiton no Wonder Palette (Japan)</description>
+    <title_clean>Lupiton no Wonder Palette</title_clean>
+    <title_search>lupiton no wonder palette</title_search>
+    <image ext="png" id="Lupiton no Wonder Palette (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lupiton no Wonder Palette (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lupiton no Wonder Palette (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nigaoe Artist (Japan)">
+    <description>Nigaoe Artist (Japan)</description>
+    <title_clean>Nigaoe Artist</title_clean>
+    <title_search>nigaoe artist</title_search>
+    <image ext="png" id="Nigaoe Artist (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Nigaoe Artist (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nigaoe Artist (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pasocom Collection (Japan)">
+    <description>Pasocom Collection (Japan)</description>
+    <title_clean>Pasocom Collection</title_clean>
+    <title_search>pasocom collection</title_search>
+    <image ext="png" id="Pasocom Collection (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pasocom Collection (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pasocom Collection (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wanwan Aijou Monogatari (Japan)">
+    <description>Wanwan Aijou Monogatari (Japan)</description>
+    <title_clean>Wanwan Aijou Monogatari</title_clean>
+    <title_search>wanwan aijou monogatari</title_search>
+    <image ext="png" id="Wanwan Aijou Monogatari (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wanwan Aijou Monogatari (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wanwan Aijou Monogatari (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_Loopy/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

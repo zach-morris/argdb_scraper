@@ -1,0 +1,1498 @@
+<datafile>
+  <game name="007 James Bond (Japan) (v2.6) (Othello Multivision)">
+    <description>007 James Bond (Japan) (v2.6) (Othello Multivision)</description>
+    <title_clean>007 James Bond</title_clean>
+    <title_search>007 james bond</title_search>
+    <image ext="png" id="007 James Bond (Japan) (v2.6) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="007 James Bond (Japan) (v2.6) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="007 James Bond (Japan) (v2.6) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="007 James Bond (Japan) (v2.7) (Othello Multivision)">
+    <description>007 James Bond (Japan) (v2.7) (Othello Multivision)</description>
+    <title_clean>007 James Bond</title_clean>
+    <title_search>007 james bond</title_search>
+    <image ext="png" id="007 James Bond (Japan) (v2.7) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="007 James Bond (Japan) (v2.7) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="007 James Bond (Japan) (v2.7) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="007 James Bond (Taiwan) (Othello Multivision)">
+    <description>007 James Bond (Taiwan) (Othello Multivision)</description>
+    <title_clean>007 James Bond</title_clean>
+    <title_search>007 james bond</title_search>
+    <image ext="png" id="007 James Bond (Taiwan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="007 James Bond (Taiwan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bank Panic (Japan)">
+    <description>Bank Panic (Japan)</description>
+    <title_clean>Bank Panic</title_clean>
+    <title_search>bank panic</title_search>
+    <image ext="png" id="Bank Panic (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bank Panic (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bank Panic (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bank Panic (Taiwan)">
+    <description>Bank Panic (Taiwan)</description>
+    <title_clean>Bank Panic</title_clean>
+    <title_search>bank panic</title_search>
+    <image ext="png" id="Bank Panic (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bank Panic (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Black Onyx, The (Japan)">
+    <description>Black Onyx, The (Japan)</description>
+    <title_clean>The Black Onyx</title_clean>
+    <title_search>the black onyx</title_search>
+    <image ext="png" id="Black Onyx, The (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Black Onyx, The (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Black Onyx, The (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bomb Jack (Japan)">
+    <description>Bomb Jack (Japan)</description>
+    <title_clean>Bomb Jack</title_clean>
+    <title_search>bomb jack</title_search>
+    <image ext="png" id="Bomb Jack (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bomb Jack (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bomb Jack (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bomb Jack (Taiwan) (Chinese Logo)">
+    <description>Bomb Jack (Taiwan) (Chinese Logo)</description>
+    <title_clean>Bomb Jack</title_clean>
+    <title_search>bomb jack</title_search>
+    <image ext="png" id="Bomb Jack (Taiwan) (Chinese Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bomb Jack (Taiwan) (Chinese Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bomb Jack (Taiwan) (English Logo)">
+    <description>Bomb Jack (Taiwan) (English Logo)</description>
+    <title_clean>Bomb Jack</title_clean>
+    <title_search>bomb jack</title_search>
+    <image ext="png" id="Bomb Jack (Taiwan) (English Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bomb Jack (Taiwan) (English Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bomberman Special (Taiwan)">
+    <description>Bomberman Special (Taiwan)</description>
+    <title_clean>Bomberman Special</title_clean>
+    <title_search>bomberman special</title_search>
+  </game>
+  <game name="Bomberman Special (Taiwan) (DahJee)">
+    <description>Bomberman Special (Taiwan) (DahJee)</description>
+    <title_clean>Bomberman Special</title_clean>
+    <title_search>bomberman special</title_search>
+  </game>
+  <game name="Borderline (Japan, Europe)">
+    <description>Borderline (Japan, Europe)</description>
+    <title_clean>Borderline</title_clean>
+    <title_search>borderline</title_search>
+    <image ext="png" id="Borderline (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Borderline (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Borderline (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="C_So! (Japan)">
+    <description>C_So! (Japan)</description>
+    <title_clean>C_So!</title_clean>
+    <title_search>cso</title_search>
+    <image ext="png" id="C_So! (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="C_So! (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="C_So! (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="C_So! (Taiwan)">
+    <description>C_So! (Taiwan)</description>
+    <title_clean>C_So!</title_clean>
+    <title_search>cso</title_search>
+    <image ext="png" id="C_So! (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="C_So! (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Castle, The (Japan)">
+    <description>Castle, The (Japan)</description>
+    <title_clean>The Castle</title_clean>
+    <title_search>the castle</title_search>
+    <image ext="png" id="Castle, The (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Castle, The (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Castle, The (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Castle, The (Taiwan) (MSX)">
+    <description>Castle, The (Taiwan) (MSX)</description>
+    <title_clean>The Castle</title_clean>
+    <title_search>the castle</title_search>
+  </game>
+  <game name="Chack'n Pop (Japan)">
+    <description>Chack'n Pop (Japan)</description>
+    <title_clean>Chack'n Pop</title_clean>
+    <title_search>chackn pop</title_search>
+    <image ext="png" id="Chack'n Pop (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chack'n Pop (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chack'n Pop (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chack'n Pop (Taiwan)">
+    <description>Chack'n Pop (Taiwan)</description>
+    <title_clean>Chack'n Pop</title_clean>
+    <title_search>chackn pop</title_search>
+    <image ext="png" id="Chack'n Pop (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chack'n Pop (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Challenge Derby (Japan) (vA) (16kB) (Othello Multivision)">
+    <description>Challenge Derby (Japan) (vA) (16kB) (Othello Multivision)</description>
+    <title_clean>Challenge Derby</title_clean>
+    <title_search>challenge derby</title_search>
+    <image ext="png" id="Challenge Derby (Japan) (vA) (16kB) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Challenge Derby (Japan) (vA) (16kB) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Challenge Derby (Japan) (vA) (16kB) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Challenge Derby (Japan) (vA) (40kB) (Othello Multivision)">
+    <description>Challenge Derby (Japan) (vA) (40kB) (Othello Multivision)</description>
+    <title_clean>Challenge Derby</title_clean>
+    <title_search>challenge derby</title_search>
+    <image ext="png" id="Challenge Derby (Japan) (vA) (40kB) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Challenge Derby (Japan) (vA) (40kB) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Challenge Derby (Japan) (vA) (40kB) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Challenge Derby (Japan) (vB) (Othello Multivision)">
+    <description>Challenge Derby (Japan) (vB) (Othello Multivision)</description>
+    <title_clean>Challenge Derby</title_clean>
+    <title_search>challenge derby</title_search>
+    <image ext="png" id="Challenge Derby (Japan) (vB) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Challenge Derby (Japan) (vB) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Challenge Derby (Japan) (vB) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Baseball (Japan) (16kB)">
+    <description>Champion Baseball (Japan) (16kB)</description>
+    <title_clean>Champion Baseball</title_clean>
+    <title_search>champion baseball</title_search>
+    <image ext="png" id="Champion Baseball (Japan) (16kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Champion Baseball (Japan) (16kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Baseball (Japan) (16kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Baseball (Japan) (40kB)">
+    <description>Champion Baseball (Japan) (40kB)</description>
+    <title_clean>Champion Baseball</title_clean>
+    <title_search>champion baseball</title_search>
+    <image ext="png" id="Champion Baseball (Japan) (40kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Champion Baseball (Japan) (40kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Baseball (Japan) (40kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Baseball (Taiwan)">
+    <description>Champion Baseball (Taiwan)</description>
+    <title_clean>Champion Baseball</title_clean>
+    <title_search>champion baseball</title_search>
+    <image ext="png" id="Champion Baseball (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Baseball (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Billiards (Japan)">
+    <description>Champion Billiards (Japan)</description>
+    <title_clean>Champion Billiards</title_clean>
+    <title_search>champion billiards</title_search>
+    <image ext="png" id="Champion Billiards (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Champion Billiards (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Billiards (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Billiards (Taiwan)">
+    <description>Champion Billiards (Taiwan)</description>
+    <title_clean>Champion Billiards</title_clean>
+    <title_search>champion billiards</title_search>
+    <image ext="png" id="Champion Billiards (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Billiards (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Boxing (Japan)">
+    <description>Champion Boxing (Japan)</description>
+    <title_clean>Champion Boxing</title_clean>
+    <title_search>champion boxing</title_search>
+    <image ext="png" id="Champion Boxing (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Champion Boxing (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Boxing (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Boxing (Japan) (MyCard)">
+    <description>Champion Boxing (Japan) (MyCard)</description>
+    <title_clean>Champion Boxing</title_clean>
+    <title_search>champion boxing</title_search>
+    <image ext="png" id="Champion Boxing (Japan) (MyCard)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Boxing (Japan) (MyCard)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Boxing (Taiwan)">
+    <description>Champion Boxing (Taiwan)</description>
+    <title_clean>Champion Boxing</title_clean>
+    <title_search>champion boxing</title_search>
+    <image ext="png" id="Champion Boxing (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Boxing (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Golf (Japan)">
+    <description>Champion Golf (Japan)</description>
+    <title_clean>Champion Golf</title_clean>
+    <title_search>champion golf</title_search>
+    <image ext="png" id="Champion Golf (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Champion Golf (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Golf (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Golf (Japan) (MyCard)">
+    <description>Champion Golf (Japan) (MyCard)</description>
+    <title_clean>Champion Golf</title_clean>
+    <title_search>champion golf</title_search>
+    <image ext="png" id="Champion Golf (Japan) (MyCard)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Golf (Japan) (MyCard)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Ice Hockey (Japan)">
+    <description>Champion Ice Hockey (Japan)</description>
+    <title_clean>Champion Ice Hockey</title_clean>
+    <title_search>champion ice hockey</title_search>
+    <image ext="png" id="Champion Ice Hockey (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Champion Ice Hockey (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Ice Hockey (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Ice Hockey (Taiwan)">
+    <description>Champion Ice Hockey (Taiwan)</description>
+    <title_clean>Champion Ice Hockey</title_clean>
+    <title_search>champion ice hockey</title_search>
+    <image ext="png" id="Champion Ice Hockey (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Ice Hockey (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Kendou (Japan)">
+    <description>Champion Kendou (Japan)</description>
+    <title_clean>Champion Kendou</title_clean>
+    <title_search>champion kendou</title_search>
+    <image ext="png" id="Champion Kendou (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Champion Kendou (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Kendou (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Kendou (Taiwan)">
+    <description>Champion Kendou (Taiwan)</description>
+    <title_clean>Champion Kendou</title_clean>
+    <title_search>champion kendou</title_search>
+    <image ext="png" id="Champion Kendou (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Kendou (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Pro Wrestling (Japan)">
+    <description>Champion Pro Wrestling (Japan)</description>
+    <title_clean>Champion Pro Wrestling</title_clean>
+    <title_search>champion pro wrestling</title_search>
+    <image ext="png" id="Champion Pro Wrestling (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Champion Pro Wrestling (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Pro Wrestling (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Soccer (Japan)">
+    <description>Champion Soccer (Japan)</description>
+    <title_clean>Champion Soccer</title_clean>
+    <title_search>champion soccer</title_search>
+    <image ext="png" id="Champion Soccer (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Champion Soccer (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Soccer (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Soccer (Taiwan)">
+    <description>Champion Soccer (Taiwan)</description>
+    <title_clean>Champion Soccer</title_clean>
+    <title_search>champion soccer</title_search>
+    <image ext="png" id="Champion Soccer (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Soccer (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Champion Tennis (Japan)">
+    <description>Champion Tennis (Japan)</description>
+    <title_clean>Champion Tennis</title_clean>
+    <title_search>champion tennis</title_search>
+    <image ext="png" id="Champion Tennis (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Champion Tennis (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Champion Tennis (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Championship Lode Runner (Japan)">
+    <description>Championship Lode Runner (Japan)</description>
+    <title_clean>Championship Lode Runner</title_clean>
+    <title_search>championship lode runner</title_search>
+    <image ext="png" id="Championship Lode Runner (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Championship Lode Runner (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Championship Lode Runner (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Championship Lode Runner (Taiwan)">
+    <description>Championship Lode Runner (Taiwan)</description>
+    <title_clean>Championship Lode Runner</title_clean>
+    <title_search>championship lode runner</title_search>
+    <image ext="png" id="Championship Lode Runner (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Championship Lode Runner (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Choplifter (Japan)">
+    <description>Choplifter (Japan)</description>
+    <title_clean>Choplifter</title_clean>
+    <title_search>choplifter</title_search>
+    <image ext="png" id="Choplifter (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Choplifter (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Choplifter (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Choplifter (Japan) (Beta)">
+    <description>Choplifter (Japan) (Beta)</description>
+    <title_clean>Choplifter</title_clean>
+    <title_search>choplifter</title_search>
+    <image ext="png" id="Choplifter (Japan) (Beta)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Choplifter (Japan) (Beta)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Choplifter (Korea)">
+    <description>Choplifter (Korea)</description>
+    <title_clean>Choplifter</title_clean>
+    <title_search>choplifter</title_search>
+  </game>
+  <game name="Choplifter (Taiwan) (Chinese Logo)">
+    <description>Choplifter (Taiwan) (Chinese Logo)</description>
+    <title_clean>Choplifter</title_clean>
+    <title_search>choplifter</title_search>
+    <image ext="png" id="Choplifter (Taiwan) (Chinese Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Choplifter (Taiwan) (Chinese Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Choplifter (Taiwan) (English Logo)">
+    <description>Choplifter (Taiwan) (English Logo)</description>
+    <title_clean>Choplifter</title_clean>
+    <title_search>choplifter</title_search>
+    <image ext="png" id="Choplifter (Taiwan) (English Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Choplifter (Taiwan) (English Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Choplifter (Taiwan) (No Logo)">
+    <description>Choplifter (Taiwan) (No Logo)</description>
+    <title_clean>Choplifter</title_clean>
+    <title_search>choplifter</title_search>
+    <image ext="png" id="Choplifter (Taiwan) (No Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Choplifter (Taiwan) (No Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chuugaku Hisshuu Eibunpou (Chuugaku 1-Nen) (Japan) (SC-3000)">
+    <description>Chuugaku Hisshuu Eibunpou (Chuugaku 1-Nen) (Japan) (SC-3000)</description>
+    <title_clean>Chuugaku Hisshuu Eibunpou</title_clean>
+    <title_search>chuugaku hisshuu eibunpou</title_search>
+    <image ext="png" id="Chuugaku Hisshuu Eibunpou (Chuugaku 1-Nen) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chuugaku Hisshuu Eibunpou (Chuugaku 1-Nen) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chuugaku Hisshuu Eibunpou (Chuugaku 2-Nen) (Japan) (SC-3000)">
+    <description>Chuugaku Hisshuu Eibunpou (Chuugaku 2-Nen) (Japan) (SC-3000)</description>
+    <title_clean>Chuugaku Hisshuu Eibunpou</title_clean>
+    <title_search>chuugaku hisshuu eibunpou</title_search>
+    <image ext="png" id="Chuugaku Hisshuu Eibunpou (Chuugaku 2-Nen) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chuugaku Hisshuu Eibunpou (Chuugaku 2-Nen) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen) (Japan) (16kB) (SC-3000)">
+    <description>Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen) (Japan) (16kB) (SC-3000)</description>
+    <title_clean>Chuugaku Hisshuu Eisakubun</title_clean>
+    <title_search>chuugaku hisshuu eisakubun</title_search>
+    <image ext="png" id="Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen) (Japan) (16kB) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen) (Japan) (16kB) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen) (Japan) (40kB) (SC-3000)">
+    <description>Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen) (Japan) (40kB) (SC-3000)</description>
+    <title_clean>Chuugaku Hisshuu Eisakubun</title_clean>
+    <title_search>chuugaku hisshuu eisakubun</title_search>
+    <image ext="png" id="Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen) (Japan) (40kB) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen) (Japan) (40kB) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen) (Japan) (16kB) (SC-3000)">
+    <description>Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen) (Japan) (16kB) (SC-3000)</description>
+    <title_clean>Chuugaku Hisshuu Eisakubun</title_clean>
+    <title_search>chuugaku hisshuu eisakubun</title_search>
+    <image ext="png" id="Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen) (Japan) (16kB) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen) (Japan) (16kB) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen) (Japan) (40kB) (SC-3000)">
+    <description>Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen) (Japan) (40kB) (SC-3000)</description>
+    <title_clean>Chuugaku Hisshuu Eisakubun</title_clean>
+    <title_search>chuugaku hisshuu eisakubun</title_search>
+    <image ext="png" id="Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen) (Japan) (40kB) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen) (Japan) (40kB) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chuugaku Hisshuu Eitango (Chuugaku 1-Nen) (Japan) (SC-3000)">
+    <description>Chuugaku Hisshuu Eitango (Chuugaku 1-Nen) (Japan) (SC-3000)</description>
+    <title_clean>Chuugaku Hisshuu Eitango</title_clean>
+    <title_search>chuugaku hisshuu eitango</title_search>
+    <image ext="png" id="Chuugaku Hisshuu Eitango (Chuugaku 1-Nen) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chuugaku Hisshuu Eitango (Chuugaku 1-Nen) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chuugaku Hisshuu Eitango (Chuugaku 2-Nen) (Japan) (16kB) (SC-3000)">
+    <description>Chuugaku Hisshuu Eitango (Chuugaku 2-Nen) (Japan) (16kB) (SC-3000)</description>
+    <title_clean>Chuugaku Hisshuu Eitango</title_clean>
+    <title_search>chuugaku hisshuu eitango</title_search>
+    <image ext="png" id="Chuugaku Hisshuu Eitango (Chuugaku 2-Nen) (Japan) (16kB) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chuugaku Hisshuu Eitango (Chuugaku 2-Nen) (Japan) (16kB) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chuugaku Hisshuu Eitango (Chuugaku 2-Nen) (Japan) (40kB) (SC-3000)">
+    <description>Chuugaku Hisshuu Eitango (Chuugaku 2-Nen) (Japan) (40kB) (SC-3000)</description>
+    <title_clean>Chuugaku Hisshuu Eitango</title_clean>
+    <title_search>chuugaku hisshuu eitango</title_search>
+    <image ext="png" id="Chuugaku Hisshuu Eitango (Chuugaku 2-Nen) (Japan) (40kB) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chuugaku Hisshuu Eitango (Chuugaku 2-Nen) (Japan) (40kB) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Congo Bongo (Japan)">
+    <description>Congo Bongo (Japan)</description>
+    <title_clean>Congo Bongo</title_clean>
+    <title_search>congo bongo</title_search>
+    <image ext="png" id="Congo Bongo (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Congo Bongo (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Congo Bongo (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Congo Bongo (Japan) (Rev 1) (40kB)">
+    <description>Congo Bongo (Japan) (Rev 1) (40kB)</description>
+    <title_clean>Congo Bongo</title_clean>
+    <title_search>congo bongo</title_search>
+    <image ext="png" id="Congo Bongo (Japan) (Rev 1) (40kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Congo Bongo (Japan) (Rev 1) (40kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Congo Bongo (Japan) (Rev 1) (40kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Congo Bongo (Japan, Europe) (Rev 1)">
+    <description>Congo Bongo (Japan, Europe) (Rev 1)</description>
+    <title_clean>Congo Bongo</title_clean>
+    <title_search>congo bongo</title_search>
+    <image ext="png" id="Congo Bongo (Japan, Europe) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Congo Bongo (Japan, Europe) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Congo Bongo (Japan, Europe) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dokidoki Penguin Land (Japan)">
+    <description>Dokidoki Penguin Land (Japan)</description>
+    <title_clean>Dokidoki Penguin Land</title_clean>
+    <title_search>dokidoki penguin land</title_search>
+    <image ext="png" id="Dokidoki Penguin Land (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dokidoki Penguin Land (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dokidoki Penguin Land (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon Wang (Japan)">
+    <description>Dragon Wang (Japan)</description>
+    <title_clean>Dragon Wang</title_clean>
+    <title_search>dragon wang</title_search>
+    <image ext="png" id="Dragon Wang (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dragon Wang (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dragon Wang (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon Wang (Japan) (Alt 1)">
+    <description>Dragon Wang (Japan) (Alt 1)</description>
+    <title_clean>Dragon Wang</title_clean>
+    <title_search>dragon wang</title_search>
+    <image ext="png" id="Dragon Wang (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dragon Wang (Japan) (Alt 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon Wang (Taiwan) (Chinese Logo)">
+    <description>Dragon Wang (Taiwan) (Chinese Logo)</description>
+    <title_clean>Dragon Wang</title_clean>
+    <title_search>dragon wang</title_search>
+    <image ext="png" id="Dragon Wang (Taiwan) (Chinese Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dragon Wang (Taiwan) (Chinese Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon Wang (Taiwan) (English Logo)">
+    <description>Dragon Wang (Taiwan) (English Logo)</description>
+    <title_clean>Dragon Wang</title_clean>
+    <title_search>dragon wang</title_search>
+    <image ext="png" id="Dragon Wang (Taiwan) (English Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dragon Wang (Taiwan) (English Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Drol (Japan)">
+    <description>Drol (Japan)</description>
+    <title_clean>Drol</title_clean>
+    <title_search>drol</title_search>
+    <image ext="png" id="Drol (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Drol (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Drol (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Drol (Taiwan)">
+    <description>Drol (Taiwan)</description>
+    <title_clean>Drol</title_clean>
+    <title_search>drol</title_search>
+    <image ext="png" id="Drol (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Drol (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Elevator Action (Japan)">
+    <description>Elevator Action (Japan)</description>
+    <title_clean>Elevator Action</title_clean>
+    <title_search>elevator action</title_search>
+    <image ext="png" id="Elevator Action (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Elevator Action (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Elevator Action (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Elevator Action (Taiwan)">
+    <description>Elevator Action (Taiwan)</description>
+    <title_clean>Elevator Action</title_clean>
+    <title_search>elevator action</title_search>
+    <image ext="png" id="Elevator Action (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Elevator Action (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Exerion (Japan, Europe)">
+    <description>Exerion (Japan, Europe)</description>
+    <title_clean>Exerion</title_clean>
+    <title_search>exerion</title_search>
+    <image ext="png" id="Exerion (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Exerion (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Exerion (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Exerion (Taiwan)">
+    <description>Exerion (Taiwan)</description>
+    <title_clean>Exerion</title_clean>
+    <title_search>exerion</title_search>
+    <image ext="png" id="Exerion (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Exerion (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Flicky (Japan)">
+    <description>Flicky (Japan)</description>
+    <title_clean>Flicky</title_clean>
+    <title_search>flicky</title_search>
+    <image ext="png" id="Flicky (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Flicky (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Flicky (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Flicky (Japan) (Rev 1)">
+    <description>Flicky (Japan) (Rev 1)</description>
+    <title_clean>Flicky</title_clean>
+    <title_search>flicky</title_search>
+    <image ext="png" id="Flicky (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Flicky (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Flicky (Taiwan)">
+    <description>Flicky (Taiwan)</description>
+    <title_clean>Flicky</title_clean>
+    <title_search>flicky</title_search>
+    <image ext="png" id="Flicky (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Flicky (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Flipper (Taiwan)">
+    <description>Flipper (Taiwan)</description>
+    <title_clean>Flipper</title_clean>
+    <title_search>flipper</title_search>
+    <image ext="png" id="Flipper (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Flipper (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="GP World (Japan)">
+    <description>GP World (Japan)</description>
+    <title_clean>GP World</title_clean>
+    <title_search>gp world</title_search>
+    <image ext="png" id="GP World (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="GP World (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="GP World (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="GP World (Japan) (Rev 1)">
+    <description>GP World (Japan) (Rev 1)</description>
+    <title_clean>GP World</title_clean>
+    <title_search>gp world</title_search>
+    <image ext="png" id="GP World (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="GP World (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="GP World (Taiwan)">
+    <description>GP World (Taiwan)</description>
+    <title_clean>GP World</title_clean>
+    <title_search>gp world</title_search>
+    <image ext="png" id="GP World (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="GP World (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Galaga (Taiwan)">
+    <description>Galaga (Taiwan)</description>
+    <title_clean>Galaga</title_clean>
+    <title_search>galaga</title_search>
+    <image ext="png" id="Galaga (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Galaga (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Girl's Garden (Japan)">
+    <description>Girl's Garden (Japan)</description>
+    <title_clean>Girl's Garden</title_clean>
+    <title_search>girls garden</title_search>
+    <image ext="png" id="Girl's Garden (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Girl's Garden (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Girl's Garden (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Girl's Garden (Taiwan)">
+    <description>Girl's Garden (Taiwan)</description>
+    <title_clean>Girl's Garden</title_clean>
+    <title_search>girls garden</title_search>
+    <image ext="png" id="Girl's Garden (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Girl's Garden (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Golgo 13 (Japan)">
+    <description>Golgo 13 (Japan)</description>
+    <title_clean>Golgo 13</title_clean>
+    <title_search>golgo 13</title_search>
+    <image ext="png" id="Golgo 13 (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Golgo 13 (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Golgo 13 (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gulkave (Japan)">
+    <description>Gulkave (Japan)</description>
+    <title_clean>Gulkave</title_clean>
+    <title_search>gulkave</title_search>
+    <image ext="png" id="Gulkave (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gulkave (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gulkave (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Guzzler (Japan) (Othello Multivision)">
+    <description>Guzzler (Japan) (Othello Multivision)</description>
+    <title_clean>Guzzler</title_clean>
+    <title_search>guzzler</title_search>
+    <image ext="png" id="Guzzler (Japan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Guzzler (Japan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Guzzler (Japan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Guzzler (Taiwan) (Othello Multivision)">
+    <description>Guzzler (Taiwan) (Othello Multivision)</description>
+    <title_clean>Guzzler</title_clean>
+    <title_search>guzzler</title_search>
+    <image ext="png" id="Guzzler (Taiwan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Guzzler (Taiwan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Guzzler (Taiwan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="H.E.R.O. (Japan)">
+    <description>H.E.R.O. (Japan)</description>
+    <title_clean>H.E.R.O.</title_clean>
+    <title_search>hero</title_search>
+    <image ext="png" id="H.E.R.O. (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="H.E.R.O. (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="H.E.R.O. (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="H.E.R.O. (Taiwan) (Chinese Logo)">
+    <description>H.E.R.O. (Taiwan) (Chinese Logo)</description>
+    <title_clean>H.E.R.O.</title_clean>
+    <title_search>hero</title_search>
+    <image ext="png" id="H.E.R.O. (Taiwan) (Chinese Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="H.E.R.O. (Taiwan) (Chinese Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="H.E.R.O. (Taiwan) (English Logo)">
+    <description>H.E.R.O. (Taiwan) (English Logo)</description>
+    <title_clean>H.E.R.O.</title_clean>
+    <title_search>hero</title_search>
+    <image ext="png" id="H.E.R.O. (Taiwan) (English Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="H.E.R.O. (Taiwan) (English Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hang-On II (Japan)">
+    <description>Hang-On II (Japan)</description>
+    <title_clean>Hang-On II</title_clean>
+    <title_search>hangon ii</title_search>
+    <image ext="png" id="Hang-On II (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hang-On II (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hang-On II (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hang-On II (Taiwan) (Chinese Logo)">
+    <description>Hang-On II (Taiwan) (Chinese Logo)</description>
+    <title_clean>Hang-On II</title_clean>
+    <title_search>hangon ii</title_search>
+    <image ext="png" id="Hang-On II (Taiwan) (Chinese Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hang-On II (Taiwan) (Chinese Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hang-On II (Taiwan) (English Logo)">
+    <description>Hang-On II (Taiwan) (English Logo)</description>
+    <title_clean>Hang-On II</title_clean>
+    <title_search>hangon ii</title_search>
+    <image ext="png" id="Hang-On II (Taiwan) (English Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hang-On II (Taiwan) (English Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Home Basic (Japan) (SC-3000)">
+    <description>Home Basic (Japan) (SC-3000)</description>
+    <title_clean>Home Basic</title_clean>
+    <title_search>home basic</title_search>
+    <image ext="png" id="Home Basic (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Home Basic (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Home Mahjong (Japan)">
+    <description>Home Mahjong (Japan)</description>
+    <title_clean>Home Mahjong</title_clean>
+    <title_search>home mahjong</title_search>
+    <image ext="png" id="Home Mahjong (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Home Mahjong (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Home Mahjong (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Home Mahjong (Japan) (Rev 1)">
+    <description>Home Mahjong (Japan) (Rev 1)</description>
+    <title_clean>Home Mahjong</title_clean>
+    <title_search>home mahjong</title_search>
+    <image ext="png" id="Home Mahjong (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Home Mahjong (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Home Mahjong (Taiwan)">
+    <description>Home Mahjong (Taiwan)</description>
+    <title_clean>Home Mahjong</title_clean>
+    <title_search>home mahjong</title_search>
+    <image ext="png" id="Home Mahjong (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Home Mahjong (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hustle Chumy (Japan)">
+    <description>Hustle Chumy (Japan)</description>
+    <title_clean>Hustle Chumy</title_clean>
+    <title_search>hustle chumy</title_search>
+    <image ext="png" id="Hustle Chumy (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hustle Chumy (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hustle Chumy (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hustle Chumy (Taiwan)">
+    <description>Hustle Chumy (Taiwan)</description>
+    <title_clean>Hustle Chumy</title_clean>
+    <title_search>hustle chumy</title_search>
+  </game>
+  <game name="Hyper Sports (Japan)">
+    <description>Hyper Sports (Japan)</description>
+    <title_clean>Hyper Sports</title_clean>
+    <title_search>hyper sports</title_search>
+    <image ext="png" id="Hyper Sports (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hyper Sports (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hyper Sports (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hyper Sports (Taiwan)">
+    <description>Hyper Sports (Taiwan)</description>
+    <title_clean>Hyper Sports</title_clean>
+    <title_search>hyper sports</title_search>
+    <image ext="png" id="Hyper Sports (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hyper Sports (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kagaku (Gensokigou Master) (Japan) (SC-3000)">
+    <description>Kagaku (Gensokigou Master) (Japan) (SC-3000)</description>
+    <title_clean>Kagaku</title_clean>
+    <title_search>kagaku</title_search>
+    <image ext="png" id="Kagaku (Gensokigou Master) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kagaku (Gensokigou Master) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="King's Valley (Taiwan)">
+    <description>King's Valley (Taiwan)</description>
+    <title_clean>King's Valley</title_clean>
+    <title_search>kings valley</title_search>
+  </game>
+  <game name="Knightmare (Taiwan)">
+    <description>Knightmare (Taiwan)</description>
+    <title_clean>Knightmare</title_clean>
+    <title_search>knightmare</title_search>
+  </game>
+  <game name="Legend of Kage, The (Taiwan)">
+    <description>Legend of Kage, The (Taiwan)</description>
+    <title_clean>The Legend of Kage</title_clean>
+    <title_search>the legend of kage</title_search>
+  </game>
+  <game name="Lode Runner (Japan, Europe)">
+    <description>Lode Runner (Japan, Europe)</description>
+    <title_clean>Lode Runner</title_clean>
+    <title_search>lode runner</title_search>
+    <image ext="png" id="Lode Runner (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lode Runner (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lode Runner (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lode Runner (Taiwan)">
+    <description>Lode Runner (Taiwan)</description>
+    <title_clean>Lode Runner</title_clean>
+    <title_search>lode runner</title_search>
+    <image ext="png" id="Lode Runner (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lode Runner (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Magical Kid Wiz (Taiwan)">
+    <description>Magical Kid Wiz (Taiwan)</description>
+    <title_clean>Magical Kid Wiz</title_clean>
+    <title_search>magical kid wiz</title_search>
+  </game>
+  <game name="Mahjong (Japan)">
+    <description>Mahjong (Japan)</description>
+    <title_clean>Mahjong</title_clean>
+    <title_search>mahjong</title_search>
+    <image ext="png" id="Mahjong (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mahjong (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mahjong (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mahjong (Japan) (English Title)">
+    <description>Mahjong (Japan) (English Title)</description>
+    <title_clean>Mahjong</title_clean>
+    <title_search>mahjong</title_search>
+    <image ext="png" id="Mahjong (Japan) (English Title)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mahjong (Japan) (English Title)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mahjong (Taiwan)">
+    <description>Mahjong (Taiwan)</description>
+    <title_clean>Mahjong</title_clean>
+    <title_search>mahjong</title_search>
+    <image ext="png" id="Mahjong (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mahjong (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Monaco GP (Japan)">
+    <description>Monaco GP (Japan)</description>
+    <title_clean>Monaco GP</title_clean>
+    <title_search>monaco gp</title_search>
+    <image ext="png" id="Monaco GP (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Monaco GP (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Monaco GP (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Monaco GP (Japan) (Rev 1)">
+    <description>Monaco GP (Japan) (Rev 1)</description>
+    <title_clean>Monaco GP</title_clean>
+    <title_search>monaco gp</title_search>
+    <image ext="png" id="Monaco GP (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Monaco GP (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Monaco GP (Japan) (Rev 2)">
+    <description>Monaco GP (Japan) (Rev 2)</description>
+    <title_clean>Monaco GP</title_clean>
+    <title_search>monaco gp</title_search>
+    <image ext="png" id="Monaco GP (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Monaco GP (Japan) (Rev 2)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Monaco GP (Taiwan)">
+    <description>Monaco GP (Taiwan)</description>
+    <title_clean>Monaco GP</title_clean>
+    <title_search>monaco gp</title_search>
+    <image ext="png" id="Monaco GP (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Monaco GP (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Music (Japan) (SC-3000)">
+    <description>Music (Japan) (SC-3000)</description>
+    <title_clean>Music</title_clean>
+    <title_search>music</title_search>
+    <image ext="png" id="Music (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Music (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="N-Sub (Europe)">
+    <description>N-Sub (Europe)</description>
+    <title_clean>N-Sub</title_clean>
+    <title_search>nsub</title_search>
+    <image ext="png" id="N-Sub (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="N-Sub (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="N-Sub (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="N-Sub (Japan) (16kB)">
+    <description>N-Sub (Japan) (16kB)</description>
+    <title_clean>N-Sub</title_clean>
+    <title_search>nsub</title_search>
+    <image ext="png" id="N-Sub (Japan) (16kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="N-Sub (Japan) (16kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="N-Sub (Japan) (40kB)">
+    <description>N-Sub (Japan) (40kB)</description>
+    <title_clean>N-Sub</title_clean>
+    <title_search>nsub</title_search>
+    <image ext="png" id="N-Sub (Japan) (40kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="N-Sub (Japan) (40kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="N-Sub (Taiwan)">
+    <description>N-Sub (Taiwan)</description>
+    <title_clean>N-Sub</title_clean>
+    <title_search>nsub</title_search>
+    <image ext="png" id="N-Sub (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="N-Sub (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nihonshi Nenpyou (Japan) (SC-3000)">
+    <description>Nihonshi Nenpyou (Japan) (SC-3000)</description>
+    <title_clean>Nihonshi Nenpyou</title_clean>
+    <title_search>nihonshi nenpyou</title_search>
+    <image ext="png" id="Nihonshi Nenpyou (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Nihonshi Nenpyou (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ninja Princess (Japan)">
+    <description>Ninja Princess (Japan)</description>
+    <title_clean>Ninja Princess</title_clean>
+    <title_search>ninja princess</title_search>
+    <image ext="png" id="Ninja Princess (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ninja Princess (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ninja Princess (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ninja Princess (Taiwan)">
+    <description>Ninja Princess (Taiwan)</description>
+    <title_clean>Ninja Princess</title_clean>
+    <title_search>ninja princess</title_search>
+    <image ext="png" id="Ninja Princess (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ninja Princess (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision)">
+    <description>Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision)</description>
+    <title_clean>Okamoto Ayako no Match Play Golf</title_clean>
+    <title_search>okamoto ayako no match play golf</title_search>
+    <image ext="png" id="Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision)">
+    <description>Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision)</description>
+    <title_clean>Okamoto Ayako no Match Play Golf</title_clean>
+    <title_search>okamoto ayako no match play golf</title_search>
+    <image ext="png" id="Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Okamoto Ayako no Match Play Golf (Taiwan) (Othello Multivision)">
+    <description>Okamoto Ayako no Match Play Golf (Taiwan) (Othello Multivision)</description>
+    <title_clean>Okamoto Ayako no Match Play Golf</title_clean>
+    <title_search>okamoto ayako no match play golf</title_search>
+    <image ext="png" id="Okamoto Ayako no Match Play Golf (Taiwan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Okamoto Ayako no Match Play Golf (Taiwan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Orguss (Japan, Europe)">
+    <description>Orguss (Japan, Europe)</description>
+    <title_clean>Orguss</title_clean>
+    <title_search>orguss</title_search>
+    <image ext="png" id="Orguss (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Orguss (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Orguss (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Othello (Japan)">
+    <description>Othello (Japan)</description>
+    <title_clean>Othello</title_clean>
+    <title_search>othello</title_search>
+    <image ext="png" id="Othello (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Othello (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Othello (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Othello (Taiwan)">
+    <description>Othello (Taiwan)</description>
+    <title_clean>Othello</title_clean>
+    <title_search>othello</title_search>
+    <image ext="png" id="Othello (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Othello (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pacar (Japan) (40kB)">
+    <description>Pacar (Japan) (40kB)</description>
+    <title_clean>Pacar</title_clean>
+    <title_search>pacar</title_search>
+    <image ext="png" id="Pacar (Japan) (40kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pacar (Japan) (40kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pacar (Japan, Europe)">
+    <description>Pacar (Japan, Europe)</description>
+    <title_clean>Pacar</title_clean>
+    <title_search>pacar</title_search>
+    <image ext="png" id="Pacar (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pacar (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pacar (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pacar (Taiwan)">
+    <description>Pacar (Taiwan)</description>
+    <title_clean>Pacar</title_clean>
+    <title_search>pacar</title_search>
+    <image ext="png" id="Pacar (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pacar (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pachinko (Japan)">
+    <description>Pachinko (Japan)</description>
+    <title_clean>Pachinko</title_clean>
+    <title_search>pachinko</title_search>
+    <image ext="png" id="Pachinko (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pachinko (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pachinko (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pachinko II (Japan)">
+    <description>Pachinko II (Japan)</description>
+    <title_clean>Pachinko II</title_clean>
+    <title_search>pachinko ii</title_search>
+    <image ext="png" id="Pachinko II (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pachinko II (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pachinko II (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pachinko II (Taiwan)">
+    <description>Pachinko II (Taiwan)</description>
+    <title_clean>Pachinko II</title_clean>
+    <title_search>pachinko ii</title_search>
+    <image ext="png" id="Pachinko II (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pachinko II (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pippols (Taiwan)">
+    <description>Pippols (Taiwan)</description>
+    <title_clean>Pippols</title_clean>
+    <title_search>pippols</title_search>
+  </game>
+  <game name="Pitfall II (Taiwan) (Chinese Logo)">
+    <description>Pitfall II (Taiwan) (Chinese Logo)</description>
+    <title_clean>Pitfall II</title_clean>
+    <title_search>pitfall ii</title_search>
+    <image ext="png" id="Pitfall II (Taiwan) (Chinese Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pitfall II (Taiwan) (Chinese Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pitfall II (Taiwan) (English Logo)">
+    <description>Pitfall II (Taiwan) (English Logo)</description>
+    <title_clean>Pitfall II</title_clean>
+    <title_search>pitfall ii</title_search>
+    <image ext="png" id="Pitfall II (Taiwan) (English Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pitfall II (Taiwan) (English Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pitfall II - The Lost Caverns (Japan)">
+    <description>Pitfall II - The Lost Caverns (Japan)</description>
+    <title_clean>Pitfall II - The Lost Caverns</title_clean>
+    <title_search>pitfall ii the lost caverns</title_search>
+    <image ext="png" id="Pitfall II - The Lost Caverns (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pitfall II - The Lost Caverns (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pitfall II - The Lost Caverns (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pitfall II - The Lost Caverns (Japan) (Rev 1)">
+    <description>Pitfall II - The Lost Caverns (Japan) (Rev 1)</description>
+    <title_clean>Pitfall II - The Lost Caverns</title_clean>
+    <title_search>pitfall ii the lost caverns</title_search>
+    <image ext="png" id="Pitfall II - The Lost Caverns (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pitfall II - The Lost Caverns (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pop Flamer (Japan, Europe)">
+    <description>Pop Flamer (Japan, Europe)</description>
+    <title_clean>Pop Flamer</title_clean>
+    <title_search>pop flamer</title_search>
+    <image ext="png" id="Pop Flamer (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pop Flamer (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pop Flamer (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pop Flamer (Taiwan)">
+    <description>Pop Flamer (Taiwan)</description>
+    <title_clean>Pop Flamer</title_clean>
+    <title_search>pop flamer</title_search>
+    <image ext="png" id="Pop Flamer (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pop Flamer (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Q-bert (Japan) (Othello Multivision)">
+    <description>Q-bert (Japan) (Othello Multivision)</description>
+    <title_clean>Q-bert</title_clean>
+    <title_search>qbert</title_search>
+    <image ext="png" id="Q-bert (Japan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Q-bert (Japan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Q-bert (Japan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rally-X (Taiwan)">
+    <description>Rally-X (Taiwan)</description>
+    <title_clean>Rally-X</title_clean>
+    <title_search>rallyx</title_search>
+  </game>
+  <game name="Rally-X (Taiwan) (DahJee)">
+    <description>Rally-X (Taiwan) (DahJee)</description>
+    <title_clean>Rally-X</title_clean>
+    <title_search>rallyx</title_search>
+  </game>
+  <game name="Road Fighter (Taiwan)">
+    <description>Road Fighter (Taiwan)</description>
+    <title_clean>Road Fighter</title_clean>
+    <title_search>road fighter</title_search>
+  </game>
+  <game name="Road Fighter (Taiwan) (Jumbo)">
+    <description>Road Fighter (Taiwan) (Jumbo)</description>
+    <title_clean>Road Fighter</title_clean>
+    <title_search>road fighter</title_search>
+  </game>
+  <game name="Rock n' Bolt (Japan)">
+    <description>Rock n' Bolt (Japan)</description>
+    <title_clean>Rock n' Bolt</title_clean>
+    <title_search>rock n bolt</title_search>
+    <image ext="png" id="Rock n' Bolt (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rock n' Bolt (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rock n' Bolt (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rock n' Bolt (Taiwan) (Chinese Logo)">
+    <description>Rock n' Bolt (Taiwan) (Chinese Logo)</description>
+    <title_clean>Rock n' Bolt</title_clean>
+    <title_search>rock n bolt</title_search>
+    <image ext="png" id="Rock n' Bolt (Taiwan) (Chinese Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rock n' Bolt (Taiwan) (Chinese Logo)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rock n' Bolt (Taiwan) (English Logo)">
+    <description>Rock n' Bolt (Taiwan) (English Logo)</description>
+    <title_clean>Rock n' Bolt</title_clean>
+    <title_search>rock n bolt</title_search>
+  </game>
+  <game name="SG-1000 M2 Test Cartridge (Japan)">
+    <description>SG-1000 M2 Test Cartridge (Japan)</description>
+    <title_clean>SG-1000 M2 Test Cartridge</title_clean>
+    <title_search>sg1000 m2 test cartridge</title_search>
+    <image ext="png" id="SG-1000 M2 Test Cartridge (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SG-1000 M2 Test Cartridge (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Safari Hunting (Japan)">
+    <description>Safari Hunting (Japan)</description>
+    <title_clean>Safari Hunting</title_clean>
+    <title_search>safari hunting</title_search>
+    <image ext="png" id="Safari Hunting (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Safari Hunting (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Safari Hunting (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Safari Hunting (Taiwan)">
+    <description>Safari Hunting (Taiwan)</description>
+    <title_clean>Safari Hunting</title_clean>
+    <title_search>safari hunting</title_search>
+    <image ext="png" id="Safari Hunting (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Safari Hunting (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Safari Race (Europe)">
+    <description>Safari Race (Europe)</description>
+    <title_clean>Safari Race</title_clean>
+    <title_search>safari race</title_search>
+    <image ext="png" id="Safari Race (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Safari Race (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Safari Race (Japan)">
+    <description>Safari Race (Japan)</description>
+    <title_clean>Safari Race</title_clean>
+    <title_search>safari race</title_search>
+    <image ext="png" id="Safari Race (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Safari Race (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Safari Race (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Safari Race (Taiwan)">
+    <description>Safari Race (Taiwan)</description>
+    <title_clean>Safari Race</title_clean>
+    <title_search>safari race</title_search>
+    <image ext="png" id="Safari Race (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Safari Race (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="San-nin Mahjong (Japan)">
+    <description>San-nin Mahjong (Japan)</description>
+    <title_clean>San-nin Mahjong</title_clean>
+    <title_search>sannin mahjong</title_search>
+    <image ext="png" id="San-nin Mahjong (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="San-nin Mahjong (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="San-nin Mahjong (Taiwan)">
+    <description>San-nin Mahjong (Taiwan)</description>
+    <title_clean>San-nin Mahjong</title_clean>
+    <title_search>sannin mahjong</title_search>
+    <image ext="png" id="San-nin Mahjong (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="San-nin Mahjong (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sega Flipper (Japan) (40kB)">
+    <description>Sega Flipper (Japan) (40kB)</description>
+    <title_clean>Sega Flipper</title_clean>
+    <title_search>sega flipper</title_search>
+    <image ext="png" id="Sega Flipper (Japan) (40kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sega Flipper (Japan) (40kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sega Flipper (Japan, Europe)">
+    <description>Sega Flipper (Japan, Europe)</description>
+    <title_clean>Sega Flipper</title_clean>
+    <title_search>sega flipper</title_search>
+    <image ext="png" id="Sega Flipper (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sega Flipper (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sega Flipper (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sega-Galaga (Japan) (16kB)">
+    <description>Sega-Galaga (Japan) (16kB)</description>
+    <title_clean>Sega-Galaga</title_clean>
+    <title_search>segagalaga</title_search>
+    <image ext="png" id="Sega-Galaga (Japan) (16kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sega-Galaga (Japan) (16kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sega-Galaga (Japan) (16kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sega-Galaga (Japan) (40kB)">
+    <description>Sega-Galaga (Japan) (40kB)</description>
+    <title_clean>Sega-Galaga</title_clean>
+    <title_search>segagalaga</title_search>
+    <image ext="png" id="Sega-Galaga (Japan) (40kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sega-Galaga (Japan) (40kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sega-Galaga (Japan) (40kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sekaishi Nenpyou (Japan) (SC-3000)">
+    <description>Sekaishi Nenpyou (Japan) (SC-3000)</description>
+    <title_clean>Sekaishi Nenpyou</title_clean>
+    <title_search>sekaishi nenpyou</title_search>
+    <image ext="png" id="Sekaishi Nenpyou (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sekaishi Nenpyou (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Serizawa Hachidan no Tsumeshougi (Japan)">
+    <description>Serizawa Hachidan no Tsumeshougi (Japan)</description>
+    <title_clean>Serizawa Hachidan no Tsumeshougi</title_clean>
+    <title_search>serizawa hachidan no tsumeshougi</title_search>
+    <image ext="png" id="Serizawa Hachidan no Tsumeshougi (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Serizawa Hachidan no Tsumeshougi (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Serizawa Hachidan no Tsumeshougi (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shinnyushain Tooru Kun (Japan)">
+    <description>Shinnyushain Tooru Kun (Japan)</description>
+    <title_clean>Shinnyushain Tooru Kun</title_clean>
+    <title_search>shinnyushain tooru kun</title_search>
+    <image ext="png" id="Shinnyushain Tooru Kun (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shinnyushain Tooru Kun (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shinnyushain Tooru Kun (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sindbad Mystery (Japan, Europe)">
+    <description>Sindbad Mystery (Japan, Europe)</description>
+    <title_clean>Sindbad Mystery</title_clean>
+    <title_search>sindbad mystery</title_search>
+    <image ext="png" id="Sindbad Mystery (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sindbad Mystery (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sindbad Mystery (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sindbad Mystery (Taiwan)">
+    <description>Sindbad Mystery (Taiwan)</description>
+    <title_clean>Sindbad Mystery</title_clean>
+    <title_search>sindbad mystery</title_search>
+    <image ext="png" id="Sindbad Mystery (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sindbad Mystery (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Soukoban (Japan)">
+    <description>Soukoban (Japan)</description>
+    <title_clean>Soukoban</title_clean>
+    <title_search>soukoban</title_search>
+    <image ext="png" id="Soukoban (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Soukoban (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Soukoban (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Soukoban (Taiwan)">
+    <description>Soukoban (Taiwan)</description>
+    <title_clean>Soukoban</title_clean>
+    <title_search>soukoban</title_search>
+    <image ext="png" id="Soukoban (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Soukoban (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Armor (Japan) (v1.0) (Othello Multivision)">
+    <description>Space Armor (Japan) (v1.0) (Othello Multivision)</description>
+    <title_clean>Space Armor</title_clean>
+    <title_search>space armor</title_search>
+    <image ext="png" id="Space Armor (Japan) (v1.0) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Armor (Japan) (v1.0) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Armor (Japan) (v1.0) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Armor (Japan) (v2.0) (Newer) (Othello Multivision)">
+    <description>Space Armor (Japan) (v2.0) (Newer) (Othello Multivision)</description>
+    <title_clean>Space Armor</title_clean>
+    <title_search>space armor</title_search>
+    <image ext="png" id="Space Armor (Japan) (v2.0) (Newer) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Armor (Japan) (v2.0) (Newer) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Armor (Japan) (v2.0) (Newer) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Armor (Japan) (v2.0) (Othello Multivision)">
+    <description>Space Armor (Japan) (v2.0) (Othello Multivision)</description>
+    <title_clean>Space Armor</title_clean>
+    <title_search>space armor</title_search>
+    <image ext="png" id="Space Armor (Japan) (v2.0) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Armor (Japan) (v2.0) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Armor (Japan) (v2.0) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Invaders (Japan)">
+    <description>Space Invaders (Japan)</description>
+    <title_clean>Space Invaders</title_clean>
+    <title_search>space invaders</title_search>
+    <image ext="png" id="Space Invaders (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Invaders (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Invaders (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Invaders (Taiwan)">
+    <description>Space Invaders (Taiwan)</description>
+    <title_clean>Space Invaders</title_clean>
+    <title_search>space invaders</title_search>
+    <image ext="png" id="Space Invaders (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Invaders (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Mountain (Japan) (Othello Multivision)">
+    <description>Space Mountain (Japan) (Othello Multivision)</description>
+    <title_clean>Space Mountain</title_clean>
+    <title_search>space mountain</title_search>
+    <image ext="png" id="Space Mountain (Japan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Mountain (Japan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Mountain (Japan) (Othello Multivision)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Slalom (Japan)">
+    <description>Space Slalom (Japan)</description>
+    <title_clean>Space Slalom</title_clean>
+    <title_search>space slalom</title_search>
+    <image ext="png" id="Space Slalom (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Slalom (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Slalom (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Force (Japan)">
+    <description>Star Force (Japan)</description>
+    <title_clean>Star Force</title_clean>
+    <title_search>star force</title_search>
+    <image ext="png" id="Star Force (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Force (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Force (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Force (Taiwan)">
+    <description>Star Force (Taiwan)</description>
+    <title_clean>Star Force</title_clean>
+    <title_search>star force</title_search>
+    <image ext="png" id="Star Force (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Force (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Force (Taiwan) (Alt 1)">
+    <description>Star Force (Taiwan) (Alt 1)</description>
+    <title_clean>Star Force</title_clean>
+    <title_search>star force</title_search>
+    <image ext="png" id="Star Force (Taiwan) (Alt 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Force (Taiwan) (Alt 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Jacker (Japan)">
+    <description>Star Jacker (Japan)</description>
+    <title_clean>Star Jacker</title_clean>
+    <title_search>star jacker</title_search>
+    <image ext="png" id="Star Jacker (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Jacker (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Jacker (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Jacker (Japan, Europe) (Rev 1)">
+    <description>Star Jacker (Japan, Europe) (Rev 1)</description>
+    <title_clean>Star Jacker</title_clean>
+    <title_search>star jacker</title_search>
+    <image ext="png" id="Star Jacker (Japan, Europe) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Jacker (Japan, Europe) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Jacker (Japan, Europe) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Jacker (Japan, Europe) (Rev 2)">
+    <description>Star Jacker (Japan, Europe) (Rev 2)</description>
+    <title_clean>Star Jacker</title_clean>
+    <title_search>star jacker</title_search>
+    <image ext="png" id="Star Jacker (Japan, Europe) (Rev 2)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Jacker (Japan, Europe) (Rev 2)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Jacker (Japan, Europe) (Rev 2)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Jacker (Taiwan)">
+    <description>Star Jacker (Taiwan)</description>
+    <title_clean>Star Jacker</title_clean>
+    <title_search>star jacker</title_search>
+    <image ext="png" id="Star Jacker (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Jacker (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Jacker (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Soldier (Taiwan)">
+    <description>Star Soldier (Taiwan)</description>
+    <title_clean>Star Soldier</title_clean>
+    <title_search>star soldier</title_search>
+  </game>
+  <game name="Super Tank (Japan)">
+    <description>Super Tank (Japan)</description>
+    <title_clean>Super Tank</title_clean>
+    <title_search>super tank</title_search>
+    <image ext="png" id="Super Tank (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Tank (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Tank (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Tank (Taiwan)">
+    <description>Super Tank (Taiwan)</description>
+    <title_clean>Super Tank</title_clean>
+    <title_search>super tank</title_search>
+    <image ext="png" id="Super Tank (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Tank (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tank Battalion (Taiwan)">
+    <description>Tank Battalion (Taiwan)</description>
+    <title_clean>Tank Battalion</title_clean>
+    <title_search>tank battalion</title_search>
+  </game>
+  <game name="Tanoshii Sansuu (Shougaku 4-Nen Ge) (Japan) (SC-3000)">
+    <description>Tanoshii Sansuu (Shougaku 4-Nen Ge) (Japan) (SC-3000)</description>
+    <title_clean>Tanoshii Sansuu</title_clean>
+    <title_search>tanoshii sansuu</title_search>
+    <image ext="png" id="Tanoshii Sansuu (Shougaku 4-Nen Ge) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tanoshii Sansuu (Shougaku 4-Nen Ge) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tanoshii Sansuu (Shougaku 4-Nen Jou) (Japan) (16kB) (SC-3000)">
+    <description>Tanoshii Sansuu (Shougaku 4-Nen Jou) (Japan) (16kB) (SC-3000)</description>
+    <title_clean>Tanoshii Sansuu</title_clean>
+    <title_search>tanoshii sansuu</title_search>
+    <image ext="png" id="Tanoshii Sansuu (Shougaku 4-Nen Jou) (Japan) (16kB) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tanoshii Sansuu (Shougaku 4-Nen Jou) (Japan) (16kB) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tanoshii Sansuu (Shougaku 4-Nen Jou) (Japan) (40kB) (SC-3000)">
+    <description>Tanoshii Sansuu (Shougaku 4-Nen Jou) (Japan) (40kB) (SC-3000)</description>
+    <title_clean>Tanoshii Sansuu</title_clean>
+    <title_search>tanoshii sansuu</title_search>
+    <image ext="png" id="Tanoshii Sansuu (Shougaku 4-Nen Jou) (Japan) (40kB) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tanoshii Sansuu (Shougaku 4-Nen Jou) (Japan) (40kB) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tanoshii Sansuu (Shougaku 5-Nen Ge) (Japan) (SC-3000)">
+    <description>Tanoshii Sansuu (Shougaku 5-Nen Ge) (Japan) (SC-3000)</description>
+    <title_clean>Tanoshii Sansuu</title_clean>
+    <title_search>tanoshii sansuu</title_search>
+    <image ext="png" id="Tanoshii Sansuu (Shougaku 5-Nen Ge) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tanoshii Sansuu (Shougaku 5-Nen Ge) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tanoshii Sansuu (Shougaku 5-Nen Jou) (Japan) (SC-3000)">
+    <description>Tanoshii Sansuu (Shougaku 5-Nen Jou) (Japan) (SC-3000)</description>
+    <title_clean>Tanoshii Sansuu</title_clean>
+    <title_search>tanoshii sansuu</title_search>
+    <image ext="png" id="Tanoshii Sansuu (Shougaku 5-Nen Jou) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tanoshii Sansuu (Shougaku 5-Nen Jou) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tanoshii Sansuu (Shougaku 6-Nen Ge) (Japan) (SC-3000)">
+    <description>Tanoshii Sansuu (Shougaku 6-Nen Ge) (Japan) (SC-3000)</description>
+    <title_clean>Tanoshii Sansuu</title_clean>
+    <title_search>tanoshii sansuu</title_search>
+    <image ext="png" id="Tanoshii Sansuu (Shougaku 6-Nen Ge) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tanoshii Sansuu (Shougaku 6-Nen Ge) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tanoshii Sansuu (Shougaku 6-Nen Jou) (Japan) (SC-3000)">
+    <description>Tanoshii Sansuu (Shougaku 6-Nen Jou) (Japan) (SC-3000)</description>
+    <title_clean>Tanoshii Sansuu</title_clean>
+    <title_search>tanoshii sansuu</title_search>
+    <image ext="png" id="Tanoshii Sansuu (Shougaku 6-Nen Jou) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tanoshii Sansuu (Shougaku 6-Nen Jou) (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Terebi Oekaki (Japan)">
+    <description>Terebi Oekaki (Japan)</description>
+    <title_clean>Terebi Oekaki</title_clean>
+    <title_search>terebi oekaki</title_search>
+    <image ext="png" id="Terebi Oekaki (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Terebi Oekaki (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="TwinBee (Taiwan)">
+    <description>TwinBee (Taiwan)</description>
+    <title_clean>TwinBee</title_clean>
+    <title_search>twinbee</title_search>
+  </game>
+  <game name="Uranai Angel Cutie (Japan) (SC-3000)">
+    <description>Uranai Angel Cutie (Japan) (SC-3000)</description>
+    <title_clean>Uranai Angel Cutie</title_clean>
+    <title_search>uranai angel cutie</title_search>
+    <image ext="png" id="Uranai Angel Cutie (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Uranai Angel Cutie (Japan) (SC-3000)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wonder Boy (Japan)">
+    <description>Wonder Boy (Japan)</description>
+    <title_clean>Wonder Boy</title_clean>
+    <title_search>wonder boy</title_search>
+    <image ext="png" id="Wonder Boy (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wonder Boy (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wonder Boy (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wonder Boy (Japan) (Rev 1)">
+    <description>Wonder Boy (Japan) (Rev 1)</description>
+    <title_clean>Wonder Boy</title_clean>
+    <title_search>wonder boy</title_search>
+    <image ext="png" id="Wonder Boy (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wonder Boy (Japan) (Rev 1)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wonder Boy (Taiwan)">
+    <description>Wonder Boy (Taiwan)</description>
+    <title_clean>Wonder Boy</title_clean>
+    <title_search>wonder boy</title_search>
+    <image ext="png" id="Wonder Boy (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wonder Boy (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Yamato (Japan) (40kB)">
+    <description>Yamato (Japan) (40kB)</description>
+    <title_clean>Yamato</title_clean>
+    <title_search>yamato</title_search>
+    <image ext="png" id="Yamato (Japan) (40kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Yamato (Japan) (40kB)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Yamato (Japan, Europe)">
+    <description>Yamato (Japan, Europe)</description>
+    <title_clean>Yamato</title_clean>
+    <title_search>yamato</title_search>
+    <image ext="png" id="Yamato (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Yamato (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Yamato (Japan, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Yamato (Taiwan)">
+    <description>Yamato (Taiwan)</description>
+    <title_clean>Yamato</title_clean>
+    <title_search>yamato</title_search>
+    <image ext="png" id="Yamato (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Yamato (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Yie Ar Kung-Fu II (Taiwan)">
+    <description>Yie Ar Kung-Fu II (Taiwan)</description>
+    <title_clean>Yie Ar Kung-Fu II</title_clean>
+    <title_search>yie ar kungfu ii</title_search>
+  </game>
+  <game name="Zaxxon (Japan)">
+    <description>Zaxxon (Japan)</description>
+    <title_clean>Zaxxon</title_clean>
+    <title_search>zaxxon</title_search>
+    <image ext="png" id="Zaxxon (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Zaxxon (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zaxxon (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zaxxon (Taiwan)">
+    <description>Zaxxon (Taiwan)</description>
+    <title_clean>Zaxxon</title_clean>
+    <title_search>zaxxon</title_search>
+    <image ext="png" id="Zaxxon (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zaxxon (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zippy Race (Japan)">
+    <description>Zippy Race (Japan)</description>
+    <title_clean>Zippy Race</title_clean>
+    <title_search>zippy race</title_search>
+    <image ext="png" id="Zippy Race (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Zippy Race (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zippy Race (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zippy Race (Taiwan)">
+    <description>Zippy Race (Taiwan)</description>
+    <title_clean>Zippy Race</title_clean>
+    <title_search>zippy race</title_search>
+    <image ext="png" id="Zippy Race (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zippy Race (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zoom 909 (Japan)">
+    <description>Zoom 909 (Japan)</description>
+    <title_clean>Zoom 909</title_clean>
+    <title_search>zoom 909</title_search>
+    <image ext="png" id="Zoom 909 (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Zoom 909 (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zoom 909 (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zoom 909 (Taiwan)">
+    <description>Zoom 909 (Taiwan)</description>
+    <title_clean>Zoom 909</title_clean>
+    <title_search>zoom 909</title_search>
+    <image ext="png" id="Zoom 909 (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zoom 909 (Taiwan)" source="https://github.com/libretro-thumbnails/Sega_-_SG-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

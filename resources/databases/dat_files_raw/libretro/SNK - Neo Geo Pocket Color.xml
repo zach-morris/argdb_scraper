@@ -1,0 +1,842 @@
+<datafile>
+  <game name="Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)">
+    <description>Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)</description>
+    <title_clean>Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana</title_clean>
+    <title_search>bakumatsu rouman tokubetsu hen gekka no kenshi tsuki ni saku hana chiri yuku hana</title_search>
+    <image ext="png" id="Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Baseball Stars Color - Pocket Sports Series (World) (En,Ja)">
+    <description>Baseball Stars Color - Pocket Sports Series (World) (En,Ja)</description>
+    <title_clean>Baseball Stars Color - Pocket Sports Series</title_clean>
+    <title_search>baseball stars color pocket sports series</title_search>
+  </game>
+  <game name="Big Bang Pro Wrestling (Japan) (En,Ja)">
+    <description>Big Bang Pro Wrestling (Japan) (En,Ja)</description>
+    <title_clean>Big Bang Pro Wrestling</title_clean>
+    <title_search>big bang pro wrestling</title_search>
+    <image ext="png" id="Big Bang Pro Wrestling (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Big Bang Pro Wrestling (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Big Bang Pro Wrestling (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bikkuriman 2000 - Viva! Pocket Festival! (Japan)">
+    <description>Bikkuriman 2000 - Viva! Pocket Festival! (Japan)</description>
+    <title_clean>Bikkuriman 2000 - Viva! Pocket Festival!</title_clean>
+    <title_search>bikkuriman 2000 viva pocket festival</title_search>
+    <image ext="png" id="Bikkuriman 2000 - Viva! Pocket Festival! (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bikkuriman 2000 - Viva! Pocket Festival! (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Biomotor Unitron (Japan)">
+    <description>Biomotor Unitron (Japan)</description>
+    <title_clean>Biomotor Unitron</title_clean>
+    <title_search>biomotor unitron</title_search>
+    <image ext="png" id="Biomotor Unitron (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Biomotor Unitron (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Biomotor Unitron (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Biomotor Unitron (Japan) (Beta)">
+    <description>Biomotor Unitron (Japan) (Beta)</description>
+    <title_clean>Biomotor Unitron</title_clean>
+    <title_search>biomotor unitron</title_search>
+  </game>
+  <game name="Biomotor Unitron (USA, Europe)">
+    <description>Biomotor Unitron (USA, Europe)</description>
+    <title_clean>Biomotor Unitron</title_clean>
+    <title_search>biomotor unitron</title_search>
+    <image ext="png" id="Biomotor Unitron (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Biomotor Unitron (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Biomotor Unitron (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bust-A-Move Pocket (USA)">
+    <description>Bust-A-Move Pocket (USA)</description>
+    <title_clean>Bust-A-Move Pocket</title_clean>
+    <title_search>bustamove pocket</title_search>
+    <image ext="png" id="Bust-A-Move Pocket (USA)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bust-A-Move Pocket (USA)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bust-A-Move Pocket (USA)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bust-A-Move Pocket (USA) (Beta)">
+    <description>Bust-A-Move Pocket (USA) (Beta)</description>
+    <title_clean>Bust-A-Move Pocket</title_clean>
+    <title_search>bustamove pocket</title_search>
+    <image ext="png" id="Bust-A-Move Pocket (USA) (Beta)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bust-A-Move Pocket (USA) (Beta)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bust-A-Move Pocket (USA) (Beta)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cool Boarders Pocket (Japan, Europe) (En,Ja)">
+    <description>Cool Boarders Pocket (Japan, Europe) (En,Ja)</description>
+    <title_clean>Cool Boarders Pocket</title_clean>
+    <title_search>cool boarders pocket</title_search>
+    <image ext="png" id="Cool Boarders Pocket (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cool Boarders Pocket (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cool Boarders Pocket (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cool Cool Jam (Japan)">
+    <description>Cool Cool Jam (Japan)</description>
+    <title_clean>Cool Cool Jam</title_clean>
+    <title_search>cool cool jam</title_search>
+    <image ext="png" id="Cool Cool Jam (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cool Cool Jam (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cool Cool Jam (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cool Cool Jam (USA) (Proto)">
+    <description>Cool Cool Jam (USA) (Proto)</description>
+    <title_clean>Cool Cool Jam</title_clean>
+    <title_search>cool cool jam</title_search>
+  </game>
+  <game name="Crush Roller (World) (En,Ja)">
+    <description>Crush Roller (World) (En,Ja)</description>
+    <title_clean>Crush Roller</title_clean>
+    <title_search>crush roller</title_search>
+    <image ext="png" id="Crush Roller (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Crush Roller (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Crush Roller (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dark Arms - Beast Buster 1999 (World) (En,Ja)">
+    <description>Dark Arms - Beast Buster 1999 (World) (En,Ja)</description>
+    <title_clean>Dark Arms - Beast Buster 1999</title_clean>
+    <title_search>dark arms beast buster 1999</title_search>
+    <image ext="png" id="Dark Arms - Beast Buster 1999 (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dark Arms - Beast Buster 1999 (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dark Arms - Beast Buster 1999 (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dark Arms - Beast Buster 1999 (World) (En,Ja) (Beta)">
+    <description>Dark Arms - Beast Buster 1999 (World) (En,Ja) (Beta)</description>
+    <title_clean>Dark Arms - Beast Buster 1999</title_clean>
+    <title_search>dark arms beast buster 1999</title_search>
+    <image ext="png" id="Dark Arms - Beast Buster 1999 (World) (En,Ja) (Beta)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dark Arms - Beast Buster 1999 (World) (En,Ja) (Beta)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dark Arms - Beast Buster 1999 (World) (En,Ja) (Beta)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Delta Warp (Japan) (Beta)">
+    <description>Delta Warp (Japan) (Beta)</description>
+    <title_clean>Delta Warp</title_clean>
+    <title_search>delta warp</title_search>
+  </game>
+  <game name="Delta Warp (Japan) (En,Ja)">
+    <description>Delta Warp (Japan) (En,Ja)</description>
+    <title_clean>Delta Warp</title_clean>
+    <title_search>delta warp</title_search>
+    <image ext="png" id="Delta Warp (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Delta Warp (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Delta Warp (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)">
+    <description>Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)</description>
+    <title_clean>Densetsu no Ogre Battle Gaiden - Zenobia no Ouji</title_clean>
+    <title_search>densetsu no ogre battle gaiden zenobia no ouji</title_search>
+    <image ext="png" id="Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Densha de Go! 2 on Neo Geo Pocket (Japan)">
+    <description>Densha de Go! 2 on Neo Geo Pocket (Japan)</description>
+    <title_clean>Densha de Go! 2 on Neo Geo Pocket</title_clean>
+    <title_search>densha de go 2 on neo geo pocket</title_search>
+    <image ext="png" id="Densha de Go! 2 on Neo Geo Pocket (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Densha de Go! 2 on Neo Geo Pocket (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Densha de Go! 2 on Neo Geo Pocket (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta)">
+    <description>Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta)</description>
+    <title_clean>Densha de Go! 2 on Neo Geo Pocket</title_clean>
+    <title_search>densha de go 2 on neo geo pocket</title_search>
+  </game>
+  <game name="Dive Alert - Becky's Version (USA, Europe)">
+    <description>Dive Alert - Becky's Version (USA, Europe)</description>
+    <title_clean>Dive Alert - Becky's Version</title_clean>
+    <title_search>dive alert beckys version</title_search>
+    <image ext="png" id="Dive Alert - Becky's Version (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dive Alert - Becky's Version (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dive Alert - Becky's Version (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dive Alert - Burn Hen (Japan)">
+    <description>Dive Alert - Burn Hen (Japan)</description>
+    <title_clean>Dive Alert - Burn Hen</title_clean>
+    <title_search>dive alert burn hen</title_search>
+    <image ext="png" id="Dive Alert - Burn Hen (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dive Alert - Burn Hen (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dive Alert - Burn Hen (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dive Alert - Burn Hen (Japan) (Beta)">
+    <description>Dive Alert - Burn Hen (Japan) (Beta)</description>
+    <title_clean>Dive Alert - Burn Hen</title_clean>
+    <title_search>dive alert burn hen</title_search>
+    <image ext="png" id="Dive Alert - Burn Hen (Japan) (Beta)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dive Alert - Burn Hen (Japan) (Beta)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dive Alert - Burn Hen (Japan) (Beta)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dive Alert - Matt's Version (USA, Europe)">
+    <description>Dive Alert - Matt's Version (USA, Europe)</description>
+    <title_clean>Dive Alert - Matt's Version</title_clean>
+    <title_search>dive alert matts version</title_search>
+    <image ext="png" id="Dive Alert - Matt's Version (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dive Alert - Matt's Version (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dive Alert - Matt's Version (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dive Alert - Rebecca Hen (Japan)">
+    <description>Dive Alert - Rebecca Hen (Japan)</description>
+    <title_clean>Dive Alert - Rebecca Hen</title_clean>
+    <title_search>dive alert rebecca hen</title_search>
+    <image ext="png" id="Dive Alert - Rebecca Hen (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dive Alert - Rebecca Hen (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dive Alert - Rebecca Hen (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dokodemo Mahjong (Japan)">
+    <description>Dokodemo Mahjong (Japan)</description>
+    <title_clean>Dokodemo Mahjong</title_clean>
+    <title_search>dokodemo mahjong</title_search>
+    <image ext="png" id="Dokodemo Mahjong (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dokodemo Mahjong (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dokodemo Mahjong (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dynamite Slugger (Japan, Europe) (En,Ja)">
+    <description>Dynamite Slugger (Japan, Europe) (En,Ja)</description>
+    <title_clean>Dynamite Slugger</title_clean>
+    <title_search>dynamite slugger</title_search>
+    <image ext="png" id="Dynamite Slugger (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dynamite Slugger (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dynamite Slugger (Japan, Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Evolution - Eternal Dungeons (Europe)">
+    <description>Evolution - Eternal Dungeons (Europe)</description>
+    <title_clean>Evolution - Eternal Dungeons</title_clean>
+    <title_search>evolution eternal dungeons</title_search>
+    <image ext="png" id="Evolution - Eternal Dungeons (Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Evolution - Eternal Dungeons (Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Evolution - Eternal Dungeons (Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fantastic Night Dreams - Cotton (Europe)">
+    <description>Fantastic Night Dreams - Cotton (Europe)</description>
+    <title_clean>Fantastic Night Dreams - Cotton</title_clean>
+    <title_search>fantastic night dreams cotton</title_search>
+    <image ext="png" id="Fantastic Night Dreams - Cotton (Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fantastic Night Dreams - Cotton (Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fantastic Night Dreams - Cotton (Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fantastic Night Dreams - Cotton (Japan)">
+    <description>Fantastic Night Dreams - Cotton (Japan)</description>
+    <title_clean>Fantastic Night Dreams - Cotton</title_clean>
+    <title_search>fantastic night dreams cotton</title_search>
+    <image ext="png" id="Fantastic Night Dreams - Cotton (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fantastic Night Dreams - Cotton (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fantastic Night Dreams - Cotton (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Faselei! (Europe)">
+    <description>Faselei! (Europe)</description>
+    <title_clean>Faselei!</title_clean>
+    <title_search>faselei</title_search>
+    <image ext="png" id="Faselei! (Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Faselei! (Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Faselei! (Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Faselei! (Japan)">
+    <description>Faselei! (Japan)</description>
+    <title_clean>Faselei!</title_clean>
+    <title_search>faselei</title_search>
+    <image ext="png" id="Faselei! (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Faselei! (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Faselei! (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)">
+    <description>Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)</description>
+    <title_clean>Fatal Fury F-Contact - Pocket Fighting Series</title_clean>
+    <title_search>fatal fury fcontact pocket fighting series</title_search>
+    <image ext="png" id="Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja) (Beta)">
+    <description>Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja) (Beta)</description>
+    <title_clean>Fatal Fury F-Contact - Pocket Fighting Series</title_clean>
+    <title_search>fatal fury fcontact pocket fighting series</title_search>
+  </game>
+  <game name="Ganbare Neo Poke-kun (Kari) (Japan)">
+    <description>Ganbare Neo Poke-kun (Kari) (Japan)</description>
+    <title_clean>Ganbare Neo Poke-kun</title_clean>
+    <title_search>ganbare neo pokekun</title_search>
+  </game>
+  <game name="Infinity Cure (Japan)">
+    <description>Infinity Cure (Japan)</description>
+    <title_clean>Infinity Cure</title_clean>
+    <title_search>infinity cure</title_search>
+    <image ext="png" id="Infinity Cure (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Infinity Cure (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Infinity Cure (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)">
+    <description>Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)</description>
+    <title_clean>Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori.</title_clean>
+    <title_search>kikou seiki unitron sono tsuide hikari umareru chi yori</title_search>
+    <image ext="png" id="Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)">
+    <description>King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)</description>
+    <title_clean>King of Fighters R-2 - Pocket Fighting Series</title_clean>
+    <title_search>king of fighters r2 pocket fighting series</title_search>
+    <image ext="png" id="King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Beta)">
+    <description>King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Beta)</description>
+    <title_clean>King of Fighters R-2 - Pocket Fighting Series</title_clean>
+    <title_search>king of fighters r2 pocket fighting series</title_search>
+  </game>
+  <game name="King of Fighters R-2 Version 2 - Pocket Fighting Series (World) (En,Ja) (Beta)">
+    <description>King of Fighters R-2 Version 2 - Pocket Fighting Series (World) (En,Ja) (Beta)</description>
+    <title_clean>King of Fighters R-2 Version 2 - Pocket Fighting Series</title_clean>
+    <title_search>king of fighters r2 version 2 pocket fighting series</title_search>
+  </game>
+  <game name="King of Fighters, The - Battle de Paradise (Japan)">
+    <description>King of Fighters, The - Battle de Paradise (Japan)</description>
+    <title_clean>The King of Fighters - Battle de Paradise</title_clean>
+    <title_search>the king of fighters battle de paradise</title_search>
+    <image ext="png" id="King of Fighters, The - Battle de Paradise (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="King of Fighters, The - Battle de Paradise (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="King of Fighters, The - Battle de Paradise (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Koi Koi Mahjong (Japan)">
+    <description>Koi Koi Mahjong (Japan)</description>
+    <title_clean>Koi Koi Mahjong</title_clean>
+    <title_search>koi koi mahjong</title_search>
+    <image ext="png" id="Koi Koi Mahjong (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Koi Koi Mahjong (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Koi Koi Mahjong (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Last Blade, The - Beyond the Destiny (USA, Europe)">
+    <description>Last Blade, The - Beyond the Destiny (USA, Europe)</description>
+    <title_clean>The Last Blade - Beyond the Destiny</title_clean>
+    <title_search>the last blade beyond the destiny</title_search>
+  </game>
+  <game name="Magical Drop Pocket (Japan)">
+    <description>Magical Drop Pocket (Japan)</description>
+    <title_clean>Magical Drop Pocket</title_clean>
+    <title_search>magical drop pocket</title_search>
+    <image ext="png" id="Magical Drop Pocket (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Magical Drop Pocket (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Magical Drop Pocket (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Magical Drop Pocket (Japan) (Beta)">
+    <description>Magical Drop Pocket (Japan) (Beta)</description>
+    <title_clean>Magical Drop Pocket</title_clean>
+    <title_search>magical drop pocket</title_search>
+  </game>
+  <game name="Magical Drop Pocket (USA, Europe)">
+    <description>Magical Drop Pocket (USA, Europe)</description>
+    <title_clean>Magical Drop Pocket</title_clean>
+    <title_search>magical drop pocket</title_search>
+    <image ext="png" id="Magical Drop Pocket (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Magical Drop Pocket (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Magical Drop Pocket (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Memories Off - Pure (Japan)">
+    <description>Memories Off - Pure (Japan)</description>
+    <title_clean>Memories Off - Pure</title_clean>
+    <title_search>memories off pure</title_search>
+    <image ext="png" id="Memories Off - Pure (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Memories Off - Pure (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Memories Off - Pure (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Metal Slug - 1st Mission (World) (En,Ja)">
+    <description>Metal Slug - 1st Mission (World) (En,Ja)</description>
+    <title_clean>Metal Slug - 1st Mission</title_clean>
+    <title_search>metal slug 1st mission</title_search>
+    <image ext="png" id="Metal Slug - 1st Mission (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Metal Slug - 1st Mission (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Metal Slug - 1st Mission (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Metal Slug - 2nd Mission (World) (En,Ja)">
+    <description>Metal Slug - 2nd Mission (World) (En,Ja)</description>
+    <title_clean>Metal Slug - 2nd Mission</title_clean>
+    <title_search>metal slug 2nd mission</title_search>
+    <image ext="png" id="Metal Slug - 2nd Mission (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Metal Slug - 2nd Mission (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Metal Slug - 2nd Mission (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Metal Slug - 2nd Mission (World) (En,Ja) (Beta)">
+    <description>Metal Slug - 2nd Mission (World) (En,Ja) (Beta)</description>
+    <title_clean>Metal Slug - 2nd Mission</title_clean>
+    <title_search>metal slug 2nd mission</title_search>
+  </game>
+  <game name="Mezase! Kanji Ou (Japan)">
+    <description>Mezase! Kanji Ou (Japan)</description>
+    <title_clean>Mezase! Kanji Ou</title_clean>
+    <title_search>mezase kanji ou</title_search>
+    <image ext="png" id="Mezase! Kanji Ou (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mezase! Kanji Ou (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mezase! Kanji Ou (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mizuki Shigeru no Youkai Shashinkan (Japan)">
+    <description>Mizuki Shigeru no Youkai Shashinkan (Japan)</description>
+    <title_clean>Mizuki Shigeru no Youkai Shashinkan</title_clean>
+    <title_search>mizuki shigeru no youkai shashinkan</title_search>
+    <image ext="png" id="Mizuki Shigeru no Youkai Shashinkan (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mizuki Shigeru no Youkai Shashinkan (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mizuki Shigeru no Youkai Shashinkan (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Neo 21 - Pocket Casino Series (World)">
+    <description>Neo 21 - Pocket Casino Series (World)</description>
+    <title_clean>Neo 21 - Pocket Casino Series</title_clean>
+    <title_search>neo 21 pocket casino series</title_search>
+  </game>
+  <game name="Neo Baccarat - Pocket Casino Series (Japan, Europe)">
+    <description>Neo Baccarat - Pocket Casino Series (Japan, Europe)</description>
+    <title_clean>Neo Baccarat - Pocket Casino Series</title_clean>
+    <title_search>neo baccarat pocket casino series</title_search>
+  </game>
+  <game name="Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta)">
+    <description>Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta)</description>
+    <title_clean>Neo Baccarat - Pocket Casino Series</title_clean>
+    <title_search>neo baccarat pocket casino series</title_search>
+  </game>
+  <game name="Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)">
+    <description>Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)</description>
+    <title_clean>Neo Cherry Master Color - Pocket Casino Series</title_clean>
+    <title_search>neo cherry master color pocket casino series</title_search>
+  </game>
+  <game name="Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta)">
+    <description>Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta)</description>
+    <title_clean>Neo Cherry Master Color - Pocket Casino Series</title_clean>
+    <title_search>neo cherry master color pocket casino series</title_search>
+  </game>
+  <game name="Neo Derby Champ Daiyosou (Japan)">
+    <description>Neo Derby Champ Daiyosou (Japan)</description>
+    <title_clean>Neo Derby Champ Daiyosou</title_clean>
+    <title_search>neo derby champ daiyosou</title_search>
+    <image ext="png" id="Neo Derby Champ Daiyosou (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Neo Derby Champ Daiyosou (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Neo Derby Champ Daiyosou (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja)">
+    <description>Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja)</description>
+    <title_clean>Neo Dragon's Wild - Pocket Casino Series</title_clean>
+    <title_search>neo dragons wild pocket casino series</title_search>
+  </game>
+  <game name="Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta)">
+    <description>Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta)</description>
+    <title_clean>Neo Dragon's Wild - Real Casino Series</title_clean>
+    <title_search>neo dragons wild real casino series</title_search>
+  </game>
+  <game name="Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)">
+    <description>Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)</description>
+    <title_clean>Neo Mystery Bonus - Pocket Casino Series</title_clean>
+    <title_search>neo mystery bonus pocket casino series</title_search>
+  </game>
+  <game name="Neo Poke Pro Yakyuu (Japan)">
+    <description>Neo Poke Pro Yakyuu (Japan)</description>
+    <title_clean>Neo Poke Pro Yakyuu</title_clean>
+    <title_search>neo poke pro yakyuu</title_search>
+    <image ext="png" id="Neo Poke Pro Yakyuu (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Neo Poke Pro Yakyuu (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Neo Poke Pro Yakyuu (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Neo Turf Masters (World) (En,Ja)">
+    <description>Neo Turf Masters (World) (En,Ja)</description>
+    <title_clean>Neo Turf Masters</title_clean>
+    <title_search>neo turf masters</title_search>
+    <image ext="png" id="Neo Turf Masters (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Neo Turf Masters (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Neo Turf Masters (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Neo Turf Masters (World) (En,Ja) (Beta)">
+    <description>Neo Turf Masters (World) (En,Ja) (Beta)</description>
+    <title_clean>Neo Turf Masters</title_clean>
+    <title_search>neo turf masters</title_search>
+  </game>
+  <game name="NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)">
+    <description>NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)</description>
+    <title_clean>NeoGeo Cup '98 Plus Color - Pocket Sports Series</title_clean>
+    <title_search>neogeo cup 98 plus color pocket sports series</title_search>
+  </game>
+  <game name="Nige-ron-pa (Japan)">
+    <description>Nige-ron-pa (Japan)</description>
+    <title_clean>Nige-ron-pa</title_clean>
+    <title_search>nigeronpa</title_search>
+  </game>
+  <game name="Oekaki Puzzle (Japan)">
+    <description>Oekaki Puzzle (Japan)</description>
+    <title_clean>Oekaki Puzzle</title_clean>
+    <title_search>oekaki puzzle</title_search>
+    <image ext="png" id="Oekaki Puzzle (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Oekaki Puzzle (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Oekaki Puzzle (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan)">
+    <description>PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan)</description>
+    <title_clean>PP-AA01 - Pusher - Program - Hontai Controller Gawa</title_clean>
+    <title_search>ppaa01 pusher program hontai controller gawa</title_search>
+  </game>
+  <game name="Pac-Man (World) (En,Ja)">
+    <description>Pac-Man (World) (En,Ja)</description>
+    <title_clean>Pac-Man</title_clean>
+    <title_search>pacman</title_search>
+    <image ext="png" id="Pac-Man (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pac-Man (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pac-Man (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan)">
+    <description>Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan)</description>
+    <title_clean>Pachi-Slot Aruze Oukoku Pocket - Azteca</title_clean>
+    <title_search>pachislot aruze oukoku pocket azteca</title_search>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)">
+    <description>Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)</description>
+    <title_clean>Pachi-Slot Aruze Oukoku Pocket - Dekahel 2</title_clean>
+    <title_search>pachislot aruze oukoku pocket dekahel 2</title_search>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)">
+    <description>Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)</description>
+    <title_clean>Pachi-Slot Aruze Oukoku Pocket - Delsol 2</title_clean>
+    <title_search>pachislot aruze oukoku pocket delsol 2</title_search>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan)">
+    <description>Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan)</description>
+    <title_clean>Pachi-Slot Aruze Oukoku Pocket - Hanabi</title_clean>
+    <title_search>pachislot aruze oukoku pocket hanabi</title_search>
+  </game>
+  <game name="Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta)">
+    <description>Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta)</description>
+    <title_clean>Pachi-Slot Aruze Oukoku Pocket - Hanabi</title_clean>
+    <title_search>pachislot aruze oukoku pocket hanabi</title_search>
+  </game>
+  <game name="Pachi-Slot Aruze Oukoku Pocket - Ohhanabi (Japan)">
+    <description>Pachi-Slot Aruze Oukoku Pocket - Ohhanabi (Japan)</description>
+    <title_clean>Pachi-Slot Aruze Oukoku Pocket - Ohhanabi</title_clean>
+    <title_search>pachislot aruze oukoku pocket ohhanabi</title_search>
+  </game>
+  <game name="Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (Japan)">
+    <description>Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (Japan)</description>
+    <title_clean>Pachi-Slot Aruze Oukoku Pocket - Porcano 2</title_clean>
+    <title_search>pachislot aruze oukoku pocket porcano 2</title_search>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)">
+    <description>Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)</description>
+    <title_clean>Pachi-Slot Aruze Oukoku Pocket - Ward of Lights</title_clean>
+    <title_search>pachislot aruze oukoku pocket ward of lights</title_search>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pachi-Slot Aruze Oukoku Pocket - e-Cup (Japan)">
+    <description>Pachi-Slot Aruze Oukoku Pocket - e-Cup (Japan)</description>
+    <title_clean>Pachi-Slot Aruze Oukoku Pocket - e-Cup</title_clean>
+    <title_search>pachislot aruze oukoku pocket ecup</title_search>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - e-Cup (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - e-Cup (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pachi-Slot Aruze Oukoku Pocket - e-Cup (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pachinko Hisshou Guide - Pocket Parlor (Japan)">
+    <description>Pachinko Hisshou Guide - Pocket Parlor (Japan)</description>
+    <title_clean>Pachinko Hisshou Guide - Pocket Parlor</title_clean>
+    <title_search>pachinko hisshou guide pocket parlor</title_search>
+    <image ext="png" id="Pachinko Hisshou Guide - Pocket Parlor (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pachinko Hisshou Guide - Pocket Parlor (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pachinko Hisshou Guide - Pocket Parlor (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Party Mail (Japan)">
+    <description>Party Mail (Japan)</description>
+    <title_clean>Party Mail</title_clean>
+    <title_search>party mail</title_search>
+    <image ext="png" id="Party Mail (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Party Mail (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Party Mail (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Party Mail (Japan) (Beta)">
+    <description>Party Mail (Japan) (Beta)</description>
+    <title_clean>Party Mail</title_clean>
+    <title_search>party mail</title_search>
+    <image ext="png" id="Party Mail (Japan) (Beta)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Party Mail (Japan) (Beta)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Party Mail (Japan) (Beta)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Picture Puzzle (USA, Europe)">
+    <description>Picture Puzzle (USA, Europe)</description>
+    <title_clean>Picture Puzzle</title_clean>
+    <title_search>picture puzzle</title_search>
+    <image ext="png" id="Picture Puzzle (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Picture Puzzle (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Picture Puzzle (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pocket Love - if (Japan)">
+    <description>Pocket Love - if (Japan)</description>
+    <title_clean>Pocket Love - if</title_clean>
+    <title_search>pocket love if</title_search>
+    <image ext="png" id="Pocket Love - if (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pocket Love - if (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pocket Love - if (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pocket Reversi (Europe)">
+    <description>Pocket Reversi (Europe)</description>
+    <title_clean>Pocket Reversi</title_clean>
+    <title_search>pocket reversi</title_search>
+    <image ext="png" id="Pocket Reversi (Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pocket Reversi (Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pocket Reversi (Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pocket Reversi (Japan)">
+    <description>Pocket Reversi (Japan)</description>
+    <title_clean>Pocket Reversi</title_clean>
+    <title_search>pocket reversi</title_search>
+    <image ext="png" id="Pocket Reversi (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pocket Reversi (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pocket Reversi (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)">
+    <description>Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)</description>
+    <title_clean>Pocket Tennis Color - Pocket Sports Series</title_clean>
+    <title_search>pocket tennis color pocket sports series</title_search>
+    <image ext="png" id="Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Puyo Pop (World) (En,Ja)">
+    <description>Puyo Pop (World) (En,Ja)</description>
+    <title_clean>Puyo Pop</title_clean>
+    <title_search>puyo pop</title_search>
+  </game>
+  <game name="Puyo Pop (World) (En,Ja) (Beta)">
+    <description>Puyo Pop (World) (En,Ja) (Beta)</description>
+    <title_clean>Puyo Pop</title_clean>
+    <title_search>puyo pop</title_search>
+  </game>
+  <game name="Puzzle Bobble Mini (Japan, Europe)">
+    <description>Puzzle Bobble Mini (Japan, Europe)</description>
+    <title_clean>Puzzle Bobble Mini</title_clean>
+    <title_search>puzzle bobble mini</title_search>
+  </game>
+  <game name="Puzzle Bobble Mini (Japan, Europe) (Beta) (Alt 1)">
+    <description>Puzzle Bobble Mini (Japan, Europe) (Beta) (Alt 1)</description>
+    <title_clean>Puzzle Bobble Mini</title_clean>
+    <title_search>puzzle bobble mini</title_search>
+  </game>
+  <game name="Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Beta)">
+    <description>Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Beta)</description>
+    <title_clean>Puzzle Bobble Mini</title_clean>
+    <title_search>puzzle bobble mini</title_search>
+  </game>
+  <game name="Puzzle Link (Europe)">
+    <description>Puzzle Link (Europe)</description>
+    <title_clean>Puzzle Link</title_clean>
+    <title_search>puzzle link</title_search>
+    <image ext="png" id="Puzzle Link (Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Puzzle Link (Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Puzzle Link (Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Puzzle Link 2 (USA, Europe)">
+    <description>Puzzle Link 2 (USA, Europe)</description>
+    <title_clean>Puzzle Link 2</title_clean>
+    <title_search>puzzle link 2</title_search>
+    <image ext="png" id="Puzzle Link 2 (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Puzzle Link 2 (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Puzzle Link 2 (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Renketsu Puzzle Tsunagete Pon! Color (Japan)">
+    <description>Renketsu Puzzle Tsunagete Pon! Color (Japan)</description>
+    <title_clean>Renketsu Puzzle Tsunagete Pon! Color</title_clean>
+    <title_search>renketsu puzzle tsunagete pon color</title_search>
+    <image ext="png" id="Renketsu Puzzle Tsunagete Pon! Color (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Renketsu Puzzle Tsunagete Pon! Color (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Renketsu Puzzle Tsunagete Pon! Color (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rockman - Battle _ Fighters (Japan)">
+    <description>Rockman - Battle _ Fighters (Japan)</description>
+    <title_clean>Rockman - Battle _ Fighters</title_clean>
+    <title_search>rockman battle fighters</title_search>
+    <image ext="png" id="Rockman - Battle _ Fighters (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rockman - Battle _ Fighters (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rockman - Battle _ Fighters (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rockman - Battle _ Fighters (Japan) (Beta)">
+    <description>Rockman - Battle _ Fighters (Japan) (Beta)</description>
+    <title_clean>Rockman - Battle _ Fighters</title_clean>
+    <title_search>rockman battle fighters</title_search>
+  </game>
+  <game name="SNK Gals' Fighters (Japan)">
+    <description>SNK Gals' Fighters (Japan)</description>
+    <title_clean>SNK Gals' Fighters</title_clean>
+    <title_search>snk gals fighters</title_search>
+    <image ext="png" id="SNK Gals' Fighters (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SNK Gals' Fighters (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SNK Gals' Fighters (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SNK Gals' Fighters (USA, Europe)">
+    <description>SNK Gals' Fighters (USA, Europe)</description>
+    <title_clean>SNK Gals' Fighters</title_clean>
+    <title_search>snk gals fighters</title_search>
+    <image ext="png" id="SNK Gals' Fighters (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SNK Gals' Fighters (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SNK Gals' Fighters (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)">
+    <description>SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)</description>
+    <title_clean>SNK vs. Capcom - Card Fighters 2 - Expand Edition</title_clean>
+    <title_search>snk vs capcom card fighters 2 expand edition</title_search>
+    <image ext="png" id="SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)">
+    <description>SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)</description>
+    <title_clean>SNK vs. Capcom - Card Fighters' Clash - Capcom Version</title_clean>
+    <title_search>snk vs capcom card fighters clash capcom version</title_search>
+    <image ext="png" id="SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)">
+    <description>SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)</description>
+    <title_clean>SNK vs. Capcom - Card Fighters' Clash - SNK Version</title_clean>
+    <title_search>snk vs capcom card fighters clash snk version</title_search>
+    <image ext="png" id="SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)">
+    <description>SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)</description>
+    <title_clean>SNK vs. Capcom - Gekitotsu Card Fighters</title_clean>
+    <title_search>snk vs capcom gekitotsu card fighters</title_search>
+    <image ext="png" id="SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)">
+    <description>SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)</description>
+    <title_clean>SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version</title_clean>
+    <title_search>snk vs capcom gekitotsu card fighters capcom supporter version</title_search>
+    <image ext="png" id="SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)">
+    <description>SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)</description>
+    <title_clean>SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version</title_clean>
+    <title_search>snk vs capcom gekitotsu card fighters snk supporter version</title_search>
+    <image ext="png" id="SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta)">
+    <description>SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta)</description>
+    <title_clean>SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version</title_clean>
+    <title_search>snk vs capcom gekitotsu card fighters snk supporter version</title_search>
+  </game>
+  <game name="SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)">
+    <description>SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)</description>
+    <title_clean>SNK vs. Capcom - The Match of the Millennium</title_clean>
+    <title_search>snk vs capcom the match of the millennium</title_search>
+    <image ext="png" id="SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)">
+    <description>Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)</description>
+    <title_clean>Samurai Shodown! 2 - Pocket Fighting Series</title_clean>
+    <title_search>samurai shodown 2 pocket fighting series</title_search>
+    <image ext="png" id="Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shanghai Mini (World) (En,Ja)">
+    <description>Shanghai Mini (World) (En,Ja)</description>
+    <title_clean>Shanghai Mini</title_clean>
+    <title_search>shanghai mini</title_search>
+    <image ext="png" id="Shanghai Mini (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shanghai Mini (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shanghai Mini (World) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shanghai Mini (World) (En,Ja) (Beta 1)">
+    <description>Shanghai Mini (World) (En,Ja) (Beta 1)</description>
+    <title_clean>Shanghai Mini</title_clean>
+    <title_search>shanghai mini</title_search>
+    <image ext="png" id="Shanghai Mini (World) (En,Ja) (Beta 1)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shanghai Mini (World) (En,Ja) (Beta 1)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shanghai Mini (World) (En,Ja) (Beta 1)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shanghai Mini (World) (En,Ja) (Beta 2)">
+    <description>Shanghai Mini (World) (En,Ja) (Beta 2)</description>
+    <title_clean>Shanghai Mini</title_clean>
+    <title_search>shanghai mini</title_search>
+    <image ext="png" id="Shanghai Mini (World) (En,Ja) (Beta 2)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shanghai Mini (World) (En,Ja) (Beta 2)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shanghai Mini (World) (En,Ja) (Beta 2)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shinki Sekai Evolution - Hateshinai Dungeon (Japan)">
+    <description>Shinki Sekai Evolution - Hateshinai Dungeon (Japan)</description>
+    <title_clean>Shinki Sekai Evolution - Hateshinai Dungeon</title_clean>
+    <title_search>shinki sekai evolution hateshinai dungeon</title_search>
+    <image ext="png" id="Shinki Sekai Evolution - Hateshinai Dungeon (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shinki Sekai Evolution - Hateshinai Dungeon (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shinki Sekai Evolution - Hateshinai Dungeon (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shougi no Tatsujin Color (Japan)">
+    <description>Shougi no Tatsujin Color (Japan)</description>
+    <title_clean>Shougi no Tatsujin Color</title_clean>
+    <title_search>shougi no tatsujin color</title_search>
+    <image ext="png" id="Shougi no Tatsujin Color (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shougi no Tatsujin Color (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shougi no Tatsujin Color (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sonic The Hedgehog - Pocket Adventure (World)">
+    <description>Sonic The Hedgehog - Pocket Adventure (World)</description>
+    <title_clean>Sonic The Hedgehog - Pocket Adventure</title_clean>
+    <title_search>sonic the hedgehog pocket adventure</title_search>
+    <image ext="png" id="Sonic The Hedgehog - Pocket Adventure (World)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sonic The Hedgehog - Pocket Adventure (World)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sonic The Hedgehog - Pocket Adventure (World)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sonic The Hedgehog - Pocket Adventure (World) (Beta 1)">
+    <description>Sonic The Hedgehog - Pocket Adventure (World) (Beta 1)</description>
+    <title_clean>Sonic The Hedgehog - Pocket Adventure</title_clean>
+    <title_search>sonic the hedgehog pocket adventure</title_search>
+  </game>
+  <game name="Sonic The Hedgehog - Pocket Adventure (World) (Beta 2)">
+    <description>Sonic The Hedgehog - Pocket Adventure (World) (Beta 2)</description>
+    <title_clean>Sonic The Hedgehog - Pocket Adventure</title_clean>
+    <title_search>sonic the hedgehog pocket adventure</title_search>
+  </game>
+  <game name="Soreike!! Hanafuda Doujou (Japan)">
+    <description>Soreike!! Hanafuda Doujou (Japan)</description>
+    <title_clean>Soreike!! Hanafuda Doujou</title_clean>
+    <title_search>soreike hanafuda doujou</title_search>
+    <image ext="png" id="Soreike!! Hanafuda Doujou (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Soreike!! Hanafuda Doujou (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Soreike!! Hanafuda Doujou (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Real Mahjong - Premium Collection (Japan)">
+    <description>Super Real Mahjong - Premium Collection (Japan)</description>
+    <title_clean>Super Real Mahjong - Premium Collection</title_clean>
+    <title_search>super real mahjong premium collection</title_search>
+    <image ext="png" id="Super Real Mahjong - Premium Collection (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Real Mahjong - Premium Collection (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Real Mahjong - Premium Collection (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tsunagete Pon! 2 (Japan)">
+    <description>Tsunagete Pon! 2 (Japan)</description>
+    <title_clean>Tsunagete Pon! 2</title_clean>
+    <title_search>tsunagete pon 2</title_search>
+    <image ext="png" id="Tsunagete Pon! 2 (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tsunagete Pon! 2 (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tsunagete Pon! 2 (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wrestling Madness (Japan) (En) (Beta)">
+    <description>Wrestling Madness (Japan) (En) (Beta)</description>
+    <title_clean>Wrestling Madness</title_clean>
+    <title_search>wrestling madness</title_search>
+  </game>
+</datafile>

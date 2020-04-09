@@ -1,0 +1,226 @@
+<datafile>
+  <game name="Astonishia Story R (Korea)">
+    <description>Astonishia Story R (Korea)</description>
+    <title_clean>Astonishia Story R</title_clean>
+    <title_search>astonishia story r</title_search>
+    <image ext="png" id="Astonishia Story R (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Astonishia Story R (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Astonishia Story R (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Blue Angelo - Angels from the Shrine (Europe) (En,Fr,De,Es,It,Pt)">
+    <description>Blue Angelo - Angels from the Shrine (Europe) (En,Fr,De,Es,It,Pt)</description>
+    <title_clean>Blue Angelo - Angels from the Shrine</title_clean>
+    <title_search>blue angelo angels from the shrine</title_search>
+    <image ext="png" id="Blue Angelo - Angels from the Shrine (Europe) (En,Fr,De,Es,It,Pt)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Blue Angelo - Angels from the Shrine (Europe) (En,Fr,De,Es,It,Pt)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Blue Angelo - Angels from the Shrine (Europe) (En,Fr,De,Es,It,Pt)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dooly Soccer 2002 (Korea)">
+    <description>Dooly Soccer 2002 (Korea)</description>
+    <title_clean>Dooly Soccer 2002</title_clean>
+    <title_search>dooly soccer 2002</title_search>
+    <image ext="png" id="Dooly Soccer 2002 (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dooly Soccer 2002 (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dooly Soccer 2002 (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dungeon _ Guarder - Dragon Gore (Europe)">
+    <description>Dungeon _ Guarder - Dragon Gore (Europe)</description>
+    <title_clean>Dungeon _ Guarder - Dragon Gore</title_clean>
+    <title_search>dungeon guarder dragon gore</title_search>
+    <image ext="png" id="Dungeon _ Guarder - Dragon Gore (Europe)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dungeon _ Guarder - Dragon Gore (Europe)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dungeon _ Guarder - Dragon Gore (Europe)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dungeon _ Guarder - Dragon Gore (Korea)">
+    <description>Dungeon _ Guarder - Dragon Gore (Korea)</description>
+    <title_clean>Dungeon _ Guarder - Dragon Gore</title_clean>
+    <title_search>dungeon guarder dragon gore</title_search>
+    <image ext="png" id="Dungeon _ Guarder - Dragon Gore (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dungeon _ Guarder - Dragon Gore (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dungeon _ Guarder - Dragon Gore (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dyhard - With Infinite Stairs (Europe)">
+    <description>Dyhard - With Infinite Stairs (Europe)</description>
+    <title_clean>Dyhard - With Infinite Stairs</title_clean>
+    <title_search>dyhard with infinite stairs</title_search>
+    <image ext="png" id="Dyhard - With Infinite Stairs (Europe)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dyhard - With Infinite Stairs (Europe)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dyhard - With Infinite Stairs (Europe)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dyhard - With Infinite Stairs (Korea)">
+    <description>Dyhard - With Infinite Stairs (Korea)</description>
+    <title_clean>Dyhard - With Infinite Stairs</title_clean>
+    <title_search>dyhard with infinite stairs</title_search>
+    <image ext="png" id="Dyhard - With Infinite Stairs (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dyhard - With Infinite Stairs (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dyhard - With Infinite Stairs (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="GP Fight (Korea)">
+    <description>GP Fight (Korea)</description>
+    <title_clean>GP Fight</title_clean>
+    <title_search>gp fight</title_search>
+    <image ext="png" id="GP Fight (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="GP Fight (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="GP Fight (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hany Party Game (Korea)">
+    <description>Hany Party Game (Korea)</description>
+    <title_clean>Hany Party Game</title_clean>
+    <title_search>hany party game</title_search>
+    <image ext="png" id="Hany Party Game (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hany Party Game (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hany Party Game (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Her Knights - All for Princess - Deadline (Korea)">
+    <description>Her Knights - All for Princess - Deadline (Korea)</description>
+    <title_clean>Her Knights - All for Princess - Deadline</title_clean>
+    <title_search>her knights all for princess deadline</title_search>
+    <image ext="png" id="Her Knights - All for Princess - Deadline (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Her Knights - All for Princess - Deadline (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Her Knights - All for Princess - Deadline (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Her Knights - All for the Princess (Europe)">
+    <description>Her Knights - All for the Princess (Europe)</description>
+    <title_clean>Her Knights - All for the Princess</title_clean>
+    <title_search>her knights all for the princess</title_search>
+    <image ext="png" id="Her Knights - All for the Princess (Europe)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Her Knights - All for the Princess (Europe)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Her Knights - All for the Princess (Europe)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kimchiman GP32 (Korea)">
+    <description>Kimchiman GP32 (Korea)</description>
+    <title_clean>Kimchiman GP32</title_clean>
+    <title_search>kimchiman gp32</title_search>
+    <image ext="png" id="Kimchiman GP32 (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kimchiman GP32 (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kimchiman GP32 (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Little Girl Mill of a Gingko, The (Korea)">
+    <description>Little Girl Mill of a Gingko, The (Korea)</description>
+    <title_clean>The Little Girl Mill of a Gingko</title_clean>
+    <title_search>the little girl mill of a gingko</title_search>
+    <image ext="png" id="Little Girl Mill of a Gingko, The (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Little Girl Mill of a Gingko, The (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Little Girl Mill of a Gingko, The (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Little Wizard (Europe)">
+    <description>Little Wizard (Europe)</description>
+    <title_clean>Little Wizard</title_clean>
+    <title_search>little wizard</title_search>
+    <image ext="png" id="Little Wizard (Europe)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Little Wizard (Europe)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Little Wizard (Europe)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Little Wizard (Korea)">
+    <description>Little Wizard (Korea)</description>
+    <title_clean>Little Wizard</title_clean>
+    <title_search>little wizard</title_search>
+    <image ext="png" id="Little Wizard (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Little Wizard (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Little Wizard (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="OneShot Voca (Korea)">
+    <description>OneShot Voca (Korea)</description>
+    <title_clean>OneShot Voca</title_clean>
+    <title_search>oneshot voca</title_search>
+    <image ext="png" id="OneShot Voca (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="OneShot Voca (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="OneShot Voca (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Princess Maker 2 (Korea)">
+    <description>Princess Maker 2 (Korea)</description>
+    <title_clean>Princess Maker 2</title_clean>
+    <title_search>princess maker 2</title_search>
+    <image ext="png" id="Princess Maker 2 (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Princess Maker 2 (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Princess Maker 2 (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rally Pop (Korea)">
+    <description>Rally Pop (Korea)</description>
+    <title_clean>Rally Pop</title_clean>
+    <title_search>rally pop</title_search>
+    <image ext="png" id="Rally Pop (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rally Pop (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rally Pop (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Raphael (Korea)">
+    <description>Raphael (Korea)</description>
+    <title_clean>Raphael</title_clean>
+    <title_search>raphael</title_search>
+    <image ext="png" id="Raphael (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Raphael (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Raphael (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tanggle's Magic Square (Korea)">
+    <description>Tanggle's Magic Square (Korea)</description>
+    <title_clean>Tanggle's Magic Square</title_clean>
+    <title_search>tanggles magic square</title_search>
+    <image ext="png" id="Tanggle's Magic Square (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tanggle's Magic Square (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tanggle's Magic Square (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Therapy (Korea)">
+    <description>Therapy (Korea)</description>
+    <title_clean>Therapy</title_clean>
+    <title_search>therapy</title_search>
+    <image ext="png" id="Therapy (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Therapy (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Therapy (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tomak - Save the Earth, Again (Europe) (v1.0)">
+    <description>Tomak - Save the Earth, Again (Europe) (v1.0)</description>
+    <title_clean>Tomak - Save the Earth, Again</title_clean>
+    <title_search>tomak save the earth again</title_search>
+    <image ext="png" id="Tomak - Save the Earth, Again (Europe) (v1.0)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tomak - Save the Earth, Again (Europe) (v1.0)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tomak - Save the Earth, Again (Europe) (v1.0)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tomak - Save the Earth, Again (Europe) (v2.0)">
+    <description>Tomak - Save the Earth, Again (Europe) (v2.0)</description>
+    <title_clean>Tomak - Save the Earth, Again</title_clean>
+    <title_search>tomak save the earth again</title_search>
+    <image ext="png" id="Tomak - Save the Earth, Again (Europe) (v2.0)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tomak - Save the Earth, Again (Europe) (v2.0)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tomak - Save the Earth, Again (Europe) (v2.0)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tomak - Save the Earth, Again (Korea)">
+    <description>Tomak - Save the Earth, Again (Korea)</description>
+    <title_clean>Tomak - Save the Earth, Again</title_clean>
+    <title_search>tomak save the earth again</title_search>
+    <image ext="png" id="Tomak - Save the Earth, Again (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tomak - Save the Earth, Again (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tomak - Save the Earth, Again (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="W.B.W. - Wanna Be Wizard! (Korea)">
+    <description>W.B.W. - Wanna Be Wizard! (Korea)</description>
+    <title_clean>W.B.W. - Wanna Be Wizard!</title_clean>
+    <title_search>wbw wanna be wizard</title_search>
+    <image ext="png" id="W.B.W. - Wanna Be Wizard! (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="W.B.W. - Wanna Be Wizard! (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="W.B.W. - Wanna Be Wizard! (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wizard Slayer (Korea)">
+    <description>Wizard Slayer (Korea)</description>
+    <title_clean>Wizard Slayer</title_clean>
+    <title_search>wizard slayer</title_search>
+    <image ext="png" id="Wizard Slayer (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wizard Slayer (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wizard Slayer (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Woody _ Kunta - Treasure Island (Europe)">
+    <description>Woody _ Kunta - Treasure Island (Europe)</description>
+    <title_clean>Woody _ Kunta - Treasure Island</title_clean>
+    <title_search>woody kunta treasure island</title_search>
+    <image ext="png" id="Woody _ Kunta - Treasure Island (Europe)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Woody _ Kunta - Treasure Island (Europe)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Woody _ Kunta - Treasure Island (Europe)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Woody _ Kunta - Treasure Island (Korea)">
+    <description>Woody _ Kunta - Treasure Island (Korea)</description>
+    <title_clean>Woody _ Kunta - Treasure Island</title_clean>
+    <title_search>woody kunta treasure island</title_search>
+    <image ext="png" id="Woody _ Kunta - Treasure Island (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Woody _ Kunta - Treasure Island (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Woody _ Kunta - Treasure Island (Korea)" source="https://github.com/libretro-thumbnails/GamePark_-_GP32/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

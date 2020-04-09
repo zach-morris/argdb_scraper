@@ -1,0 +1,30 @@
+<datafile>
+  <game name="RPG Maker 2000 Test Suite">
+    <description>RPG Maker 2000 Test Suite</description>
+    <title_clean>RPG Maker 2000 Test Suite</title_clean>
+    <title_search>rpg maker 2000 test suite</title_search>
+    <image ext="png" id="RPG Maker 2000 Test Suite" source="https://github.com/libretro-thumbnails/RPG_Maker/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="RPG Maker 2000 Test Suite" source="https://github.com/libretro-thumbnails/RPG_Maker/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="RPG Maker 2000 Test Suite" source="https://github.com/libretro-thumbnails/RPG_Maker/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="RPG Maker 2003 Test Suite">
+    <description>RPG Maker 2003 Test Suite</description>
+    <title_clean>RPG Maker 2003 Test Suite</title_clean>
+    <title_search>rpg maker 2003 test suite</title_search>
+  </game>
+  <game name="Yume 2kki">
+    <description>Yume 2kki</description>
+    <title_clean>Yume 2kki</title_clean>
+    <title_search>yume 2kki</title_search>
+    <image ext="png" id="Yume 2kki" source="https://github.com/libretro-thumbnails/RPG_Maker/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Yume 2kki" source="https://github.com/libretro-thumbnails/RPG_Maker/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Yume Nikki">
+    <description>Yume Nikki</description>
+    <title_clean>Yume Nikki</title_clean>
+    <title_search>yume nikki</title_search>
+    <image ext="png" id="Yume Nikki" source="https://github.com/libretro-thumbnails/RPG_Maker/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Yume Nikki" source="https://github.com/libretro-thumbnails/RPG_Maker/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Yume Nikki" source="https://github.com/libretro-thumbnails/RPG_Maker/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

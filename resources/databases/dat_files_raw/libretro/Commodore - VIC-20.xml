@@ -1,0 +1,1988 @@
+<datafile>
+  <game name="A.E. (World)">
+    <description>A.E. (World)</description>
+    <title_clean>A.E.</title_clean>
+    <title_search>ae</title_search>
+    <image ext="png" id="A.E. (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="A.E. (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Adventureland Adventure (World) (SYS 32592)">
+    <description>Adventureland Adventure (World) (SYS 32592)</description>
+    <title_clean>Adventureland Adventure</title_clean>
+    <title_search>adventureland adventure</title_search>
+    <image ext="png" id="Adventureland Adventure (World) (SYS 32592)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Adventureland Adventure (World) (SYS 32592)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Aggressor (Europe)">
+    <description>Aggressor (Europe)</description>
+    <title_clean>Aggressor</title_clean>
+    <title_search>aggressor</title_search>
+    <image ext="png" id="Aggressor (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Aggressor (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Aggressor (Japan, USA)">
+    <description>Aggressor (Japan, USA)</description>
+    <title_clean>Aggressor</title_clean>
+    <title_search>aggressor</title_search>
+    <image ext="png" id="Aggressor (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Aggressor (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Alien (Japan, USA)">
+    <description>Alien (Japan, USA)</description>
+    <title_clean>Alien</title_clean>
+    <title_search>alien</title_search>
+    <image ext="png" id="Alien (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alien (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Alien Blitz (Japan, USA)">
+    <description>Alien Blitz (Japan, USA)</description>
+    <title_clean>Alien Blitz</title_clean>
+    <title_search>alien blitz</title_search>
+    <image ext="png" id="Alien Blitz (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alien Blitz (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Alien Sidestep (Japan, USA)">
+    <description>Alien Sidestep (Japan, USA)</description>
+    <title_clean>Alien Sidestep</title_clean>
+    <title_search>alien sidestep</title_search>
+    <image ext="png" id="Alien Sidestep (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alien Sidestep (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Alphabet Zoo (Japan, USA)">
+    <description>Alphabet Zoo (Japan, USA)</description>
+    <title_clean>Alphabet Zoo</title_clean>
+    <title_search>alphabet zoo</title_search>
+    <image ext="png" id="Alphabet Zoo (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alphabet Zoo (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Amazing Maze (World)">
+    <description>Amazing Maze (World)</description>
+    <title_clean>Amazing Maze</title_clean>
+    <title_search>amazing maze</title_search>
+    <image ext="png" id="Amazing Maze (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Amazing Maze (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Amazing Maze (World) (Alt 1)">
+    <description>Amazing Maze (World) (Alt 1)</description>
+    <title_clean>Amazing Maze</title_clean>
+    <title_search>amazing maze</title_search>
+    <image ext="png" id="Amazing Maze (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Amazing Maze (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Amidar (Europe)">
+    <description>Amidar (Europe)</description>
+    <title_clean>Amidar</title_clean>
+    <title_search>amidar</title_search>
+    <image ext="png" id="Amidar (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Amidar (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Amok! (World)">
+    <description>Amok! (World)</description>
+    <title_clean>Amok!</title_clean>
+    <title_search>amok</title_search>
+    <image ext="png" id="Amok! (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Amok! (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ape Escape (World)">
+    <description>Ape Escape (World)</description>
+    <title_clean>Ape Escape</title_clean>
+    <title_search>ape escape</title_search>
+    <image ext="png" id="Ape Escape (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ape Escape (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ape Escape (World) (Alt 1)">
+    <description>Ape Escape (World) (Alt 1)</description>
+    <title_clean>Ape Escape</title_clean>
+    <title_search>ape escape</title_search>
+    <image ext="png" id="Ape Escape (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ape Escape (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Apple Panic (Japan, USA)">
+    <description>Apple Panic (Japan, USA)</description>
+    <title_clean>Apple Panic</title_clean>
+    <title_search>apple panic</title_search>
+    <image ext="png" id="Apple Panic (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Apple Panic (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Arachnoid (World)">
+    <description>Arachnoid (World)</description>
+    <title_clean>Arachnoid</title_clean>
+    <title_search>arachnoid</title_search>
+    <image ext="png" id="Arachnoid (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Arachnoid (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Arcadia (Europe)">
+    <description>Arcadia (Europe)</description>
+    <title_clean>Arcadia</title_clean>
+    <title_search>arcadia</title_search>
+    <image ext="png" id="Arcadia (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Arcadia (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Artillery Duel (Japan, USA)">
+    <description>Artillery Duel (Japan, USA)</description>
+    <title_clean>Artillery Duel</title_clean>
+    <title_search>artillery duel</title_search>
+    <image ext="png" id="Artillery Duel (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Artillery Duel (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Assam (World) (SYS 700) (Program)">
+    <description>Assam (World) (SYS 700) (Program)</description>
+    <title_clean>Assam</title_clean>
+    <title_search>assam</title_search>
+    <image ext="png" id="Assam (World) (SYS 700) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Assam (World) (SYS 700) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Astroblitz (Europe)">
+    <description>Astroblitz (Europe)</description>
+    <title_clean>Astroblitz</title_clean>
+    <title_search>astroblitz</title_search>
+    <image ext="png" id="Astroblitz (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Astroblitz (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Astroblitz (Japan, USA)">
+    <description>Astroblitz (Japan, USA)</description>
+    <title_clean>Astroblitz</title_clean>
+    <title_search>astroblitz</title_search>
+    <image ext="png" id="Astroblitz (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Astroblitz (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Atlantis (Europe)">
+    <description>Atlantis (Europe)</description>
+    <title_clean>Atlantis</title_clean>
+    <title_search>atlantis</title_search>
+    <image ext="png" id="Atlantis (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Atlantis (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Atlantis (Japan, USA)">
+    <description>Atlantis (Japan, USA)</description>
+    <title_clean>Atlantis</title_clean>
+    <title_search>atlantis</title_search>
+    <image ext="png" id="Atlantis (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Atlantis (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Attack of the Mutant Camels (World)">
+    <description>Attack of the Mutant Camels (World)</description>
+    <title_clean>Attack of the Mutant Camels</title_clean>
+    <title_search>attack of the mutant camels</title_search>
+    <image ext="png" id="Attack of the Mutant Camels (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Attack of the Mutant Camels (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Avenger (Japan, USA)">
+    <description>Avenger (Japan, USA)</description>
+    <title_clean>Avenger</title_clean>
+    <title_search>avenger</title_search>
+    <image ext="png" id="Avenger (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Avenger (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="BASIC 4.0 (World) (Program)">
+    <description>BASIC 4.0 (World) (Program)</description>
+    <title_clean>BASIC 4.0</title_clean>
+    <title_search>basic 40</title_search>
+    <image ext="png" id="BASIC 4.0 (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="BASIC 4.0 (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="BASIC V5 (World) (Program)">
+    <description>BASIC V5 (World) (Program)</description>
+    <title_clean>BASIC V5</title_clean>
+    <title_search>basic v5</title_search>
+    <image ext="png" id="BASIC V5 (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="BASIC V5 (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bandits (Japan, USA)">
+    <description>Bandits (Japan, USA)</description>
+    <title_clean>Bandits</title_clean>
+    <title_search>bandits</title_search>
+    <image ext="png" id="Bandits (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bandits (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bank Robber (World)">
+    <description>Bank Robber (World)</description>
+    <title_clean>Bank Robber</title_clean>
+    <title_search>bank robber</title_search>
+    <image ext="png" id="Bank Robber (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bank Robber (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Battlezone (Japan, USA)">
+    <description>Battlezone (Japan, USA)</description>
+    <title_clean>Battlezone</title_clean>
+    <title_search>battlezone</title_search>
+    <image ext="png" id="Battlezone (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Battlezone (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Black Hole (Europe)">
+    <description>Black Hole (Europe)</description>
+    <title_clean>Black Hole</title_clean>
+    <title_search>black hole</title_search>
+    <image ext="png" id="Black Hole (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Black Hole (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Black Hole (Japan, USA)">
+    <description>Black Hole (Japan, USA)</description>
+    <title_clean>Black Hole</title_clean>
+    <title_search>black hole</title_search>
+    <image ext="png" id="Black Hole (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Black Hole (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Buck Rogers - Planet of Zoom (World)">
+    <description>Buck Rogers - Planet of Zoom (World)</description>
+    <title_clean>Buck Rogers - Planet of Zoom</title_clean>
+    <title_search>buck rogers planet of zoom</title_search>
+    <image ext="png" id="Buck Rogers - Planet of Zoom (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Buck Rogers - Planet of Zoom (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bug Crusher (World)">
+    <description>Bug Crusher (World)</description>
+    <title_clean>Bug Crusher</title_clean>
+    <title_search>bug crusher</title_search>
+    <image ext="png" id="Bug Crusher (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bug Crusher (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Buti Toolkit (World) (Program)">
+    <description>Buti Toolkit (World) (Program)</description>
+    <title_clean>Buti Toolkit</title_clean>
+    <title_search>buti toolkit</title_search>
+    <image ext="png" id="Buti Toolkit (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Buti Toolkit (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cannonball Blitz (Japan, USA)">
+    <description>Cannonball Blitz (Japan, USA)</description>
+    <title_clean>Cannonball Blitz</title_clean>
+    <title_search>cannonball blitz</title_search>
+    <image ext="png" id="Cannonball Blitz (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cannonball Blitz (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Capture the Flag (Japan, USA)">
+    <description>Capture the Flag (Japan, USA)</description>
+    <title_clean>Capture the Flag</title_clean>
+    <title_search>capture the flag</title_search>
+    <image ext="png" id="Capture the Flag (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Capture the Flag (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Capture the Flag (Japan, USA) (Alt 1)">
+    <description>Capture the Flag (Japan, USA) (Alt 1)</description>
+    <title_clean>Capture the Flag</title_clean>
+    <title_search>capture the flag</title_search>
+    <image ext="png" id="Capture the Flag (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Capture the Flag (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cassette Turbo (World) (Program)">
+    <description>Cassette Turbo (World) (Program)</description>
+    <title_clean>Cassette Turbo</title_clean>
+    <title_search>cassette turbo</title_search>
+    <image ext="png" id="Cassette Turbo (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cassette Turbo (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Catch-a-Snatch (Europe)">
+    <description>Catch-a-Snatch (Europe)</description>
+    <title_clean>Catch-a-Snatch</title_clean>
+    <title_search>catchasnatch</title_search>
+    <image ext="png" id="Catch-a-Snatch (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Catch-a-Snatch (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cave-in (World)">
+    <description>Cave-in (World)</description>
+    <title_clean>Cave-in</title_clean>
+    <title_search>cavein</title_search>
+    <image ext="png" id="Cave-in (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cave-in (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cave-in (World) (Alt 1)">
+    <description>Cave-in (World) (Alt 1)</description>
+    <title_clean>Cave-in</title_clean>
+    <title_search>cavein</title_search>
+    <image ext="png" id="Cave-in (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cave-in (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Centipede (Japan, USA)">
+    <description>Centipede (Japan, USA)</description>
+    <title_clean>Centipede</title_clean>
+    <title_search>centipede</title_search>
+    <image ext="png" id="Centipede (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Centipede (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Choplifter (Europe)">
+    <description>Choplifter (Europe)</description>
+    <title_clean>Choplifter</title_clean>
+    <title_search>choplifter</title_search>
+    <image ext="png" id="Choplifter (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Choplifter (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Choplifter (Japan, USA)">
+    <description>Choplifter (Japan, USA)</description>
+    <title_clean>Choplifter</title_clean>
+    <title_search>choplifter</title_search>
+    <image ext="png" id="Choplifter (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Choplifter (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Choplifter (Japan, USA) (Alt 1)">
+    <description>Choplifter (Japan, USA) (Alt 1)</description>
+    <title_clean>Choplifter</title_clean>
+    <title_search>choplifter</title_search>
+    <image ext="png" id="Choplifter (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Choplifter (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chuck Norris Superkicks (World)">
+    <description>Chuck Norris Superkicks (World)</description>
+    <title_clean>Chuck Norris Superkicks</title_clean>
+    <title_search>chuck norris superkicks</title_search>
+    <image ext="png" id="Chuck Norris Superkicks (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chuck Norris Superkicks (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cloudburst (Europe)">
+    <description>Cloudburst (Europe)</description>
+    <title_clean>Cloudburst</title_clean>
+    <title_search>cloudburst</title_search>
+    <image ext="png" id="Cloudburst (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cloudburst (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Clowns (Japan, USA) (Joystick)">
+    <description>Clowns (Japan, USA) (Joystick)</description>
+    <title_clean>Clowns</title_clean>
+    <title_search>clowns</title_search>
+    <image ext="png" id="Clowns (Japan, USA) (Joystick)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Clowns (Japan, USA) (Joystick)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Clowns (Japan, USA) (Paddle)">
+    <description>Clowns (Japan, USA) (Paddle)</description>
+    <title_clean>Clowns</title_clean>
+    <title_search>clowns</title_search>
+    <image ext="png" id="Clowns (Japan, USA) (Paddle)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Clowns (Japan, USA) (Paddle)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Combasic (World) (SYS 45056) (Program)">
+    <description>Combasic (World) (SYS 45056) (Program)</description>
+    <title_clean>Combasic</title_clean>
+    <title_search>combasic</title_search>
+    <image ext="png" id="Combasic (World) (SYS 45056) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Combasic (World) (SYS 45056) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Commodore Artist (Japan, USA) (Program)">
+    <description>Commodore Artist (Japan, USA) (Program)</description>
+    <title_clean>Commodore Artist</title_clean>
+    <title_search>commodore artist</title_search>
+    <image ext="png" id="Commodore Artist (Japan, USA) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Commodore Artist (Japan, USA) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Computer War (World)">
+    <description>Computer War (World)</description>
+    <title_clean>Computer War</title_clean>
+    <title_search>computer war</title_search>
+    <image ext="png" id="Computer War (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Computer War (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Congo Bongo (Japan, USA)">
+    <description>Congo Bongo (Japan, USA)</description>
+    <title_clean>Congo Bongo</title_clean>
+    <title_search>congo bongo</title_search>
+    <image ext="png" id="Congo Bongo (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Congo Bongo (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cosmic Cruncher (World)">
+    <description>Cosmic Cruncher (World)</description>
+    <title_clean>Cosmic Cruncher</title_clean>
+    <title_search>cosmic cruncher</title_search>
+    <image ext="png" id="Cosmic Cruncher (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cosmic Cruncher (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cosmic Cruncher (World) (Alt 1)">
+    <description>Cosmic Cruncher (World) (Alt 1)</description>
+    <title_clean>Cosmic Cruncher</title_clean>
+    <title_search>cosmic cruncher</title_search>
+    <image ext="png" id="Cosmic Cruncher (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cosmic Cruncher (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cosmic Cruncher (World) (Alt 2)">
+    <description>Cosmic Cruncher (World) (Alt 2)</description>
+    <title_clean>Cosmic Cruncher</title_clean>
+    <title_search>cosmic cruncher</title_search>
+    <image ext="png" id="Cosmic Cruncher (World) (Alt 2)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cosmic Cruncher (World) (Alt 2)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cosmic Jailbreak (Japan, USA)">
+    <description>Cosmic Jailbreak (Japan, USA)</description>
+    <title_clean>Cosmic Jailbreak</title_clean>
+    <title_search>cosmic jailbreak</title_search>
+    <image ext="png" id="Cosmic Jailbreak (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cosmic Jailbreak (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Count Adventure, The (World) (SYS 32592)">
+    <description>Count Adventure, The (World) (SYS 32592)</description>
+    <title_clean>The Count Adventure</title_clean>
+    <title_search>the count adventure</title_search>
+    <image ext="png" id="Count Adventure, The (World) (SYS 32592)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Count Adventure, The (World) (SYS 32592)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Creepy Corridors (Japan, USA)">
+    <description>Creepy Corridors (Japan, USA)</description>
+    <title_clean>Creepy Corridors</title_clean>
+    <title_search>creepy corridors</title_search>
+    <image ext="png" id="Creepy Corridors (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Creepy Corridors (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Crossfire (Europe)">
+    <description>Crossfire (Europe)</description>
+    <title_clean>Crossfire</title_clean>
+    <title_search>crossfire</title_search>
+    <image ext="png" id="Crossfire (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Crossfire (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Crossfire (Japan, USA)">
+    <description>Crossfire (Japan, USA)</description>
+    <title_clean>Crossfire</title_clean>
+    <title_search>crossfire</title_search>
+    <image ext="png" id="Crossfire (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Crossfire (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cyclon (World)">
+    <description>Cyclon (World)</description>
+    <title_clean>Cyclon</title_clean>
+    <title_search>cyclon</title_search>
+    <image ext="png" id="Cyclon (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cyclon (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dancing Bear, The (Japan, USA)">
+    <description>Dancing Bear, The (Japan, USA)</description>
+    <title_clean>The Dancing Bear</title_clean>
+    <title_search>the dancing bear</title_search>
+    <image ext="png" id="Dancing Bear, The (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dancing Bear, The (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Deadly Duck (Europe)">
+    <description>Deadly Duck (Europe)</description>
+    <title_clean>Deadly Duck</title_clean>
+    <title_search>deadly duck</title_search>
+    <image ext="png" id="Deadly Duck (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Deadly Duck (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Deadly Skies (Europe)">
+    <description>Deadly Skies (Europe)</description>
+    <title_clean>Deadly Skies</title_clean>
+    <title_search>deadly skies</title_search>
+    <image ext="png" id="Deadly Skies (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Deadly Skies (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Defender (World) (v1.1)">
+    <description>Defender (World) (v1.1)</description>
+    <title_clean>Defender</title_clean>
+    <title_search>defender</title_search>
+    <image ext="png" id="Defender (World) (v1.1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Defender (World) (v1.1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Demon Attack (Europe)">
+    <description>Demon Attack (Europe)</description>
+    <title_clean>Demon Attack</title_clean>
+    <title_search>demon attack</title_search>
+    <image ext="png" id="Demon Attack (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Demon Attack (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Demon Attack (Japan, USA)">
+    <description>Demon Attack (Japan, USA)</description>
+    <title_clean>Demon Attack</title_clean>
+    <title_search>demon attack</title_search>
+    <image ext="png" id="Demon Attack (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Demon Attack (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dig Dug (Japan, USA)">
+    <description>Dig Dug (Japan, USA)</description>
+    <title_clean>Dig Dug</title_clean>
+    <title_search>dig dug</title_search>
+    <image ext="png" id="Dig Dug (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dig Dug (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Donkey Kong (Japan, USA)">
+    <description>Donkey Kong (Japan, USA)</description>
+    <title_clean>Donkey Kong</title_clean>
+    <title_search>donkey kong</title_search>
+    <image ext="png" id="Donkey Kong (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Donkey Kong (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dot Gobbler (Japan, USA)">
+    <description>Dot Gobbler (Japan, USA)</description>
+    <title_clean>Dot Gobbler</title_clean>
+    <title_search>dot gobbler</title_search>
+    <image ext="png" id="Dot Gobbler (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dot Gobbler (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dot Gobbler (Japan, USA) (Alt 1)">
+    <description>Dot Gobbler (Japan, USA) (Alt 1)</description>
+    <title_clean>Dot Gobbler</title_clean>
+    <title_search>dot gobbler</title_search>
+    <image ext="png" id="Dot Gobbler (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dot Gobbler (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragonfire (World)">
+    <description>Dragonfire (World)</description>
+    <title_clean>Dragonfire</title_clean>
+    <title_search>dragonfire</title_search>
+    <image ext="png" id="Dragonfire (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dragonfire (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Droids (World)">
+    <description>Droids (World)</description>
+    <title_clean>Droids</title_clean>
+    <title_search>droids</title_search>
+    <image ext="png" id="Droids (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Droids (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="E.T. - The Extra-Terrestrial (Europe)">
+    <description>E.T. - The Extra-Terrestrial (Europe)</description>
+    <title_clean>E.T. - The Extra-Terrestrial</title_clean>
+    <title_search>et the extraterrestrial</title_search>
+  </game>
+  <game name="E.T. - The Extra-Terrestrial (Europe) (Alt 1)">
+    <description>E.T. - The Extra-Terrestrial (Europe) (Alt 1)</description>
+    <title_clean>E.T. - The Extra-Terrestrial</title_clean>
+    <title_search>et the extraterrestrial</title_search>
+  </game>
+  <game name="ExBASIC Level II (World) (Program)">
+    <description>ExBASIC Level II (World) (Program)</description>
+    <title_clean>ExBASIC Level II</title_clean>
+    <title_search>exbasic level ii</title_search>
+    <image ext="png" id="ExBASIC Level II (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="ExBASIC Level II (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Face Maker (World)">
+    <description>Face Maker (World)</description>
+    <title_clean>Face Maker</title_clean>
+    <title_search>face maker</title_search>
+    <image ext="png" id="Face Maker (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Face Maker (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Face Maker (World) (Alt 1)">
+    <description>Face Maker (World) (Alt 1)</description>
+    <title_clean>Face Maker</title_clean>
+    <title_search>face maker</title_search>
+    <image ext="png" id="Face Maker (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Face Maker (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fast Eddie (Japan, USA)">
+    <description>Fast Eddie (Japan, USA)</description>
+    <title_clean>Fast Eddie</title_clean>
+    <title_search>fast eddie</title_search>
+    <image ext="png" id="Fast Eddie (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fast Eddie (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Final Orbit + Bumper Bash (Japan, USA)">
+    <description>Final Orbit + Bumper Bash (Japan, USA)</description>
+    <title_clean>Final Orbit + Bumper Bash</title_clean>
+    <title_search>final orbit bumper bash</title_search>
+    <image ext="png" id="Final Orbit + Bumper Bash (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Final Orbit + Bumper Bash (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Final Orbit + Bumper Bash (Japan, USA) (Alt 1)">
+    <description>Final Orbit + Bumper Bash (Japan, USA) (Alt 1)</description>
+    <title_clean>Final Orbit + Bumper Bash</title_clean>
+    <title_search>final orbit bumper bash</title_search>
+    <image ext="png" id="Final Orbit + Bumper Bash (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Final Orbit + Bumper Bash (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Flipper 1.0 (Japan, USA)">
+    <description>Flipper 1.0 (Japan, USA)</description>
+    <title_clean>Flipper 1.0</title_clean>
+    <title_search>flipper 10</title_search>
+    <image ext="png" id="Flipper 1.0 (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Flipper 1.0 (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fourth Encounter, The (World)">
+    <description>Fourth Encounter, The (World)</description>
+    <title_clean>The Fourth Encounter</title_clean>
+    <title_search>the fourth encounter</title_search>
+    <image ext="png" id="Fourth Encounter, The (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fourth Encounter, The (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Frogger (Japan, USA)">
+    <description>Frogger (Japan, USA)</description>
+    <title_clean>Frogger</title_clean>
+    <title_search>frogger</title_search>
+    <image ext="png" id="Frogger (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Frogger (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fun with Music (World)">
+    <description>Fun with Music (World)</description>
+    <title_clean>Fun with Music</title_clean>
+    <title_search>fun with music</title_search>
+    <image ext="png" id="Fun with Music (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fun with Music (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Galaxian (World)">
+    <description>Galaxian (World)</description>
+    <title_clean>Galaxian</title_clean>
+    <title_search>galaxian</title_search>
+    <image ext="png" id="Galaxian (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Galaxian (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Garden Wars (Japan, USA)">
+    <description>Garden Wars (Japan, USA)</description>
+    <title_clean>Garden Wars</title_clean>
+    <title_search>garden wars</title_search>
+    <image ext="png" id="Garden Wars (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Garden Wars (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Garden Wars (Japan, USA) (Alt 1)">
+    <description>Garden Wars (Japan, USA) (Alt 1)</description>
+    <title_clean>Garden Wars</title_clean>
+    <title_search>garden wars</title_search>
+    <image ext="png" id="Garden Wars (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Garden Wars (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ghost Manor (Japan, USA)">
+    <description>Ghost Manor (Japan, USA)</description>
+    <title_clean>Ghost Manor</title_clean>
+    <title_search>ghost manor</title_search>
+    <image ext="png" id="Ghost Manor (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ghost Manor (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gold Fever (World)">
+    <description>Gold Fever (World)</description>
+    <title_clean>Gold Fever</title_clean>
+    <title_search>gold fever</title_search>
+    <image ext="png" id="Gold Fever (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gold Fever (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gorf (Japan, USA)">
+    <description>Gorf (Japan, USA)</description>
+    <title_clean>Gorf</title_clean>
+    <title_search>gorf</title_search>
+    <image ext="png" id="Gorf (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gorf (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gridrunner (Europe)">
+    <description>Gridrunner (Europe)</description>
+    <title_clean>Gridrunner</title_clean>
+    <title_search>gridrunner</title_search>
+    <image ext="png" id="Gridrunner (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gridrunner (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gridrunner (Japan, USA)">
+    <description>Gridrunner (Japan, USA)</description>
+    <title_clean>Gridrunner</title_clean>
+    <title_search>gridrunner</title_search>
+    <image ext="png" id="Gridrunner (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gridrunner (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Handy Toolkit (Netherlands) (Program)">
+    <description>Handy Toolkit (Netherlands) (Program)</description>
+    <title_clean>Handy Toolkit</title_clean>
+    <title_search>handy toolkit</title_search>
+    <image ext="png" id="Handy Toolkit (Netherlands) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Handy Toolkit (Netherlands) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="HesMon (World) (v1.1) (Alt 1) (Program)">
+    <description>HesMon (World) (v1.1) (Alt 1) (Program)</description>
+    <title_clean>HesMon</title_clean>
+    <title_search>hesmon</title_search>
+    <image ext="png" id="HesMon (World) (v1.1) (Alt 1) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="HesMon (World) (v1.1) (Alt 1) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="HesMon (World) (v1.1) (Program)">
+    <description>HesMon (World) (v1.1) (Program)</description>
+    <title_clean>HesMon</title_clean>
+    <title_search>hesmon</title_search>
+    <image ext="png" id="HesMon (World) (v1.1) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="HesMon (World) (v1.1) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="HesWriter (World) (v1.1) (Program)">
+    <description>HesWriter (World) (v1.1) (Program)</description>
+    <title_clean>HesWriter</title_clean>
+    <title_search>heswriter</title_search>
+    <image ext="png" id="HesWriter (World) (v1.1) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="HesWriter (World) (v1.1) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hires Toolkit (World) (SYS 45056) (Program)">
+    <description>Hires Toolkit (World) (SYS 45056) (Program)</description>
+    <title_clean>Hires Toolkit</title_clean>
+    <title_search>hires toolkit</title_search>
+    <image ext="png" id="Hires Toolkit (World) (SYS 45056) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hires Toolkit (World) (SYS 45056) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Home Babysitter (World)">
+    <description>Home Babysitter (World)</description>
+    <title_clean>Home Babysitter</title_clean>
+    <title_search>home babysitter</title_search>
+    <image ext="png" id="Home Babysitter (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Home Babysitter (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Household Finance (World) (Program)">
+    <description>Household Finance (World) (Program)</description>
+    <title_clean>Household Finance</title_clean>
+    <title_search>household finance</title_search>
+    <image ext="png" id="Household Finance (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Household Finance (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="IFR (Flight Simulator) (World)">
+    <description>IFR (Flight Simulator) (World)</description>
+    <title_clean>IFR</title_clean>
+    <title_search>ifr</title_search>
+    <image ext="png" id="IFR (Flight Simulator) (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="IFR (Flight Simulator) (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="IFR (Flight Simulator) (World) (Alt 1)">
+    <description>IFR (Flight Simulator) (World) (Alt 1)</description>
+    <title_clean>IFR</title_clean>
+    <title_search>ifr</title_search>
+    <image ext="png" id="IFR (Flight Simulator) (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="IFR (Flight Simulator) (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="In the Chips (Japan, USA)">
+    <description>In the Chips (Japan, USA)</description>
+    <title_clean>In the Chips</title_clean>
+    <title_search>in the chips</title_search>
+    <image ext="png" id="In the Chips (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="In the Chips (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jawbreaker II (Europe)">
+    <description>Jawbreaker II (Europe)</description>
+    <title_clean>Jawbreaker II</title_clean>
+    <title_search>jawbreaker ii</title_search>
+    <image ext="png" id="Jawbreaker II (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jawbreaker II (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jawbreaker II (Japan, USA)">
+    <description>Jawbreaker II (Japan, USA)</description>
+    <title_clean>Jawbreaker II</title_clean>
+    <title_search>jawbreaker ii</title_search>
+    <image ext="png" id="Jawbreaker II (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jawbreaker II (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jelly Monsters (Japan, USA)">
+    <description>Jelly Monsters (Japan, USA)</description>
+    <title_clean>Jelly Monsters</title_clean>
+    <title_search>jelly monsters</title_search>
+    <image ext="png" id="Jelly Monsters (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jelly Monsters (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jungle Hunt (Japan, USA)">
+    <description>Jungle Hunt (Japan, USA)</description>
+    <title_clean>Jungle Hunt</title_clean>
+    <title_search>jungle hunt</title_search>
+    <image ext="png" id="Jungle Hunt (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jungle Hunt (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jupiter Lander (Japan, USA)">
+    <description>Jupiter Lander (Japan, USA)</description>
+    <title_clean>Jupiter Lander</title_clean>
+    <title_search>jupiter lander</title_search>
+    <image ext="png" id="Jupiter Lander (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jupiter Lander (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="K-Razy Antiks (Europe)">
+    <description>K-Razy Antiks (Europe)</description>
+    <title_clean>K-Razy Antiks</title_clean>
+    <title_search>krazy antiks</title_search>
+    <image ext="png" id="K-Razy Antiks (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="K-Razy Antiks (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="K-Star Patrol (Europe)">
+    <description>K-Star Patrol (Europe)</description>
+    <title_clean>K-Star Patrol</title_clean>
+    <title_search>kstar patrol</title_search>
+    <image ext="png" id="K-Star Patrol (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="K-Star Patrol (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kids on Keys (World)">
+    <description>Kids on Keys (World)</description>
+    <title_clean>Kids on Keys</title_clean>
+    <title_search>kids on keys</title_search>
+    <image ext="png" id="Kids on Keys (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kids on Keys (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kindercomp (World)">
+    <description>Kindercomp (World)</description>
+    <title_clean>Kindercomp</title_clean>
+    <title_search>kindercomp</title_search>
+    <image ext="png" id="Kindercomp (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kindercomp (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lazer Zone (World)">
+    <description>Lazer Zone (World)</description>
+    <title_clean>Lazer Zone</title_clean>
+    <title_search>lazer zone</title_search>
+    <image ext="png" id="Lazer Zone (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lazer Zone (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lode Runner (World)">
+    <description>Lode Runner (World)</description>
+    <title_clean>Lode Runner</title_clean>
+    <title_search>lode runner</title_search>
+    <image ext="png" id="Lode Runner (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lode Runner (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lunar Leeper (Japan, USA)">
+    <description>Lunar Leeper (Japan, USA)</description>
+    <title_clean>Lunar Leeper</title_clean>
+    <title_search>lunar leeper</title_search>
+    <image ext="png" id="Lunar Leeper (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lunar Leeper (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mastertype (World)">
+    <description>Mastertype (World)</description>
+    <title_clean>Mastertype</title_clean>
+    <title_search>mastertype</title_search>
+    <image ext="png" id="Mastertype (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mastertype (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Maze (Japan, USA)">
+    <description>Maze (Japan, USA)</description>
+    <title_clean>Maze</title_clean>
+    <title_search>maze</title_search>
+    <image ext="png" id="Maze (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Maze (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Maze (Japan, USA) (Alt 1)">
+    <description>Maze (Japan, USA) (Alt 1)</description>
+    <title_clean>Maze</title_clean>
+    <title_search>maze</title_search>
+    <image ext="png" id="Maze (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Maze (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Medieval Joust (World)">
+    <description>Medieval Joust (World)</description>
+    <title_clean>Medieval Joust</title_clean>
+    <title_search>medieval joust</title_search>
+    <image ext="png" id="Medieval Joust (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Medieval Joust (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Medieval Joust (World) (Alt 1)">
+    <description>Medieval Joust (World) (Alt 1)</description>
+    <title_clean>Medieval Joust</title_clean>
+    <title_search>medieval joust</title_search>
+    <image ext="png" id="Medieval Joust (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Medieval Joust (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Menagerie (World)">
+    <description>Menagerie (World)</description>
+    <title_clean>Menagerie</title_clean>
+    <title_search>menagerie</title_search>
+    <image ext="png" id="Menagerie (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Menagerie (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Menagerie (World) (Alt 1)">
+    <description>Menagerie (World) (Alt 1)</description>
+    <title_clean>Menagerie</title_clean>
+    <title_search>menagerie</title_search>
+    <image ext="png" id="Menagerie (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Menagerie (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Menagerie (World) (Alt 2)">
+    <description>Menagerie (World) (Alt 2)</description>
+    <title_clean>Menagerie</title_clean>
+    <title_search>menagerie</title_search>
+    <image ext="png" id="Menagerie (World) (Alt 2)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Menagerie (World) (Alt 2)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Meteor Run (Europe)">
+    <description>Meteor Run (Europe)</description>
+    <title_clean>Meteor Run</title_clean>
+    <title_search>meteor run</title_search>
+    <image ext="png" id="Meteor Run (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Meteor Run (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mine Madness (Japan, USA)">
+    <description>Mine Madness (Japan, USA)</description>
+    <title_clean>Mine Madness</title_clean>
+    <title_search>mine madness</title_search>
+    <image ext="png" id="Mine Madness (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mine Madness (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Miner 2049'er (Europe)">
+    <description>Miner 2049'er (Europe)</description>
+    <title_clean>Miner 2049'er</title_clean>
+    <title_search>miner 2049er</title_search>
+    <image ext="png" id="Miner 2049'er (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Miner 2049'er (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Miner 2049'er (Europe) (Alt 1)">
+    <description>Miner 2049'er (Europe) (Alt 1)</description>
+    <title_clean>Miner 2049'er</title_clean>
+    <title_search>miner 2049er</title_search>
+    <image ext="png" id="Miner 2049'er (Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Miner 2049'er (Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mission Impossible Adventure (World) (SYS 32592)">
+    <description>Mission Impossible Adventure (World) (SYS 32592)</description>
+    <title_clean>Mission Impossible Adventure</title_clean>
+    <title_search>mission impossible adventure</title_search>
+    <image ext="png" id="Mission Impossible Adventure (World) (SYS 32592)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mission Impossible Adventure (World) (SYS 32592)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mole Attack (Japan, USA)">
+    <description>Mole Attack (Japan, USA)</description>
+    <title_clean>Mole Attack</title_clean>
+    <title_search>mole attack</title_search>
+    <image ext="png" id="Mole Attack (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mole Attack (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mole Attack (Japan, USA) (Alt 1)">
+    <description>Mole Attack (Japan, USA) (Alt 1)</description>
+    <title_clean>Mole Attack</title_clean>
+    <title_search>mole attack</title_search>
+    <image ext="png" id="Mole Attack (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mole Attack (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Money Wars (Japan, USA)">
+    <description>Money Wars (Japan, USA)</description>
+    <title_clean>Money Wars</title_clean>
+    <title_search>money wars</title_search>
+    <image ext="png" id="Money Wars (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Money Wars (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Money Wars (Japan, USA) (Alt 1)">
+    <description>Money Wars (Japan, USA) (Alt 1)</description>
+    <title_clean>Money Wars</title_clean>
+    <title_search>money wars</title_search>
+    <image ext="png" id="Money Wars (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Money Wars (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Money Wars (Japan, USA) (Alt 2)">
+    <description>Money Wars (Japan, USA) (Alt 2)</description>
+    <title_clean>Money Wars</title_clean>
+    <title_search>money wars</title_search>
+    <image ext="png" id="Money Wars (Japan, USA) (Alt 2)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Money Wars (Japan, USA) (Alt 2)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Money Wars (Japan, USA) (Alt 3)">
+    <description>Money Wars (Japan, USA) (Alt 3)</description>
+    <title_clean>Money Wars</title_clean>
+    <title_search>money wars</title_search>
+    <image ext="png" id="Money Wars (Japan, USA) (Alt 3)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Money Wars (Japan, USA) (Alt 3)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Monster Maze (World)">
+    <description>Monster Maze (World)</description>
+    <title_clean>Monster Maze</title_clean>
+    <title_search>monster maze</title_search>
+    <image ext="png" id="Monster Maze (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Monster Maze (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Moon Patrol (Japan, USA)">
+    <description>Moon Patrol (Japan, USA)</description>
+    <title_clean>Moon Patrol</title_clean>
+    <title_search>moon patrol</title_search>
+    <image ext="png" id="Moon Patrol (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Moon Patrol (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mosquito Infestation (Europe)">
+    <description>Mosquito Infestation (Europe)</description>
+    <title_clean>Mosquito Infestation</title_clean>
+    <title_search>mosquito infestation</title_search>
+    <image ext="png" id="Mosquito Infestation (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mosquito Infestation (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Motocross Racer (Japan, USA)">
+    <description>Motocross Racer (Japan, USA)</description>
+    <title_clean>Motocross Racer</title_clean>
+    <title_search>motocross racer</title_search>
+    <image ext="png" id="Motocross Racer (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Motocross Racer (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mountain King (Japan, USA)">
+    <description>Mountain King (Japan, USA)</description>
+    <title_clean>Mountain King</title_clean>
+    <title_search>mountain king</title_search>
+    <image ext="png" id="Mountain King (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mountain King (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ms. Pac-Man (Japan, USA)">
+    <description>Ms. Pac-Man (Japan, USA)</description>
+    <title_clean>Ms. Pac-Man</title_clean>
+    <title_search>ms pacman</title_search>
+    <image ext="png" id="Ms. Pac-Man (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ms. Pac-Man (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mutant Herd (Europe)">
+    <description>Mutant Herd (Europe)</description>
+    <title_clean>Mutant Herd</title_clean>
+    <title_search>mutant herd</title_search>
+    <image ext="png" id="Mutant Herd (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mutant Herd (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mutant Herd (Europe) (Alt 1)">
+    <description>Mutant Herd (Europe) (Alt 1)</description>
+    <title_clean>Mutant Herd</title_clean>
+    <title_search>mutant herd</title_search>
+    <image ext="png" id="Mutant Herd (Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mutant Herd (Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Number Crunch (Japan, USA)">
+    <description>Number Crunch (Japan, USA)</description>
+    <title_clean>Number Crunch</title_clean>
+    <title_search>number crunch</title_search>
+    <image ext="png" id="Number Crunch (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Number Crunch (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Number Nabber, Shape Grabber (Japan, USA)">
+    <description>Number Nabber, Shape Grabber (Japan, USA)</description>
+    <title_clean>Number Nabber, Shape Grabber</title_clean>
+    <title_search>number nabber shape grabber</title_search>
+    <image ext="png" id="Number Nabber, Shape Grabber (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Number Nabber, Shape Grabber (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Omega Race (Japan, USA)">
+    <description>Omega Race (Japan, USA)</description>
+    <title_clean>Omega Race</title_clean>
+    <title_search>omega race</title_search>
+    <image ext="png" id="Omega Race (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Omega Race (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Outworld (Europe)">
+    <description>Outworld (Europe)</description>
+    <title_clean>Outworld</title_clean>
+    <title_search>outworld</title_search>
+    <image ext="png" id="Outworld (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Outworld (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Outworld (Japan, USA)">
+    <description>Outworld (Japan, USA)</description>
+    <title_clean>Outworld</title_clean>
+    <title_search>outworld</title_search>
+    <image ext="png" id="Outworld (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Outworld (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="PET Loader (Europe) (Program)">
+    <description>PET Loader (Europe) (Program)</description>
+    <title_clean>PET Loader</title_clean>
+    <title_search>pet loader</title_search>
+    <image ext="png" id="PET Loader (Europe) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="PET Loader (Europe) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pac-Man (World)">
+    <description>Pac-Man (World)</description>
+    <title_clean>Pac-Man</title_clean>
+    <title_search>pacman</title_search>
+    <image ext="png" id="Pac-Man (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pac-Man (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pac-Man (World) (Alt 1)">
+    <description>Pac-Man (World) (Alt 1)</description>
+    <title_clean>Pac-Man</title_clean>
+    <title_search>pacman</title_search>
+    <image ext="png" id="Pac-Man (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pac-Man (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Personal Finance (World) (Program)">
+    <description>Personal Finance (World) (Program)</description>
+    <title_clean>Personal Finance</title_clean>
+    <title_search>personal finance</title_search>
+    <image ext="png" id="Personal Finance (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Personal Finance (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pharaoh's Curse (World)">
+    <description>Pharaoh's Curse (World)</description>
+    <title_clean>Pharaoh's Curse</title_clean>
+    <title_search>pharaohs curse</title_search>
+    <image ext="png" id="Pharaoh's Curse (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pharaoh's Curse (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pharaoh's Curse (World) (Alt 1)">
+    <description>Pharaoh's Curse (World) (Alt 1)</description>
+    <title_clean>Pharaoh's Curse</title_clean>
+    <title_search>pharaohs curse</title_search>
+    <image ext="png" id="Pharaoh's Curse (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pharaoh's Curse (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pinball (Europe)">
+    <description>Pinball (Europe)</description>
+    <title_clean>Pinball</title_clean>
+    <title_search>pinball</title_search>
+    <image ext="png" id="Pinball (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pinball (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pinball Spectacular (Japan, USA)">
+    <description>Pinball Spectacular (Japan, USA)</description>
+    <title_clean>Pinball Spectacular</title_clean>
+    <title_search>pinball spectacular</title_search>
+    <image ext="png" id="Pinball Spectacular (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pinball Spectacular (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pipes (Japan, USA)">
+    <description>Pipes (Japan, USA)</description>
+    <title_clean>Pipes</title_clean>
+    <title_search>pipes</title_search>
+    <image ext="png" id="Pipes (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pipes (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pirate's Cove Adventure (World) (SYS 32592)">
+    <description>Pirate's Cove Adventure (World) (SYS 32592)</description>
+    <title_clean>Pirate's Cove Adventure</title_clean>
+    <title_search>pirates cove adventure</title_search>
+    <image ext="png" id="Pirate's Cove Adventure (World) (SYS 32592)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pirate's Cove Adventure (World) (SYS 32592)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Poker (Japan, USA)">
+    <description>Poker (Japan, USA)</description>
+    <title_clean>Poker</title_clean>
+    <title_search>poker</title_search>
+    <image ext="png" id="Poker (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Poker (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Poker (Japan, USA) (Alt 1)">
+    <description>Poker (Japan, USA) (Alt 1)</description>
+    <title_clean>Poker</title_clean>
+    <title_search>poker</title_search>
+    <image ext="png" id="Poker (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Poker (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Polaris (Japan, USA)">
+    <description>Polaris (Japan, USA)</description>
+    <title_clean>Polaris</title_clean>
+    <title_search>polaris</title_search>
+    <image ext="png" id="Polaris (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Polaris (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pole Position (Japan, USA)">
+    <description>Pole Position (Japan, USA)</description>
+    <title_clean>Pole Position</title_clean>
+    <title_search>pole position</title_search>
+    <image ext="png" id="Pole Position (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pole Position (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Predator (Europe)">
+    <description>Predator (Europe)</description>
+    <title_clean>Predator</title_clean>
+    <title_search>predator</title_search>
+    <image ext="png" id="Predator (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Predator (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Predator (Japan, USA)">
+    <description>Predator (Japan, USA)</description>
+    <title_clean>Predator</title_clean>
+    <title_search>predator</title_search>
+    <image ext="png" id="Predator (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Predator (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Princess and Frog (Japan, USA)">
+    <description>Princess and Frog (Japan, USA)</description>
+    <title_clean>Princess and Frog</title_clean>
+    <title_search>princess and frog</title_search>
+    <image ext="png" id="Princess and Frog (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Princess and Frog (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Programmer's Aid Cartridge (World) (SYS 28681) (Program)">
+    <description>Programmer's Aid Cartridge (World) (SYS 28681) (Program)</description>
+    <title_clean>Programmer's Aid Cartridge</title_clean>
+    <title_search>programmers aid cartridge</title_search>
+    <image ext="png" id="Programmer's Aid Cartridge (World) (SYS 28681) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Programmer's Aid Cartridge (World) (SYS 28681) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Protector (World)">
+    <description>Protector (World)</description>
+    <title_clean>Protector</title_clean>
+    <title_search>protector</title_search>
+    <image ext="png" id="Protector (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Protector (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Q-bert (Japan, USA)">
+    <description>Q-bert (Japan, USA)</description>
+    <title_clean>Q-bert</title_clean>
+    <title_search>qbert</title_search>
+    <image ext="png" id="Q-bert (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Q-bert (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Quackers (Europe)">
+    <description>Quackers (Europe)</description>
+    <title_clean>Quackers</title_clean>
+    <title_search>quackers</title_search>
+    <image ext="png" id="Quackers (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Quackers (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Quackers (Europe) (Alt 1)">
+    <description>Quackers (Europe) (Alt 1)</description>
+    <title_clean>Quackers</title_clean>
+    <title_search>quackers</title_search>
+    <image ext="png" id="Quackers (Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Quackers (Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Quick Brown Fox (World) (SYS 32692) (Program)">
+    <description>Quick Brown Fox (World) (SYS 32692) (Program)</description>
+    <title_clean>Quick Brown Fox</title_clean>
+    <title_search>quick brown fox</title_search>
+    <image ext="png" id="Quick Brown Fox (World) (SYS 32692) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Quick Brown Fox (World) (SYS 32692) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Raid on Fort Knox (World)">
+    <description>Raid on Fort Knox (World)</description>
+    <title_clean>Raid on Fort Knox</title_clean>
+    <title_search>raid on fort knox</title_search>
+    <image ext="png" id="Raid on Fort Knox (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Raid on Fort Knox (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Raid on Fort Knox (World) (Alt 1)">
+    <description>Raid on Fort Knox (World) (Alt 1)</description>
+    <title_clean>Raid on Fort Knox</title_clean>
+    <title_search>raid on fort knox</title_search>
+    <image ext="png" id="Raid on Fort Knox (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Raid on Fort Knox (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rat Hotel (Europe)">
+    <description>Rat Hotel (Europe)</description>
+    <title_clean>Rat Hotel</title_clean>
+    <title_search>rat hotel</title_search>
+  </game>
+  <game name="Rat Hotel (Japan, USA)">
+    <description>Rat Hotel (Japan, USA)</description>
+    <title_clean>Rat Hotel</title_clean>
+    <title_search>rat hotel</title_search>
+    <image ext="png" id="Rat Hotel (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rat Hotel (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Renaissance (Japan, USA)">
+    <description>Renaissance (Japan, USA)</description>
+    <title_clean>Renaissance</title_clean>
+    <title_search>renaissance</title_search>
+    <image ext="png" id="Renaissance (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Renaissance (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="River Rescue (World)">
+    <description>River Rescue (World)</description>
+    <title_clean>River Rescue</title_clean>
+    <title_search>river rescue</title_search>
+    <image ext="png" id="River Rescue (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="River Rescue (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="River Rescue (World) (Alt 1)">
+    <description>River Rescue (World) (Alt 1)</description>
+    <title_clean>River Rescue</title_clean>
+    <title_search>river rescue</title_search>
+    <image ext="png" id="River Rescue (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="River Rescue (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Road Race (Japan, USA)">
+    <description>Road Race (Japan, USA)</description>
+    <title_clean>Road Race</title_clean>
+    <title_search>road race</title_search>
+    <image ext="png" id="Road Race (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Road Race (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Road Race (Japan, USA) (Alt 1)">
+    <description>Road Race (Japan, USA) (Alt 1)</description>
+    <title_clean>Road Race</title_clean>
+    <title_search>road race</title_search>
+    <image ext="png" id="Road Race (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Road Race (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Road Race (Japan, USA) (Alt 2)">
+    <description>Road Race (Japan, USA) (Alt 2)</description>
+    <title_clean>Road Race</title_clean>
+    <title_search>road race</title_search>
+    <image ext="png" id="Road Race (Japan, USA) (Alt 2)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Road Race (Japan, USA) (Alt 2)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Robin Hood (Japan, USA)">
+    <description>Robin Hood (Japan, USA)</description>
+    <title_clean>Robin Hood</title_clean>
+    <title_search>robin hood</title_search>
+    <image ext="png" id="Robin Hood (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Robin Hood (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Robot Panic (World)">
+    <description>Robot Panic (World)</description>
+    <title_clean>Robot Panic</title_clean>
+    <title_search>robot panic</title_search>
+    <image ext="png" id="Robot Panic (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Robot Panic (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Robot Panic (World) (Alt 1)">
+    <description>Robot Panic (World) (Alt 1)</description>
+    <title_clean>Robot Panic</title_clean>
+    <title_search>robot panic</title_search>
+    <image ext="png" id="Robot Panic (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Robot Panic (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sargon II Chess (Japan, USA)">
+    <description>Sargon II Chess (Japan, USA)</description>
+    <title_clean>Sargon II Chess</title_clean>
+    <title_search>sargon ii chess</title_search>
+    <image ext="png" id="Sargon II Chess (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sargon II Chess (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sargon II Chess (Japan, USA) (Alt 1)">
+    <description>Sargon II Chess (Japan, USA) (Alt 1)</description>
+    <title_clean>Sargon II Chess</title_clean>
+    <title_search>sargon ii chess</title_search>
+    <image ext="png" id="Sargon II Chess (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sargon II Chess (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Satellite Patrol (Japan, USA)">
+    <description>Satellite Patrol (Japan, USA)</description>
+    <title_clean>Satellite Patrol</title_clean>
+    <title_search>satellite patrol</title_search>
+    <image ext="png" id="Satellite Patrol (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Satellite Patrol (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Satellites and Meteorites! (Europe)">
+    <description>Satellites and Meteorites! (Europe)</description>
+    <title_clean>Satellites and Meteorites!</title_clean>
+    <title_search>satellites and meteorites</title_search>
+    <image ext="png" id="Satellites and Meteorites! (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Satellites and Meteorites! (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Satellites and Meteorites! (Japan, USA)">
+    <description>Satellites and Meteorites! (Japan, USA)</description>
+    <title_clean>Satellites and Meteorites!</title_clean>
+    <title_search>satellites and meteorites</title_search>
+    <image ext="png" id="Satellites and Meteorites! (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Satellites and Meteorites! (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Scorpion (Europe)">
+    <description>Scorpion (Europe)</description>
+    <title_clean>Scorpion</title_clean>
+    <title_search>scorpion</title_search>
+    <image ext="png" id="Scorpion (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Scorpion (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Scorpion (Europe) (Alt 1)">
+    <description>Scorpion (Europe) (Alt 1)</description>
+    <title_clean>Scorpion</title_clean>
+    <title_search>scorpion</title_search>
+    <image ext="png" id="Scorpion (Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Scorpion (Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Scram 20 (World)">
+    <description>Scram 20 (World)</description>
+    <title_clean>Scram 20</title_clean>
+    <title_search>scram 20</title_search>
+    <image ext="png" id="Scram 20 (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Scram 20 (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Screen Master (World) (Program)">
+    <description>Screen Master (World) (Program)</description>
+    <title_clean>Screen Master</title_clean>
+    <title_search>screen master</title_search>
+    <image ext="png" id="Screen Master (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Screen Master (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sea Wolf (Japan, USA)">
+    <description>Sea Wolf (Japan, USA)</description>
+    <title_clean>Sea Wolf</title_clean>
+    <title_search>sea wolf</title_search>
+    <image ext="png" id="Sea Wolf (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sea Wolf (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Seafox (Japan, USA)">
+    <description>Seafox (Japan, USA)</description>
+    <title_clean>Seafox</title_clean>
+    <title_search>seafox</title_search>
+    <image ext="png" id="Seafox (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Seafox (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Serpentine (Europe)">
+    <description>Serpentine (Europe)</description>
+    <title_clean>Serpentine</title_clean>
+    <title_search>serpentine</title_search>
+    <image ext="png" id="Serpentine (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Serpentine (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Serpentine (Japan, USA)">
+    <description>Serpentine (Japan, USA)</description>
+    <title_clean>Serpentine</title_clean>
+    <title_search>serpentine</title_search>
+    <image ext="png" id="Serpentine (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Serpentine (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shamus (Japan, USA)">
+    <description>Shamus (Japan, USA)</description>
+    <title_clean>Shamus</title_clean>
+    <title_search>shamus</title_search>
+    <image ext="png" id="Shamus (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shamus (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sir Lancelot (World)">
+    <description>Sir Lancelot (World)</description>
+    <title_clean>Sir Lancelot</title_clean>
+    <title_search>sir lancelot</title_search>
+    <image ext="png" id="Sir Lancelot (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sir Lancelot (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Skibbereen (Europe)">
+    <description>Skibbereen (Europe)</description>
+    <title_clean>Skibbereen</title_clean>
+    <title_search>skibbereen</title_search>
+    <image ext="png" id="Skibbereen (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Skibbereen (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Skibbereen (Japan, USA)">
+    <description>Skibbereen (Japan, USA)</description>
+    <title_clean>Skibbereen</title_clean>
+    <title_search>skibbereen</title_search>
+    <image ext="png" id="Skibbereen (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Skibbereen (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Skyblazer (Japan, USA)">
+    <description>Skyblazer (Japan, USA)</description>
+    <title_clean>Skyblazer</title_clean>
+    <title_search>skyblazer</title_search>
+    <image ext="png" id="Skyblazer (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Skyblazer (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Snake Byte (Japan, USA)">
+    <description>Snake Byte (Japan, USA)</description>
+    <title_clean>Snake Byte</title_clean>
+    <title_search>snake byte</title_search>
+    <image ext="png" id="Snake Byte (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Snake Byte (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Ric-O-Shay (Japan, USA)">
+    <description>Space Ric-O-Shay (Japan, USA)</description>
+    <title_clean>Space Ric-O-Shay</title_clean>
+    <title_search>space ricoshay</title_search>
+  </game>
+  <game name="Space Snake (Netherlands)">
+    <description>Space Snake (Netherlands)</description>
+    <title_clean>Space Snake</title_clean>
+    <title_search>space snake</title_search>
+    <image ext="png" id="Space Snake (Netherlands)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Snake (Netherlands)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Speed Math _ Bingo Math (Japan, USA)">
+    <description>Speed Math _ Bingo Math (Japan, USA)</description>
+    <title_clean>Speed Math _ Bingo Math</title_clean>
+    <title_search>speed math bingo math</title_search>
+    <image ext="png" id="Speed Math _ Bingo Math (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Speed Math _ Bingo Math (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Speed Math _ Bingo Math (Japan, USA) (Alt 1)">
+    <description>Speed Math _ Bingo Math (Japan, USA) (Alt 1)</description>
+    <title_clean>Speed Math _ Bingo Math</title_clean>
+    <title_search>speed math bingo math</title_search>
+    <image ext="png" id="Speed Math _ Bingo Math (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Speed Math _ Bingo Math (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Spider City (Japan, USA)">
+    <description>Spider City (Japan, USA)</description>
+    <title_clean>Spider City</title_clean>
+    <title_search>spider city</title_search>
+    <image ext="png" id="Spider City (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Spider City (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Spider City (Japan, USA) (Alt 1)">
+    <description>Spider City (Japan, USA) (Alt 1)</description>
+    <title_clean>Spider City</title_clean>
+    <title_search>spider city</title_search>
+    <image ext="png" id="Spider City (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Spider City (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Spiders of Mars (Europe)">
+    <description>Spiders of Mars (Europe)</description>
+    <title_clean>Spiders of Mars</title_clean>
+    <title_search>spiders of mars</title_search>
+    <image ext="png" id="Spiders of Mars (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Spiders of Mars (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Spike's Peak (Japan, USA)">
+    <description>Spike's Peak (Japan, USA)</description>
+    <title_clean>Spike's Peak</title_clean>
+    <title_search>spikes peak</title_search>
+    <image ext="png" id="Spike's Peak (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Spike's Peak (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Spills _ Fills (Japan, USA)">
+    <description>Spills _ Fills (Japan, USA)</description>
+    <title_clean>Spills _ Fills</title_clean>
+    <title_search>spills fills</title_search>
+    <image ext="png" id="Spills _ Fills (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Spills _ Fills (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Springer (Japan, USA)">
+    <description>Springer (Japan, USA)</description>
+    <title_clean>Springer</title_clean>
+    <title_search>springer</title_search>
+    <image ext="png" id="Springer (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Springer (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Squish'Em (Japan, USA)">
+    <description>Squish'Em (Japan, USA)</description>
+    <title_clean>Squish'Em</title_clean>
+    <title_search>squishem</title_search>
+    <image ext="png" id="Squish'Em (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Squish'Em (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Battle (Japan, USA)">
+    <description>Star Battle (Japan, USA)</description>
+    <title_clean>Star Battle</title_clean>
+    <title_search>star battle</title_search>
+    <image ext="png" id="Star Battle (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Battle (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Post (Japan, USA)">
+    <description>Star Post (Japan, USA)</description>
+    <title_clean>Star Post</title_clean>
+    <title_search>star post</title_search>
+    <image ext="png" id="Star Post (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Post (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Trek - Strategic Operations Simulator (World)">
+    <description>Star Trek - Strategic Operations Simulator (World)</description>
+    <title_clean>Star Trek - Strategic Operations Simulator</title_clean>
+    <title_search>star trek strategic operations simulator</title_search>
+    <image ext="png" id="Star Trek - Strategic Operations Simulator (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Trek - Strategic Operations Simulator (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Trek - Strategic Operations Simulator (World) (Alt 1)">
+    <description>Star Trek - Strategic Operations Simulator (World) (Alt 1)</description>
+    <title_clean>Star Trek - Strategic Operations Simulator</title_clean>
+    <title_search>star trek strategic operations simulator</title_search>
+    <image ext="png" id="Star Trek - Strategic Operations Simulator (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Trek - Strategic Operations Simulator (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Story Machine (World) (Alt 1)">
+    <description>Story Machine (World) (Alt 1)</description>
+    <title_clean>Story Machine</title_clean>
+    <title_search>story machine</title_search>
+    <image ext="png" id="Story Machine (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Story Machine (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sub Chase (Europe)">
+    <description>Sub Chase (Europe)</description>
+    <title_clean>Sub Chase</title_clean>
+    <title_search>sub chase</title_search>
+    <image ext="png" id="Sub Chase (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sub Chase (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Submarine Commander (World)">
+    <description>Submarine Commander (World)</description>
+    <title_clean>Submarine Commander</title_clean>
+    <title_search>submarine commander</title_search>
+    <image ext="png" id="Submarine Commander (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Submarine Commander (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Amok (Japan, USA)">
+    <description>Super Amok (Japan, USA)</description>
+    <title_clean>Super Amok</title_clean>
+    <title_search>super amok</title_search>
+    <image ext="png" id="Super Amok (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Amok (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Amok (Japan, USA) (Alt 1)">
+    <description>Super Amok (Japan, USA) (Alt 1)</description>
+    <title_clean>Super Amok</title_clean>
+    <title_search>super amok</title_search>
+    <image ext="png" id="Super Amok (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Amok (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Expander (World) (Program)">
+    <description>Super Expander (World) (Program)</description>
+    <title_clean>Super Expander</title_clean>
+    <title_search>super expander</title_search>
+    <image ext="png" id="Super Expander (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Expander (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Smash (Europe)">
+    <description>Super Smash (Europe)</description>
+    <title_clean>Super Smash</title_clean>
+    <title_search>super smash</title_search>
+    <image ext="png" id="Super Smash (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Smash (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Smash (Japan, USA)">
+    <description>Super Smash (Japan, USA)</description>
+    <title_clean>Super Smash</title_clean>
+    <title_search>super smash</title_search>
+    <image ext="png" id="Super Smash (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Smash (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Smash (Japan, USA) (Alt 1)">
+    <description>Super Smash (Japan, USA) (Alt 1)</description>
+    <title_clean>Super Smash</title_clean>
+    <title_search>super smash</title_search>
+    <image ext="png" id="Super Smash (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Smash (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Synthesound (World) (Program)">
+    <description>Synthesound (World) (Program)</description>
+    <title_clean>Synthesound</title_clean>
+    <title_search>synthesound</title_search>
+    <image ext="png" id="Synthesound (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Synthesound (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tank Atak (Europe)">
+    <description>Tank Atak (Europe)</description>
+    <title_clean>Tank Atak</title_clean>
+    <title_search>tank atak</title_search>
+    <image ext="png" id="Tank Atak (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tank Atak (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Terraguard (Europe)">
+    <description>Terraguard (Europe)</description>
+    <title_clean>Terraguard</title_clean>
+    <title_search>terraguard</title_search>
+    <image ext="png" id="Terraguard (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Terraguard (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Terraguard (Japan, USA)">
+    <description>Terraguard (Japan, USA)</description>
+    <title_clean>Terraguard</title_clean>
+    <title_search>terraguard</title_search>
+    <image ext="png" id="Terraguard (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Terraguard (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Threshold (Japan, USA)">
+    <description>Threshold (Japan, USA)</description>
+    <title_clean>Threshold</title_clean>
+    <title_search>threshold</title_search>
+    <image ext="png" id="Threshold (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Threshold (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Titan (World)">
+    <description>Titan (World)</description>
+    <title_clean>Titan</title_clean>
+    <title_search>titan</title_search>
+    <image ext="png" id="Titan (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Titan (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tomarc the Barbarian (World)">
+    <description>Tomarc the Barbarian (World)</description>
+    <title_clean>Tomarc the Barbarian</title_clean>
+    <title_search>tomarc the barbarian</title_search>
+    <image ext="png" id="Tomarc the Barbarian (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tomarc the Barbarian (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tooth Invaders (Japan, USA)">
+    <description>Tooth Invaders (Japan, USA)</description>
+    <title_clean>Tooth Invaders</title_clean>
+    <title_search>tooth invaders</title_search>
+    <image ext="png" id="Tooth Invaders (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tooth Invaders (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Topper (Japan, USA)">
+    <description>Topper (Japan, USA)</description>
+    <title_clean>Topper</title_clean>
+    <title_search>topper</title_search>
+    <image ext="png" id="Topper (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Topper (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Trashman (World)">
+    <description>Trashman (World)</description>
+    <title_clean>Trashman</title_clean>
+    <title_search>trashman</title_search>
+    <image ext="png" id="Trashman (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Trashman (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Turmoil (Japan, USA)">
+    <description>Turmoil (Japan, USA)</description>
+    <title_clean>Turmoil</title_clean>
+    <title_search>turmoil</title_search>
+    <image ext="png" id="Turmoil (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Turmoil (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Turtle Graphics (World) (Alt 1) (Program)">
+    <description>Turtle Graphics (World) (Alt 1) (Program)</description>
+    <title_clean>Turtle Graphics</title_clean>
+    <title_search>turtle graphics</title_search>
+    <image ext="png" id="Turtle Graphics (World) (Alt 1) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Turtle Graphics (World) (Alt 1) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Turtle Graphics (World) (Alt 2) (Program)">
+    <description>Turtle Graphics (World) (Alt 2) (Program)</description>
+    <title_clean>Turtle Graphics</title_clean>
+    <title_search>turtle graphics</title_search>
+    <image ext="png" id="Turtle Graphics (World) (Alt 2) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Turtle Graphics (World) (Alt 2) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Turtle Graphics (World) (Program)">
+    <description>Turtle Graphics (World) (Program)</description>
+    <title_clean>Turtle Graphics</title_clean>
+    <title_search>turtle graphics</title_search>
+    <image ext="png" id="Turtle Graphics (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Turtle Graphics (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tutankham (World)">
+    <description>Tutankham (World)</description>
+    <title_clean>Tutankham</title_clean>
+    <title_search>tutankham</title_search>
+    <image ext="png" id="Tutankham (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tutankham (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Type Attack (Japan, USA)">
+    <description>Type Attack (Japan, USA)</description>
+    <title_clean>Type Attack</title_clean>
+    <title_search>type attack</title_search>
+    <image ext="png" id="Type Attack (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Type Attack (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Typo (Japan, USA)">
+    <description>Typo (Japan, USA)</description>
+    <title_clean>Typo</title_clean>
+    <title_search>typo</title_search>
+    <image ext="png" id="Typo (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Typo (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VC Extra (World) (Program)">
+    <description>VC Extra (World) (Program)</description>
+    <title_clean>VC Extra</title_clean>
+    <title_search>vc extra</title_search>
+    <image ext="png" id="VC Extra (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VC Extra (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VC Song-Cartridge - Inventio-Pac (Germany) (Program)">
+    <description>VC Song-Cartridge - Inventio-Pac (Germany) (Program)</description>
+    <title_clean>VC Song-Cartridge - Inventio-Pac</title_clean>
+    <title_search>vc songcartridge inventiopac</title_search>
+  </game>
+  <game name="VC Song-Cartridge - The Mad Boogy (Germany) (Alt 1) (Program)">
+    <description>VC Song-Cartridge - The Mad Boogy (Germany) (Alt 1) (Program)</description>
+    <title_clean>VC Song-Cartridge - The Mad Boogy</title_clean>
+    <title_search>vc songcartridge the mad boogy</title_search>
+    <image ext="png" id="VC Song-Cartridge - The Mad Boogy (Germany) (Alt 1) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VC Song-Cartridge - The Mad Boogy (Germany) (Alt 1) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VC Song-Cartridge - The Mad Boogy (Germany) (Program)">
+    <description>VC Song-Cartridge - The Mad Boogy (Germany) (Program)</description>
+    <title_clean>VC Song-Cartridge - The Mad Boogy</title_clean>
+    <title_search>vc songcartridge the mad boogy</title_search>
+    <image ext="png" id="VC Song-Cartridge - The Mad Boogy (Germany) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VC Song-Cartridge - The Mad Boogy (Germany) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VC Song-Cartridge - The Synthe-Song (Germany) (Program)">
+    <description>VC Song-Cartridge - The Synthe-Song (Germany) (Program)</description>
+    <title_clean>VC Song-Cartridge - The Synthe-Song</title_clean>
+    <title_search>vc songcartridge the synthesong</title_search>
+    <image ext="png" id="VC Song-Cartridge - The Synthe-Song (Germany) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VC Song-Cartridge - The Synthe-Song (Germany) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VC-20 Diagnostic (Europe) (Program)">
+    <description>VC-20 Diagnostic (Europe) (Program)</description>
+    <title_clean>VC-20 Diagnostic</title_clean>
+    <title_search>vc20 diagnostic</title_search>
+    <image ext="png" id="VC-20 Diagnostic (Europe) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VC-20 Diagnostic (Europe) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VIC 20 Micromon (World) (v1.2) (Program)">
+    <description>VIC 20 Micromon (World) (v1.2) (Program)</description>
+    <title_clean>VIC 20 Micromon</title_clean>
+    <title_search>vic 20 micromon</title_search>
+    <image ext="png" id="VIC 20 Micromon (World) (v1.2) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VIC 20 Micromon (World) (v1.2) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VIC Color Test (Germany) (Program)">
+    <description>VIC Color Test (Germany) (Program)</description>
+    <title_clean>VIC Color Test</title_clean>
+    <title_search>vic color test</title_search>
+    <image ext="png" id="VIC Color Test (Germany) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VIC Color Test (Germany) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VIC Debug 98 (World) (SYS 40960) (Program)">
+    <description>VIC Debug 98 (World) (SYS 40960) (Program)</description>
+    <title_clean>VIC Debug 98</title_clean>
+    <title_search>vic debug 98</title_search>
+    <image ext="png" id="VIC Debug 98 (World) (SYS 40960) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VIC Debug 98 (World) (SYS 40960) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VIC Forth (World) (v1.0) (Program)">
+    <description>VIC Forth (World) (v1.0) (Program)</description>
+    <title_clean>VIC Forth</title_clean>
+    <title_search>vic forth</title_search>
+    <image ext="png" id="VIC Forth (World) (v1.0) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VIC Forth (World) (v1.0) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VIC Forth (World) (v1.1) (Program)">
+    <description>VIC Forth (World) (v1.1) (Program)</description>
+    <title_clean>VIC Forth</title_clean>
+    <title_search>vic forth</title_search>
+    <image ext="png" id="VIC Forth (World) (v1.1) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VIC Forth (World) (v1.1) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VIC Graph (World) (Program)">
+    <description>VIC Graph (World) (Program)</description>
+    <title_clean>VIC Graph</title_clean>
+    <title_search>vic graph</title_search>
+    <image ext="png" id="VIC Graph (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VIC Graph (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VIC Music Composer, The (Japan, USA) (Alt 1) (Program)">
+    <description>VIC Music Composer, The (Japan, USA) (Alt 1) (Program)</description>
+    <title_clean>The VIC Music Composer</title_clean>
+    <title_search>the vic music composer</title_search>
+    <image ext="png" id="VIC Music Composer, The (Japan, USA) (Alt 1) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VIC Music Composer, The (Japan, USA) (Alt 1) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VIC Music Composer, The (Japan, USA) (Program)">
+    <description>VIC Music Composer, The (Japan, USA) (Program)</description>
+    <title_clean>The VIC Music Composer</title_clean>
+    <title_search>the vic music composer</title_search>
+    <image ext="png" id="VIC Music Composer, The (Japan, USA) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VIC Music Composer, The (Japan, USA) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VIC Rabbit (World) (Program)">
+    <description>VIC Rabbit (World) (Program)</description>
+    <title_clean>VIC Rabbit</title_clean>
+    <title_search>vic rabbit</title_search>
+  </game>
+  <game name="VIC Radar Rat Race (Europe)">
+    <description>VIC Radar Rat Race (Europe)</description>
+    <title_clean>VIC Radar Rat Race</title_clean>
+    <title_search>vic radar rat race</title_search>
+    <image ext="png" id="VIC Radar Rat Race (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VIC Radar Rat Race (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VIC Radar Rat Race (Japan, USA)">
+    <description>VIC Radar Rat Race (Japan, USA)</description>
+    <title_clean>VIC Radar Rat Race</title_clean>
+    <title_search>vic radar rat race</title_search>
+    <image ext="png" id="VIC Radar Rat Race (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VIC Radar Rat Race (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VIC Radar Rat Race (Japan, USA) (Alt 1)">
+    <description>VIC Radar Rat Race (Japan, USA) (Alt 1)</description>
+    <title_clean>VIC Radar Rat Race</title_clean>
+    <title_search>vic radar rat race</title_search>
+    <image ext="png" id="VIC Radar Rat Race (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VIC Radar Rat Race (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VIC Stat (World) (Program)">
+    <description>VIC Stat (World) (Program)</description>
+    <title_clean>VIC Stat</title_clean>
+    <title_search>vic stat</title_search>
+    <image ext="png" id="VIC Stat (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VIC Stat (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VIC Super Lander (Japan, USA)">
+    <description>VIC Super Lander (Japan, USA)</description>
+    <title_clean>VIC Super Lander</title_clean>
+    <title_search>vic super lander</title_search>
+    <image ext="png" id="VIC Super Lander (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VIC Super Lander (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VIC Super Slot (Japan, USA)">
+    <description>VIC Super Slot (Japan, USA)</description>
+    <title_clean>VIC Super Slot</title_clean>
+    <title_search>vic super slot</title_search>
+    <image ext="png" id="VIC Super Slot (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VIC Super Slot (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VIC Super Slot (Japan, USA) (Alt 1)">
+    <description>VIC Super Slot (Japan, USA) (Alt 1)</description>
+    <title_clean>VIC Super Slot</title_clean>
+    <title_search>vic super slot</title_search>
+    <image ext="png" id="VIC Super Slot (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VIC Super Slot (Japan, USA) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VICMon (World) (SYS 24576) (Program)">
+    <description>VICMon (World) (SYS 24576) (Program)</description>
+    <title_clean>VICMon</title_clean>
+    <title_search>vicmon</title_search>
+    <image ext="png" id="VICMon (World) (SYS 24576) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VICMon (World) (SYS 24576) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VICMon (World) (SYS 45056) (Program)">
+    <description>VICMon (World) (SYS 45056) (Program)</description>
+    <title_clean>VICMon</title_clean>
+    <title_search>vicmon</title_search>
+    <image ext="png" id="VICMon (World) (SYS 45056) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VICMon (World) (SYS 45056) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VICMon 2 (World) (SYS 24576) (Program)">
+    <description>VICMon 2 (World) (SYS 24576) (Program)</description>
+    <title_clean>VICMon 2</title_clean>
+    <title_search>vicmon 2</title_search>
+    <image ext="png" id="VICMon 2 (World) (SYS 24576) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VICMon 2 (World) (SYS 24576) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VicTool (World) (SYS 45056) (Program)">
+    <description>VicTool (World) (SYS 45056) (Program)</description>
+    <title_clean>VicTool</title_clean>
+    <title_search>victool</title_search>
+    <image ext="png" id="VicTool (World) (SYS 45056) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VicTool (World) (SYS 45056) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Victerm 40 (World) (Program)">
+    <description>Victerm 40 (World) (Program)</description>
+    <title_clean>Victerm 40</title_clean>
+    <title_search>victerm 40</title_search>
+    <image ext="png" id="Victerm 40 (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Victerm 40 (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Video Vermin (World)">
+    <description>Video Vermin (World)</description>
+    <title_clean>Video Vermin</title_clean>
+    <title_search>video vermin</title_search>
+    <image ext="png" id="Video Vermin (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Video Vermin (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Videomania (Europe)">
+    <description>Videomania (Europe)</description>
+    <title_clean>Videomania</title_clean>
+    <title_search>videomania</title_search>
+    <image ext="png" id="Videomania (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Videomania (Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Videomania (Japan, USA)">
+    <description>Videomania (Japan, USA)</description>
+    <title_clean>Videomania</title_clean>
+    <title_search>videomania</title_search>
+    <image ext="png" id="Videomania (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Videomania (Japan, USA)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Visible Solar System, The (World)">
+    <description>Visible Solar System, The (World)</description>
+    <title_clean>The Visible Solar System</title_clean>
+    <title_search>the visible solar system</title_search>
+    <image ext="png" id="Visible Solar System, The (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Visible Solar System, The (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Visible Solar System, The (World) (Alt 1)">
+    <description>Visible Solar System, The (World) (Alt 1)</description>
+    <title_clean>The Visible Solar System</title_clean>
+    <title_search>the visible solar system</title_search>
+    <image ext="png" id="Visible Solar System, The (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Visible Solar System, The (World) (Alt 1)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Visible Solar System, The (World) (Alt 2)">
+    <description>Visible Solar System, The (World) (Alt 2)</description>
+    <title_clean>The Visible Solar System</title_clean>
+    <title_search>the visible solar system</title_search>
+    <image ext="png" id="Visible Solar System, The (World) (Alt 2)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Visible Solar System, The (World) (Alt 2)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Voodoo Castle Adventure (World) (SYS 32592)">
+    <description>Voodoo Castle Adventure (World) (SYS 32592)</description>
+    <title_clean>Voodoo Castle Adventure</title_clean>
+    <title_search>voodoo castle adventure</title_search>
+  </game>
+  <game name="W_T Parallel-Interface (World) (Program)">
+    <description>W_T Parallel-Interface (World) (Program)</description>
+    <title_clean>W_T Parallel-Interface</title_clean>
+    <title_search>wt parallelinterface</title_search>
+  </game>
+  <game name="Wacky Waiters (Europe) (SYS 48896)">
+    <description>Wacky Waiters (Europe) (SYS 48896)</description>
+    <title_clean>Wacky Waiters</title_clean>
+    <title_search>wacky waiters</title_search>
+    <image ext="png" id="Wacky Waiters (Europe) (SYS 48896)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wacky Waiters (Europe) (SYS 48896)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wordcraft 20 (World) (Alt 1) (Program)">
+    <description>Wordcraft 20 (World) (Alt 1) (Program)</description>
+    <title_clean>Wordcraft 20</title_clean>
+    <title_search>wordcraft 20</title_search>
+    <image ext="png" id="Wordcraft 20 (World) (Alt 1) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wordcraft 20 (World) (Alt 1) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wordcraft 20 (World) (Alt 2) (Program)">
+    <description>Wordcraft 20 (World) (Alt 2) (Program)</description>
+    <title_clean>Wordcraft 20</title_clean>
+    <title_search>wordcraft 20</title_search>
+    <image ext="png" id="Wordcraft 20 (World) (Alt 2) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wordcraft 20 (World) (Alt 2) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wordcraft 20 (World) (Program)">
+    <description>Wordcraft 20 (World) (Program)</description>
+    <title_clean>Wordcraft 20</title_clean>
+    <title_search>wordcraft 20</title_search>
+    <image ext="png" id="Wordcraft 20 (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wordcraft 20 (World) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="World at War, A (World)">
+    <description>World at War, A (World)</description>
+    <title_clean>World at War, A</title_clean>
+    <title_search>world at war a</title_search>
+    <image ext="png" id="World at War, A (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="World at War, A (World)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Write Now! (World) (SYS 41000) (Program)">
+    <description>Write Now! (World) (SYS 41000) (Program)</description>
+    <title_clean>Write Now!</title_clean>
+    <title_search>write now</title_search>
+    <image ext="png" id="Write Now! (World) (SYS 41000) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Write Now! (World) (SYS 41000) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_VIC-20/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

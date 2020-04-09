@@ -1,0 +1,10 @@
+<datafile>
+  <game name="Mr.Boom">
+    <description>Mr.Boom</description>
+    <title_clean>Mr.Boom</title_clean>
+    <title_search>mrboom</title_search>
+    <image ext="png" id="Mr.Boom" source="https://github.com/libretro-thumbnails/MrBoom/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mr.Boom" source="https://github.com/libretro-thumbnails/MrBoom/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mr.Boom" source="https://github.com/libretro-thumbnails/MrBoom/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

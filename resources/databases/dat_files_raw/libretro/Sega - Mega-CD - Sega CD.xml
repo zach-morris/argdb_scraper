@@ -1,0 +1,2713 @@
+<datafile>
+  <game name="3 Ninjas Kick Back (USA)">
+    <description>3 Ninjas Kick Back (USA)</description>
+    <title_clean>3 Ninjas Kick Back</title_clean>
+    <title_search>3 ninjas kick back</title_search>
+    <image ext="png" id="3 Ninjas Kick Back (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="3 Ninjas Kick Back (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="3 Ninjas Kick Back (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="A-Rank Thunder - Tanjou-hen (Japan)">
+    <description>A-Rank Thunder - Tanjou-hen (Japan)</description>
+    <title_clean>A-Rank Thunder - Tanjou-hen</title_clean>
+    <title_search>arank thunder tanjouhen</title_search>
+  </game>
+  <game name="A-X-101 (USA)">
+    <description>A-X-101 (USA)</description>
+    <title_clean>A-X-101</title_clean>
+    <title_search>ax101</title_search>
+  </game>
+  <game name="AH3 - Thunderstrike (USA)">
+    <description>AH3 - Thunderstrike (USA)</description>
+    <title_clean>AH3 - Thunderstrike</title_clean>
+    <title_search>ah3 thunderstrike</title_search>
+  </game>
+  <game name="AX-101 (Japan)">
+    <description>AX-101 (Japan)</description>
+    <title_clean>AX-101</title_clean>
+    <title_search>ax101</title_search>
+    <image ext="png" id="AX-101 (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Adventures of Batman and Robin, The (Europe)">
+    <description>Adventures of Batman and Robin, The (Europe)</description>
+    <title_clean>The Adventures of Batman and Robin</title_clean>
+    <title_search>the adventures of batman and robin</title_search>
+  </game>
+  <game name="Adventures of Batman and Robin, The (USA)">
+    <description>Adventures of Batman and Robin, The (USA)</description>
+    <title_clean>The Adventures of Batman and Robin</title_clean>
+    <title_search>the adventures of batman and robin</title_search>
+  </game>
+  <game name="Adventures of Willy Beamish, The (USA) (Alt)">
+    <description>Adventures of Willy Beamish, The (USA) (Alt)</description>
+    <title_clean>The Adventures of Willy Beamish</title_clean>
+    <title_search>the adventures of willy beamish</title_search>
+  </game>
+  <game name="After Armageddon Gaiden - Majuu Toushouden Eclipse (Japan)">
+    <description>After Armageddon Gaiden - Majuu Toushouden Eclipse (Japan)</description>
+    <title_clean>After Armageddon Gaiden - Majuu Toushouden Eclipse</title_clean>
+    <title_search>after armageddon gaiden majuu toushouden eclipse</title_search>
+    <image ext="png" id="After Armageddon Gaiden - Majuu Toushouden Eclipse (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="After Burner III (Europe)">
+    <description>After Burner III (Europe)</description>
+    <title_clean>After Burner III</title_clean>
+    <title_search>after burner iii</title_search>
+    <image ext="png" id="After Burner III (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="After Burner III (Japan)">
+    <description>After Burner III (Japan)</description>
+    <title_clean>After Burner III</title_clean>
+    <title_search>after burner iii</title_search>
+    <image ext="png" id="After Burner III (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="After Burner III (USA)">
+    <description>After Burner III (USA)</description>
+    <title_clean>After Burner III</title_clean>
+    <title_search>after burner iii</title_search>
+    <image ext="png" id="After Burner III (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="After Burner III (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="After Burner III (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Aisle Lord (Japan)">
+    <description>Aisle Lord (Japan)</description>
+    <title_clean>Aisle Lord</title_clean>
+    <title_search>aisle lord</title_search>
+    <image ext="png" id="Aisle Lord (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Alshark (Japan)">
+    <description>Alshark (Japan)</description>
+    <title_clean>Alshark</title_clean>
+    <title_search>alshark</title_search>
+    <image ext="png" id="Alshark (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Amazing Spider-Man vs. The Kingpin, The (Europe)">
+    <description>Amazing Spider-Man vs. The Kingpin, The (Europe)</description>
+    <title_clean>The Amazing Spider-Man vs. The Kingpin</title_clean>
+    <title_search>the amazing spiderman vs the kingpin</title_search>
+  </game>
+  <game name="Amazing Spider-Man vs. The Kingpin, The (USA)">
+    <description>Amazing Spider-Man vs. The Kingpin, The (USA)</description>
+    <title_clean>The Amazing Spider-Man vs. The Kingpin</title_clean>
+    <title_search>the amazing spiderman vs the kingpin</title_search>
+    <image ext="png" id="Amazing Spider-Man vs. The Kingpin, The (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Amazing Spider-Man vs. The Kingpin, The (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Amazing Spider-Man vs. The Kingpin, The (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Android Assault - The Revenge of Bari-Arm (USA)">
+    <description>Android Assault - The Revenge of Bari-Arm (USA)</description>
+    <title_clean>Android Assault - The Revenge of Bari-Arm</title_clean>
+    <title_search>android assault the revenge of bariarm</title_search>
+    <image ext="png" id="Android Assault - The Revenge of Bari-Arm (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Android Assault - The Revenge of Bari-Arm (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Android Assault - The Revenge of Bari-Arm (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Animals!, The (Europe)">
+    <description>Animals!, The (Europe)</description>
+    <title_clean>The Animals!</title_clean>
+    <title_search>the animals</title_search>
+  </game>
+  <game name="Animals!, The (USA)">
+    <description>Animals!, The (USA)</description>
+    <title_clean>The Animals!</title_clean>
+    <title_search>the animals</title_search>
+  </game>
+  <game name="Annett Futatabi (Japan)">
+    <description>Annett Futatabi (Japan)</description>
+    <title_clean>Annett Futatabi</title_clean>
+    <title_search>annett futatabi</title_search>
+  </game>
+  <game name="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)">
+    <description>Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)</description>
+    <title_clean>Aoki Ookami to Shiroki Mejika - Genchou Hishi</title_clean>
+    <title_search>aoki ookami to shiroki mejika genchou hishi</title_search>
+  </game>
+  <game name="Arcus I, II, III (Japan)">
+    <description>Arcus I, II, III (Japan)</description>
+    <title_clean>Arcus I, II, III</title_clean>
+    <title_search>arcus i ii iii</title_search>
+  </game>
+  <game name="Arslan Senki (Japan)">
+    <description>Arslan Senki (Japan)</description>
+    <title_clean>Arslan Senki</title_clean>
+    <title_search>arslan senki</title_search>
+  </game>
+  <game name="BC Racers (Europe) (Demo) (Green Disc)">
+    <description>BC Racers (Europe) (Demo) (Green Disc)</description>
+    <title_clean>BC Racers</title_clean>
+    <title_search>bc racers</title_search>
+  </game>
+  <game name="BC Racers (Europe) (Demo) (Yellow Disc)">
+    <description>BC Racers (Europe) (Demo) (Yellow Disc)</description>
+    <title_clean>BC Racers</title_clean>
+    <title_search>bc racers</title_search>
+  </game>
+  <game name="BC Racers (Europe) (En,Fr,De)">
+    <description>BC Racers (Europe) (En,Fr,De)</description>
+    <title_clean>BC Racers</title_clean>
+    <title_search>bc racers</title_search>
+  </game>
+  <game name="BC Racers (USA)">
+    <description>BC Racers (USA)</description>
+    <title_clean>BC Racers</title_clean>
+    <title_search>bc racers</title_search>
+    <image ext="png" id="BC Racers (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="BC Racers (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="BC Racers (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bakuden - The Unbalanced Zone (Japan)">
+    <description>Bakuden - The Unbalanced Zone (Japan)</description>
+    <title_clean>Bakuden - The Unbalanced Zone</title_clean>
+    <title_search>bakuden the unbalanced zone</title_search>
+  </game>
+  <game name="Bari-Arm (Japan)">
+    <description>Bari-Arm (Japan)</description>
+    <title_clean>Bari-Arm</title_clean>
+    <title_search>bariarm</title_search>
+    <image ext="png" id="Bari-Arm (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Batman Returns (Europe) (Alt)">
+    <description>Batman Returns (Europe) (Alt)</description>
+    <title_clean>Batman Returns</title_clean>
+    <title_search>batman returns</title_search>
+  </game>
+  <game name="Batman Returns (USA)">
+    <description>Batman Returns (USA)</description>
+    <title_clean>Batman Returns</title_clean>
+    <title_search>batman returns</title_search>
+    <image ext="png" id="Batman Returns (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Batman Returns (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Batman Returns (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Battle Fantasy (Japan) (Rev A)">
+    <description>Battle Fantasy (Japan) (Rev A)</description>
+    <title_clean>Battle Fantasy</title_clean>
+    <title_search>battle fantasy</title_search>
+  </game>
+  <game name="Battle Frenzy (USA) (Unl)">
+    <description>Battle Frenzy (USA) (Unl)</description>
+    <title_clean>Battle Frenzy</title_clean>
+    <title_search>battle frenzy</title_search>
+  </game>
+  <game name="BattleTech - Gray Death Legion (USA) (Unl)">
+    <description>BattleTech - Gray Death Legion (USA) (Unl)</description>
+    <title_clean>BattleTech - Gray Death Legion</title_clean>
+    <title_search>battletech gray death legion</title_search>
+  </game>
+  <game name="Battlecorps (Europe) (Demo)">
+    <description>Battlecorps (Europe) (Demo)</description>
+    <title_clean>Battlecorps</title_clean>
+    <title_search>battlecorps</title_search>
+  </game>
+  <game name="Battlecorps (Europe) (En,Fr,De,Es)">
+    <description>Battlecorps (Europe) (En,Fr,De,Es)</description>
+    <title_clean>Battlecorps</title_clean>
+    <title_search>battlecorps</title_search>
+  </game>
+  <game name="Battlecorps (Japan)">
+    <description>Battlecorps (Japan)</description>
+    <title_clean>Battlecorps</title_clean>
+    <title_search>battlecorps</title_search>
+  </game>
+  <game name="Battlecorps (USA)">
+    <description>Battlecorps (USA)</description>
+    <title_clean>Battlecorps</title_clean>
+    <title_search>battlecorps</title_search>
+    <image ext="png" id="Battlecorps (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Battlecorps (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Battlecorps (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Beast II (Europe)">
+    <description>Beast II (Europe)</description>
+    <title_clean>Beast II</title_clean>
+    <title_search>beast ii</title_search>
+  </game>
+  <game name="Bill Walsh College Football (Europe)">
+    <description>Bill Walsh College Football (Europe)</description>
+    <title_clean>Bill Walsh College Football</title_clean>
+    <title_search>bill walsh college football</title_search>
+    <image ext="png" id="Bill Walsh College Football (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Bill Walsh College Football (USA)">
+    <description>Bill Walsh College Football (USA)</description>
+    <title_clean>Bill Walsh College Football</title_clean>
+    <title_search>bill walsh college football</title_search>
+    <image ext="png" id="Bill Walsh College Football (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bill Walsh College Football (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bill Walsh College Football (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Black Hole Assault (Japan)">
+    <description>Black Hole Assault (Japan)</description>
+    <title_clean>Black Hole Assault</title_clean>
+    <title_search>black hole assault</title_search>
+  </game>
+  <game name="Blackhole Assault (Europe)">
+    <description>Blackhole Assault (Europe)</description>
+    <title_clean>Blackhole Assault</title_clean>
+    <title_search>blackhole assault</title_search>
+    <image ext="png" id="Blackhole Assault (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Blackhole Assault (USA)">
+    <description>Blackhole Assault (USA)</description>
+    <title_clean>Blackhole Assault</title_clean>
+    <title_search>blackhole assault</title_search>
+  </game>
+  <game name="Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es)">
+    <description>Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es)</description>
+    <title_clean>Bloodshot ~ Battle Frenzy</title_clean>
+    <title_search>bloodshot battle frenzy</title_search>
+  </game>
+  <game name="Bouncers (USA)">
+    <description>Bouncers (USA)</description>
+    <title_clean>Bouncers</title_clean>
+    <title_search>bouncers</title_search>
+    <image ext="png" id="Bouncers (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bouncers (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bouncers (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bram Stoker's Dracula (USA)">
+    <description>Bram Stoker's Dracula (USA)</description>
+    <title_clean>Bram Stoker's Dracula</title_clean>
+    <title_search>bram stokers dracula</title_search>
+    <image ext="png" id="Bram Stoker's Dracula (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bram Stoker's Dracula (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bram Stoker's Dracula (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bram Stoker's Dracula (USA) (Rev A)">
+    <description>Bram Stoker's Dracula (USA) (Rev A)</description>
+    <title_clean>Bram Stoker's Dracula</title_clean>
+    <title_search>bram stokers dracula</title_search>
+  </game>
+  <game name="Brutal - Paws of Fury (Europe)">
+    <description>Brutal - Paws of Fury (Europe)</description>
+    <title_clean>Brutal - Paws of Fury</title_clean>
+    <title_search>brutal paws of fury</title_search>
+  </game>
+  <game name="Brutal - Paws of Fury (USA)">
+    <description>Brutal - Paws of Fury (USA)</description>
+    <title_clean>Brutal - Paws of Fury</title_clean>
+    <title_search>brutal paws of fury</title_search>
+    <image ext="png" id="Brutal - Paws of Fury (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Brutal - Paws of Fury (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Brutal - Paws of Fury (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Burai - Yatsudama no Yuushi Densetsu (Japan)">
+    <description>Burai - Yatsudama no Yuushi Densetsu (Japan)</description>
+    <title_clean>Burai - Yatsudama no Yuushi Densetsu</title_clean>
+    <title_search>burai yatsudama no yuushi densetsu</title_search>
+  </game>
+  <game name="Cadillacs and Dinosaurs - The Second Cataclysm (USA, Brazil)">
+    <description>Cadillacs and Dinosaurs - The Second Cataclysm (USA, Brazil)</description>
+    <title_clean>Cadillacs and Dinosaurs - The Second Cataclysm</title_clean>
+    <title_search>cadillacs and dinosaurs the second cataclysm</title_search>
+  </game>
+  <game name="Captain Tsubasa (Japan)">
+    <description>Captain Tsubasa (Japan)</description>
+    <title_clean>Captain Tsubasa</title_clean>
+    <title_search>captain tsubasa</title_search>
+    <image ext="png" id="Captain Tsubasa (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Championship Soccer '94 (USA)">
+    <description>Championship Soccer '94 (USA)</description>
+    <title_clean>Championship Soccer '94</title_clean>
+    <title_search>championship soccer 94</title_search>
+    <image ext="png" id="Championship Soccer '94 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Championship Soccer '94 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Championship Soccer '94 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chuck Rock (Europe)">
+    <description>Chuck Rock (Europe)</description>
+    <title_clean>Chuck Rock</title_clean>
+    <title_search>chuck rock</title_search>
+    <image ext="png" id="Chuck Rock (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Chuck Rock (USA)">
+    <description>Chuck Rock (USA)</description>
+    <title_clean>Chuck Rock</title_clean>
+    <title_search>chuck rock</title_search>
+    <image ext="png" id="Chuck Rock (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chuck Rock (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chuck Rock (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chuck Rock II - Son of Chuck (Europe)">
+    <description>Chuck Rock II - Son of Chuck (Europe)</description>
+    <title_clean>Chuck Rock II - Son of Chuck</title_clean>
+    <title_search>chuck rock ii son of chuck</title_search>
+  </game>
+  <game name="Chuck Rock II - Son of Chuck (USA)">
+    <description>Chuck Rock II - Son of Chuck (USA)</description>
+    <title_clean>Chuck Rock II - Son of Chuck</title_clean>
+    <title_search>chuck rock ii son of chuck</title_search>
+    <image ext="png" id="Chuck Rock II - Son of Chuck (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chuck Rock II - Son of Chuck (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chuck Rock II - Son of Chuck (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Citizen X (USA) (Unl)">
+    <description>Citizen X (USA) (Unl)</description>
+    <title_clean>Citizen X</title_clean>
+    <title_search>citizen x</title_search>
+  </game>
+  <game name="Cliffhanger (USA)">
+    <description>Cliffhanger (USA)</description>
+    <title_clean>Cliffhanger</title_clean>
+    <title_search>cliffhanger</title_search>
+    <image ext="png" id="Cliffhanger (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cliffhanger (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cliffhanger (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cobra Command (Europe)">
+    <description>Cobra Command (Europe)</description>
+    <title_clean>Cobra Command</title_clean>
+    <title_search>cobra command</title_search>
+    <image ext="png" id="Cobra Command (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Cobra Command (USA)">
+    <description>Cobra Command (USA)</description>
+    <title_clean>Cobra Command</title_clean>
+    <title_search>cobra command</title_search>
+    <image ext="png" id="Cobra Command (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cobra Command (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cobra Command (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Colors of Modern Rock, The (USA)">
+    <description>Colors of Modern Rock, The (USA)</description>
+    <title_clean>The Colors of Modern Rock</title_clean>
+    <title_search>the colors of modern rock</title_search>
+  </game>
+  <game name="Compton's Interactive Encyclopedia (USA) (Version 2.01R)">
+    <description>Compton's Interactive Encyclopedia (USA) (Version 2.01R)</description>
+    <title_clean>Compton's Interactive Encyclopedia</title_clean>
+    <title_search>comptons interactive encyclopedia</title_search>
+  </game>
+  <game name="Compton's Interactive Encyclopedia (USA) (Version 2.01S)">
+    <description>Compton's Interactive Encyclopedia (USA) (Version 2.01S)</description>
+    <title_clean>Compton's Interactive Encyclopedia</title_clean>
+    <title_search>comptons interactive encyclopedia</title_search>
+  </game>
+  <game name="Compton's Interactive Encyclopedia (USA) (Version 2.10) (Rev 2)">
+    <description>Compton's Interactive Encyclopedia (USA) (Version 2.10) (Rev 2)</description>
+    <title_clean>Compton's Interactive Encyclopedia</title_clean>
+    <title_search>comptons interactive encyclopedia</title_search>
+  </game>
+  <game name="Corpse Killer (Europe)">
+    <description>Corpse Killer (Europe)</description>
+    <title_clean>Corpse Killer</title_clean>
+    <title_search>corpse killer</title_search>
+    <image ext="png" id="Corpse Killer (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Corpse Killer (Europe) (Mega-CD 32X)">
+    <description>Corpse Killer (Europe) (Mega-CD 32X)</description>
+    <title_clean>Corpse Killer</title_clean>
+    <title_search>corpse killer</title_search>
+  </game>
+  <game name="Corpse Killer (USA)">
+    <description>Corpse Killer (USA)</description>
+    <title_clean>Corpse Killer</title_clean>
+    <title_search>corpse killer</title_search>
+    <image ext="png" id="Corpse Killer (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Corpse Killer (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Corpse Killer (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Corpse Killer (USA) (Sega CD 32X)">
+    <description>Corpse Killer (USA) (Sega CD 32X)</description>
+    <title_clean>Corpse Killer</title_clean>
+    <title_search>corpse killer</title_search>
+  </game>
+  <game name="Cosmic Fantasy Stories (Japan)">
+    <description>Cosmic Fantasy Stories (Japan)</description>
+    <title_clean>Cosmic Fantasy Stories</title_clean>
+    <title_search>cosmic fantasy stories</title_search>
+    <image ext="png" id="Cosmic Fantasy Stories (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Crime Patrol (USA)">
+    <description>Crime Patrol (USA)</description>
+    <title_clean>Crime Patrol</title_clean>
+    <title_search>crime patrol</title_search>
+    <image ext="png" id="Crime Patrol (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Crime Patrol (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Crime Patrol (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cyborg 009 (Japan)">
+    <description>Cyborg 009 (Japan)</description>
+    <title_clean>Cyborg 009</title_clean>
+    <title_search>cyborg 009</title_search>
+    <image ext="png" id="Cyborg 009 (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Daihoushinden (Japan)">
+    <description>Daihoushinden (Japan)</description>
+    <title_clean>Daihoushinden</title_clean>
+    <title_search>daihoushinden</title_search>
+  </game>
+  <game name="Dark Wizard (USA)">
+    <description>Dark Wizard (USA)</description>
+    <title_clean>Dark Wizard</title_clean>
+    <title_search>dark wizard</title_search>
+    <image ext="png" id="Dark Wizard (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dark Wizard (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dark Wizard (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dark Wizard - Yomigaeri Shiyami no Madoushi (Japan)">
+    <description>Dark Wizard - Yomigaeri Shiyami no Madoushi (Japan)</description>
+    <title_clean>Dark Wizard - Yomigaeri Shiyami no Madoushi</title_clean>
+    <title_search>dark wizard yomigaeri shiyami no madoushi</title_search>
+  </game>
+  <game name="Death Bringer (Japan)">
+    <description>Death Bringer (Japan)</description>
+    <title_clean>Death Bringer</title_clean>
+    <title_search>death bringer</title_search>
+  </game>
+  <game name="Demolition Man (USA)">
+    <description>Demolition Man (USA)</description>
+    <title_clean>Demolition Man</title_clean>
+    <title_search>demolition man</title_search>
+    <image ext="png" id="Demolition Man (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Demolition Man (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Demolition Man (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dennin Aleste - Nobunaga and His Ninja Force (Japan)">
+    <description>Dennin Aleste - Nobunaga and His Ninja Force (Japan)</description>
+    <title_clean>Dennin Aleste - Nobunaga and His Ninja Force</title_clean>
+    <title_search>dennin aleste nobunaga and his ninja force</title_search>
+    <image ext="png" id="Dennin Aleste - Nobunaga and His Ninja Force (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Detonator Orgun (Japan)">
+    <description>Detonator Orgun (Japan)</description>
+    <title_clean>Detonator Orgun</title_clean>
+    <title_search>detonator orgun</title_search>
+    <image ext="png" id="Detonator Orgun (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Devastator (Japan)">
+    <description>Devastator (Japan)</description>
+    <title_clean>Devastator</title_clean>
+    <title_search>devastator</title_search>
+    <image ext="png" id="Devastator (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Double Switch (Europe)">
+    <description>Double Switch (Europe)</description>
+    <title_clean>Double Switch</title_clean>
+    <title_search>double switch</title_search>
+  </game>
+  <game name="Double Switch (Japan)">
+    <description>Double Switch (Japan)</description>
+    <title_clean>Double Switch</title_clean>
+    <title_search>double switch</title_search>
+  </game>
+  <game name="Double Switch (USA)">
+    <description>Double Switch (USA)</description>
+    <title_clean>Double Switch</title_clean>
+    <title_search>double switch</title_search>
+    <image ext="png" id="Double Switch (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Double Switch (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Double Switch (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dracula Unleashed (Europe) (Disc 1)">
+    <description>Dracula Unleashed (Europe) (Disc 1)</description>
+    <title_clean>Dracula Unleashed</title_clean>
+    <title_search>dracula unleashed</title_search>
+  </game>
+  <game name="Dracula Unleashed (Europe) (Disc 2)">
+    <description>Dracula Unleashed (Europe) (Disc 2)</description>
+    <title_clean>Dracula Unleashed</title_clean>
+    <title_search>dracula unleashed</title_search>
+  </game>
+  <game name="Dracula Unleashed (USA) (Disc 1)">
+    <description>Dracula Unleashed (USA) (Disc 1)</description>
+    <title_clean>Dracula Unleashed</title_clean>
+    <title_search>dracula unleashed</title_search>
+  </game>
+  <game name="Dracula Unleashed (USA) (Disc 2)">
+    <description>Dracula Unleashed (USA) (Disc 2)</description>
+    <title_clean>Dracula Unleashed</title_clean>
+    <title_search>dracula unleashed</title_search>
+  </game>
+  <game name="Dragon's Lair (Europe)">
+    <description>Dragon's Lair (Europe)</description>
+    <title_clean>Dragon's Lair</title_clean>
+    <title_search>dragons lair</title_search>
+  </game>
+  <game name="Dragon's Lair (Japan) (En,Ja,Fr,De,It)">
+    <description>Dragon's Lair (Japan) (En,Ja,Fr,De,It)</description>
+    <title_clean>Dragon's Lair</title_clean>
+    <title_search>dragons lair</title_search>
+  </game>
+  <game name="Dragon's Lair (USA)">
+    <description>Dragon's Lair (USA)</description>
+    <title_clean>Dragon's Lair</title_clean>
+    <title_search>dragons lair</title_search>
+    <image ext="png" id="Dragon's Lair (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dragon's Lair (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dragon's Lair (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon's Lair (USA) (Demo)">
+    <description>Dragon's Lair (USA) (Demo)</description>
+    <title_clean>Dragon's Lair</title_clean>
+    <title_search>dragons lair</title_search>
+  </game>
+  <game name="Dune (Europe) (En,Fr,De,Es,It,Ar)">
+    <description>Dune (Europe) (En,Fr,De,Es,It,Ar)</description>
+    <title_clean>Dune</title_clean>
+    <title_search>dune</title_search>
+  </game>
+  <game name="Dune (USA)">
+    <description>Dune (USA)</description>
+    <title_clean>Dune</title_clean>
+    <title_search>dune</title_search>
+    <image ext="png" id="Dune (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dune (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dune (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dungeon Explorer (Europe)">
+    <description>Dungeon Explorer (Europe)</description>
+    <title_clean>Dungeon Explorer</title_clean>
+    <title_search>dungeon explorer</title_search>
+    <image ext="png" id="Dungeon Explorer (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Dungeon Explorer (USA)">
+    <description>Dungeon Explorer (USA)</description>
+    <title_clean>Dungeon Explorer</title_clean>
+    <title_search>dungeon explorer</title_search>
+    <image ext="png" id="Dungeon Explorer (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dungeon Explorer (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dungeon Explorer (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dungeon Master II - Skullkeep (Europe)">
+    <description>Dungeon Master II - Skullkeep (Europe)</description>
+    <title_clean>Dungeon Master II - Skullkeep</title_clean>
+    <title_search>dungeon master ii skullkeep</title_search>
+    <image ext="png" id="Dungeon Master II - Skullkeep (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Dungeon Master II - Skullkeep (Japan)">
+    <description>Dungeon Master II - Skullkeep (Japan)</description>
+    <title_clean>Dungeon Master II - Skullkeep</title_clean>
+    <title_search>dungeon master ii skullkeep</title_search>
+  </game>
+  <game name="Dungeon Master II - Skullkeep (USA) (Rev 3)">
+    <description>Dungeon Master II - Skullkeep (USA) (Rev 3)</description>
+    <title_clean>Dungeon Master II - Skullkeep</title_clean>
+    <title_search>dungeon master ii skullkeep</title_search>
+  </game>
+  <game name="Dynamic Country Club (Japan)">
+    <description>Dynamic Country Club (Japan)</description>
+    <title_clean>Dynamic Country Club</title_clean>
+    <title_search>dynamic country club</title_search>
+    <image ext="png" id="Dynamic Country Club (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="ESPN Baseball Tonight (Europe)">
+    <description>ESPN Baseball Tonight (Europe)</description>
+    <title_clean>ESPN Baseball Tonight</title_clean>
+    <title_search>espn baseball tonight</title_search>
+  </game>
+  <game name="ESPN Baseball Tonight (USA)">
+    <description>ESPN Baseball Tonight (USA)</description>
+    <title_clean>ESPN Baseball Tonight</title_clean>
+    <title_search>espn baseball tonight</title_search>
+    <image ext="png" id="ESPN Baseball Tonight (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="ESPN Baseball Tonight (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="ESPN Baseball Tonight (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="ESPN NBA Hangtime '95 (USA)">
+    <description>ESPN NBA Hangtime '95 (USA)</description>
+    <title_clean>ESPN NBA Hangtime '95</title_clean>
+    <title_search>espn nba hangtime 95</title_search>
+    <image ext="png" id="ESPN NBA Hangtime '95 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="ESPN NBA Hangtime '95 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="ESPN NBA Hangtime '95 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="ESPN National Hockey Night (USA)">
+    <description>ESPN National Hockey Night (USA)</description>
+    <title_clean>ESPN National Hockey Night</title_clean>
+    <title_search>espn national hockey night</title_search>
+    <image ext="png" id="ESPN National Hockey Night (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="ESPN National Hockey Night (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="ESPN National Hockey Night (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="ESPN Sunday Night NFL (USA)">
+    <description>ESPN Sunday Night NFL (USA)</description>
+    <title_clean>ESPN Sunday Night NFL</title_clean>
+    <title_search>espn sunday night nfl</title_search>
+    <image ext="png" id="ESPN Sunday Night NFL (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="ESPN Sunday Night NFL (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="ESPN Sunday Night NFL (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Earnest Evans (Japan)">
+    <description>Earnest Evans (Japan)</description>
+    <title_clean>Earnest Evans</title_clean>
+    <title_search>earnest evans</title_search>
+    <image ext="png" id="Earnest Evans (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Earthworm Jim - Special Edition (Europe)">
+    <description>Earthworm Jim - Special Edition (Europe)</description>
+    <title_clean>Earthworm Jim - Special Edition</title_clean>
+    <title_search>earthworm jim special edition</title_search>
+    <image ext="png" id="Earthworm Jim - Special Edition (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Earthworm Jim - Special Edition (USA)">
+    <description>Earthworm Jim - Special Edition (USA)</description>
+    <title_clean>Earthworm Jim - Special Edition</title_clean>
+    <title_search>earthworm jim special edition</title_search>
+    <image ext="png" id="Earthworm Jim - Special Edition (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Earthworm Jim - Special Edition (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Earthworm Jim - Special Edition (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ecco - The Tides of Time (Europe) (En,Fr,De,Es)">
+    <description>Ecco - The Tides of Time (Europe) (En,Fr,De,Es)</description>
+    <title_clean>Ecco - The Tides of Time</title_clean>
+    <title_search>ecco the tides of time</title_search>
+  </game>
+  <game name="Ecco - The Tides of Time (USA)">
+    <description>Ecco - The Tides of Time (USA)</description>
+    <title_clean>Ecco - The Tides of Time</title_clean>
+    <title_search>ecco the tides of time</title_search>
+    <image ext="png" id="Ecco - The Tides of Time (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ecco - The Tides of Time (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ecco - The Tides of Time (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ecco - The Tides of Time (USA) (Alt)">
+    <description>Ecco - The Tides of Time (USA) (Alt)</description>
+    <title_clean>Ecco - The Tides of Time</title_clean>
+    <title_search>ecco the tides of time</title_search>
+  </game>
+  <game name="Ecco the Dolphin (Australia)">
+    <description>Ecco the Dolphin (Australia)</description>
+    <title_clean>Ecco the Dolphin</title_clean>
+    <title_search>ecco the dolphin</title_search>
+  </game>
+  <game name="Ecco the Dolphin (Europe) (Alt)">
+    <description>Ecco the Dolphin (Europe) (Alt)</description>
+    <title_clean>Ecco the Dolphin</title_clean>
+    <title_search>ecco the dolphin</title_search>
+  </game>
+  <game name="Ecco the Dolphin (USA)">
+    <description>Ecco the Dolphin (USA)</description>
+    <title_clean>Ecco the Dolphin</title_clean>
+    <title_search>ecco the dolphin</title_search>
+    <image ext="png" id="Ecco the Dolphin (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ecco the Dolphin (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ecco the Dolphin (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ecco the Dolphin CD (Japan) (Disc 1) (Ecco the Dolphin)">
+    <description>Ecco the Dolphin CD (Japan) (Disc 1) (Ecco the Dolphin)</description>
+    <title_clean>Ecco the Dolphin CD</title_clean>
+    <title_search>ecco the dolphin cd</title_search>
+  </game>
+  <game name="Ecco the Dolphin CD (Japan) (Disc 2) (Ecco the Dolphin II)">
+    <description>Ecco the Dolphin CD (Japan) (Disc 2) (Ecco the Dolphin II)</description>
+    <title_clean>Ecco the Dolphin CD</title_clean>
+    <title_search>ecco the dolphin cd</title_search>
+  </game>
+  <game name="Egawa Suguru no Super League CD (Japan)">
+    <description>Egawa Suguru no Super League CD (Japan)</description>
+    <title_clean>Egawa Suguru no Super League CD</title_clean>
+    <title_search>egawa suguru no super league cd</title_search>
+    <image ext="png" id="Egawa Suguru no Super League CD (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta)">
+    <description>Eternal Champions - Challenge from the Dark Side (Europe) (Beta)</description>
+    <title_clean>Eternal Champions - Challenge from the Dark Side</title_clean>
+    <title_search>eternal champions challenge from the dark side</title_search>
+  </game>
+  <game name="Eternal Champions - Challenge from the Dark Side (USA)">
+    <description>Eternal Champions - Challenge from the Dark Side (USA)</description>
+    <title_clean>Eternal Champions - Challenge from the Dark Side</title_clean>
+    <title_search>eternal champions challenge from the dark side</title_search>
+    <image ext="png" id="Eternal Champions - Challenge from the Dark Side (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Eternal Champions - Challenge from the Dark Side (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Eternal Champions - Challenge from the Dark Side (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Eternal Champions - Challenge from the Dark Side (USA) (Beta)">
+    <description>Eternal Champions - Challenge from the Dark Side (USA) (Beta)</description>
+    <title_clean>Eternal Champions - Challenge from the Dark Side</title_clean>
+    <title_search>eternal champions challenge from the dark side</title_search>
+  </game>
+  <game name="Eye of the Beholder (Europe)">
+    <description>Eye of the Beholder (Europe)</description>
+    <title_clean>Eye of the Beholder</title_clean>
+    <title_search>eye of the beholder</title_search>
+  </game>
+  <game name="Eye of the Beholder (Japan)">
+    <description>Eye of the Beholder (Japan)</description>
+    <title_clean>Eye of the Beholder</title_clean>
+    <title_search>eye of the beholder</title_search>
+  </game>
+  <game name="Eye of the Beholder (USA)">
+    <description>Eye of the Beholder (USA)</description>
+    <title_clean>Eye of the Beholder</title_clean>
+    <title_search>eye of the beholder</title_search>
+  </game>
+  <game name="F1 Circus CD (Japan)">
+    <description>F1 Circus CD (Japan)</description>
+    <title_clean>F1 Circus CD</title_clean>
+    <title_search>f1 circus cd</title_search>
+    <image ext="png" id="F1 Circus CD (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="FIFA International Soccer (USA)">
+    <description>FIFA International Soccer (USA)</description>
+    <title_clean>FIFA International Soccer</title_clean>
+    <title_search>fifa international soccer</title_search>
+    <image ext="png" id="FIFA International Soccer (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="FIFA International Soccer (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="FIFA International Soccer (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="FIFA International Soccer - Championship Edition (Europe)">
+    <description>FIFA International Soccer - Championship Edition (Europe)</description>
+    <title_clean>FIFA International Soccer - Championship Edition</title_clean>
+    <title_search>fifa international soccer championship edition</title_search>
+  </game>
+  <game name="FIFA International Soccer - Championship Edition (Europe) (Demo) (Alt)">
+    <description>FIFA International Soccer - Championship Edition (Europe) (Demo) (Alt)</description>
+    <title_clean>FIFA International Soccer - Championship Edition</title_clean>
+    <title_search>fifa international soccer championship edition</title_search>
+  </game>
+  <game name="Fahrenheit (Europe)">
+    <description>Fahrenheit (Europe)</description>
+    <title_clean>Fahrenheit</title_clean>
+    <title_search>fahrenheit</title_search>
+    <image ext="png" id="Fahrenheit (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Fahrenheit (France)">
+    <description>Fahrenheit (France)</description>
+    <title_clean>Fahrenheit</title_clean>
+    <title_search>fahrenheit</title_search>
+  </game>
+  <game name="Fahrenheit (Japan)">
+    <description>Fahrenheit (Japan)</description>
+    <title_clean>Fahrenheit</title_clean>
+    <title_search>fahrenheit</title_search>
+  </game>
+  <game name="Fahrenheit (USA) (Disc 1) (Key Disc) (Sega CD)">
+    <description>Fahrenheit (USA) (Disc 1) (Key Disc) (Sega CD)</description>
+    <title_clean>Fahrenheit</title_clean>
+    <title_search>fahrenheit</title_search>
+  </game>
+  <game name="Fahrenheit (USA) (Disc 2) (32X CD)">
+    <description>Fahrenheit (USA) (Disc 2) (32X CD)</description>
+    <title_clean>Fahrenheit</title_clean>
+    <title_search>fahrenheit</title_search>
+  </game>
+  <game name="Fatal Fury Special (Europe)">
+    <description>Fatal Fury Special (Europe)</description>
+    <title_clean>Fatal Fury Special</title_clean>
+    <title_search>fatal fury special</title_search>
+  </game>
+  <game name="Fatal Fury Special (Europe) (Demo)">
+    <description>Fatal Fury Special (Europe) (Demo)</description>
+    <title_clean>Fatal Fury Special</title_clean>
+    <title_search>fatal fury special</title_search>
+  </game>
+  <game name="Fatal Fury Special (USA)">
+    <description>Fatal Fury Special (USA)</description>
+    <title_clean>Fatal Fury Special</title_clean>
+    <title_search>fatal fury special</title_search>
+    <image ext="png" id="Fatal Fury Special (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fatal Fury Special (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fatal Fury Special (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Final Fight CD (Europe)">
+    <description>Final Fight CD (Europe)</description>
+    <title_clean>Final Fight CD</title_clean>
+    <title_search>final fight cd</title_search>
+    <image ext="png" id="Final Fight CD (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Final Fight CD (Japan)">
+    <description>Final Fight CD (Japan)</description>
+    <title_clean>Final Fight CD</title_clean>
+    <title_search>final fight cd</title_search>
+    <image ext="png" id="Final Fight CD (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Final Fight CD (Japan) (Rev A)">
+    <description>Final Fight CD (Japan) (Rev A)</description>
+    <title_clean>Final Fight CD</title_clean>
+    <title_search>final fight cd</title_search>
+  </game>
+  <game name="Final Fight CD (USA)">
+    <description>Final Fight CD (USA)</description>
+    <title_clean>Final Fight CD</title_clean>
+    <title_search>final fight cd</title_search>
+    <image ext="png" id="Final Fight CD (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Final Fight CD (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Final Fight CD (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Final Fight CD (USA) (Alt 1)">
+    <description>Final Fight CD (USA) (Alt 1)</description>
+    <title_clean>Final Fight CD</title_clean>
+    <title_search>final fight cd</title_search>
+  </game>
+  <game name="Flashback (Europe) (Demo)">
+    <description>Flashback (Europe) (Demo)</description>
+    <title_clean>Flashback</title_clean>
+    <title_search>flashback</title_search>
+  </game>
+  <game name="Flashback - The Quest for Identity (USA)">
+    <description>Flashback - The Quest for Identity (USA)</description>
+    <title_clean>Flashback - The Quest for Identity</title_clean>
+    <title_search>flashback the quest for identity</title_search>
+    <image ext="png" id="Flashback - The Quest for Identity (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Flashback - The Quest for Identity (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Flashback - The Quest for Identity (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Flink (Europe)">
+    <description>Flink (Europe)</description>
+    <title_clean>Flink</title_clean>
+    <title_search>flink</title_search>
+  </game>
+  <game name="Flink (USA)">
+    <description>Flink (USA)</description>
+    <title_clean>Flink</title_clean>
+    <title_search>flink</title_search>
+    <image ext="png" id="Flink (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Flink (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Flink (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Formula One World Championship - Beyond the Limit (Europe)">
+    <description>Formula One World Championship - Beyond the Limit (Europe)</description>
+    <title_clean>Formula One World Championship - Beyond the Limit</title_clean>
+    <title_search>formula one world championship beyond the limit</title_search>
+  </game>
+  <game name="Formula One World Championship - Beyond the Limit (USA)">
+    <description>Formula One World Championship - Beyond the Limit (USA)</description>
+    <title_clean>Formula One World Championship - Beyond the Limit</title_clean>
+    <title_search>formula one world championship beyond the limit</title_search>
+    <image ext="png" id="Formula One World Championship - Beyond the Limit (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Formula One World Championship - Beyond the Limit (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Formula One World Championship - Beyond the Limit (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fresh Cleaner (Japan)">
+    <description>Fresh Cleaner (Japan)</description>
+    <title_clean>Fresh Cleaner</title_clean>
+    <title_search>fresh cleaner</title_search>
+  </game>
+  <game name="Game no Kandume Vol. 1 (Japan)">
+    <description>Game no Kandume Vol. 1 (Japan)</description>
+    <title_clean>Game no Kandume Vol. 1</title_clean>
+    <title_search>game no kandume vol 1</title_search>
+  </game>
+  <game name="Game no Kandume Vol. 2 (Japan)">
+    <description>Game no Kandume Vol. 2 (Japan)</description>
+    <title_clean>Game no Kandume Vol. 2</title_clean>
+    <title_search>game no kandume vol 2</title_search>
+  </game>
+  <game name="Garou Densetsu Special (Japan)">
+    <description>Garou Densetsu Special (Japan)</description>
+    <title_clean>Garou Densetsu Special</title_clean>
+    <title_search>garou densetsu special</title_search>
+  </game>
+  <game name="Genei Toshi - Illusion City (Japan)">
+    <description>Genei Toshi - Illusion City (Japan)</description>
+    <title_clean>Genei Toshi - Illusion City</title_clean>
+    <title_search>genei toshi illusion city</title_search>
+  </game>
+  <game name="Ground Zero Texas (Europe) (Disc 1)">
+    <description>Ground Zero Texas (Europe) (Disc 1)</description>
+    <title_clean>Ground Zero Texas</title_clean>
+    <title_search>ground zero texas</title_search>
+  </game>
+  <game name="Ground Zero Texas (Europe) (Disc 2)">
+    <description>Ground Zero Texas (Europe) (Disc 2)</description>
+    <title_clean>Ground Zero Texas</title_clean>
+    <title_search>ground zero texas</title_search>
+  </game>
+  <game name="Ground Zero Texas (USA) (Disc 1)">
+    <description>Ground Zero Texas (USA) (Disc 1)</description>
+    <title_clean>Ground Zero Texas</title_clean>
+    <title_search>ground zero texas</title_search>
+  </game>
+  <game name="Ground Zero Texas (USA) (Disc 2)">
+    <description>Ground Zero Texas (USA) (Disc 2)</description>
+    <title_clean>Ground Zero Texas</title_clean>
+    <title_search>ground zero texas</title_search>
+  </game>
+  <game name="Gyuwambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjongland Hen (Japan)">
+    <description>Gyuwambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjongland Hen (Japan)</description>
+    <title_clean>Gyuwambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjongland Hen</title_clean>
+    <title_search>gyuwambler jiko chuushinha 2 gekitou tokyo mahjongland hen</title_search>
+  </game>
+  <game name="Heart of the Alien - Out of This World Parts I and II (USA)">
+    <description>Heart of the Alien - Out of This World Parts I and II (USA)</description>
+    <title_clean>Heart of the Alien - Out of This World Parts I and II</title_clean>
+    <title_search>heart of the alien out of this world parts i and ii</title_search>
+    <image ext="png" id="Heart of the Alien - Out of This World Parts I and II (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Heart of the Alien - Out of This World Parts I and II (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Heart of the Alien - Out of This World Parts I and II (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Heavenly Symphony - Formula One World Championship 1993 (Japan)">
+    <description>Heavenly Symphony - Formula One World Championship 1993 (Japan)</description>
+    <title_clean>Heavenly Symphony - Formula One World Championship 1993</title_clean>
+    <title_search>heavenly symphony formula one world championship 1993</title_search>
+    <image ext="png" id="Heavenly Symphony - Formula One World Championship 1993 (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Heavy Nova (Japan)">
+    <description>Heavy Nova (Japan)</description>
+    <title_clean>Heavy Nova</title_clean>
+    <title_search>heavy nova</title_search>
+    <image ext="png" id="Heavy Nova (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Heimdall (Japan)">
+    <description>Heimdall (Japan)</description>
+    <title_clean>Heimdall</title_clean>
+    <title_search>heimdall</title_search>
+  </game>
+  <game name="Heimdall (USA)">
+    <description>Heimdall (USA)</description>
+    <title_clean>Heimdall</title_clean>
+    <title_search>heimdall</title_search>
+    <image ext="png" id="Heimdall (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Heimdall (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Heimdall (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hook (Europe)">
+    <description>Hook (Europe)</description>
+    <title_clean>Hook</title_clean>
+    <title_search>hook</title_search>
+    <image ext="png" id="Hook (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Hook (USA)">
+    <description>Hook (USA)</description>
+    <title_clean>Hook</title_clean>
+    <title_search>hook</title_search>
+    <image ext="png" id="Hook (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hook (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hook (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="IIIrd World War, The (Japan)">
+    <description>IIIrd World War, The (Japan)</description>
+    <title_clean>The IIIrd World War</title_clean>
+    <title_search>the iiird world war</title_search>
+  </game>
+  <game name="Iron Helix (USA)">
+    <description>Iron Helix (USA)</description>
+    <title_clean>Iron Helix</title_clean>
+    <title_search>iron helix</title_search>
+    <image ext="png" id="Iron Helix (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Iron Helix (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Iron Helix (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ishii Hisaichi no Daiseikai (Japan)">
+    <description>Ishii Hisaichi no Daiseikai (Japan)</description>
+    <title_clean>Ishii Hisaichi no Daiseikai</title_clean>
+    <title_search>ishii hisaichi no daiseikai</title_search>
+  </game>
+  <game name="Jaguar XJ220 (Europe) (En,Ja)">
+    <description>Jaguar XJ220 (Europe) (En,Ja)</description>
+    <title_clean>Jaguar XJ220</title_clean>
+    <title_search>jaguar xj220</title_search>
+  </game>
+  <game name="Jaguar XJ220 (Japan) (En,Ja)">
+    <description>Jaguar XJ220 (Japan) (En,Ja)</description>
+    <title_clean>Jaguar XJ220</title_clean>
+    <title_search>jaguar xj220</title_search>
+  </game>
+  <game name="Jaguar XJ220 (USA)">
+    <description>Jaguar XJ220 (USA)</description>
+    <title_clean>Jaguar XJ220</title_clean>
+    <title_search>jaguar xj220</title_search>
+    <image ext="png" id="Jaguar XJ220 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jaguar XJ220 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jaguar XJ220 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jangou World Cup (Japan)">
+    <description>Jangou World Cup (Japan)</description>
+    <title_clean>Jangou World Cup</title_clean>
+    <title_search>jangou world cup</title_search>
+  </game>
+  <game name="Jeopardy! (USA)">
+    <description>Jeopardy! (USA)</description>
+    <title_clean>Jeopardy!</title_clean>
+    <title_search>jeopardy</title_search>
+    <image ext="png" id="Jeopardy! (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jeopardy! (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jeopardy! (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Joe Montana's NFL Football (USA)">
+    <description>Joe Montana's NFL Football (USA)</description>
+    <title_clean>Joe Montana's NFL Football</title_clean>
+    <title_search>joe montanas nfl football</title_search>
+    <image ext="png" id="Joe Montana's NFL Football (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Joe Montana's NFL Football (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Joe Montana's NFL Football (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jurassic Park (Europe)">
+    <description>Jurassic Park (Europe)</description>
+    <title_clean>Jurassic Park</title_clean>
+    <title_search>jurassic park</title_search>
+    <image ext="png" id="Jurassic Park (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Jurassic Park (France)">
+    <description>Jurassic Park (France)</description>
+    <title_clean>Jurassic Park</title_clean>
+    <title_search>jurassic park</title_search>
+  </game>
+  <game name="Jurassic Park (Germany)">
+    <description>Jurassic Park (Germany)</description>
+    <title_clean>Jurassic Park</title_clean>
+    <title_search>jurassic park</title_search>
+  </game>
+  <game name="Jurassic Park (Japan)">
+    <description>Jurassic Park (Japan)</description>
+    <title_clean>Jurassic Park</title_clean>
+    <title_search>jurassic park</title_search>
+    <image ext="png" id="Jurassic Park (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Jurassic Park (Spain)">
+    <description>Jurassic Park (Spain)</description>
+    <title_clean>Jurassic Park</title_clean>
+    <title_search>jurassic park</title_search>
+  </game>
+  <game name="Jurassic Park (USA)">
+    <description>Jurassic Park (USA)</description>
+    <title_clean>Jurassic Park</title_clean>
+    <title_search>jurassic park</title_search>
+    <image ext="png" id="Jurassic Park (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jurassic Park (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jurassic Park (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kamen Rider ZO (Japan)">
+    <description>Kamen Rider ZO (Japan)</description>
+    <title_clean>Kamen Rider ZO</title_clean>
+    <title_search>kamen rider zo</title_search>
+  </game>
+  <game name="Keio Flying Squadron (Europe)">
+    <description>Keio Flying Squadron (Europe)</description>
+    <title_clean>Keio Flying Squadron</title_clean>
+    <title_search>keio flying squadron</title_search>
+    <image ext="png" id="Keio Flying Squadron (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Keio Flying Squadron (Europe) (Demo)">
+    <description>Keio Flying Squadron (Europe) (Demo)</description>
+    <title_clean>Keio Flying Squadron</title_clean>
+    <title_search>keio flying squadron</title_search>
+  </game>
+  <game name="Keio Flying Squadron (USA)">
+    <description>Keio Flying Squadron (USA)</description>
+    <title_clean>Keio Flying Squadron</title_clean>
+    <title_search>keio flying squadron</title_search>
+    <image ext="png" id="Keio Flying Squadron (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Keio Flying Squadron (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Keio Flying Squadron (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Keiou Yuugekitai (Japan)">
+    <description>Keiou Yuugekitai (Japan)</description>
+    <title_clean>Keiou Yuugekitai</title_clean>
+    <title_search>keiou yuugekitai</title_search>
+    <image ext="png" id="Keiou Yuugekitai (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Keiou Yuugekitai (Japan) (Sample)">
+    <description>Keiou Yuugekitai (Japan) (Sample)</description>
+    <title_clean>Keiou Yuugekitai</title_clean>
+    <title_search>keiou yuugekitai</title_search>
+  </game>
+  <game name="Kids on Site (Europe) (RE-1)">
+    <description>Kids on Site (Europe) (RE-1)</description>
+    <title_clean>Kids on Site</title_clean>
+    <title_search>kids on site</title_search>
+  </game>
+  <game name="Kids on Site (USA)">
+    <description>Kids on Site (USA)</description>
+    <title_clean>Kids on Site</title_clean>
+    <title_search>kids on site</title_search>
+    <image ext="png" id="Kids on Site (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kids on Site (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kids on Site (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lawnmower Man, The (Europe) (Demo)">
+    <description>Lawnmower Man, The (Europe) (Demo)</description>
+    <title_clean>The Lawnmower Man</title_clean>
+    <title_search>the lawnmower man</title_search>
+  </game>
+  <game name="Lawnmower Man, The (USA)">
+    <description>Lawnmower Man, The (USA)</description>
+    <title_clean>The Lawnmower Man</title_clean>
+    <title_search>the lawnmower man</title_search>
+    <image ext="png" id="Lawnmower Man, The (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lawnmower Man, The (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lawnmower Man, The (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lethal Enforcers (Europe)">
+    <description>Lethal Enforcers (Europe)</description>
+    <title_clean>Lethal Enforcers</title_clean>
+    <title_search>lethal enforcers</title_search>
+  </game>
+  <game name="Lethal Enforcers (Japan)">
+    <description>Lethal Enforcers (Japan)</description>
+    <title_clean>Lethal Enforcers</title_clean>
+    <title_search>lethal enforcers</title_search>
+  </game>
+  <game name="Lethal Enforcers (USA) (Alt)">
+    <description>Lethal Enforcers (USA) (Alt)</description>
+    <title_clean>Lethal Enforcers</title_clean>
+    <title_search>lethal enforcers</title_search>
+  </game>
+  <game name="Lethal Enforcers II - Gun Fighters (Europe)">
+    <description>Lethal Enforcers II - Gun Fighters (Europe)</description>
+    <title_clean>Lethal Enforcers II - Gun Fighters</title_clean>
+    <title_search>lethal enforcers ii gun fighters</title_search>
+    <image ext="png" id="Lethal Enforcers II - Gun Fighters (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Lethal Enforcers II - Gun Fighters (Europe) (Beta)">
+    <description>Lethal Enforcers II - Gun Fighters (Europe) (Beta)</description>
+    <title_clean>Lethal Enforcers II - Gun Fighters</title_clean>
+    <title_search>lethal enforcers ii gun fighters</title_search>
+  </game>
+  <game name="Lethal Enforcers II - Gun Fighters (Europe) (Demo)">
+    <description>Lethal Enforcers II - Gun Fighters (Europe) (Demo)</description>
+    <title_clean>Lethal Enforcers II - Gun Fighters</title_clean>
+    <title_search>lethal enforcers ii gun fighters</title_search>
+  </game>
+  <game name="Lethal Enforcers II - Gun Fighters (USA)">
+    <description>Lethal Enforcers II - Gun Fighters (USA)</description>
+    <title_clean>Lethal Enforcers II - Gun Fighters</title_clean>
+    <title_search>lethal enforcers ii gun fighters</title_search>
+    <image ext="png" id="Lethal Enforcers II - Gun Fighters (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lethal Enforcers II - Gun Fighters (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lethal Enforcers II - Gun Fighters (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lethal Enforcers II - The Western (Japan)">
+    <description>Lethal Enforcers II - The Western (Japan)</description>
+    <title_clean>Lethal Enforcers II - The Western</title_clean>
+    <title_search>lethal enforcers ii the western</title_search>
+  </game>
+  <game name="Links - The Challenge of Golf (USA)">
+    <description>Links - The Challenge of Golf (USA)</description>
+    <title_clean>Links - The Challenge of Golf</title_clean>
+    <title_search>links the challenge of golf</title_search>
+    <image ext="png" id="Links - The Challenge of Golf (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Links - The Challenge of Golf (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Links - The Challenge of Golf (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Loadstar - The Legend of Tully Bodine (USA, Brazil)">
+    <description>Loadstar - The Legend of Tully Bodine (USA, Brazil)</description>
+    <title_clean>Loadstar - The Legend of Tully Bodine</title_clean>
+    <title_search>loadstar the legend of tully bodine</title_search>
+  </game>
+  <game name="Lords of Thunder (Europe)">
+    <description>Lords of Thunder (Europe)</description>
+    <title_clean>Lords of Thunder</title_clean>
+    <title_search>lords of thunder</title_search>
+  </game>
+  <game name="Lords of Thunder (USA)">
+    <description>Lords of Thunder (USA)</description>
+    <title_clean>Lords of Thunder</title_clean>
+    <title_search>lords of thunder</title_search>
+    <image ext="png" id="Lords of Thunder (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lords of Thunder (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lords of Thunder (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lunar - Eternal Blue (Japan)">
+    <description>Lunar - Eternal Blue (Japan)</description>
+    <title_clean>Lunar - Eternal Blue</title_clean>
+    <title_search>lunar eternal blue</title_search>
+    <image ext="png" id="Lunar - Eternal Blue (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Lunar - Eternal Blue (Japan) (Demo)">
+    <description>Lunar - Eternal Blue (Japan) (Demo)</description>
+    <title_clean>Lunar - Eternal Blue</title_clean>
+    <title_search>lunar eternal blue</title_search>
+  </game>
+  <game name="Lunar - Eternal Blue (Japan) (Rev A)">
+    <description>Lunar - Eternal Blue (Japan) (Rev A)</description>
+    <title_clean>Lunar - Eternal Blue</title_clean>
+    <title_search>lunar eternal blue</title_search>
+  </game>
+  <game name="Lunar - Eternal Blue (USA)">
+    <description>Lunar - Eternal Blue (USA)</description>
+    <title_clean>Lunar - Eternal Blue</title_clean>
+    <title_search>lunar eternal blue</title_search>
+    <image ext="png" id="Lunar - Eternal Blue (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lunar - Eternal Blue (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lunar - Eternal Blue (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lunar - The Silver Star (Japan)">
+    <description>Lunar - The Silver Star (Japan)</description>
+    <title_clean>Lunar - The Silver Star</title_clean>
+    <title_search>lunar the silver star</title_search>
+    <image ext="png" id="Lunar - The Silver Star (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Lunar - The Silver Star (USA)">
+    <description>Lunar - The Silver Star (USA)</description>
+    <title_clean>Lunar - The Silver Star</title_clean>
+    <title_search>lunar the silver star</title_search>
+    <image ext="png" id="Lunar - The Silver Star (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lunar - The Silver Star (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lunar - The Silver Star (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mad Dog II - The Lost Gold (USA)">
+    <description>Mad Dog II - The Lost Gold (USA)</description>
+    <title_clean>Mad Dog II - The Lost Gold</title_clean>
+    <title_search>mad dog ii the lost gold</title_search>
+  </game>
+  <game name="Mad Dog McCree (USA)">
+    <description>Mad Dog McCree (USA)</description>
+    <title_clean>Mad Dog McCree</title_clean>
+    <title_search>mad dog mccree</title_search>
+    <image ext="png" id="Mad Dog McCree (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mad Dog McCree (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mad Dog McCree (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mahou no Shoujo - Silky Lip (Japan)">
+    <description>Mahou no Shoujo - Silky Lip (Japan)</description>
+    <title_clean>Mahou no Shoujo - Silky Lip</title_clean>
+    <title_search>mahou no shoujo silky lip</title_search>
+  </game>
+  <game name="Make My Video - INXS (Europe)">
+    <description>Make My Video - INXS (Europe)</description>
+    <title_clean>Make My Video - INXS</title_clean>
+    <title_search>make my video inxs</title_search>
+    <image ext="png" id="Make My Video - INXS (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Make My Video - INXS (USA)">
+    <description>Make My Video - INXS (USA)</description>
+    <title_clean>Make My Video - INXS</title_clean>
+    <title_search>make my video inxs</title_search>
+    <image ext="png" id="Make My Video - INXS (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Make My Video - INXS (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Make My Video - INXS (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Make My Video - INXS (USA) (Beta)">
+    <description>Make My Video - INXS (USA) (Beta)</description>
+    <title_clean>Make My Video - INXS</title_clean>
+    <title_search>make my video inxs</title_search>
+  </game>
+  <game name="Make My Video - Kris Kross (Europe)">
+    <description>Make My Video - Kris Kross (Europe)</description>
+    <title_clean>Make My Video - Kris Kross</title_clean>
+    <title_search>make my video kris kross</title_search>
+  </game>
+  <game name="Make My Video - Kris Kross (USA)">
+    <description>Make My Video - Kris Kross (USA)</description>
+    <title_clean>Make My Video - Kris Kross</title_clean>
+    <title_search>make my video kris kross</title_search>
+  </game>
+  <game name="Make My Video - Marky Mark and the Funky Bunch (USA)">
+    <description>Make My Video - Marky Mark and the Funky Bunch (USA)</description>
+    <title_clean>Make My Video - Marky Mark and the Funky Bunch</title_clean>
+    <title_search>make my video marky mark and the funky bunch</title_search>
+    <image ext="png" id="Make My Video - Marky Mark and the Funky Bunch (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Make My Video - Marky Mark and the Funky Bunch (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Make My Video - Marky Mark and the Funky Bunch (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Make My Video - Marky Mark and the Funky Bunch (USA) (Beta)">
+    <description>Make My Video - Marky Mark and the Funky Bunch (USA) (Beta)</description>
+    <title_clean>Make My Video - Marky Mark and the Funky Bunch</title_clean>
+    <title_search>make my video marky mark and the funky bunch</title_search>
+  </game>
+  <game name="Mansion of Hidden Souls (USA)">
+    <description>Mansion of Hidden Souls (USA)</description>
+    <title_clean>Mansion of Hidden Souls</title_clean>
+    <title_search>mansion of hidden souls</title_search>
+    <image ext="png" id="Mansion of Hidden Souls (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mansion of Hidden Souls (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mansion of Hidden Souls (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Marko's Magic Football (Europe) (En,Fr,De,Es)">
+    <description>Marko's Magic Football (Europe) (En,Fr,De,Es)</description>
+    <title_clean>Marko's Magic Football</title_clean>
+    <title_search>markos magic football</title_search>
+  </game>
+  <game name="Mary Shelley's Frankenstein (USA)">
+    <description>Mary Shelley's Frankenstein (USA)</description>
+    <title_clean>Mary Shelley's Frankenstein</title_clean>
+    <title_search>mary shelleys frankenstein</title_search>
+    <image ext="png" id="Mary Shelley's Frankenstein (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mary Shelley's Frankenstein (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mary Shelley's Frankenstein (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Masked Rider, The - Kamen Rider ZO (USA)">
+    <description>Masked Rider, The - Kamen Rider ZO (USA)</description>
+    <title_clean>The Masked Rider - Kamen Rider ZO</title_clean>
+    <title_search>the masked rider kamen rider zo</title_search>
+    <image ext="png" id="Masked Rider, The - Kamen Rider ZO (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Masked Rider, The - Kamen Rider ZO (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Masked Rider, The - Kamen Rider ZO (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mega Schwarzschild (Japan)">
+    <description>Mega Schwarzschild (Japan)</description>
+    <title_clean>Mega Schwarzschild</title_clean>
+    <title_search>mega schwarzschild</title_search>
+    <image ext="png" id="Mega Schwarzschild (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="MegaRace (USA)">
+    <description>MegaRace (USA)</description>
+    <title_clean>MegaRace</title_clean>
+    <title_search>megarace</title_search>
+    <image ext="png" id="MegaRace (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="MegaRace (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="MegaRace (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mickey Mania (Europe)">
+    <description>Mickey Mania (Europe)</description>
+    <title_clean>Mickey Mania</title_clean>
+    <title_search>mickey mania</title_search>
+    <image ext="png" id="Mickey Mania (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Mickey Mania (Europe) (Demo) (Mega Sega)">
+    <description>Mickey Mania (Europe) (Demo) (Mega Sega)</description>
+    <title_clean>Mickey Mania</title_clean>
+    <title_search>mickey mania</title_search>
+  </game>
+  <game name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)">
+    <description>Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)</description>
+    <title_clean>Mickey Mania - The Timeless Adventures of Mickey Mouse</title_clean>
+    <title_search>mickey mania the timeless adventures of mickey mouse</title_search>
+    <image ext="png" id="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Microcosm (Europe)">
+    <description>Microcosm (Europe)</description>
+    <title_clean>Microcosm</title_clean>
+    <title_search>microcosm</title_search>
+    <image ext="png" id="Microcosm (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Microcosm (Japan)">
+    <description>Microcosm (Japan)</description>
+    <title_clean>Microcosm</title_clean>
+    <title_search>microcosm</title_search>
+    <image ext="png" id="Microcosm (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Microcosm (Japan) (Demo)">
+    <description>Microcosm (Japan) (Demo)</description>
+    <title_clean>Microcosm</title_clean>
+    <title_search>microcosm</title_search>
+  </game>
+  <game name="Microcosm (USA)">
+    <description>Microcosm (USA)</description>
+    <title_clean>Microcosm</title_clean>
+    <title_search>microcosm</title_search>
+    <image ext="png" id="Microcosm (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Microcosm (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Microcosm (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Midnight Raiders (Europe)">
+    <description>Midnight Raiders (Europe)</description>
+    <title_clean>Midnight Raiders</title_clean>
+    <title_search>midnight raiders</title_search>
+    <image ext="png" id="Midnight Raiders (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Midnight Raiders (USA)">
+    <description>Midnight Raiders (USA)</description>
+    <title_clean>Midnight Raiders</title_clean>
+    <title_search>midnight raiders</title_search>
+    <image ext="png" id="Midnight Raiders (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Midnight Raiders (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Midnight Raiders (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Might and Magic III - Isles of Terra (Japan)">
+    <description>Might and Magic III - Isles of Terra (Japan)</description>
+    <title_clean>Might and Magic III - Isles of Terra</title_clean>
+    <title_search>might and magic iii isles of terra</title_search>
+  </game>
+  <game name="Mighty Morphin Power Rangers (Europe)">
+    <description>Mighty Morphin Power Rangers (Europe)</description>
+    <title_clean>Mighty Morphin Power Rangers</title_clean>
+    <title_search>mighty morphin power rangers</title_search>
+  </game>
+  <game name="Mighty Morphin Power Rangers (USA)">
+    <description>Mighty Morphin Power Rangers (USA)</description>
+    <title_clean>Mighty Morphin Power Rangers</title_clean>
+    <title_search>mighty morphin power rangers</title_search>
+    <image ext="png" id="Mighty Morphin Power Rangers (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mighty Morphin Power Rangers (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mighty Morphin Power Rangers (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mortal Kombat (Europe)">
+    <description>Mortal Kombat (Europe)</description>
+    <title_clean>Mortal Kombat</title_clean>
+    <title_search>mortal kombat</title_search>
+    <image ext="png" id="Mortal Kombat (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Mortal Kombat (USA)">
+    <description>Mortal Kombat (USA)</description>
+    <title_clean>Mortal Kombat</title_clean>
+    <title_search>mortal kombat</title_search>
+    <image ext="png" id="Mortal Kombat (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mortal Kombat (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mortal Kombat (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mortal Kombat Kanzenban (Japan)">
+    <description>Mortal Kombat Kanzenban (Japan)</description>
+    <title_clean>Mortal Kombat Kanzenban</title_clean>
+    <title_search>mortal kombat kanzenban</title_search>
+  </game>
+  <game name="My Paint (USA)">
+    <description>My Paint (USA)</description>
+    <title_clean>My Paint</title_clean>
+    <title_search>my paint</title_search>
+  </game>
+  <game name="NBA Jam (Europe)">
+    <description>NBA Jam (Europe)</description>
+    <title_clean>NBA Jam</title_clean>
+    <title_search>nba jam</title_search>
+    <image ext="png" id="NBA Jam (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="NBA Jam (Japan)">
+    <description>NBA Jam (Japan)</description>
+    <title_clean>NBA Jam</title_clean>
+    <title_search>nba jam</title_search>
+  </game>
+  <game name="NBA Jam (USA)">
+    <description>NBA Jam (USA)</description>
+    <title_clean>NBA Jam</title_clean>
+    <title_search>nba jam</title_search>
+    <image ext="png" id="NBA Jam (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="NBA Jam (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="NBA Jam (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="NFL Football Trivia Challenge (USA)">
+    <description>NFL Football Trivia Challenge (USA)</description>
+    <title_clean>NFL Football Trivia Challenge</title_clean>
+    <title_search>nfl football trivia challenge</title_search>
+    <image ext="png" id="NFL Football Trivia Challenge (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="NFL Football Trivia Challenge (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="NFL Football Trivia Challenge (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="NFL's Greatest - San Francisco vs. Dallas 1978-1993 (USA)">
+    <description>NFL's Greatest - San Francisco vs. Dallas 1978-1993 (USA)</description>
+    <title_clean>NFL's Greatest - San Francisco vs. Dallas 1978-1993</title_clean>
+    <title_search>nfls greatest san francisco vs dallas 19781993</title_search>
+    <image ext="png" id="NFL's Greatest - San Francisco vs. Dallas 1978-1993 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="NFL's Greatest - San Francisco vs. Dallas 1978-1993 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="NFL's Greatest - San Francisco vs. Dallas 1978-1993 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="NHL '94 (USA)">
+    <description>NHL '94 (USA)</description>
+    <title_clean>NHL '94</title_clean>
+    <title_search>nhl 94</title_search>
+    <image ext="png" id="NHL '94 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="NHL '94 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="NHL '94 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="NHL Hockey '94 (Europe)">
+    <description>NHL Hockey '94 (Europe)</description>
+    <title_clean>NHL Hockey '94</title_clean>
+    <title_search>nhl hockey 94</title_search>
+    <image ext="png" id="NHL Hockey '94 (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Night Striker (Japan, Korea)">
+    <description>Night Striker (Japan, Korea)</description>
+    <title_clean>Night Striker</title_clean>
+    <title_search>night striker</title_search>
+  </game>
+  <game name="Night Trap (Europe) (Disc 1)">
+    <description>Night Trap (Europe) (Disc 1)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Night Trap (Europe) (Disc 1) (Mega-CD 32X)">
+    <description>Night Trap (Europe) (Disc 1) (Mega-CD 32X)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Night Trap (Europe) (Disc 2)">
+    <description>Night Trap (Europe) (Disc 2)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Night Trap (Europe) (Disc 2) (Mega-CD 32X)">
+    <description>Night Trap (Europe) (Disc 2) (Mega-CD 32X)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Night Trap (France) (Disc 1)">
+    <description>Night Trap (France) (Disc 1)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Night Trap (France) (Disc 2)">
+    <description>Night Trap (France) (Disc 2)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Night Trap (Japan) (Disc 1)">
+    <description>Night Trap (Japan) (Disc 1)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Night Trap (Japan) (Disc 2)">
+    <description>Night Trap (Japan) (Disc 2)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Night Trap (Japan) (Sample)">
+    <description>Night Trap (Japan) (Sample)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Night Trap (USA) (Disc 1)">
+    <description>Night Trap (USA) (Disc 1)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Night Trap (USA) (Disc 1) (Alt)">
+    <description>Night Trap (USA) (Disc 1) (Alt)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Night Trap (USA) (Disc 1) (Rerelease)">
+    <description>Night Trap (USA) (Disc 1) (Rerelease)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Night Trap (USA) (Disc 1) (Sega CD 32X) (RE-1)">
+    <description>Night Trap (USA) (Disc 1) (Sega CD 32X) (RE-1)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Night Trap (USA) (Disc 2)">
+    <description>Night Trap (USA) (Disc 2)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Night Trap (USA) (Disc 2) (Rerelease)">
+    <description>Night Trap (USA) (Disc 2) (Rerelease)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Night Trap (USA) (Disc 2) (Sega CD 32X) (RE-1)">
+    <description>Night Trap (USA) (Disc 2) (Sega CD 32X) (RE-1)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Ninja Warriors, The (Japan)">
+    <description>Ninja Warriors, The (Japan)</description>
+    <title_clean>The Ninja Warriors</title_clean>
+    <title_search>the ninja warriors</title_search>
+    <image ext="png" id="Ninja Warriors, The (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Nobunaga no Yabou - Haouden (Japan)">
+    <description>Nobunaga no Yabou - Haouden (Japan)</description>
+    <title_clean>Nobunaga no Yabou - Haouden</title_clean>
+    <title_search>nobunaga no yabou haouden</title_search>
+  </game>
+  <game name="Nostalgia 1907 (Japan)">
+    <description>Nostalgia 1907 (Japan)</description>
+    <title_clean>Nostalgia 1907</title_clean>
+    <title_search>nostalgia 1907</title_search>
+    <image ext="png" id="Nostalgia 1907 (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Note! Color Mechanica (USA) (Unl)">
+    <description>Note! Color Mechanica (USA) (Unl)</description>
+    <title_clean>Note! Color Mechanica</title_clean>
+    <title_search>note color mechanica</title_search>
+  </game>
+  <game name="Novastorm (Europe)">
+    <description>Novastorm (Europe)</description>
+    <title_clean>Novastorm</title_clean>
+    <title_search>novastorm</title_search>
+  </game>
+  <game name="Novastorm (Europe) (Demo)">
+    <description>Novastorm (Europe) (Demo)</description>
+    <title_clean>Novastorm</title_clean>
+    <title_search>novastorm</title_search>
+  </game>
+  <game name="Novastorm (USA)">
+    <description>Novastorm (USA)</description>
+    <title_clean>Novastorm</title_clean>
+    <title_search>novastorm</title_search>
+    <image ext="png" id="Novastorm (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Novastorm (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Novastorm (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Panic! (USA)">
+    <description>Panic! (USA)</description>
+    <title_clean>Panic!</title_clean>
+    <title_search>panic</title_search>
+    <image ext="png" id="Panic! (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Panic! (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Panic! (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pier Solar and the Great Architects Enhanced Soundtrack Disc (USA)">
+    <description>Pier Solar and the Great Architects Enhanced Soundtrack Disc (USA)</description>
+    <title_clean>Pier Solar and the Great Architects Enhanced Soundtrack Disc</title_clean>
+    <title_search>pier solar and the great architects enhanced soundtrack disc</title_search>
+  </game>
+  <game name="Pitfall - The Mayan Adventure (Europe)">
+    <description>Pitfall - The Mayan Adventure (Europe)</description>
+    <title_clean>Pitfall - The Mayan Adventure</title_clean>
+    <title_search>pitfall the mayan adventure</title_search>
+    <image ext="png" id="Pitfall - The Mayan Adventure (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Pitfall - The Mayan Adventure (Europe) (Demo)">
+    <description>Pitfall - The Mayan Adventure (Europe) (Demo)</description>
+    <title_clean>Pitfall - The Mayan Adventure</title_clean>
+    <title_search>pitfall the mayan adventure</title_search>
+  </game>
+  <game name="Pitfall - The Mayan Adventure (USA)">
+    <description>Pitfall - The Mayan Adventure (USA)</description>
+    <title_clean>Pitfall - The Mayan Adventure</title_clean>
+    <title_search>pitfall the mayan adventure</title_search>
+    <image ext="png" id="Pitfall - The Mayan Adventure (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pitfall - The Mayan Adventure (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pitfall - The Mayan Adventure (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Popful Mail (Japan)">
+    <description>Popful Mail (Japan)</description>
+    <title_clean>Popful Mail</title_clean>
+    <title_search>popful mail</title_search>
+    <image ext="png" id="Popful Mail (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Popful Mail (Japan) (Sample)">
+    <description>Popful Mail (Japan) (Sample)</description>
+    <title_clean>Popful Mail</title_clean>
+    <title_search>popful mail</title_search>
+  </game>
+  <game name="Popful Mail (USA)">
+    <description>Popful Mail (USA)</description>
+    <title_clean>Popful Mail</title_clean>
+    <title_search>popful mail</title_search>
+    <image ext="png" id="Popful Mail (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Popful Mail (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Popful Mail (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Power Factory (Europe)">
+    <description>Power Factory (Europe)</description>
+    <title_clean>Power Factory</title_clean>
+    <title_search>power factory</title_search>
+  </game>
+  <game name="Power Factory (USA)">
+    <description>Power Factory (USA)</description>
+    <title_clean>Power Factory</title_clean>
+    <title_search>power factory</title_search>
+  </game>
+  <game name="Power Monger (USA)">
+    <description>Power Monger (USA)</description>
+    <title_clean>Power Monger</title_clean>
+    <title_search>power monger</title_search>
+    <image ext="png" id="Power Monger (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Power Monger (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Power Monger (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="PowerMonger (Europe)">
+    <description>PowerMonger (Europe)</description>
+    <title_clean>PowerMonger</title_clean>
+    <title_search>powermonger</title_search>
+  </game>
+  <game name="Prince of Persia (Europe)">
+    <description>Prince of Persia (Europe)</description>
+    <title_clean>Prince of Persia</title_clean>
+    <title_search>prince of persia</title_search>
+    <image ext="png" id="Prince of Persia (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Prince of Persia (Japan)">
+    <description>Prince of Persia (Japan)</description>
+    <title_clean>Prince of Persia</title_clean>
+    <title_search>prince of persia</title_search>
+    <image ext="png" id="Prince of Persia (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Prince of Persia (USA)">
+    <description>Prince of Persia (USA)</description>
+    <title_clean>Prince of Persia</title_clean>
+    <title_search>prince of persia</title_search>
+    <image ext="png" id="Prince of Persia (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Prince of Persia (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Prince of Persia (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Prize Fighter (Europe) (Disc 1)">
+    <description>Prize Fighter (Europe) (Disc 1)</description>
+    <title_clean>Prize Fighter</title_clean>
+    <title_search>prize fighter</title_search>
+  </game>
+  <game name="Prize Fighter (Europe) (Disc 2)">
+    <description>Prize Fighter (Europe) (Disc 2)</description>
+    <title_clean>Prize Fighter</title_clean>
+    <title_search>prize fighter</title_search>
+  </game>
+  <game name="Prize Fighter (Japan) (Disc 1)">
+    <description>Prize Fighter (Japan) (Disc 1)</description>
+    <title_clean>Prize Fighter</title_clean>
+    <title_search>prize fighter</title_search>
+  </game>
+  <game name="Prize Fighter (Japan) (Disc 2)">
+    <description>Prize Fighter (Japan) (Disc 2)</description>
+    <title_clean>Prize Fighter</title_clean>
+    <title_search>prize fighter</title_search>
+  </game>
+  <game name="Prize Fighter (USA) (Disc 1)">
+    <description>Prize Fighter (USA) (Disc 1)</description>
+    <title_clean>Prize Fighter</title_clean>
+    <title_search>prize fighter</title_search>
+  </game>
+  <game name="Prize Fighter (USA) (Disc 2)">
+    <description>Prize Fighter (USA) (Disc 2)</description>
+    <title_clean>Prize Fighter</title_clean>
+    <title_search>prize fighter</title_search>
+  </game>
+  <game name="Pro Yakyuu Super League CD (Japan)">
+    <description>Pro Yakyuu Super League CD (Japan)</description>
+    <title_clean>Pro Yakyuu Super League CD</title_clean>
+    <title_search>pro yakyuu super league cd</title_search>
+    <image ext="png" id="Pro Yakyuu Super League CD (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Psychic Detective Series Vol. 3 - Aya (Japan)">
+    <description>Psychic Detective Series Vol. 3 - Aya (Japan)</description>
+    <title_clean>Psychic Detective Series Vol. 3 - Aya</title_clean>
+    <title_search>psychic detective series vol 3 aya</title_search>
+  </game>
+  <game name="Psychic Detective Series Vol. 4 - Orgel (Japan)">
+    <description>Psychic Detective Series Vol. 4 - Orgel (Japan)</description>
+    <title_clean>Psychic Detective Series Vol. 4 - Orgel</title_clean>
+    <title_search>psychic detective series vol 4 orgel</title_search>
+    <image ext="png" id="Psychic Detective Series Vol. 4 - Orgel (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Psygnosis Christmas Sampler (Europe)">
+    <description>Psygnosis Christmas Sampler (Europe)</description>
+    <title_clean>Psygnosis Christmas Sampler</title_clean>
+    <title_search>psygnosis christmas sampler</title_search>
+  </game>
+  <game name="Puggsy (Europe)">
+    <description>Puggsy (Europe)</description>
+    <title_clean>Puggsy</title_clean>
+    <title_search>puggsy</title_search>
+    <image ext="png" id="Puggsy (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Puggsy (USA)">
+    <description>Puggsy (USA)</description>
+    <title_clean>Puggsy</title_clean>
+    <title_search>puggsy</title_search>
+    <image ext="png" id="Puggsy (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Puggsy (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Puggsy (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Quiz Scramble Special (Japan) (Rev B)">
+    <description>Quiz Scramble Special (Japan) (Rev B)</description>
+    <title_clean>Quiz Scramble Special</title_clean>
+    <title_search>quiz scramble special</title_search>
+  </game>
+  <game name="Quiz Tonosama no Yabou (Japan)">
+    <description>Quiz Tonosama no Yabou (Japan)</description>
+    <title_clean>Quiz Tonosama no Yabou</title_clean>
+    <title_search>quiz tonosama no yabou</title_search>
+  </game>
+  <game name="RDF - Global Conflict (USA)">
+    <description>RDF - Global Conflict (USA)</description>
+    <title_clean>RDF - Global Conflict</title_clean>
+    <title_search>rdf global conflict</title_search>
+  </game>
+  <game name="Racing Aces (USA)">
+    <description>Racing Aces (USA)</description>
+    <title_clean>Racing Aces</title_clean>
+    <title_search>racing aces</title_search>
+    <image ext="png" id="Racing Aces (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Racing Aces (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Racing Aces (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Radical Rex (USA)">
+    <description>Radical Rex (USA)</description>
+    <title_clean>Radical Rex</title_clean>
+    <title_search>radical rex</title_search>
+    <image ext="png" id="Radical Rex (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Radical Rex (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Radical Rex (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ranma 1-2 - Byakuranaika (Japan)">
+    <description>Ranma 1-2 - Byakuranaika (Japan)</description>
+    <title_clean>Ranma 1-2 - Byakuranaika</title_clean>
+    <title_search>ranma 12 byakuranaika</title_search>
+  </game>
+  <game name="Record of Lodoss War (Japan)">
+    <description>Record of Lodoss War (Japan)</description>
+    <title_clean>Record of Lodoss War</title_clean>
+    <title_search>record of lodoss war</title_search>
+  </game>
+  <game name="Record of Lodoss War (Japan) (Sample)">
+    <description>Record of Lodoss War (Japan) (Sample)</description>
+    <title_clean>Record of Lodoss War</title_clean>
+    <title_search>record of lodoss war</title_search>
+  </game>
+  <game name="Revenge of the Ninja (USA)">
+    <description>Revenge of the Ninja (USA)</description>
+    <title_clean>Revenge of the Ninja</title_clean>
+    <title_search>revenge of the ninja</title_search>
+    <image ext="png" id="Revenge of the Ninja (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Revenge of the Ninja (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Revenge of the Ninja (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Revengers of Vengeance (USA)">
+    <description>Revengers of Vengeance (USA)</description>
+    <title_clean>Revengers of Vengeance</title_clean>
+    <title_search>revengers of vengeance</title_search>
+    <image ext="png" id="Revengers of Vengeance (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Revengers of Vengeance (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Revengers of Vengeance (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rise of the Dragon (USA)">
+    <description>Rise of the Dragon (USA)</description>
+    <title_clean>Rise of the Dragon</title_clean>
+    <title_search>rise of the dragon</title_search>
+    <image ext="png" id="Rise of the Dragon (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rise of the Dragon (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rise of the Dragon (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rise of the Dragon (USA) (Rerelease)">
+    <description>Rise of the Dragon (USA) (Rerelease)</description>
+    <title_clean>Rise of the Dragon</title_clean>
+    <title_search>rise of the dragon</title_search>
+  </game>
+  <game name="Rise of the Dragon - A Blade Hunter Mystery (Japan)">
+    <description>Rise of the Dragon - A Blade Hunter Mystery (Japan)</description>
+    <title_clean>Rise of the Dragon - A Blade Hunter Mystery</title_clean>
+    <title_search>rise of the dragon a blade hunter mystery</title_search>
+  </game>
+  <game name="Road Avenger (Europe)">
+    <description>Road Avenger (Europe)</description>
+    <title_clean>Road Avenger</title_clean>
+    <title_search>road avenger</title_search>
+    <image ext="png" id="Road Avenger (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Road Avenger (USA)">
+    <description>Road Avenger (USA)</description>
+    <title_clean>Road Avenger</title_clean>
+    <title_search>road avenger</title_search>
+    <image ext="png" id="Road Avenger (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Road Avenger (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Road Avenger (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Road Blaster FX (Japan)">
+    <description>Road Blaster FX (Japan)</description>
+    <title_clean>Road Blaster FX</title_clean>
+    <title_search>road blaster fx</title_search>
+    <image ext="png" id="Road Blaster FX (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Robo Aleste (Europe)">
+    <description>Robo Aleste (Europe)</description>
+    <title_clean>Robo Aleste</title_clean>
+    <title_search>robo aleste</title_search>
+    <image ext="png" id="Robo Aleste (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Robo Aleste (USA)">
+    <description>Robo Aleste (USA)</description>
+    <title_clean>Robo Aleste</title_clean>
+    <title_search>robo aleste</title_search>
+    <image ext="png" id="Robo Aleste (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Robo Aleste (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Robo Aleste (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Samurai Shodown (Europe)">
+    <description>Samurai Shodown (Europe)</description>
+    <title_clean>Samurai Shodown</title_clean>
+    <title_search>samurai shodown</title_search>
+  </game>
+  <game name="Samurai Shodown (Europe) (Demo)">
+    <description>Samurai Shodown (Europe) (Demo)</description>
+    <title_clean>Samurai Shodown</title_clean>
+    <title_search>samurai shodown</title_search>
+  </game>
+  <game name="Sangokushi III (Japan)">
+    <description>Sangokushi III (Japan)</description>
+    <title_clean>Sangokushi III</title_clean>
+    <title_search>sangokushi iii</title_search>
+  </game>
+  <game name="Secret of Monkey Island, The (Japan)">
+    <description>Secret of Monkey Island, The (Japan)</description>
+    <title_clean>The Secret of Monkey Island</title_clean>
+    <title_search>the secret of monkey island</title_search>
+  </game>
+  <game name="Secret of Monkey Island, The (USA)">
+    <description>Secret of Monkey Island, The (USA)</description>
+    <title_clean>The Secret of Monkey Island</title_clean>
+    <title_search>the secret of monkey island</title_search>
+  </game>
+  <game name="Sega Classic Arcade Collection - Limited Edition (Japan)">
+    <description>Sega Classic Arcade Collection - Limited Edition (Japan)</description>
+    <title_clean>Sega Classic Arcade Collection - Limited Edition</title_clean>
+    <title_search>sega classic arcade collection limited edition</title_search>
+  </game>
+  <game name="Sega Classics Arcade Collection (USA) (4-in-1)">
+    <description>Sega Classics Arcade Collection (USA) (4-in-1)</description>
+    <title_clean>Sega Classics Arcade Collection</title_clean>
+    <title_search>sega classics arcade collection</title_search>
+  </game>
+  <game name="Sega Classics Arcade Collection (USA) (5-in-1)">
+    <description>Sega Classics Arcade Collection (USA) (5-in-1)</description>
+    <title_clean>Sega Classics Arcade Collection</title_clean>
+    <title_search>sega classics arcade collection</title_search>
+  </game>
+  <game name="Sega Classics Arcade Collection - Limited Edition (Europe) (Rev A) (Alt)">
+    <description>Sega Classics Arcade Collection - Limited Edition (Europe) (Rev A) (Alt)</description>
+    <title_clean>Sega Classics Arcade Collection - Limited Edition</title_clean>
+    <title_search>sega classics arcade collection limited edition</title_search>
+  </game>
+  <game name="Seima Densetsu 3x3 Eyes (Japan, Korea)">
+    <description>Seima Densetsu 3x3 Eyes (Japan, Korea)</description>
+    <title_clean>Seima Densetsu 3x3 Eyes</title_clean>
+    <title_search>seima densetsu 3x3 eyes</title_search>
+  </game>
+  <game name="Seirei Shinseiki - Fhey Area (Japan)">
+    <description>Seirei Shinseiki - Fhey Area (Japan)</description>
+    <title_clean>Seirei Shinseiki - Fhey Area</title_clean>
+    <title_search>seirei shinseiki fhey area</title_search>
+  </game>
+  <game name="Sengoku Denshou (Japan)">
+    <description>Sengoku Denshou (Japan)</description>
+    <title_clean>Sengoku Denshou</title_clean>
+    <title_search>sengoku denshou</title_search>
+    <image ext="png" id="Sengoku Denshou (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Sensible Soccer (Europe)">
+    <description>Sensible Soccer (Europe)</description>
+    <title_clean>Sensible Soccer</title_clean>
+    <title_search>sensible soccer</title_search>
+    <image ext="png" id="Sensible Soccer (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Sensible Soccer (Europe) (Demo)">
+    <description>Sensible Soccer (Europe) (Demo)</description>
+    <title_clean>Sensible Soccer</title_clean>
+    <title_search>sensible soccer</title_search>
+  </game>
+  <game name="Sewer Shark (Europe)">
+    <description>Sewer Shark (Europe)</description>
+    <title_clean>Sewer Shark</title_clean>
+    <title_search>sewer shark</title_search>
+    <image ext="png" id="Sewer Shark (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Sewer Shark (USA)">
+    <description>Sewer Shark (USA)</description>
+    <title_clean>Sewer Shark</title_clean>
+    <title_search>sewer shark</title_search>
+    <image ext="png" id="Sewer Shark (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sewer Shark (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sewer Shark (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sewer Shark (USA) (Not for Resale) (Alt 2)">
+    <description>Sewer Shark (USA) (Not for Resale) (Alt 2)</description>
+    <title_clean>Sewer Shark</title_clean>
+    <title_search>sewer shark</title_search>
+  </game>
+  <game name="Sewer Shark (USA) (Rev 1)">
+    <description>Sewer Shark (USA) (Rev 1)</description>
+    <title_clean>Sewer Shark</title_clean>
+    <title_search>sewer shark</title_search>
+  </game>
+  <game name="Shadow of the Beast II (USA)">
+    <description>Shadow of the Beast II (USA)</description>
+    <title_clean>Shadow of the Beast II</title_clean>
+    <title_search>shadow of the beast ii</title_search>
+    <image ext="png" id="Shadow of the Beast II (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shadow of the Beast II (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shadow of the Beast II (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shadow of the Beast II - Juushin no Jubaku (Japan)">
+    <description>Shadow of the Beast II - Juushin no Jubaku (Japan)</description>
+    <title_clean>Shadow of the Beast II - Juushin no Jubaku</title_clean>
+    <title_search>shadow of the beast ii juushin no jubaku</title_search>
+  </game>
+  <game name="Shadowrun (Japan)">
+    <description>Shadowrun (Japan)</description>
+    <title_clean>Shadowrun</title_clean>
+    <title_search>shadowrun</title_search>
+  </game>
+  <game name="Sherlock Holmes - Consulting Detective (Europe)">
+    <description>Sherlock Holmes - Consulting Detective (Europe)</description>
+    <title_clean>Sherlock Holmes - Consulting Detective</title_clean>
+    <title_search>sherlock holmes consulting detective</title_search>
+  </game>
+  <game name="Sherlock Holmes - Consulting Detective (USA)">
+    <description>Sherlock Holmes - Consulting Detective (USA)</description>
+    <title_clean>Sherlock Holmes - Consulting Detective</title_clean>
+    <title_search>sherlock holmes consulting detective</title_search>
+    <image ext="png" id="Sherlock Holmes - Consulting Detective (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sherlock Holmes - Consulting Detective (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sherlock Holmes - Consulting Detective (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sherlock Holmes - Consulting Detective Vol. II (Europe) (Disc 1)">
+    <description>Sherlock Holmes - Consulting Detective Vol. II (Europe) (Disc 1)</description>
+    <title_clean>Sherlock Holmes - Consulting Detective Vol. II</title_clean>
+    <title_search>sherlock holmes consulting detective vol ii</title_search>
+  </game>
+  <game name="Sherlock Holmes - Consulting Detective Vol. II (Europe) (Disc 2)">
+    <description>Sherlock Holmes - Consulting Detective Vol. II (Europe) (Disc 2)</description>
+    <title_clean>Sherlock Holmes - Consulting Detective Vol. II</title_clean>
+    <title_search>sherlock holmes consulting detective vol ii</title_search>
+  </game>
+  <game name="Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 1)">
+    <description>Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 1)</description>
+    <title_clean>Sherlock Holmes - Consulting Detective Vol. II</title_clean>
+    <title_search>sherlock holmes consulting detective vol ii</title_search>
+  </game>
+  <game name="Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 2)">
+    <description>Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 2)</description>
+    <title_clean>Sherlock Holmes - Consulting Detective Vol. II</title_clean>
+    <title_search>sherlock holmes consulting detective vol ii</title_search>
+  </game>
+  <game name="Shin Megami Tensei (Japan)">
+    <description>Shin Megami Tensei (Japan)</description>
+    <title_clean>Shin Megami Tensei</title_clean>
+    <title_search>shin megami tensei</title_search>
+  </game>
+  <game name="Shining Force CD (Europe)">
+    <description>Shining Force CD (Europe)</description>
+    <title_clean>Shining Force CD</title_clean>
+    <title_search>shining force cd</title_search>
+    <image ext="png" id="Shining Force CD (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Shining Force CD (Japan)">
+    <description>Shining Force CD (Japan)</description>
+    <title_clean>Shining Force CD</title_clean>
+    <title_search>shining force cd</title_search>
+    <image ext="png" id="Shining Force CD (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Shining Force CD (USA) (Alt)">
+    <description>Shining Force CD (USA) (Alt)</description>
+    <title_clean>Shining Force CD</title_clean>
+    <title_search>shining force cd</title_search>
+  </game>
+  <game name="Silpheed (Europe)">
+    <description>Silpheed (Europe)</description>
+    <title_clean>Silpheed</title_clean>
+    <title_search>silpheed</title_search>
+    <image ext="png" id="Silpheed (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Silpheed (Japan)">
+    <description>Silpheed (Japan)</description>
+    <title_clean>Silpheed</title_clean>
+    <title_search>silpheed</title_search>
+    <image ext="png" id="Silpheed (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Silpheed (Japan) (Sample)">
+    <description>Silpheed (Japan) (Sample)</description>
+    <title_clean>Silpheed</title_clean>
+    <title_search>silpheed</title_search>
+  </game>
+  <game name="Silpheed (USA)">
+    <description>Silpheed (USA)</description>
+    <title_clean>Silpheed</title_clean>
+    <title_search>silpheed</title_search>
+    <image ext="png" id="Silpheed (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Silpheed (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Silpheed (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SimEarth (Japan)">
+    <description>SimEarth (Japan)</description>
+    <title_clean>SimEarth</title_clean>
+    <title_search>simearth</title_search>
+  </game>
+  <game name="Sing!! Sega Game Music Presented by B. B. Queens (Japan)">
+    <description>Sing!! Sega Game Music Presented by B. B. Queens (Japan)</description>
+    <title_clean>Sing!! Sega Game Music Presented by B. B. Queens</title_clean>
+    <title_search>sing sega game music presented by b b queens</title_search>
+  </game>
+  <game name="Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers)">
+    <description>Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers)</description>
+    <title_clean>Slam City with Scottie Pippen</title_clean>
+    <title_search>slam city with scottie pippen</title_search>
+  </game>
+  <game name="Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers) (Demo)">
+    <description>Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers) (Demo)</description>
+    <title_clean>Slam City with Scottie Pippen</title_clean>
+    <title_search>slam city with scottie pippen</title_search>
+  </game>
+  <game name="Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers) (Mega-CD 32X)">
+    <description>Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers) (Mega-CD 32X)</description>
+    <title_clean>Slam City with Scottie Pippen</title_clean>
+    <title_search>slam city with scottie pippen</title_search>
+  </game>
+  <game name="Slam City with Scottie Pippen (Europe) (Disc 2) (Juice)">
+    <description>Slam City with Scottie Pippen (Europe) (Disc 2) (Juice)</description>
+    <title_clean>Slam City with Scottie Pippen</title_clean>
+    <title_search>slam city with scottie pippen</title_search>
+  </game>
+  <game name="Slam City with Scottie Pippen (Europe) (Disc 2) (Juice) (Mega-CD 32X)">
+    <description>Slam City with Scottie Pippen (Europe) (Disc 2) (Juice) (Mega-CD 32X)</description>
+    <title_clean>Slam City with Scottie Pippen</title_clean>
+    <title_search>slam city with scottie pippen</title_search>
+  </game>
+  <game name="Slam City with Scottie Pippen (Europe) (Disc 3) (Mad Dog)">
+    <description>Slam City with Scottie Pippen (Europe) (Disc 3) (Mad Dog)</description>
+    <title_clean>Slam City with Scottie Pippen</title_clean>
+    <title_search>slam city with scottie pippen</title_search>
+  </game>
+  <game name="Slam City with Scottie Pippen (Europe) (Disc 3) (Mad Dog) (Mega-CD 32X)">
+    <description>Slam City with Scottie Pippen (Europe) (Disc 3) (Mad Dog) (Mega-CD 32X)</description>
+    <title_clean>Slam City with Scottie Pippen</title_clean>
+    <title_search>slam city with scottie pippen</title_search>
+  </game>
+  <game name="Slam City with Scottie Pippen (Europe) (Disc 4) (Smash)">
+    <description>Slam City with Scottie Pippen (Europe) (Disc 4) (Smash)</description>
+    <title_clean>Slam City with Scottie Pippen</title_clean>
+    <title_search>slam city with scottie pippen</title_search>
+  </game>
+  <game name="Slam City with Scottie Pippen (Europe) (Disc 4) (Smash) (Mega-CD 32X)">
+    <description>Slam City with Scottie Pippen (Europe) (Disc 4) (Smash) (Mega-CD 32X)</description>
+    <title_clean>Slam City with Scottie Pippen</title_clean>
+    <title_search>slam city with scottie pippen</title_search>
+  </game>
+  <game name="Slam City with Scottie Pippen (USA) (Disc 1) (Fingers)">
+    <description>Slam City with Scottie Pippen (USA) (Disc 1) (Fingers)</description>
+    <title_clean>Slam City with Scottie Pippen</title_clean>
+    <title_search>slam city with scottie pippen</title_search>
+  </game>
+  <game name="Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog)">
+    <description>Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog)</description>
+    <title_clean>Slam City with Scottie Pippen</title_clean>
+    <title_search>slam city with scottie pippen</title_search>
+  </game>
+  <game name="Slam City with Scottie Pippen (USA, Brazil) (Disc 2) (Juice) (RE-1)">
+    <description>Slam City with Scottie Pippen (USA, Brazil) (Disc 2) (Juice) (RE-1)</description>
+    <title_clean>Slam City with Scottie Pippen</title_clean>
+    <title_search>slam city with scottie pippen</title_search>
+  </game>
+  <game name="Slam City with Scottie Pippen (USA, Brazil) (Disc 4) (Smash)">
+    <description>Slam City with Scottie Pippen (USA, Brazil) (Disc 4) (Smash)</description>
+    <title_clean>Slam City with Scottie Pippen</title_clean>
+    <title_search>slam city with scottie pippen</title_search>
+  </game>
+  <game name="Smurfs, The (Europe) (En,Fr,De,Es,It)">
+    <description>Smurfs, The (Europe) (En,Fr,De,Es,It)</description>
+    <title_clean>The Smurfs</title_clean>
+    <title_search>the smurfs</title_search>
+  </game>
+  <game name="Snatcher (Europe)">
+    <description>Snatcher (Europe)</description>
+    <title_clean>Snatcher</title_clean>
+    <title_search>snatcher</title_search>
+  </game>
+  <game name="Snatcher (USA)">
+    <description>Snatcher (USA)</description>
+    <title_clean>Snatcher</title_clean>
+    <title_search>snatcher</title_search>
+    <image ext="png" id="Snatcher (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Snatcher (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Snatcher (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Software Toolworks' Star Wars Chess, The (Europe)">
+    <description>Software Toolworks' Star Wars Chess, The (Europe)</description>
+    <title_clean>The Software Toolworks' Star Wars Chess</title_clean>
+    <title_search>the software toolworks star wars chess</title_search>
+  </game>
+  <game name="Software Toolworks' Star Wars Chess, The (USA)">
+    <description>Software Toolworks' Star Wars Chess, The (USA)</description>
+    <title_clean>The Software Toolworks' Star Wars Chess</title_clean>
+    <title_search>the software toolworks star wars chess</title_search>
+  </game>
+  <game name="Sol-Feace (Europe) (Alt)">
+    <description>Sol-Feace (Europe) (Alt)</description>
+    <title_clean>Sol-Feace</title_clean>
+    <title_search>solfeace</title_search>
+  </game>
+  <game name="Sol-Feace (Japan)">
+    <description>Sol-Feace (Japan)</description>
+    <title_clean>Sol-Feace</title_clean>
+    <title_search>solfeace</title_search>
+    <image ext="png" id="Sol-Feace (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Sol-Feace (USA) (Rev 2)">
+    <description>Sol-Feace (USA) (Rev 2)</description>
+    <title_clean>Sol-Feace</title_clean>
+    <title_search>solfeace</title_search>
+  </game>
+  <game name="Sonic CD (Europe)">
+    <description>Sonic CD (Europe)</description>
+    <title_clean>Sonic CD</title_clean>
+    <title_search>sonic cd</title_search>
+  </game>
+  <game name="Sonic CD (Japan) (Demo)">
+    <description>Sonic CD (Japan) (Demo)</description>
+    <title_clean>Sonic CD</title_clean>
+    <title_search>sonic cd</title_search>
+  </game>
+  <game name="Sonic CD (USA) (RE125) (Alt)">
+    <description>Sonic CD (USA) (RE125) (Alt)</description>
+    <title_clean>Sonic CD</title_clean>
+    <title_search>sonic cd</title_search>
+  </game>
+  <game name="Sonic MegaMix (USA) (Unl)">
+    <description>Sonic MegaMix (USA) (Unl)</description>
+    <title_clean>Sonic MegaMix</title_clean>
+    <title_search>sonic megamix</title_search>
+  </game>
+  <game name="Sonic The Hedgehog CD (Japan)">
+    <description>Sonic The Hedgehog CD (Japan)</description>
+    <title_clean>Sonic The Hedgehog CD</title_clean>
+    <title_search>sonic the hedgehog cd</title_search>
+    <image ext="png" id="Sonic The Hedgehog CD (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Sonic The Hedgehog CD (Japan) (Beta)">
+    <description>Sonic The Hedgehog CD (Japan) (Beta)</description>
+    <title_clean>Sonic The Hedgehog CD</title_clean>
+    <title_search>sonic the hedgehog cd</title_search>
+  </game>
+  <game name="SoulStar (Europe) (Demo)">
+    <description>SoulStar (Europe) (Demo)</description>
+    <title_clean>SoulStar</title_clean>
+    <title_search>soulstar</title_search>
+  </game>
+  <game name="SoulStar (Europe) (En,Fr,De)">
+    <description>SoulStar (Europe) (En,Fr,De)</description>
+    <title_clean>SoulStar</title_clean>
+    <title_search>soulstar</title_search>
+  </game>
+  <game name="SoulStar (Japan)">
+    <description>SoulStar (Japan)</description>
+    <title_clean>SoulStar</title_clean>
+    <title_search>soulstar</title_search>
+  </game>
+  <game name="SoulStar (USA)">
+    <description>SoulStar (USA)</description>
+    <title_clean>SoulStar</title_clean>
+    <title_search>soulstar</title_search>
+  </game>
+  <game name="SoulStar _ Battlecorps (Europe) (Demo)">
+    <description>SoulStar _ Battlecorps (Europe) (Demo)</description>
+    <title_clean>SoulStar _ Battlecorps</title_clean>
+    <title_search>soulstar battlecorps</title_search>
+  </game>
+  <game name="Space Ace (USA)">
+    <description>Space Ace (USA)</description>
+    <title_clean>Space Ace</title_clean>
+    <title_search>space ace</title_search>
+    <image ext="png" id="Space Ace (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Ace (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Ace (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Ace (USA) (Demo)">
+    <description>Space Ace (USA) (Demo)</description>
+    <title_clean>Space Ace</title_clean>
+    <title_search>space ace</title_search>
+  </game>
+  <game name="Space Adventure, The - Cobra - The Legendary Bandit (Europe)">
+    <description>Space Adventure, The - Cobra - The Legendary Bandit (Europe)</description>
+    <title_clean>The Space Adventure - Cobra - The Legendary Bandit</title_clean>
+    <title_search>the space adventure cobra the legendary bandit</title_search>
+  </game>
+  <game name="Space Adventure, The - Cobra - The Legendary Bandit (USA)">
+    <description>Space Adventure, The - Cobra - The Legendary Bandit (USA)</description>
+    <title_clean>The Space Adventure - Cobra - The Legendary Bandit</title_clean>
+    <title_search>the space adventure cobra the legendary bandit</title_search>
+  </game>
+  <game name="Star Wars - Rebel Assault (Europe)">
+    <description>Star Wars - Rebel Assault (Europe)</description>
+    <title_clean>Star Wars - Rebel Assault</title_clean>
+    <title_search>star wars rebel assault</title_search>
+    <image ext="png" id="Star Wars - Rebel Assault (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Star Wars - Rebel Assault (Europe) (Demo)">
+    <description>Star Wars - Rebel Assault (Europe) (Demo)</description>
+    <title_clean>Star Wars - Rebel Assault</title_clean>
+    <title_search>star wars rebel assault</title_search>
+  </game>
+  <game name="Star Wars - Rebel Assault (Europe) (Demo) (Sega Pro)">
+    <description>Star Wars - Rebel Assault (Europe) (Demo) (Sega Pro)</description>
+    <title_clean>Star Wars - Rebel Assault</title_clean>
+    <title_search>star wars rebel assault</title_search>
+  </game>
+  <game name="Star Wars - Rebel Assault (Japan)">
+    <description>Star Wars - Rebel Assault (Japan)</description>
+    <title_clean>Star Wars - Rebel Assault</title_clean>
+    <title_search>star wars rebel assault</title_search>
+  </game>
+  <game name="Star Wars - Rebel Assault (USA)">
+    <description>Star Wars - Rebel Assault (USA)</description>
+    <title_clean>Star Wars - Rebel Assault</title_clean>
+    <title_search>star wars rebel assault</title_search>
+  </game>
+  <game name="Starblade (Europe)">
+    <description>Starblade (Europe)</description>
+    <title_clean>Starblade</title_clean>
+    <title_search>starblade</title_search>
+    <image ext="png" id="Starblade (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Starblade (Japan)">
+    <description>Starblade (Japan)</description>
+    <title_clean>Starblade</title_clean>
+    <title_search>starblade</title_search>
+    <image ext="png" id="Starblade (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Starblade (USA)">
+    <description>Starblade (USA)</description>
+    <title_clean>Starblade</title_clean>
+    <title_search>starblade</title_search>
+    <image ext="png" id="Starblade (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Starblade (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Starblade (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Stellar-Fire (USA)">
+    <description>Stellar-Fire (USA)</description>
+    <title_clean>Stellar-Fire</title_clean>
+    <title_search>stellarfire</title_search>
+    <image ext="png" id="Stellar-Fire (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Stellar-Fire (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Stellar-Fire (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Strike Trilogy (USA) (Unl)">
+    <description>Super Strike Trilogy (USA) (Unl)</description>
+    <title_clean>Super Strike Trilogy</title_clean>
+    <title_search>super strike trilogy</title_search>
+  </game>
+  <game name="Supreme Warrior (Europe) (Disc 1)">
+    <description>Supreme Warrior (Europe) (Disc 1)</description>
+    <title_clean>Supreme Warrior</title_clean>
+    <title_search>supreme warrior</title_search>
+  </game>
+  <game name="Supreme Warrior (Europe) (Disc 1) (Mega-CD 32X)">
+    <description>Supreme Warrior (Europe) (Disc 1) (Mega-CD 32X)</description>
+    <title_clean>Supreme Warrior</title_clean>
+    <title_search>supreme warrior</title_search>
+  </game>
+  <game name="Supreme Warrior (Europe) (Disc 2)">
+    <description>Supreme Warrior (Europe) (Disc 2)</description>
+    <title_clean>Supreme Warrior</title_clean>
+    <title_search>supreme warrior</title_search>
+  </game>
+  <game name="Supreme Warrior (Europe) (Disc 2) (Mega CD-32X)">
+    <description>Supreme Warrior (Europe) (Disc 2) (Mega CD-32X)</description>
+    <title_clean>Supreme Warrior</title_clean>
+    <title_search>supreme warrior</title_search>
+  </game>
+  <game name="Supreme Warrior (USA) (Disc 1) (Fire _ Earth) (Sega CD 32X)">
+    <description>Supreme Warrior (USA) (Disc 1) (Fire _ Earth) (Sega CD 32X)</description>
+    <title_clean>Supreme Warrior</title_clean>
+    <title_search>supreme warrior</title_search>
+  </game>
+  <game name="Supreme Warrior (USA) (Disc 2) (Wind _ Fang Tu) (Sega CD 32X)">
+    <description>Supreme Warrior (USA) (Disc 2) (Wind _ Fang Tu) (Sega CD 32X)</description>
+    <title_clean>Supreme Warrior</title_clean>
+    <title_search>supreme warrior</title_search>
+  </game>
+  <game name="Surgical Strike (Brazil) (Sega CD 32X)">
+    <description>Surgical Strike (Brazil) (Sega CD 32X)</description>
+    <title_clean>Surgical Strike</title_clean>
+    <title_search>surgical strike</title_search>
+  </game>
+  <game name="Surgical Strike (Europe)">
+    <description>Surgical Strike (Europe)</description>
+    <title_clean>Surgical Strike</title_clean>
+    <title_search>surgical strike</title_search>
+    <image ext="png" id="Surgical Strike (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Surgical Strike (Japan)">
+    <description>Surgical Strike (Japan)</description>
+    <title_clean>Surgical Strike</title_clean>
+    <title_search>surgical strike</title_search>
+  </game>
+  <game name="Surgical Strike (USA) (Sega CD)">
+    <description>Surgical Strike (USA) (Sega CD)</description>
+    <title_clean>Surgical Strike</title_clean>
+    <title_search>surgical strike</title_search>
+  </game>
+  <game name="Switch (Japan)">
+    <description>Switch (Japan)</description>
+    <title_clean>Switch</title_clean>
+    <title_search>switch</title_search>
+  </game>
+  <game name="Syndicate (Europe)">
+    <description>Syndicate (Europe)</description>
+    <title_clean>Syndicate</title_clean>
+    <title_search>syndicate</title_search>
+    <image ext="png" id="Syndicate (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Tenbu Mega CD Special (Japan)">
+    <description>Tenbu Mega CD Special (Japan)</description>
+    <title_clean>Tenbu Mega CD Special</title_clean>
+    <title_search>tenbu mega cd special</title_search>
+    <image ext="png" id="Tenbu Mega CD Special (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Tenkafubu - Eiyuutachi no Houkou (Japan)">
+    <description>Tenkafubu - Eiyuutachi no Houkou (Japan)</description>
+    <title_clean>Tenkafubu - Eiyuutachi no Houkou</title_clean>
+    <title_search>tenkafubu eiyuutachi no houkou</title_search>
+  </game>
+  <game name="Terminator, The (Europe)">
+    <description>Terminator, The (Europe)</description>
+    <title_clean>The Terminator</title_clean>
+    <title_search>the terminator</title_search>
+    <image ext="png" id="Terminator, The (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Terminator, The (USA)">
+    <description>Terminator, The (USA)</description>
+    <title_clean>The Terminator</title_clean>
+    <title_search>the terminator</title_search>
+    <image ext="png" id="Terminator, The (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Terminator, The (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Terminator, The (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Theme Park (Europe)">
+    <description>Theme Park (Europe)</description>
+    <title_clean>Theme Park</title_clean>
+    <title_search>theme park</title_search>
+    <image ext="png" id="Theme Park (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Third World War (USA)">
+    <description>Third World War (USA)</description>
+    <title_clean>Third World War</title_clean>
+    <title_search>third world war</title_search>
+    <image ext="png" id="Third World War (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Third World War (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Third World War (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Thunder Storm FX (Japan)">
+    <description>Thunder Storm FX (Japan)</description>
+    <title_clean>Thunder Storm FX</title_clean>
+    <title_search>thunder storm fx</title_search>
+    <image ext="png" id="Thunder Storm FX (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Thunderhawk (Europe) (Demo)">
+    <description>Thunderhawk (Europe) (Demo)</description>
+    <title_clean>Thunderhawk</title_clean>
+    <title_search>thunderhawk</title_search>
+  </game>
+  <game name="Thunderhawk (Europe) (En,Fr,De,Es)">
+    <description>Thunderhawk (Europe) (En,Fr,De,Es)</description>
+    <title_clean>Thunderhawk</title_clean>
+    <title_search>thunderhawk</title_search>
+  </game>
+  <game name="Thunderhawk (Japan)">
+    <description>Thunderhawk (Japan)</description>
+    <title_clean>Thunderhawk</title_clean>
+    <title_search>thunderhawk</title_search>
+  </game>
+  <game name="Thunderhawk (Japan) (Demo)">
+    <description>Thunderhawk (Japan) (Demo)</description>
+    <title_clean>Thunderhawk</title_clean>
+    <title_search>thunderhawk</title_search>
+  </game>
+  <game name="Time Gal (Europe)">
+    <description>Time Gal (Europe)</description>
+    <title_clean>Time Gal</title_clean>
+    <title_search>time gal</title_search>
+    <image ext="png" id="Time Gal (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Time Gal (Japan)">
+    <description>Time Gal (Japan)</description>
+    <title_clean>Time Gal</title_clean>
+    <title_search>time gal</title_search>
+    <image ext="png" id="Time Gal (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Time Gal (USA)">
+    <description>Time Gal (USA)</description>
+    <title_clean>Time Gal</title_clean>
+    <title_search>time gal</title_search>
+    <image ext="png" id="Time Gal (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Time Gal (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Time Gal (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="TimeCop (Europe) (Demo)">
+    <description>TimeCop (Europe) (Demo)</description>
+    <title_clean>TimeCop</title_clean>
+    <title_search>timecop</title_search>
+  </game>
+  <game name="Tomcat Alley (Europe)">
+    <description>Tomcat Alley (Europe)</description>
+    <title_clean>Tomcat Alley</title_clean>
+    <title_search>tomcat alley</title_search>
+    <image ext="png" id="Tomcat Alley (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Tomcat Alley (France)">
+    <description>Tomcat Alley (France)</description>
+    <title_clean>Tomcat Alley</title_clean>
+    <title_search>tomcat alley</title_search>
+  </game>
+  <game name="Tomcat Alley (Germany)">
+    <description>Tomcat Alley (Germany)</description>
+    <title_clean>Tomcat Alley</title_clean>
+    <title_search>tomcat alley</title_search>
+  </game>
+  <game name="Tomcat Alley (Japan)">
+    <description>Tomcat Alley (Japan)</description>
+    <title_clean>Tomcat Alley</title_clean>
+    <title_search>tomcat alley</title_search>
+  </game>
+  <game name="Tomcat Alley (Spain)">
+    <description>Tomcat Alley (Spain)</description>
+    <title_clean>Tomcat Alley</title_clean>
+    <title_search>tomcat alley</title_search>
+  </game>
+  <game name="Tomcat Alley (USA)">
+    <description>Tomcat Alley (USA)</description>
+    <title_clean>Tomcat Alley</title_clean>
+    <title_search>tomcat alley</title_search>
+    <image ext="png" id="Tomcat Alley (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tomcat Alley (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tomcat Alley (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tomcat Alley (USA) (Alt)">
+    <description>Tomcat Alley (USA) (Alt)</description>
+    <title_clean>Tomcat Alley</title_clean>
+    <title_search>tomcat alley</title_search>
+  </game>
+  <game name="Trivial Pursuit (USA)">
+    <description>Trivial Pursuit (USA)</description>
+    <title_clean>Trivial Pursuit</title_clean>
+    <title_search>trivial pursuit</title_search>
+  </game>
+  <game name="Ultraverse Prime (USA)">
+    <description>Ultraverse Prime (USA)</description>
+    <title_clean>Ultraverse Prime</title_clean>
+    <title_search>ultraverse prime</title_search>
+    <image ext="png" id="Ultraverse Prime (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ultraverse Prime (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ultraverse Prime (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Urusei Yatsura - Dear My Friends (Japan)">
+    <description>Urusei Yatsura - Dear My Friends (Japan)</description>
+    <title_clean>Urusei Yatsura - Dear My Friends</title_clean>
+    <title_search>urusei yatsura dear my friends</title_search>
+  </game>
+  <game name="Urusei Yatsura - Dear My Friends (Japan) (Sample)">
+    <description>Urusei Yatsura - Dear My Friends (Japan) (Sample)</description>
+    <title_clean>Urusei Yatsura - Dear My Friends</title_clean>
+    <title_search>urusei yatsura dear my friends</title_search>
+  </game>
+  <game name="Vay (USA)">
+    <description>Vay (USA)</description>
+    <title_clean>Vay</title_clean>
+    <title_search>vay</title_search>
+    <image ext="png" id="Vay (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Vay (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Vay (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Vay - Ryuusei no Yoroi (Japan)">
+    <description>Vay - Ryuusei no Yoroi (Japan)</description>
+    <title_clean>Vay - Ryuusei no Yoroi</title_clean>
+    <title_search>vay ryuusei no yoroi</title_search>
+  </game>
+  <game name="WWF - Rage in the Cage (Europe)">
+    <description>WWF - Rage in the Cage (Europe)</description>
+    <title_clean>WWF - Rage in the Cage</title_clean>
+    <title_search>wwf rage in the cage</title_search>
+  </game>
+  <game name="WWF - Rage in the Cage (USA)">
+    <description>WWF - Rage in the Cage (USA)</description>
+    <title_clean>WWF - Rage in the Cage</title_clean>
+    <title_search>wwf rage in the cage</title_search>
+  </game>
+  <game name="WWF Mania Tour - WWF - Rage in the Cage (Japan)">
+    <description>WWF Mania Tour - WWF - Rage in the Cage (Japan)</description>
+    <title_clean>WWF Mania Tour - WWF - Rage in the Cage</title_clean>
+    <title_search>wwf mania tour wwf rage in the cage</title_search>
+  </game>
+  <game name="Wakusei Woodstock - Funky Horror Band (Japan)">
+    <description>Wakusei Woodstock - Funky Horror Band (Japan)</description>
+    <title_clean>Wakusei Woodstock - Funky Horror Band</title_clean>
+    <title_search>wakusei woodstock funky horror band</title_search>
+  </game>
+  <game name="Warau Salesman (Japan)">
+    <description>Warau Salesman (Japan)</description>
+    <title_clean>Warau Salesman</title_clean>
+    <title_search>warau salesman</title_search>
+    <image ext="png" id="Warau Salesman (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Wheel of Fortune (USA)">
+    <description>Wheel of Fortune (USA)</description>
+    <title_clean>Wheel of Fortune</title_clean>
+    <title_search>wheel of fortune</title_search>
+    <image ext="png" id="Wheel of Fortune (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wheel of Fortune (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wheel of Fortune (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Who Shot Johnny Rock (USA)">
+    <description>Who Shot Johnny Rock (USA)</description>
+    <title_clean>Who Shot Johnny Rock</title_clean>
+    <title_search>who shot johnny rock</title_search>
+    <image ext="png" id="Who Shot Johnny Rock (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Who Shot Johnny Rock (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Who Shot Johnny Rock (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wild Woody (USA)">
+    <description>Wild Woody (USA)</description>
+    <title_clean>Wild Woody</title_clean>
+    <title_search>wild woody</title_search>
+    <image ext="png" id="Wild Woody (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wild Woody (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wild Woody (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wing Commander (Japan)">
+    <description>Wing Commander (Japan)</description>
+    <title_clean>Wing Commander</title_clean>
+    <title_search>wing commander</title_search>
+  </game>
+  <game name="Wing Commander (USA)">
+    <description>Wing Commander (USA)</description>
+    <title_clean>Wing Commander</title_clean>
+    <title_search>wing commander</title_search>
+    <image ext="png" id="Wing Commander (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wing Commander (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wing Commander (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Winning Post (Japan)">
+    <description>Winning Post (Japan)</description>
+    <title_clean>Winning Post</title_clean>
+    <title_search>winning post</title_search>
+    <image ext="png" id="Winning Post (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="WireHead (USA)">
+    <description>WireHead (USA)</description>
+    <title_clean>WireHead</title_clean>
+    <title_search>wirehead</title_search>
+  </game>
+  <game name="Wolfchild (Europe)">
+    <description>Wolfchild (Europe)</description>
+    <title_clean>Wolfchild</title_clean>
+    <title_search>wolfchild</title_search>
+    <image ext="png" id="Wolfchild (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Wolfchild (Japan)">
+    <description>Wolfchild (Japan)</description>
+    <title_clean>Wolfchild</title_clean>
+    <title_search>wolfchild</title_search>
+    <image ext="png" id="Wolfchild (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Wolfchild (USA)">
+    <description>Wolfchild (USA)</description>
+    <title_clean>Wolfchild</title_clean>
+    <title_search>wolfchild</title_search>
+    <image ext="png" id="Wolfchild (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wolfchild (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wolfchild (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wonder Dog (Europe)">
+    <description>Wonder Dog (Europe)</description>
+    <title_clean>Wonder Dog</title_clean>
+    <title_search>wonder dog</title_search>
+  </game>
+  <game name="Wonder Dog (Japan)">
+    <description>Wonder Dog (Japan)</description>
+    <title_clean>Wonder Dog</title_clean>
+    <title_search>wonder dog</title_search>
+  </game>
+  <game name="Wonder Dog (USA)">
+    <description>Wonder Dog (USA)</description>
+    <title_clean>Wonder Dog</title_clean>
+    <title_search>wonder dog</title_search>
+    <image ext="png" id="Wonder Dog (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wonder Dog (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wonder Dog (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="WonderMega Collection (Japan)">
+    <description>WonderMega Collection (Japan)</description>
+    <title_clean>WonderMega Collection</title_clean>
+    <title_search>wondermega collection</title_search>
+  </game>
+  <game name="World Cup USA '94 (Europe)">
+    <description>World Cup USA '94 (Europe)</description>
+    <title_clean>World Cup USA '94</title_clean>
+    <title_search>world cup usa 94</title_search>
+    <image ext="png" id="World Cup USA '94 (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="World Cup USA '94 (USA)">
+    <description>World Cup USA '94 (USA)</description>
+    <title_clean>World Cup USA '94</title_clean>
+    <title_search>world cup usa 94</title_search>
+    <image ext="png" id="World Cup USA '94 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="World Cup USA '94 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="World Cup USA '94 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Yumemi Mystery Mansion (Europe)">
+    <description>Yumemi Mystery Mansion (Europe)</description>
+    <title_clean>Yumemi Mystery Mansion</title_clean>
+    <title_search>yumemi mystery mansion</title_search>
+  </game>
+  <game name="Yumemi Yakata no Monogatari (Japan)">
+    <description>Yumemi Yakata no Monogatari (Japan)</description>
+    <title_clean>Yumemi Yakata no Monogatari</title_clean>
+    <title_search>yumemi yakata no monogatari</title_search>
+  </game>
+  <game name="Yumemi Yakata no Monogatari (Japan) (Demo)">
+    <description>Yumemi Yakata no Monogatari (Japan) (Demo)</description>
+    <title_clean>Yumemi Yakata no Monogatari</title_clean>
+    <title_search>yumemi yakata no monogatari</title_search>
+  </game>
+  <game name="Yumimi Mix (Japan)">
+    <description>Yumimi Mix (Japan)</description>
+    <title_clean>Yumimi Mix</title_clean>
+    <title_search>yumimi mix</title_search>
+    <image ext="png" id="Yumimi Mix (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+</datafile>

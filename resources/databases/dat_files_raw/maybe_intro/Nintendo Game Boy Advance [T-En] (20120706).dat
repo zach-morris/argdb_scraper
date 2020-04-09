@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy Advance [T-En]</name>
+		<description>Nintendo Game Boy Advance [T-En]</description>
+		<category>English Translations</category>
+		<version>20120706</version>
+		<date>20120706</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Nintendo Game Boy Advance [T-En] Docs">
+		<description>_Nintendo Game Boy Advance [T-En] Docs</description>
+		<rom name="Boktai 3 - Sabata's Counterattack (Japan) [T-En by SpikeMan v0.7b] [n].txt" size="2703" crc="6aeff2cb" md5="e9e5df8fa5453776290bfe96972af6b1" sha1="de185f8ba9e8f3b9fb62d651cb6e5e65f6fb203d"/>
+		<rom name="Dragon Quest Monsters - Caravan Heart (Japan) [T-En by KaioShin v1.0].txt" size="12317" crc="7cad66e5" md5="bf64686148d2aaccf6993979a0dc292f" sha1="a45ee1c91e6d423bfb9d7c505a0283243663f10e"/>
+		<rom name="Fire Emblem - Sword of Seals (Japan) [T-En by Dark Twilkitri Net v2.1] [n].txt" size="3140" crc="8930e70c" md5="c870a34e3e2262844a2791d08396f22b" sha1="53e3f9ac81bb4830b2b403d4567ea5094a91cf7f"/>
+		<rom name="Flashback Legends (France) (En,Fr) (Proto) [T-En by VanishedOne v1.0].txt" size="5523" crc="157e1bd9" md5="f1d5b2fa92f43c579a8cc3ab54fbafdf" sha1="8e4904026117272067bcf07066dc56b60df256c6"/>
+		<rom name="Gensou Suikoden - Card Stories (Japan) [T-En by Pokeytax v0.80].txt" size="4745" crc="e2201c8a" md5="d24aeecbe53c7b1053a0ac5214140ff6" sha1="0fe9df8d53735c5e98fef11cf1cc7af6d64d956d"/>
+		<rom name="Hajime no Ippo - The Fighting! (Japan) [T-En by Markliujy v1.0].txt" size="4438" crc="d09628a6" md5="8632035f938861309a779c361d024c11" sha1="d9ce6f5e5d5cfe2be6c635bd4bdac31cdf927c3f"/>
+		<rom name="Love Hina Advance (Japan) [T-En by LHA Project v0.98] [n].txt" size="4931" crc="5dcae0e8" md5="9264d1913873dc7453ff488142e07ed5" sha1="ecd464b3f36bcd423790b486b72976ba2e8f982a"/>
+		<rom name="Morning Adventure, The (Spain) (Promo) [T-En by Prof. 9+Vague Rant v1.01].txt" size="2842" crc="73b1904a" md5="0addd6ff39040e8e28e69fe57e6a34f0" sha1="70b5d4b39311ccffab49cea5b795ee0688775899"/>
+		<rom name="Mother 1+2 (Japan) [T-En by Jeffman+Tomato v1.01].txt" size="19388" crc="499136d8" md5="3685ccefed45719c6604034341161dcd" sha1="84fadf2db0921a3ed29f94605d6b341118f91498"/>
+		<rom name="Mother 3 (Japan) [T-En by Chewy+Jeffman+Tomato v1.1].txt" size="66102" crc="1a44b3b3" md5="0ee4639e70bc6a7565126756bf44d928" sha1="e51b6bac14fa314ed30be787dc599dc9ec415613"/>
+		<rom name="Napoleon (France) [T-En by Nebelwurfer v0.50] [i] [n].txt" size="4888" crc="c657bd9b" md5="4c0b3ac731516be1f74859cddff39ac6" sha1="84393b574b09205ecf68834e172f43d53e79741b"/>
+		<rom name="Super Robot Wars J (Japan) [T-En by Romhacking Aerie v1.0] [n].txt" size="10318" crc="df27ad27" md5="7c3711ff6be092337eaa4ef262394207" sha1="364871d23f494658ac2a3abca848acdb87b0eadc"/>
+	</game>
+	<game name="Boktai 3 - Sabata's Counterattack (Japan) [T-En by SpikeMan v0.7b] (Menu Translation) [n]">
+		<description>Boktai 3 - Sabata's Counterattack (Japan) [T-En by SpikeMan v0.7b] (Menu Translation) [n]</description>
+		<rom name="Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan) [T-En by SpikeMan v0.7b] (Menu Translation).gba" size="16777216" crc="fc6063d2" md5="914ec033ea554c4d38c6321f51e31480" sha1="d95f97eb6323c7e69640d4198e3517921ab6c753"/>
+	</game>
+	<game name="Boktai 3 - Sabata's Counterattack (Japan) [T-En by SpikeMan v0.7b] (Name Entry Translation) [n]">
+		<description>Boktai 3 - Sabata's Counterattack (Japan) [T-En by SpikeMan v0.7b] (Name Entry Translation) [n]</description>
+		<rom name="Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan) [T-En by SpikeMan v0.7b] (Name Entry Translation).gba" size="16777216" crc="074beea0" md5="1d4b5c5eb1cd3ab71f09fa35f2529269" sha1="83b4b9d1d66bbce1e2886b8dfc03aa82fdb52878"/>
+	</game>
+	<game name="Boktai 3 - Sabata's Counterattack (Japan) [T-En by SpikeMan v0.7b] (Solar Sensor Hack) [n]">
+		<description>Boktai 3 - Sabata's Counterattack (Japan) [T-En by SpikeMan v0.7b] (Solar Sensor Hack) [n]</description>
+		<rom name="Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan) [T-En by SpikeMan v0.7b] (Solar Sensor Hack).gba" size="16777216" crc="97bc4085" md5="e509250e156ffc54ff2a1519ec1b4aab" sha1="702985b430564ea383b84ee1e728f46f185f1a0f"/>
+	</game>
+	<game name="Boktai 3 - Sabata's Counterattack (Japan) [T-En by SpikeMan v0.7b] [n]">
+		<description>Boktai 3 - Sabata's Counterattack (Japan) [T-En by SpikeMan v0.7b] [n]</description>
+		<rom name="Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan) [T-En by SpikeMan v0.7b].gba" size="16777216" crc="1266101a" md5="6c9979dc4888883d123e97587a8b4ab5" sha1="adf5e8ea861a2fb53f04fe673e54b5ac7b4e22ee"/>
+	</game>
+	<game name="Dragon Quest Monsters - Caravan Heart (Japan) [T-En by KaioShin v1.0]">
+		<description>Dragon Quest Monsters - Caravan Heart (Japan) [T-En by KaioShin v1.0]</description>
+		<rom name="Dragon Quest Monsters - Caravan Heart (Japan) [T-En by KaioShin v1.0].gba" size="8388608" crc="5b925fc9" md5="a57a5ea8c43957ee5974dd02ae305d1f" sha1="0aa4fd4808260af2c8a7531b07ed301eee1bb50a"/>
+	</game>
+	<game name="Fire Emblem - Sword of Seals (Japan) [T-En by Dark Twilkitri Net v2.1] [n]">
+		<description>Fire Emblem - Sword of Seals (Japan) [T-En by Dark Twilkitri Net v2.1] [n]</description>
+		<rom name="Fire Emblem - Fuuin no Tsurugi (Japan) [T-En by Dark Twilkitri Net v2.1].gba" size="16777216" crc="35f5b06b" md5="b7852693495694145a8a0afaac73e60d" sha1="75d99f9be8c5f454622a5414bb1186b7c32a544c"/>
+	</game>
+	<game name="Flashback Legends (France) (En,Fr) (Proto) [T-En by VanishedOne v1.0]">
+		<description>Flashback Legends (France) (En,Fr) (Proto) [T-En by VanishedOne v1.0]</description>
+		<rom name="Flashback Legends (France) (En,Fr) (Proto) [T-En by VanishedOne v1.0].gba" size="3955244" crc="ffcbdd27" md5="a700fb72ae6f779ca8d1a09dbc0ea151" sha1="15389ee7a49391b61d0bbeee8f1b82202e99c608"/>
+	</game>
+	<game name="Gensou Suikoden - Card Stories (Japan) [T-En by Pokeytax v0.80]">
+		<description>Gensou Suikoden - Card Stories (Japan) [T-En by Pokeytax v0.80]</description>
+		<rom name="Gensou Suikoden - Card Stories (Japan) [T-En by Pokeytax v0.80].gba" size="4194304" crc="ded4090f" md5="cb22484e0a240c4e482d3ad7d44a31fc" sha1="b254048a12cd81a122112539e705ade39166759d"/>
+	</game>
+	<game name="Hajime no Ippo - The Fighting! (Japan) [T-En by Markliujy v1.0]">
+		<description>Hajime no Ippo - The Fighting! (Japan) [T-En by Markliujy v1.0]</description>
+		<rom name="Hajime no Ippo - The Fighting! (Japan) [T-En by Markliujy v1.0].gba" size="8388608" crc="5130a355" md5="e33de4139d69d016394a26119cdeba32" sha1="106301fecaf19f026385e281f9da881b6c38d058"/>
+	</game>
+	<game name="Love Hina Advance (Japan) [T-En by LHA Project v0.98] (Large Font) [n]">
+		<description>Love Hina Advance (Japan) [T-En by LHA Project v0.98] (Large Font) [n]</description>
+		<rom name="Love Hina Advance - Shukufuku no Kane wa Naru Kana (Japan) [T-En by LHA Project v0.98] (Large Font).gba" size="8388608" crc="fc6744af" md5="9029326a45e051b43e1480d8f1cb9136" sha1="2ddf1a83e72dab983978fc9ce2db0843fd07cbaf"/>
+	</game>
+	<game name="Love Hina Advance (Japan) [T-En by LHA Project v0.98] (Small Font) [n]">
+		<description>Love Hina Advance (Japan) [T-En by LHA Project v0.98] (Small Font) [n]</description>
+		<rom name="Love Hina Advance - Shukufuku no Kane wa Naru Kana (Japan) [T-En by LHA Project v0.98] (Small Font).gba" size="8388608" crc="c4d0e5f5" md5="4f1e7c60d4fe54fea13aacb135ab745a" sha1="15a765d0d1fc11a2450b7655e0f6083691d5e933"/>
+	</game>
+	<game name="Morning Adventure, The (Spain) (Promo) [T-En by Prof. 9+Vague Rant v1.01]">
+		<description>Morning Adventure, The (Spain) (Promo) [T-En by Prof. 9+Vague Rant v1.01]</description>
+		<rom name="Morning Adventure, The (Spain) (Promo) [T-En by Prof. 9+Vague Rant v1.01].gba" size="4194304" crc="9778c78a" md5="24f59551c49fc42b68a197500ed52801" sha1="8e05b5785ff3f5e9f7f6a0db22d8e8919a54b9c0"/>
+	</game>
+	<game name="Mother 1+2 (Japan) [T-En by Jeffman+Tomato v1.01]">
+		<description>Mother 1+2 (Japan) [T-En by Jeffman+Tomato v1.01]</description>
+		<rom name="Mother 1+2 (Japan) [T-En by Jeffman+Tomato v1.01].gba" size="16777216" crc="7b1ff152" md5="68806f7e40e1f082b21a8b920e8982db" sha1="e377a23de3411fd47b0d1ad3923d731ab0c127ac"/>
+	</game>
+	<game name="Mother 3 (Japan) [T-En by Chewy+Jeffman+Tomato v1.1]">
+		<description>Mother 3 (Japan) [T-En by Chewy+Jeffman+Tomato v1.1]</description>
+		<rom name="Mother 3 (Japan) [T-En by Chewy+Jeffman+Tomato v1.1].gba" size="33554432" crc="ede46930" md5="ce5c7ba6fbe648e6d65d77030151d6f5" sha1="b15c0c741ab00b42ae9b97e0942cf8e0697c0694"/>
+	</game>
+	<game name="Napoleon (France) [T-En by Nebelwurfer v0.50] [i] [n]">
+		<description>Napoleon (France) [T-En by Nebelwurfer v0.50] [i] [n]</description>
+		<rom name="Aigle de Guerre, L' (France) [T-En by Nebelwurfer v0.50] [i].gba" size="8388608" crc="f8d2f6c1" md5="aadc844f2b00731e004496a467c475b4" sha1="5866972047e6dee866d0c419119163863ac14031"/>
+	</game>
+	<game name="Super Robot Wars J (Japan) [T-En by Romhacking Aerie v1.0] [n]">
+		<description>Super Robot Wars J (Japan) [T-En by Romhacking Aerie v1.0] [n]</description>
+		<rom name="Super Robot Taisen J (Japan) [T-En by Romhacking Aerie v1.0].gba" size="16777216" crc="3b3cd715" md5="6caff32286c768d3bf9f7986d535ef7b" sha1="0ef65670fec4f655536d15b7a954a1deda192855"/>
+	</game>
+</datafile>

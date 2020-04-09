@@ -1,0 +1,74 @@
+<datafile>
+  <game name="Boom Zoo (Taiwan)">
+    <description>Boom Zoo (Taiwan)</description>
+    <title_clean>Boom Zoo</title_clean>
+    <title_search>boom zoo</title_search>
+    <image ext="png" id="Boom Zoo (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Boom Zoo (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Boom Zoo (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Formosa Duel (Taiwan)">
+    <description>Formosa Duel (Taiwan)</description>
+    <title_clean>Formosa Duel</title_clean>
+    <title_search>formosa duel</title_search>
+    <image ext="png" id="Formosa Duel (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Formosa Duel (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Formosa Duel (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Journey to the Laugh (Taiwan)">
+    <description>Journey to the Laugh (Taiwan)</description>
+    <title_clean>Journey to the Laugh</title_clean>
+    <title_search>journey to the laugh</title_search>
+    <image ext="png" id="Journey to the Laugh (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Journey to the Laugh (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Journey to the Laugh (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Monopoly - Adventure in Africa (Taiwan)">
+    <description>Monopoly - Adventure in Africa (Taiwan)</description>
+    <title_clean>Monopoly - Adventure in Africa</title_clean>
+    <title_search>monopoly adventure in africa</title_search>
+    <image ext="png" id="Monopoly - Adventure in Africa (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Monopoly - Adventure in Africa (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Monopoly - Adventure in Africa (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sango Fighter (Taiwan)">
+    <description>Sango Fighter (Taiwan)</description>
+    <title_clean>Sango Fighter</title_clean>
+    <title_search>sango fighter</title_search>
+    <image ext="png" id="Sango Fighter (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sango Fighter (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sango Fighter (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Speedy Dragon (Taiwan)">
+    <description>Speedy Dragon (Taiwan)</description>
+    <title_clean>Speedy Dragon</title_clean>
+    <title_search>speedy dragon</title_search>
+    <image ext="png" id="Speedy Dragon (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Speedy Dragon (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Speedy Dragon (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Dragon Force (Taiwan)">
+    <description>Super Dragon Force (Taiwan)</description>
+    <title_clean>Super Dragon Force</title_clean>
+    <title_search>super dragon force</title_search>
+    <image ext="png" id="Super Dragon Force (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Dragon Force (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Dragon Force (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Taiwanese Baseball League (Taiwan)">
+    <description>Super Taiwanese Baseball League (Taiwan)</description>
+    <title_clean>Super Taiwanese Baseball League</title_clean>
+    <title_search>super taiwanese baseball league</title_search>
+    <image ext="png" id="Super Taiwanese Baseball League (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Taiwanese Baseball League (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Taiwanese Baseball League (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="The Son of Evil (Taiwan)">
+    <description>The Son of Evil (Taiwan)</description>
+    <title_clean>The Son of Evil</title_clean>
+    <title_search>the son of evil</title_search>
+    <image ext="png" id="The Son of Evil (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="The Son of Evil (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="The Son of Evil (Taiwan)" source="https://github.com/libretro-thumbnails/Funtech_-_Super_Acan/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

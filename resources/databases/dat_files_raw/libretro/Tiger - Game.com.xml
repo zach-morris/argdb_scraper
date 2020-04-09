@@ -1,0 +1,177 @@
+<datafile>
+  <game name="Batman _ Robin (USA)">
+    <description>Batman _ Robin (USA)</description>
+    <title_clean>Batman _ Robin</title_clean>
+    <title_search>batman robin</title_search>
+    <image ext="png" id="Batman _ Robin (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Batman _ Robin (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Centipede (USA)">
+    <description>Centipede (USA)</description>
+    <title_clean>Centipede</title_clean>
+    <title_search>centipede</title_search>
+    <image ext="png" id="Centipede (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Centipede (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Centipede (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Duke Nukem 3D (USA)">
+    <description>Duke Nukem 3D (USA)</description>
+    <title_clean>Duke Nukem 3D</title_clean>
+    <title_search>duke nukem 3d</title_search>
+    <image ext="png" id="Duke Nukem 3D (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Duke Nukem 3D (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Duke Nukem 3D (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fighters Megamix (USA)">
+    <description>Fighters Megamix (USA)</description>
+    <title_clean>Fighters Megamix</title_clean>
+    <title_search>fighters megamix</title_search>
+    <image ext="png" id="Fighters Megamix (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fighters Megamix (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fighters Megamix (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Frogger (USA)">
+    <description>Frogger (USA)</description>
+    <title_clean>Frogger</title_clean>
+    <title_search>frogger</title_search>
+    <image ext="png" id="Frogger (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Frogger (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Frogger (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Henry (USA)">
+    <description>Henry (USA)</description>
+    <title_clean>Henry</title_clean>
+    <title_search>henry</title_search>
+    <image ext="png" id="Henry (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Henry (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Henry (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Indy 500 (USA)">
+    <description>Indy 500 (USA)</description>
+    <title_clean>Indy 500</title_clean>
+    <title_search>indy 500</title_search>
+    <image ext="png" id="Indy 500 (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Indy 500 (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Indy 500 (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Internet (USA)">
+    <description>Internet (USA)</description>
+    <title_clean>Internet</title_clean>
+    <title_search>internet</title_search>
+    <image ext="png" id="Internet (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Internet (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Internet (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jeopardy! (USA)">
+    <description>Jeopardy! (USA)</description>
+    <title_clean>Jeopardy!</title_clean>
+    <title_search>jeopardy</title_search>
+    <image ext="png" id="Jeopardy! (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jeopardy! (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jeopardy! (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jurassic Park - The Lost World (USA)">
+    <description>Jurassic Park - The Lost World (USA)</description>
+    <title_clean>Jurassic Park - The Lost World</title_clean>
+    <title_search>jurassic park the lost world</title_search>
+    <image ext="png" id="Jurassic Park - The Lost World (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jurassic Park - The Lost World (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jurassic Park - The Lost World (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lights Out (USA)">
+    <description>Lights Out (USA)</description>
+    <title_clean>Lights Out</title_clean>
+    <title_search>lights out</title_search>
+    <image ext="png" id="Lights Out (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lights Out (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lights Out (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Monopoly (USA)">
+    <description>Monopoly (USA)</description>
+    <title_clean>Monopoly</title_clean>
+    <title_search>monopoly</title_search>
+    <image ext="png" id="Monopoly (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Monopoly (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Monopoly (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mortal Kombat Trilogy (USA)">
+    <description>Mortal Kombat Trilogy (USA)</description>
+    <title_clean>Mortal Kombat Trilogy</title_clean>
+    <title_search>mortal kombat trilogy</title_search>
+    <image ext="png" id="Mortal Kombat Trilogy (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mortal Kombat Trilogy (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mortal Kombat Trilogy (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Quiz Wiz - Cyber Trivia (USA)">
+    <description>Quiz Wiz - Cyber Trivia (USA)</description>
+    <title_clean>Quiz Wiz - Cyber Trivia</title_clean>
+    <title_search>quiz wiz cyber trivia</title_search>
+    <image ext="png" id="Quiz Wiz - Cyber Trivia (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Quiz Wiz - Cyber Trivia (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Quiz Wiz - Cyber Trivia (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Resident Evil 2 (USA)">
+    <description>Resident Evil 2 (USA)</description>
+    <title_clean>Resident Evil 2</title_clean>
+    <title_search>resident evil 2</title_search>
+    <image ext="png" id="Resident Evil 2 (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Resident Evil 2 (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Resident Evil 2 (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Scrabble (USA)">
+    <description>Scrabble (USA)</description>
+    <title_clean>Scrabble</title_clean>
+    <title_search>scrabble</title_search>
+    <image ext="png" id="Scrabble (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Scrabble (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Scrabble (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sonic Jam (USA)">
+    <description>Sonic Jam (USA)</description>
+    <title_clean>Sonic Jam</title_clean>
+    <title_search>sonic jam</title_search>
+    <image ext="png" id="Sonic Jam (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sonic Jam (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sonic Jam (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tiger Casino (USA)">
+    <description>Tiger Casino (USA)</description>
+    <title_clean>Tiger Casino</title_clean>
+    <title_search>tiger casino</title_search>
+    <image ext="png" id="Tiger Casino (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tiger Casino (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tiger Casino (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tiger Web Link (USA)">
+    <description>Tiger Web Link (USA)</description>
+    <title_clean>Tiger Web Link</title_clean>
+    <title_search>tiger web link</title_search>
+    <image ext="png" id="Tiger Web Link (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tiger Web Link (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tiger Web Link (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wheel of Fortune (USA)">
+    <description>Wheel of Fortune (USA)</description>
+    <title_clean>Wheel of Fortune</title_clean>
+    <title_search>wheel of fortune</title_search>
+    <image ext="png" id="Wheel of Fortune (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wheel of Fortune (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wheel of Fortune (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wheel of Fortune 2 (USA)">
+    <description>Wheel of Fortune 2 (USA)</description>
+    <title_clean>Wheel of Fortune 2</title_clean>
+    <title_search>wheel of fortune 2</title_search>
+    <image ext="png" id="Wheel of Fortune 2 (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wheel of Fortune 2 (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wheel of Fortune 2 (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Williams Arcade Classics (USA)">
+    <description>Williams Arcade Classics (USA)</description>
+    <title_clean>Williams Arcade Classics</title_clean>
+    <title_search>williams arcade classics</title_search>
+    <image ext="png" id="Williams Arcade Classics (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Williams Arcade Classics (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Williams Arcade Classics (USA)" source="https://github.com/libretro-thumbnails/Tiger_-_Game.com/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

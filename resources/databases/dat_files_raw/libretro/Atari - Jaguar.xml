@@ -1,0 +1,705 @@
+<datafile>
+  <game name="Aircars (USA)">
+    <description>Aircars (USA)</description>
+    <title_clean>Aircars</title_clean>
+    <title_search>aircars</title_search>
+    <image ext="png" id="Aircars (USA)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Aircars (USA)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Aircars (USA)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Aircars (USA) (Beta) (1994-11-14)">
+    <description>Aircars (USA) (Beta) (1994-11-14)</description>
+    <title_clean>Aircars</title_clean>
+    <title_search>aircars</title_search>
+  </game>
+  <game name="Alien vs Predator (World)">
+    <description>Alien vs Predator (World)</description>
+    <title_clean>Alien vs Predator</title_clean>
+    <title_search>alien vs predator</title_search>
+    <image ext="png" id="Alien vs Predator (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Alien vs Predator (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alien vs Predator (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Alien vs Predator (World) (Beta) (1993-08-18)">
+    <description>Alien vs Predator (World) (Beta) (1993-08-18)</description>
+    <title_clean>Alien vs Predator</title_clean>
+    <title_search>alien vs predator</title_search>
+  </game>
+  <game name="Alien vs Predator (World) (Beta) (1993-10-13)">
+    <description>Alien vs Predator (World) (Beta) (1993-10-13)</description>
+    <title_clean>Alien vs Predator</title_clean>
+    <title_search>alien vs predator</title_search>
+  </game>
+  <game name="Alien vs Predator (World) (Beta) (1994-04-08)">
+    <description>Alien vs Predator (World) (Beta) (1994-04-08)</description>
+    <title_clean>Alien vs Predator</title_clean>
+    <title_search>alien vs predator</title_search>
+  </game>
+  <game name="Arena Football '95 (World)">
+    <description>Arena Football '95 (World)</description>
+    <title_clean>Arena Football '95</title_clean>
+    <title_search>arena football 95</title_search>
+  </game>
+  <game name="Atari Karts (World)">
+    <description>Atari Karts (World)</description>
+    <title_clean>Atari Karts</title_clean>
+    <title_search>atari karts</title_search>
+    <image ext="png" id="Atari Karts (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Atari Karts (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Atari Karts (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Atari Karts (World) (Beta)">
+    <description>Atari Karts (World) (Beta)</description>
+    <title_clean>Atari Karts</title_clean>
+    <title_search>atari karts</title_search>
+  </game>
+  <game name="Attack of the Mutant Penguins (World)">
+    <description>Attack of the Mutant Penguins (World)</description>
+    <title_clean>Attack of the Mutant Penguins</title_clean>
+    <title_search>attack of the mutant penguins</title_search>
+    <image ext="png" id="Attack of the Mutant Penguins (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Attack of the Mutant Penguins (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Attack of the Mutant Penguins (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Barkley Shut Up and Jam (World)">
+    <description>Barkley Shut Up and Jam (World)</description>
+    <title_clean>Barkley Shut Up and Jam</title_clean>
+    <title_search>barkley shut up and jam</title_search>
+  </game>
+  <game name="Barkley Shut Up and Jam (World) (Beta)">
+    <description>Barkley Shut Up and Jam (World) (Beta)</description>
+    <title_clean>Barkley Shut Up and Jam</title_clean>
+    <title_search>barkley shut up and jam</title_search>
+  </game>
+  <game name="Battle Sphere (World)">
+    <description>Battle Sphere (World)</description>
+    <title_clean>Battle Sphere</title_clean>
+    <title_search>battle sphere</title_search>
+  </game>
+  <game name="Battle Sphere Gold (World)">
+    <description>Battle Sphere Gold (World)</description>
+    <title_clean>Battle Sphere Gold</title_clean>
+    <title_search>battle sphere gold</title_search>
+    <image ext="png" id="Battle Sphere Gold (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Battle Sphere Gold (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Battle Sphere Gold (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Breakout 2000 (USA, Europe)">
+    <description>Breakout 2000 (USA, Europe)</description>
+    <title_clean>Breakout 2000</title_clean>
+    <title_search>breakout 2000</title_search>
+  </game>
+  <game name="Breakout 2000 (USA, Europe) (Beta)">
+    <description>Breakout 2000 (USA, Europe) (Beta)</description>
+    <title_clean>Breakout 2000</title_clean>
+    <title_search>breakout 2000</title_search>
+  </game>
+  <game name="Brett Hull Hockey (World)">
+    <description>Brett Hull Hockey (World)</description>
+    <title_clean>Brett Hull Hockey</title_clean>
+    <title_search>brett hull hockey</title_search>
+  </game>
+  <game name="Brutal Sports Football (World)">
+    <description>Brutal Sports Football (World)</description>
+    <title_clean>Brutal Sports Football</title_clean>
+    <title_search>brutal sports football</title_search>
+    <image ext="png" id="Brutal Sports Football (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Brutal Sports Football (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Brutal Sports Football (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bubsy in Fractured Furry Tales (World)">
+    <description>Bubsy in Fractured Furry Tales (World)</description>
+    <title_clean>Bubsy in Fractured Furry Tales</title_clean>
+    <title_search>bubsy in fractured furry tales</title_search>
+    <image ext="png" id="Bubsy in Fractured Furry Tales (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bubsy in Fractured Furry Tales (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bubsy in Fractured Furry Tales (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cannon Fodder (World)">
+    <description>Cannon Fodder (World)</description>
+    <title_clean>Cannon Fodder</title_clean>
+    <title_search>cannon fodder</title_search>
+    <image ext="png" id="Cannon Fodder (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cannon Fodder (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cannon Fodder (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Checkered Flag (World)">
+    <description>Checkered Flag (World)</description>
+    <title_clean>Checkered Flag</title_clean>
+    <title_search>checkered flag</title_search>
+    <image ext="png" id="Checkered Flag (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Checkered Flag (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Checkered Flag (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Checkered Flag (World) (Beta) (CES 1993)">
+    <description>Checkered Flag (World) (Beta) (CES 1993)</description>
+    <title_clean>Checkered Flag</title_clean>
+    <title_search>checkered flag</title_search>
+  </game>
+  <game name="Club Drive (World)">
+    <description>Club Drive (World)</description>
+    <title_clean>Club Drive</title_clean>
+    <title_search>club drive</title_search>
+    <image ext="png" id="Club Drive (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Club Drive (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Club Drive (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Club Drive (World) (Beta)">
+    <description>Club Drive (World) (Beta)</description>
+    <title_clean>Club Drive</title_clean>
+    <title_search>club drive</title_search>
+  </game>
+  <game name="Cybermorph (World) (Beta) (1993-08-23)">
+    <description>Cybermorph (World) (Beta) (1993-08-23)</description>
+    <title_clean>Cybermorph</title_clean>
+    <title_search>cybermorph</title_search>
+  </game>
+  <game name="Cybermorph (World) (Rev A)">
+    <description>Cybermorph (World) (Rev A)</description>
+    <title_clean>Cybermorph</title_clean>
+    <title_search>cybermorph</title_search>
+    <image ext="png" id="Cybermorph (World) (Rev A)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cybermorph (World) (Rev A)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cybermorph (World) (Rev A)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cybermorph (World) (Rev B)">
+    <description>Cybermorph (World) (Rev B)</description>
+    <title_clean>Cybermorph</title_clean>
+    <title_search>cybermorph</title_search>
+    <image ext="png" id="Cybermorph (World) (Rev B)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cybermorph (World) (Rev B)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cybermorph (World) (Rev B)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Defender 2000 (World)">
+    <description>Defender 2000 (World)</description>
+    <title_clean>Defender 2000</title_clean>
+    <title_search>defender 2000</title_search>
+    <image ext="png" id="Defender 2000 (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Defender 2000 (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Defender 2000 (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Defender 2000 (World) (Beta)">
+    <description>Defender 2000 (World) (Beta)</description>
+    <title_clean>Defender 2000</title_clean>
+    <title_search>defender 2000</title_search>
+  </game>
+  <game name="Doom (World)">
+    <description>Doom (World)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+    <image ext="png" id="Doom (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Doom (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Doom (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Double Dragon V - The Shadow Falls (World)">
+    <description>Double Dragon V - The Shadow Falls (World)</description>
+    <title_clean>Double Dragon V - The Shadow Falls</title_clean>
+    <title_search>double dragon v the shadow falls</title_search>
+    <image ext="png" id="Double Dragon V - The Shadow Falls (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Double Dragon V - The Shadow Falls (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Double Dragon V - The Shadow Falls (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon - The Bruce Lee Story (World)">
+    <description>Dragon - The Bruce Lee Story (World)</description>
+    <title_clean>Dragon - The Bruce Lee Story</title_clean>
+    <title_search>dragon the bruce lee story</title_search>
+    <image ext="png" id="Dragon - The Bruce Lee Story (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dragon - The Bruce Lee Story (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dragon - The Bruce Lee Story (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26)">
+    <description>Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26)</description>
+    <title_clean>Dragon - The Bruce Lee Story</title_clean>
+    <title_search>dragon the bruce lee story</title_search>
+  </game>
+  <game name="Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06)">
+    <description>Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06)</description>
+    <title_clean>Dragon - The Bruce Lee Story</title_clean>
+    <title_search>dragon the bruce lee story</title_search>
+  </game>
+  <game name="Evolution - Dino Dudes (World)">
+    <description>Evolution - Dino Dudes (World)</description>
+    <title_clean>Evolution - Dino Dudes</title_clean>
+    <title_search>evolution dino dudes</title_search>
+    <image ext="png" id="Evolution - Dino Dudes (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Evolution - Dino Dudes (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Evolution - Dino Dudes (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fever Pitch Soccer (World) (En,Fr,De,Es,It)">
+    <description>Fever Pitch Soccer (World) (En,Fr,De,Es,It)</description>
+    <title_clean>Fever Pitch Soccer</title_clean>
+    <title_search>fever pitch soccer</title_search>
+    <image ext="png" id="Fever Pitch Soccer (World) (En,Fr,De,Es,It)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fever Pitch Soccer (World) (En,Fr,De,Es,It)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fever Pitch Soccer (World) (En,Fr,De,Es,It)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fight for Life (USA, Europe)">
+    <description>Fight for Life (USA, Europe)</description>
+    <title_clean>Fight for Life</title_clean>
+    <title_search>fight for life</title_search>
+    <image ext="png" id="Fight for Life (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fight for Life (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fight for Life (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fight for Life (USA, Europe) (Beta) (1995-03-22)">
+    <description>Fight for Life (USA, Europe) (Beta) (1995-03-22)</description>
+    <title_clean>Fight for Life</title_clean>
+    <title_search>fight for life</title_search>
+    <image ext="png" id="Fight for Life (USA, Europe) (Beta) (1995-03-22)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fight for Life (USA, Europe) (Beta) (1995-03-22)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fight for Life (USA, Europe) (Beta) (1995-03-22)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fight for Life (USA, Europe) (Beta) (1995-09-07)">
+    <description>Fight for Life (USA, Europe) (Beta) (1995-09-07)</description>
+    <title_clean>Fight for Life</title_clean>
+    <title_search>fight for life</title_search>
+  </game>
+  <game name="Flashback - The Quest for Identity (World) (En,Fr)">
+    <description>Flashback - The Quest for Identity (World) (En,Fr)</description>
+    <title_clean>Flashback - The Quest for Identity</title_clean>
+    <title_search>flashback the quest for identity</title_search>
+    <image ext="png" id="Flashback - The Quest for Identity (World) (En,Fr)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Flashback - The Quest for Identity (World) (En,Fr)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Flashback - The Quest for Identity (World) (En,Fr)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Flip Out! (World)">
+    <description>Flip Out! (World)</description>
+    <title_clean>Flip Out!</title_clean>
+    <title_search>flip out</title_search>
+    <image ext="png" id="Flip Out! (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Flip Out! (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Flip Out! (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Frog Feast (World)">
+    <description>Frog Feast (World)</description>
+    <title_clean>Frog Feast</title_clean>
+    <title_search>frog feast</title_search>
+    <image ext="png" id="Frog Feast (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Frog Feast (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Frog Feast (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="High Voltage C Maze (USA) (Demo)">
+    <description>High Voltage C Maze (USA) (Demo)</description>
+    <title_clean>High Voltage C Maze</title_clean>
+    <title_search>high voltage c maze</title_search>
+  </game>
+  <game name="Hover Strike (World)">
+    <description>Hover Strike (World)</description>
+    <title_clean>Hover Strike</title_clean>
+    <title_search>hover strike</title_search>
+    <image ext="png" id="Hover Strike (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hover Strike (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hover Strike (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hyper Force (World)">
+    <description>Hyper Force (World)</description>
+    <title_clean>Hyper Force</title_clean>
+    <title_search>hyper force</title_search>
+    <image ext="png" id="Hyper Force (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hyper Force (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hyper Force (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="I-War (USA, Europe)">
+    <description>I-War (USA, Europe)</description>
+    <title_clean>I-War</title_clean>
+    <title_search>iwar</title_search>
+    <image ext="png" id="I-War (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="I-War (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="I-War (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="International Sensible Soccer (World)">
+    <description>International Sensible Soccer (World)</description>
+    <title_clean>International Sensible Soccer</title_clean>
+    <title_search>international sensible soccer</title_search>
+    <image ext="png" id="International Sensible Soccer (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="International Sensible Soccer (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="International Sensible Soccer (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Iron Soldier (World)">
+    <description>Iron Soldier (World)</description>
+    <title_clean>Iron Soldier</title_clean>
+    <title_search>iron soldier</title_search>
+    <image ext="png" id="Iron Soldier (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Iron Soldier (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Iron Soldier (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Iron Soldier 2 (USA, Europe)">
+    <description>Iron Soldier 2 (USA, Europe)</description>
+    <title_clean>Iron Soldier 2</title_clean>
+    <title_search>iron soldier 2</title_search>
+    <image ext="png" id="Iron Soldier 2 (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Iron Soldier 2 (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Iron Soldier 2 (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-13)">
+    <description>Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-13)</description>
+    <title_clean>Jack Nicklaus Cyber Golf</title_clean>
+    <title_search>jack nicklaus cyber golf</title_search>
+  </game>
+  <game name="Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-16)">
+    <description>Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-16)</description>
+    <title_clean>Jack Nicklaus Cyber Golf</title_clean>
+    <title_search>jack nicklaus cyber golf</title_search>
+  </game>
+  <game name="Jack Nicklaus Cyber Golf (USA) (Proto) (1994-07-04)">
+    <description>Jack Nicklaus Cyber Golf (USA) (Proto) (1994-07-04)</description>
+    <title_clean>Jack Nicklaus Cyber Golf</title_clean>
+    <title_search>jack nicklaus cyber golf</title_search>
+  </game>
+  <game name="Kasumi Ninja (World)">
+    <description>Kasumi Ninja (World)</description>
+    <title_clean>Kasumi Ninja</title_clean>
+    <title_search>kasumi ninja</title_search>
+    <image ext="png" id="Kasumi Ninja (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kasumi Ninja (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kasumi Ninja (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kasumi Ninja (World) (Demo)">
+    <description>Kasumi Ninja (World) (Demo)</description>
+    <title_clean>Kasumi Ninja</title_clean>
+    <title_search>kasumi ninja</title_search>
+  </game>
+  <game name="Missile Command 3D (World)">
+    <description>Missile Command 3D (World)</description>
+    <title_clean>Missile Command 3D</title_clean>
+    <title_search>missile command 3d</title_search>
+    <image ext="png" id="Missile Command 3D (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Missile Command 3D (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Missile Command 3D (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Missile Command VR (World) (Beta) (1995-07-05)">
+    <description>Missile Command VR (World) (Beta) (1995-07-05)</description>
+    <title_clean>Missile Command VR</title_clean>
+    <title_search>missile command vr</title_search>
+  </game>
+  <game name="NBA Jam - Tournament Edition (USA, Europe)">
+    <description>NBA Jam - Tournament Edition (USA, Europe)</description>
+    <title_clean>NBA Jam - Tournament Edition</title_clean>
+    <title_search>nba jam tournament edition</title_search>
+    <image ext="png" id="NBA Jam - Tournament Edition (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="NBA Jam - Tournament Edition (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="NBA Jam - Tournament Edition (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Native (USA) (Proto)">
+    <description>Native (USA) (Proto)</description>
+    <title_clean>Native</title_clean>
+    <title_search>native</title_search>
+  </game>
+  <game name="Phase Zero (World)">
+    <description>Phase Zero (World)</description>
+    <title_clean>Phase Zero</title_clean>
+    <title_search>phase zero</title_search>
+  </game>
+  <game name="Pinball Fantasies (World)">
+    <description>Pinball Fantasies (World)</description>
+    <title_clean>Pinball Fantasies</title_clean>
+    <title_search>pinball fantasies</title_search>
+    <image ext="png" id="Pinball Fantasies (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pinball Fantasies (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pinball Fantasies (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pitfall - The Mayan Adventure (USA, Europe)">
+    <description>Pitfall - The Mayan Adventure (USA, Europe)</description>
+    <title_clean>Pitfall - The Mayan Adventure</title_clean>
+    <title_search>pitfall the mayan adventure</title_search>
+    <image ext="png" id="Pitfall - The Mayan Adventure (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pitfall - The Mayan Adventure (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pitfall - The Mayan Adventure (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28)">
+    <description>Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28)</description>
+    <title_clean>Plucky Duck in Hollywood Hijinks</title_clean>
+    <title_search>plucky duck in hollywood hijinks</title_search>
+  </game>
+  <game name="Power Drive Rally (World)">
+    <description>Power Drive Rally (World)</description>
+    <title_clean>Power Drive Rally</title_clean>
+    <title_search>power drive rally</title_search>
+    <image ext="png" id="Power Drive Rally (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Power Drive Rally (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Power Drive Rally (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Protector (World)">
+    <description>Protector (World)</description>
+    <title_clean>Protector</title_clean>
+    <title_search>protector</title_search>
+  </game>
+  <game name="Protector - Special Edition (World)">
+    <description>Protector - Special Edition (World)</description>
+    <title_clean>Protector - Special Edition</title_clean>
+    <title_search>protector special edition</title_search>
+    <image ext="png" id="Protector - Special Edition (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Protector - Special Edition (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Protector - Special Edition (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Raiden (World)">
+    <description>Raiden (World)</description>
+    <title_clean>Raiden</title_clean>
+    <title_search>raiden</title_search>
+    <image ext="png" id="Raiden (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Raiden (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Raiden (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Raiden (World) (Rev A)">
+    <description>Raiden (World) (Rev A)</description>
+    <title_clean>Raiden</title_clean>
+    <title_search>raiden</title_search>
+  </game>
+  <game name="Rayman (World)">
+    <description>Rayman (World)</description>
+    <title_clean>Rayman</title_clean>
+    <title_search>rayman</title_search>
+    <image ext="png" id="Rayman (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rayman (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rayman (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rayman (World) (Beta 1)">
+    <description>Rayman (World) (Beta 1)</description>
+    <title_clean>Rayman</title_clean>
+    <title_search>rayman</title_search>
+  </game>
+  <game name="Rayman (World) (Beta 2)">
+    <description>Rayman (World) (Beta 2)</description>
+    <title_clean>Rayman</title_clean>
+    <title_search>rayman</title_search>
+  </game>
+  <game name="Ruiner Pinball (USA, Europe)">
+    <description>Ruiner Pinball (USA, Europe)</description>
+    <title_clean>Ruiner Pinball</title_clean>
+    <title_search>ruiner pinball</title_search>
+    <image ext="png" id="Ruiner Pinball (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ruiner Pinball (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ruiner Pinball (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Skyhammer (World)">
+    <description>Skyhammer (World)</description>
+    <title_clean>Skyhammer</title_clean>
+    <title_search>skyhammer</title_search>
+    <image ext="png" id="Skyhammer (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Skyhammer (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Skyhammer (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Slam Racer (USA) (Proto)">
+    <description>Slam Racer (USA) (Proto)</description>
+    <title_clean>Slam Racer</title_clean>
+    <title_search>slam racer</title_search>
+  </game>
+  <game name="Soccer Kid (World)">
+    <description>Soccer Kid (World)</description>
+    <title_clean>Soccer Kid</title_clean>
+    <title_search>soccer kid</title_search>
+    <image ext="png" id="Soccer Kid (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Soccer Kid (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Soccer Kid (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Soccer Kid (World) (Beta)">
+    <description>Soccer Kid (World) (Beta)</description>
+    <title_clean>Soccer Kid</title_clean>
+    <title_search>soccer kid</title_search>
+  </game>
+  <game name="Space War 2000 (World)">
+    <description>Space War 2000 (World)</description>
+    <title_clean>Space War 2000</title_clean>
+    <title_search>space war 2000</title_search>
+    <image ext="png" id="Space War 2000 (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space War 2000 (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space War 2000 (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Burnout (World)">
+    <description>Super Burnout (World)</description>
+    <title_clean>Super Burnout</title_clean>
+    <title_search>super burnout</title_search>
+    <image ext="png" id="Super Burnout (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Burnout (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Burnout (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Burnout (World) (Demo) (WCES 1995)">
+    <description>Super Burnout (World) (Demo) (WCES 1995)</description>
+    <title_clean>Super Burnout</title_clean>
+    <title_search>super burnout</title_search>
+  </game>
+  <game name="Supercross 3D (USA, Europe)">
+    <description>Supercross 3D (USA, Europe)</description>
+    <title_clean>Supercross 3D</title_clean>
+    <title_search>supercross 3d</title_search>
+    <image ext="png" id="Supercross 3D (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Supercross 3D (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Supercross 3D (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Syndicate (World)">
+    <description>Syndicate (World)</description>
+    <title_clean>Syndicate</title_clean>
+    <title_search>syndicate</title_search>
+    <image ext="png" id="Syndicate (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Syndicate (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Syndicate (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tempest 2000 (World)">
+    <description>Tempest 2000 (World)</description>
+    <title_clean>Tempest 2000</title_clean>
+    <title_search>tempest 2000</title_search>
+    <image ext="png" id="Tempest 2000 (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tempest 2000 (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tempest 2000 (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Thea Realm Fighters (USA) (Proto 1)">
+    <description>Thea Realm Fighters (USA) (Proto 1)</description>
+    <title_clean>Thea Realm Fighters</title_clean>
+    <title_search>thea realm fighters</title_search>
+  </game>
+  <game name="Thea Realm Fighters (USA) (Proto 2)">
+    <description>Thea Realm Fighters (USA) (Proto 2)</description>
+    <title_clean>Thea Realm Fighters</title_clean>
+    <title_search>thea realm fighters</title_search>
+  </game>
+  <game name="Theme Park (World)">
+    <description>Theme Park (World)</description>
+    <title_clean>Theme Park</title_clean>
+    <title_search>theme park</title_search>
+    <image ext="png" id="Theme Park (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Theme Park (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Theme Park (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tiny Toon Adventures (USA) (Proto)">
+    <description>Tiny Toon Adventures (USA) (Proto)</description>
+    <title_clean>Tiny Toon Adventures</title_clean>
+    <title_search>tiny toon adventures</title_search>
+  </game>
+  <game name="Total Carnage (World)">
+    <description>Total Carnage (World)</description>
+    <title_clean>Total Carnage</title_clean>
+    <title_search>total carnage</title_search>
+    <image ext="png" id="Total Carnage (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Total Carnage (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Total Carnage (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Total Carnage (World) (Beta)">
+    <description>Total Carnage (World) (Beta)</description>
+    <title_clean>Total Carnage</title_clean>
+    <title_search>total carnage</title_search>
+  </game>
+  <game name="Towers II - Plight of the Stargazer (USA, Europe)">
+    <description>Towers II - Plight of the Stargazer (USA, Europe)</description>
+    <title_clean>Towers II - Plight of the Stargazer</title_clean>
+    <title_search>towers ii plight of the stargazer</title_search>
+    <image ext="png" id="Towers II - Plight of the Stargazer (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Towers II - Plight of the Stargazer (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Towers II - Plight of the Stargazer (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Trevor McFur in the Crescent Galaxy (World)">
+    <description>Trevor McFur in the Crescent Galaxy (World)</description>
+    <title_clean>Trevor McFur in the Crescent Galaxy</title_clean>
+    <title_search>trevor mcfur in the crescent galaxy</title_search>
+    <image ext="png" id="Trevor McFur in the Crescent Galaxy (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Trevor McFur in the Crescent Galaxy (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Trevor McFur in the Crescent Galaxy (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Trevor McFur in the Crescent Galaxy (World) (Beta)">
+    <description>Trevor McFur in the Crescent Galaxy (World) (Beta)</description>
+    <title_clean>Trevor McFur in the Crescent Galaxy</title_clean>
+    <title_search>trevor mcfur in the crescent galaxy</title_search>
+  </game>
+  <game name="Trevor McFur in the Crescent Galaxy (World) (Rev A)">
+    <description>Trevor McFur in the Crescent Galaxy (World) (Rev A)</description>
+    <title_clean>Trevor McFur in the Crescent Galaxy</title_clean>
+    <title_search>trevor mcfur in the crescent galaxy</title_search>
+  </game>
+  <game name="Troy Aikman NFL Football (World)">
+    <description>Troy Aikman NFL Football (World)</description>
+    <title_clean>Troy Aikman NFL Football</title_clean>
+    <title_search>troy aikman nfl football</title_search>
+    <image ext="png" id="Troy Aikman NFL Football (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Troy Aikman NFL Football (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Troy Aikman NFL Football (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ultra Vortek (World)">
+    <description>Ultra Vortek (World)</description>
+    <title_clean>Ultra Vortek</title_clean>
+    <title_search>ultra vortek</title_search>
+    <image ext="png" id="Ultra Vortek (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ultra Vortek (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ultra Vortek (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ultra Vortex (World) (Beta) (1995-03-20)">
+    <description>Ultra Vortex (World) (Beta) (1995-03-20)</description>
+    <title_clean>Ultra Vortex</title_clean>
+    <title_search>ultra vortex</title_search>
+    <image ext="png" id="Ultra Vortex (World) (Beta) (1995-03-20)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ultra Vortex (World) (Beta) (1995-03-20)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ultra Vortex (World) (Beta) (1995-03-20)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Val d'Isere Skiing and Snowboarding (World)">
+    <description>Val d'Isere Skiing and Snowboarding (World)</description>
+    <title_clean>Val d'Isere Skiing and Snowboarding</title_clean>
+    <title_search>val disere skiing and snowboarding</title_search>
+    <image ext="png" id="Val d'Isere Skiing and Snowboarding (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Val d'Isere Skiing and Snowboarding (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Val d'Isere Skiing and Snowboarding (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Virtual VCS (USA) (Proto)">
+    <description>Virtual VCS (USA) (Proto)</description>
+    <title_clean>Virtual VCS</title_clean>
+    <title_search>virtual vcs</title_search>
+    <image ext="png" id="Virtual VCS (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Virtual VCS (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="White Men Can't Jump (USA, Europe)">
+    <description>White Men Can't Jump (USA, Europe)</description>
+    <title_clean>White Men Can't Jump</title_clean>
+    <title_search>white men cant jump</title_search>
+    <image ext="png" id="White Men Can't Jump (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="White Men Can't Jump (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="White Men Can't Jump (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wolfenstein 3D (World)">
+    <description>Wolfenstein 3D (World)</description>
+    <title_clean>Wolfenstein 3D</title_clean>
+    <title_search>wolfenstein 3d</title_search>
+    <image ext="png" id="Wolfenstein 3D (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wolfenstein 3D (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wolfenstein 3D (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Worms (USA, Europe)">
+    <description>Worms (USA, Europe)</description>
+    <title_clean>Worms</title_clean>
+    <title_search>worms</title_search>
+    <image ext="png" id="Worms (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Worms (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Worms (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zero 5 (USA, Europe)">
+    <description>Zero 5 (USA, Europe)</description>
+    <title_clean>Zero 5</title_clean>
+    <title_search>zero 5</title_search>
+    <image ext="png" id="Zero 5 (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Zero 5 (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zero 5 (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zero 5 (USA, Europe) (Beta)">
+    <description>Zero 5 (USA, Europe) (Beta)</description>
+    <title_clean>Zero 5</title_clean>
+    <title_search>zero 5</title_search>
+  </game>
+  <game name="Zool 2 (World)">
+    <description>Zool 2 (World)</description>
+    <title_clean>Zool 2</title_clean>
+    <title_search>zool 2</title_search>
+    <image ext="png" id="Zool 2 (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Zool 2 (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zool 2 (World)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zoop (USA, Europe)">
+    <description>Zoop (USA, Europe)</description>
+    <title_clean>Zoop</title_clean>
+    <title_search>zoop</title_search>
+    <image ext="png" id="Zoop (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Zoop (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zoop (USA, Europe)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zzyorxx II (USA) (Demo)">
+    <description>Zzyorxx II (USA) (Demo)</description>
+    <title_clean>Zzyorxx II</title_clean>
+    <title_search>zzyorxx ii</title_search>
+    <image ext="png" id="Zzyorxx II (USA) (Demo)" source="https://github.com/libretro-thumbnails/Atari_-_Jaguar/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+</datafile>

@@ -1,0 +1,563 @@
+<datafile>
+  <game name="32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)">
+    <description>32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)</description>
+    <title_clean>32X Sample Program - PWM Sound Demo</title_clean>
+    <title_search>32x sample program pwm sound demo</title_search>
+  </game>
+  <game name="After Burner Complete (Europe)">
+    <description>After Burner Complete (Europe)</description>
+    <title_clean>After Burner Complete</title_clean>
+    <title_search>after burner complete</title_search>
+    <image ext="png" id="After Burner Complete (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="After Burner Complete (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="After Burner Complete (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="After Burner Complete ~ After Burner (Japan, USA)">
+    <description>After Burner Complete ~ After Burner (Japan, USA)</description>
+    <title_clean>After Burner Complete ~ After Burner</title_clean>
+    <title_search>after burner complete after burner</title_search>
+    <image ext="png" id="After Burner Complete ~ After Burner (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="After Burner Complete ~ After Burner (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="After Burner Complete ~ After Burner (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Amazing Spider-Man, The - Web of Fire (USA)">
+    <description>Amazing Spider-Man, The - Web of Fire (USA)</description>
+    <title_clean>The Amazing Spider-Man - Web of Fire</title_clean>
+    <title_search>the amazing spiderman web of fire</title_search>
+    <image ext="png" id="Amazing Spider-Man, The - Web of Fire (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Amazing Spider-Man, The - Web of Fire (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Amazing Spider-Man, The - Web of Fire (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="BC Racers (USA)">
+    <description>BC Racers (USA)</description>
+    <title_clean>BC Racers</title_clean>
+    <title_search>bc racers</title_search>
+    <image ext="png" id="BC Racers (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="BC Racers (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="BC Racers (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Blackthorne (USA)">
+    <description>Blackthorne (USA)</description>
+    <title_clean>Blackthorne</title_clean>
+    <title_search>blackthorne</title_search>
+    <image ext="png" id="Blackthorne (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Blackthorne (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Blackthorne (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Brutal - Above the Claw (USA)">
+    <description>Brutal - Above the Claw (USA)</description>
+    <title_clean>Brutal - Above the Claw</title_clean>
+    <title_search>brutal above the claw</title_search>
+  </game>
+  <game name="Chaotix ~ Knuckles' Chaotix (Japan, USA)">
+    <description>Chaotix ~ Knuckles' Chaotix (Japan, USA)</description>
+    <title_clean>Chaotix ~ Knuckles' Chaotix</title_clean>
+    <title_search>chaotix knuckles chaotix</title_search>
+    <image ext="png" id="Chaotix ~ Knuckles' Chaotix (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chaotix ~ Knuckles' Chaotix (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chaotix ~ Knuckles' Chaotix (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="ClayFighter 2 (USA) (Proto) (1995-04-28)">
+    <description>ClayFighter 2 (USA) (Proto) (1995-04-28)</description>
+    <title_clean>ClayFighter 2</title_clean>
+    <title_search>clayfighter 2</title_search>
+  </game>
+  <game name="Cosmic Carnage (Europe)">
+    <description>Cosmic Carnage (Europe)</description>
+    <title_clean>Cosmic Carnage</title_clean>
+    <title_search>cosmic carnage</title_search>
+    <image ext="png" id="Cosmic Carnage (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cosmic Carnage (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cosmic Carnage (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cosmic Carnage (Japan) (En) (Proto) (1994-09-06)">
+    <description>Cosmic Carnage (Japan) (En) (Proto) (1994-09-06)</description>
+    <title_clean>Cosmic Carnage</title_clean>
+    <title_search>cosmic carnage</title_search>
+  </game>
+  <game name="Cosmic Carnage (Japan) (En) (Proto) (1994-09-21)">
+    <description>Cosmic Carnage (Japan) (En) (Proto) (1994-09-21)</description>
+    <title_clean>Cosmic Carnage</title_clean>
+    <title_search>cosmic carnage</title_search>
+  </game>
+  <game name="Cosmic Carnage (Unknown) (Proto) (1994-09-26)">
+    <description>Cosmic Carnage (Unknown) (Proto) (1994-09-26)</description>
+    <title_clean>Cosmic Carnage</title_clean>
+    <title_search>cosmic carnage</title_search>
+  </game>
+  <game name="Cosmic Carnage (Unknown) (Proto) (1994-09-28)">
+    <description>Cosmic Carnage (Unknown) (Proto) (1994-09-28)</description>
+    <title_clean>Cosmic Carnage</title_clean>
+    <title_search>cosmic carnage</title_search>
+  </game>
+  <game name="Cosmic Carnage (Unknown) (Proto) (1994-10-04)">
+    <description>Cosmic Carnage (Unknown) (Proto) (1994-10-04)</description>
+    <title_clean>Cosmic Carnage</title_clean>
+    <title_search>cosmic carnage</title_search>
+  </game>
+  <game name="Cosmic Carnage (Unknown) (Proto) (1994-10-05)">
+    <description>Cosmic Carnage (Unknown) (Proto) (1994-10-05)</description>
+    <title_clean>Cosmic Carnage</title_clean>
+    <title_search>cosmic carnage</title_search>
+  </game>
+  <game name="Cosmic Carnage (Unknown) (Proto) (1994-10-07)">
+    <description>Cosmic Carnage (Unknown) (Proto) (1994-10-07)</description>
+    <title_clean>Cosmic Carnage</title_clean>
+    <title_search>cosmic carnage</title_search>
+  </game>
+  <game name="Cosmic Carnage (Unknown) (Proto) (1994-10-11)">
+    <description>Cosmic Carnage (Unknown) (Proto) (1994-10-11)</description>
+    <title_clean>Cosmic Carnage</title_clean>
+    <title_search>cosmic carnage</title_search>
+  </game>
+  <game name="Cyber Brawl ~ Cosmic Carnage (Japan, USA)">
+    <description>Cyber Brawl ~ Cosmic Carnage (Japan, USA)</description>
+    <title_clean>Cyber Brawl ~ Cosmic Carnage</title_clean>
+    <title_search>cyber brawl cosmic carnage</title_search>
+    <image ext="png" id="Cyber Brawl ~ Cosmic Carnage (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cyber Brawl ~ Cosmic Carnage (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cyber Brawl ~ Cosmic Carnage (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Darxide (Europe) (En,Fr,De,Es)">
+    <description>Darxide (Europe) (En,Fr,De,Es)</description>
+    <title_clean>Darxide</title_clean>
+    <title_search>darxide</title_search>
+    <image ext="png" id="Darxide (Europe) (En,Fr,De,Es)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Darxide (Europe) (En,Fr,De,Es)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Darxide (Europe) (En,Fr,De,Es)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Doom (Europe)">
+    <description>Doom (Europe)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+    <image ext="png" id="Doom (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Doom (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Doom (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Doom (Europe) (Proto) (1994-10-02)">
+    <description>Doom (Europe) (Proto) (1994-10-02)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (Japan, USA)">
+    <description>Doom (Japan, USA)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+    <image ext="png" id="Doom (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Doom (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Doom (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Doom (Japan, USA) (Proto) (1994-09-06)">
+    <description>Doom (Japan, USA) (Proto) (1994-09-06)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (Japan, USA) (Proto) (1994-09-09)">
+    <description>Doom (Japan, USA) (Proto) (1994-09-09)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (Japan, USA) (Proto) (1994-09-14)">
+    <description>Doom (Japan, USA) (Proto) (1994-09-14)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (USA) (Proto) (1994-09-21)">
+    <description>Doom (USA) (Proto) (1994-09-21)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (USA) (Proto) (1994-09-23)">
+    <description>Doom (USA) (Proto) (1994-09-23)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (USA) (Proto) (1994-09-25)">
+    <description>Doom (USA) (Proto) (1994-09-25)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (USA) (Proto) (1994-09-27)">
+    <description>Doom (USA) (Proto) (1994-09-27)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (USA) (Proto) (1994-12-01)">
+    <description>Doom (USA) (Proto) (1994-12-01)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (World) (Proto) (1994-09-16)">
+    <description>Doom (World) (Proto) (1994-09-16)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom RR (Japan, USA) (Proto) (1995-02-15)">
+    <description>Doom RR (Japan, USA) (Proto) (1995-02-15)</description>
+    <title_clean>Doom RR</title_clean>
+    <title_search>doom rr</title_search>
+  </game>
+  <game name="Doom RR (Japan, USA) (Proto) (1995-02-21)">
+    <description>Doom RR (Japan, USA) (Proto) (1995-02-21)</description>
+    <title_clean>Doom RR</title_clean>
+    <title_search>doom rr</title_search>
+  </game>
+  <game name="Doom RR (Japan, USA) (Proto) (1995-03-07)">
+    <description>Doom RR (Japan, USA) (Proto) (1995-03-07)</description>
+    <title_clean>Doom RR</title_clean>
+    <title_search>doom rr</title_search>
+  </game>
+  <game name="Ecco the Dolphin (USA) (Demo) (Developer Cart)">
+    <description>Ecco the Dolphin (USA) (Demo) (Developer Cart)</description>
+    <title_clean>Ecco the Dolphin</title_clean>
+    <title_search>ecco the dolphin</title_search>
+  </game>
+  <game name="FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)">
+    <description>FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)</description>
+    <title_clean>FIFA Soccer 96</title_clean>
+    <title_search>fifa soccer 96</title_search>
+  </game>
+  <game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)">
+    <description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)</description>
+    <title_clean>Golf Magazine Presents - 36 Great Holes Starring Fred Couples</title_clean>
+    <title_search>golf magazine presents 36 great holes starring fred couples</title_search>
+  </game>
+  <game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA)">
+    <description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA)</description>
+    <title_clean>Golf Magazine Presents - 36 Great Holes Starring Fred Couples</title_clean>
+    <title_search>golf magazine presents 36 great holes starring fred couples</title_search>
+  </game>
+  <game name="Knuckles' Chaotix (Europe)">
+    <description>Knuckles' Chaotix (Europe)</description>
+    <title_clean>Knuckles' Chaotix</title_clean>
+    <title_search>knuckles chaotix</title_search>
+    <image ext="png" id="Knuckles' Chaotix (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Knuckles' Chaotix (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Knuckles' Chaotix (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kolibri (USA, Europe)">
+    <description>Kolibri (USA, Europe)</description>
+    <title_clean>Kolibri</title_clean>
+    <title_search>kolibri</title_search>
+    <image ext="png" id="Kolibri (USA, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kolibri (USA, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kolibri (USA, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1)">
+    <description>Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1)</description>
+    <title_clean>Mars Check Program Version 1.0</title_clean>
+    <title_search>mars check program version 10</title_search>
+  </game>
+  <game name="Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2)">
+    <description>Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2)</description>
+    <title_clean>Mars Check Program Version 1.0</title_clean>
+    <title_search>mars check program version 10</title_search>
+  </game>
+  <game name="Mars Sample Program - Gnu Sierra (Unknown) (SDK Build)">
+    <description>Mars Sample Program - Gnu Sierra (Unknown) (SDK Build)</description>
+    <title_clean>Mars Sample Program - Gnu Sierra</title_clean>
+    <title_search>mars sample program gnu sierra</title_search>
+  </game>
+  <game name="Mars Sample Program - Pharaoh (Unknown) (SDK Build)">
+    <description>Mars Sample Program - Pharaoh (Unknown) (SDK Build)</description>
+    <title_clean>Mars Sample Program - Pharaoh</title_clean>
+    <title_search>mars sample program pharaoh</title_search>
+  </game>
+  <game name="Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build)">
+    <description>Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build)</description>
+    <title_clean>Mars Sample Program - Runlength Mode Test</title_clean>
+    <title_search>mars sample program runlength mode test</title_search>
+  </game>
+  <game name="Mars Sample Program - Texture Test (Unknown) (SDK Build)">
+    <description>Mars Sample Program - Texture Test (Unknown) (SDK Build)</description>
+    <title_clean>Mars Sample Program - Texture Test</title_clean>
+    <title_search>mars sample program texture test</title_search>
+  </game>
+  <game name="Metal Head (Europe) (En,Ja)">
+    <description>Metal Head (Europe) (En,Ja)</description>
+    <title_clean>Metal Head</title_clean>
+    <title_search>metal head</title_search>
+    <image ext="png" id="Metal Head (Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Metal Head (Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Metal Head (Europe) (En,Ja)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Metal Head (Japan, USA) (En,Ja)">
+    <description>Metal Head (Japan, USA) (En,Ja)</description>
+    <title_clean>Metal Head</title_clean>
+    <title_search>metal head</title_search>
+    <image ext="png" id="Metal Head (Japan, USA) (En,Ja)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Metal Head (Japan, USA) (En,Ja)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Metal Head (Japan, USA) (En,Ja)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mortal Kombat II (Europe)">
+    <description>Mortal Kombat II (Europe)</description>
+    <title_clean>Mortal Kombat II</title_clean>
+    <title_search>mortal kombat ii</title_search>
+    <image ext="png" id="Mortal Kombat II (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mortal Kombat II (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mortal Kombat II (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mortal Kombat II (Japan, USA)">
+    <description>Mortal Kombat II (Japan, USA)</description>
+    <title_clean>Mortal Kombat II</title_clean>
+    <title_search>mortal kombat ii</title_search>
+    <image ext="png" id="Mortal Kombat II (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mortal Kombat II (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mortal Kombat II (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Motocross Championship (Europe)">
+    <description>Motocross Championship (Europe)</description>
+    <title_clean>Motocross Championship</title_clean>
+    <title_search>motocross championship</title_search>
+    <image ext="png" id="Motocross Championship (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Motocross Championship (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Motocross Championship (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Motocross Championship (USA)">
+    <description>Motocross Championship (USA)</description>
+    <title_clean>Motocross Championship</title_clean>
+    <title_search>motocross championship</title_search>
+    <image ext="png" id="Motocross Championship (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Motocross Championship (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Motocross Championship (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="NBA Jam - Tournament Edition (World)">
+    <description>NBA Jam - Tournament Edition (World)</description>
+    <title_clean>NBA Jam - Tournament Edition</title_clean>
+    <title_search>nba jam tournament edition</title_search>
+    <image ext="png" id="NBA Jam - Tournament Edition (World)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="NBA Jam - Tournament Edition (World)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="NBA Jam - Tournament Edition (World)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="NFL Quarterback Club (World)">
+    <description>NFL Quarterback Club (World)</description>
+    <title_clean>NFL Quarterback Club</title_clean>
+    <title_search>nfl quarterback club</title_search>
+    <image ext="png" id="NFL Quarterback Club (World)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="NFL Quarterback Club (World)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="NFL Quarterback Club (World)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)">
+    <description>Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)</description>
+    <title_clean>Parasquad ~ Zaxxon's Motherbase 2000</title_clean>
+    <title_search>parasquad zaxxons motherbase 2000</title_search>
+    <image ext="png" id="Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pinocchio (Europe) (Proto) (1995-06-12)">
+    <description>Pinocchio (Europe) (Proto) (1995-06-12)</description>
+    <title_clean>Pinocchio</title_clean>
+    <title_search>pinocchio</title_search>
+  </game>
+  <game name="Pitfall - The Mayan Adventure (USA)">
+    <description>Pitfall - The Mayan Adventure (USA)</description>
+    <title_clean>Pitfall - The Mayan Adventure</title_clean>
+    <title_search>pitfall the mayan adventure</title_search>
+    <image ext="png" id="Pitfall - The Mayan Adventure (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pitfall - The Mayan Adventure (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pitfall - The Mayan Adventure (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Primal Rage (USA, Europe)">
+    <description>Primal Rage (USA, Europe)</description>
+    <title_clean>Primal Rage</title_clean>
+    <title_search>primal rage</title_search>
+    <image ext="png" id="Primal Rage (USA, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Primal Rage (USA, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Primal Rage (USA, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="RBI Baseball '95 (USA)">
+    <description>RBI Baseball '95 (USA)</description>
+    <title_clean>RBI Baseball '95</title_clean>
+    <title_search>rbi baseball 95</title_search>
+    <image ext="png" id="RBI Baseball '95 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="RBI Baseball '95 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="RBI Baseball '95 (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sangokushi IV (Japan)">
+    <description>Sangokushi IV (Japan)</description>
+    <title_clean>Sangokushi IV</title_clean>
+    <title_search>sangokushi iv</title_search>
+    <image ext="png" id="Sangokushi IV (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sangokushi IV (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sangokushi IV (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shadow Squadron ~ Stellar Assault (USA, Europe)">
+    <description>Shadow Squadron ~ Stellar Assault (USA, Europe)</description>
+    <title_clean>Shadow Squadron ~ Stellar Assault</title_clean>
+    <title_search>shadow squadron stellar assault</title_search>
+    <image ext="png" id="Shadow Squadron ~ Stellar Assault (USA, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shadow Squadron ~ Stellar Assault (USA, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shadow Squadron ~ Stellar Assault (USA, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Soulstar X (USA) (Proto)">
+    <description>Soulstar X (USA) (Proto)</description>
+    <title_clean>Soulstar X</title_clean>
+    <title_search>soulstar x</title_search>
+    <image ext="png" id="Soulstar X (USA) (Proto)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Soulstar X (USA) (Proto)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Soulstar X (USA) (Proto)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Harrier (Europe)">
+    <description>Space Harrier (Europe)</description>
+    <title_clean>Space Harrier</title_clean>
+    <title_search>space harrier</title_search>
+    <image ext="png" id="Space Harrier (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Harrier (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Harrier (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Harrier (Japan, USA)">
+    <description>Space Harrier (Japan, USA)</description>
+    <title_clean>Space Harrier</title_clean>
+    <title_search>space harrier</title_search>
+    <image ext="png" id="Space Harrier (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Harrier (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Harrier (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Harrier (Japan, USA) (Beta) (1994-09-20)">
+    <description>Space Harrier (Japan, USA) (Beta) (1994-09-20)</description>
+    <title_clean>Space Harrier</title_clean>
+    <title_search>space harrier</title_search>
+  </game>
+  <game name="Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)">
+    <description>Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)</description>
+    <title_clean>Star Trek - Starfleet Academy - Starship Bridge Simulator</title_clean>
+    <title_search>star trek starfleet academy starship bridge simulator</title_search>
+    <image ext="png" id="Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Wars Arcade (Europe)">
+    <description>Star Wars Arcade (Europe)</description>
+    <title_clean>Star Wars Arcade</title_clean>
+    <title_search>star wars arcade</title_search>
+    <image ext="png" id="Star Wars Arcade (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Wars Arcade (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Wars Arcade (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Wars Arcade (Japan)">
+    <description>Star Wars Arcade (Japan)</description>
+    <title_clean>Star Wars Arcade</title_clean>
+    <title_search>star wars arcade</title_search>
+    <image ext="png" id="Star Wars Arcade (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Wars Arcade (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Wars Arcade (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Wars Arcade (USA)">
+    <description>Star Wars Arcade (USA)</description>
+    <title_clean>Star Wars Arcade</title_clean>
+    <title_search>star wars arcade</title_search>
+    <image ext="png" id="Star Wars Arcade (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Wars Arcade (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Star Wars Arcade (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Stellar Assault (Japan)">
+    <description>Stellar Assault (Japan)</description>
+    <title_clean>Stellar Assault</title_clean>
+    <title_search>stellar assault</title_search>
+    <image ext="png" id="Stellar Assault (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Stellar Assault (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Stellar Assault (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="T-MEK (USA, Europe)">
+    <description>T-MEK (USA, Europe)</description>
+    <title_clean>T-MEK</title_clean>
+    <title_search>tmek</title_search>
+  </game>
+  <game name="Tempo (Japan, USA)">
+    <description>Tempo (Japan, USA)</description>
+    <title_clean>Tempo</title_clean>
+    <title_search>tempo</title_search>
+    <image ext="png" id="Tempo (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tempo (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tempo (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Toughman Contest (USA, Europe)">
+    <description>Toughman Contest (USA, Europe)</description>
+    <title_clean>Toughman Contest</title_clean>
+    <title_search>toughman contest</title_search>
+    <image ext="png" id="Toughman Contest (USA, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Toughman Contest (USA, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Toughman Contest (USA, Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Virtua Fighter (Europe)">
+    <description>Virtua Fighter (Europe)</description>
+    <title_clean>Virtua Fighter</title_clean>
+    <title_search>virtua fighter</title_search>
+    <image ext="png" id="Virtua Fighter (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Virtua Fighter (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Virtua Fighter (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Virtua Fighter (Japan, USA)">
+    <description>Virtua Fighter (Japan, USA)</description>
+    <title_clean>Virtua Fighter</title_clean>
+    <title_search>virtua fighter</title_search>
+    <image ext="png" id="Virtua Fighter (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Virtua Fighter (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Virtua Fighter (Japan, USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Virtua Hamster (USA) (Proto)">
+    <description>Virtua Hamster (USA) (Proto)</description>
+    <title_clean>Virtua Hamster</title_clean>
+    <title_search>virtua hamster</title_search>
+    <image ext="png" id="Virtua Hamster (USA) (Proto)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Virtua Hamster (USA) (Proto)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Virtua Hamster (USA) (Proto)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Virtua Racing Deluxe (Europe)">
+    <description>Virtua Racing Deluxe (Europe)</description>
+    <title_clean>Virtua Racing Deluxe</title_clean>
+    <title_search>virtua racing deluxe</title_search>
+    <image ext="png" id="Virtua Racing Deluxe (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Virtua Racing Deluxe (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Virtua Racing Deluxe (Europe)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Virtua Racing Deluxe (Japan)">
+    <description>Virtua Racing Deluxe (Japan)</description>
+    <title_clean>Virtua Racing Deluxe</title_clean>
+    <title_search>virtua racing deluxe</title_search>
+    <image ext="png" id="Virtua Racing Deluxe (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Virtua Racing Deluxe (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Virtua Racing Deluxe (Japan)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Virtua Racing Deluxe (USA)">
+    <description>Virtua Racing Deluxe (USA)</description>
+    <title_clean>Virtua Racing Deluxe</title_clean>
+    <title_search>virtua racing deluxe</title_search>
+    <image ext="png" id="Virtua Racing Deluxe (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Virtua Racing Deluxe (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Virtua Racing Deluxe (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="WWF Raw (World)">
+    <description>WWF Raw (World)</description>
+    <title_clean>WWF Raw</title_clean>
+    <title_search>wwf raw</title_search>
+    <image ext="png" id="WWF Raw (World)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="WWF Raw (World)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="WWF Raw (World)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="WWF WrestleMania - The Arcade Game (USA)">
+    <description>WWF WrestleMania - The Arcade Game (USA)</description>
+    <title_clean>WWF WrestleMania - The Arcade Game</title_clean>
+    <title_search>wwf wrestlemania the arcade game</title_search>
+    <image ext="png" id="WWF WrestleMania - The Arcade Game (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="WWF WrestleMania - The Arcade Game (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="WWF WrestleMania - The Arcade Game (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="World Series Baseball Starring Deion Sanders (USA)">
+    <description>World Series Baseball Starring Deion Sanders (USA)</description>
+    <title_clean>World Series Baseball Starring Deion Sanders</title_clean>
+    <title_search>world series baseball starring deion sanders</title_search>
+    <image ext="png" id="World Series Baseball Starring Deion Sanders (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="World Series Baseball Starring Deion Sanders (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="World Series Baseball Starring Deion Sanders (USA)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="X-Men (USA) (Proto)">
+    <description>X-Men (USA) (Proto)</description>
+    <title_clean>X-Men</title_clean>
+    <title_search>xmen</title_search>
+    <image ext="png" id="X-Men (USA) (Proto)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="X-Men (USA) (Proto)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="X-Men (USA) (Proto)" source="https://github.com/libretro-thumbnails/Sega_-_32X/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

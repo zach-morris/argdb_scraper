@@ -1,0 +1,42 @@
+<datafile>
+  <game name="Amidar (Japan)">
+    <description>Amidar (Japan)</description>
+    <title_clean>Amidar</title_clean>
+    <title_search>amidar</title_search>
+    <image ext="png" id="Amidar (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_PV-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Amidar (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_PV-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Amidar (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_PV-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Excite Mahjong (Japan)">
+    <description>Excite Mahjong (Japan)</description>
+    <title_clean>Excite Mahjong</title_clean>
+    <title_search>excite mahjong</title_search>
+    <image ext="png" id="Excite Mahjong (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_PV-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Excite Mahjong (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_PV-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Excite Mahjong (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_PV-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pachinko-UFO (Japan)">
+    <description>Pachinko-UFO (Japan)</description>
+    <title_clean>Pachinko-UFO</title_clean>
+    <title_search>pachinkoufo</title_search>
+    <image ext="png" id="Pachinko-UFO (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_PV-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pachinko-UFO (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_PV-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pachinko-UFO (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_PV-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pooyan (Japan)">
+    <description>Pooyan (Japan)</description>
+    <title_clean>Pooyan</title_clean>
+    <title_search>pooyan</title_search>
+    <image ext="png" id="Pooyan (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_PV-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pooyan (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_PV-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pooyan (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_PV-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Cobra (Japan)">
+    <description>Super Cobra (Japan)</description>
+    <title_clean>Super Cobra</title_clean>
+    <title_search>super cobra</title_search>
+    <image ext="png" id="Super Cobra (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_PV-1000/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Cobra (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_PV-1000/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Cobra (Japan)" source="https://github.com/libretro-thumbnails/Casio_-_PV-1000/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

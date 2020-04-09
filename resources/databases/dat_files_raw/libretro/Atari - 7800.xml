@@ -1,0 +1,997 @@
+<datafile>
+  <game name="32 in 1 (Australia)">
+    <description>32 in 1 (Australia)</description>
+    <title_clean>32 in 1</title_clean>
+    <title_search>32 in 1</title_search>
+  </game>
+  <game name="7800 Monitor Cart (USA) (Program) (Unl)">
+    <description>7800 Monitor Cart (USA) (Program) (Unl)</description>
+    <title_clean>7800 Monitor Cart</title_clean>
+    <title_search>7800 monitor cart</title_search>
+  </game>
+  <game name="Ace of Aces (Europe)">
+    <description>Ace of Aces (Europe)</description>
+    <title_clean>Ace of Aces</title_clean>
+    <title_search>ace of aces</title_search>
+    <image ext="png" id="Ace of Aces (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ace of Aces (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ace of Aces (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ace of Aces (USA)">
+    <description>Ace of Aces (USA)</description>
+    <title_clean>Ace of Aces</title_clean>
+    <title_search>ace of aces</title_search>
+    <image ext="png" id="Ace of Aces (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ace of Aces (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ace of Aces (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Alien Brigade (Europe)">
+    <description>Alien Brigade (Europe)</description>
+    <title_clean>Alien Brigade</title_clean>
+    <title_search>alien brigade</title_search>
+    <image ext="png" id="Alien Brigade (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Alien Brigade (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alien Brigade (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Alien Brigade (USA)">
+    <description>Alien Brigade (USA)</description>
+    <title_clean>Alien Brigade</title_clean>
+    <title_search>alien brigade</title_search>
+    <image ext="png" id="Alien Brigade (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Alien Brigade (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alien Brigade (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Asteroids (USA)">
+    <description>Asteroids (USA)</description>
+    <title_clean>Asteroids</title_clean>
+    <title_search>asteroids</title_search>
+    <image ext="png" id="Asteroids (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Asteroids (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Asteroids (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Asteroids (USA) (Beta)">
+    <description>Asteroids (USA) (Beta)</description>
+    <title_clean>Asteroids</title_clean>
+    <title_search>asteroids</title_search>
+  </game>
+  <game name="Atari 7800 Developement Card (USA)">
+    <description>Atari 7800 Developement Card (USA)</description>
+    <title_clean>Atari 7800 Developement Card</title_clean>
+    <title_search>atari 7800 developement card</title_search>
+  </game>
+  <game name="Ballblazer (Europe)">
+    <description>Ballblazer (Europe)</description>
+    <title_clean>Ballblazer</title_clean>
+    <title_search>ballblazer</title_search>
+    <image ext="png" id="Ballblazer (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ballblazer (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ballblazer (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ballblazer (USA)">
+    <description>Ballblazer (USA)</description>
+    <title_clean>Ballblazer</title_clean>
+    <title_search>ballblazer</title_search>
+    <image ext="png" id="Ballblazer (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ballblazer (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ballblazer (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Barnyard Blaster (Europe)">
+    <description>Barnyard Blaster (Europe)</description>
+    <title_clean>Barnyard Blaster</title_clean>
+    <title_search>barnyard blaster</title_search>
+    <image ext="png" id="Barnyard Blaster (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Barnyard Blaster (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Barnyard Blaster (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Barnyard Blaster (USA)">
+    <description>Barnyard Blaster (USA)</description>
+    <title_clean>Barnyard Blaster</title_clean>
+    <title_search>barnyard blaster</title_search>
+    <image ext="png" id="Barnyard Blaster (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Barnyard Blaster (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Barnyard Blaster (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Baseball (Europe)">
+    <description>Baseball (Europe)</description>
+    <title_clean>Baseball</title_clean>
+    <title_search>baseball</title_search>
+    <image ext="png" id="Baseball (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Baseball (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Baseball (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Basketbrawl (Europe)">
+    <description>Basketbrawl (Europe)</description>
+    <title_clean>Basketbrawl</title_clean>
+    <title_search>basketbrawl</title_search>
+    <image ext="png" id="Basketbrawl (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Basketbrawl (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Basketbrawl (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Basketbrawl (USA)">
+    <description>Basketbrawl (USA)</description>
+    <title_clean>Basketbrawl</title_clean>
+    <title_search>basketbrawl</title_search>
+    <image ext="png" id="Basketbrawl (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Basketbrawl (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Basketbrawl (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Centipede (Europe)">
+    <description>Centipede (Europe)</description>
+    <title_clean>Centipede</title_clean>
+    <title_search>centipede</title_search>
+    <image ext="png" id="Centipede (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Centipede (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Centipede (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Centipede (USA)">
+    <description>Centipede (USA)</description>
+    <title_clean>Centipede</title_clean>
+    <title_search>centipede</title_search>
+    <image ext="png" id="Centipede (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Centipede (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Centipede (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Choplifter! (Europe)">
+    <description>Choplifter! (Europe)</description>
+    <title_clean>Choplifter!</title_clean>
+    <title_search>choplifter</title_search>
+    <image ext="png" id="Choplifter! (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Choplifter! (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Choplifter! (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Choplifter! (USA)">
+    <description>Choplifter! (USA)</description>
+    <title_clean>Choplifter!</title_clean>
+    <title_search>choplifter</title_search>
+    <image ext="png" id="Choplifter! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Choplifter! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Choplifter! (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Commando (Europe)">
+    <description>Commando (Europe)</description>
+    <title_clean>Commando</title_clean>
+    <title_search>commando</title_search>
+    <image ext="png" id="Commando (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Commando (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Commando (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Commando (USA)">
+    <description>Commando (USA)</description>
+    <title_clean>Commando</title_clean>
+    <title_search>commando</title_search>
+    <image ext="png" id="Commando (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Commando (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Commando (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Crack'ed (Europe)">
+    <description>Crack'ed (Europe)</description>
+    <title_clean>Crack'ed</title_clean>
+    <title_search>cracked</title_search>
+    <image ext="png" id="Crack'ed (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Crack'ed (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Crack'ed (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Crack'ed (USA)">
+    <description>Crack'ed (USA)</description>
+    <title_clean>Crack'ed</title_clean>
+    <title_search>cracked</title_search>
+    <image ext="png" id="Crack'ed (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Crack'ed (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Crack'ed (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Crossbow (Europe)">
+    <description>Crossbow (Europe)</description>
+    <title_clean>Crossbow</title_clean>
+    <title_search>crossbow</title_search>
+    <image ext="png" id="Crossbow (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Crossbow (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Crossbow (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Crossbow (USA)">
+    <description>Crossbow (USA)</description>
+    <title_clean>Crossbow</title_clean>
+    <title_search>crossbow</title_search>
+    <image ext="png" id="Crossbow (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Crossbow (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Crossbow (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dark Chambers (Europe)">
+    <description>Dark Chambers (Europe)</description>
+    <title_clean>Dark Chambers</title_clean>
+    <title_search>dark chambers</title_search>
+    <image ext="png" id="Dark Chambers (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dark Chambers (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dark Chambers (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dark Chambers (USA)">
+    <description>Dark Chambers (USA)</description>
+    <title_clean>Dark Chambers</title_clean>
+    <title_search>dark chambers</title_search>
+    <image ext="png" id="Dark Chambers (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dark Chambers (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dark Chambers (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Desert Falcon (Europe)">
+    <description>Desert Falcon (Europe)</description>
+    <title_clean>Desert Falcon</title_clean>
+    <title_search>desert falcon</title_search>
+    <image ext="png" id="Desert Falcon (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Desert Falcon (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Desert Falcon (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Desert Falcon (USA)">
+    <description>Desert Falcon (USA)</description>
+    <title_clean>Desert Falcon</title_clean>
+    <title_search>desert falcon</title_search>
+    <image ext="png" id="Desert Falcon (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Desert Falcon (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Desert Falcon (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Diagnostic Test Cartrige (USA)">
+    <description>Diagnostic Test Cartrige (USA)</description>
+    <title_clean>Diagnostic Test Cartrige</title_clean>
+    <title_search>diagnostic test cartrige</title_search>
+  </game>
+  <game name="Diagnostic Test Cartrige (USA) (Beta)">
+    <description>Diagnostic Test Cartrige (USA) (Beta)</description>
+    <title_clean>Diagnostic Test Cartrige</title_clean>
+    <title_search>diagnostic test cartrige</title_search>
+  </game>
+  <game name="Dig Dug (Europe)">
+    <description>Dig Dug (Europe)</description>
+    <title_clean>Dig Dug</title_clean>
+    <title_search>dig dug</title_search>
+    <image ext="png" id="Dig Dug (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dig Dug (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dig Dug (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dig Dug (USA)">
+    <description>Dig Dug (USA)</description>
+    <title_clean>Dig Dug</title_clean>
+    <title_search>dig dug</title_search>
+    <image ext="png" id="Dig Dug (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dig Dug (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dig Dug (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Donkey Kong (Europe)">
+    <description>Donkey Kong (Europe)</description>
+    <title_clean>Donkey Kong</title_clean>
+    <title_search>donkey kong</title_search>
+    <image ext="png" id="Donkey Kong (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Donkey Kong (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Donkey Kong (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Donkey Kong (USA)">
+    <description>Donkey Kong (USA)</description>
+    <title_clean>Donkey Kong</title_clean>
+    <title_search>donkey kong</title_search>
+    <image ext="png" id="Donkey Kong (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Donkey Kong (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Donkey Kong (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Donkey Kong Junior (Europe)">
+    <description>Donkey Kong Junior (Europe)</description>
+    <title_clean>Donkey Kong Junior</title_clean>
+    <title_search>donkey kong junior</title_search>
+    <image ext="png" id="Donkey Kong Junior (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Donkey Kong Junior (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Donkey Kong Junior (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Donkey Kong Junior (USA)">
+    <description>Donkey Kong Junior (USA)</description>
+    <title_clean>Donkey Kong Junior</title_clean>
+    <title_search>donkey kong junior</title_search>
+    <image ext="png" id="Donkey Kong Junior (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Donkey Kong Junior (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Donkey Kong Junior (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Double Dragon (Europe)">
+    <description>Double Dragon (Europe)</description>
+    <title_clean>Double Dragon</title_clean>
+    <title_search>double dragon</title_search>
+    <image ext="png" id="Double Dragon (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Double Dragon (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Double Dragon (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Double Dragon (USA)">
+    <description>Double Dragon (USA)</description>
+    <title_clean>Double Dragon</title_clean>
+    <title_search>double dragon</title_search>
+    <image ext="png" id="Double Dragon (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Double Dragon (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Double Dragon (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="F-18 Hornet (Europe)">
+    <description>F-18 Hornet (Europe)</description>
+    <title_clean>F-18 Hornet</title_clean>
+    <title_search>f18 hornet</title_search>
+    <image ext="png" id="F-18 Hornet (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="F-18 Hornet (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="F-18 Hornet (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="F-18 Hornet (USA)">
+    <description>F-18 Hornet (USA)</description>
+    <title_clean>F-18 Hornet</title_clean>
+    <title_search>f18 hornet</title_search>
+    <image ext="png" id="F-18 Hornet (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="F-18 Hornet (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="F-18 Hornet (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fatal Run (Europe)">
+    <description>Fatal Run (Europe)</description>
+    <title_clean>Fatal Run</title_clean>
+    <title_search>fatal run</title_search>
+    <image ext="png" id="Fatal Run (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fatal Run (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fatal Run (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fatal Run (USA)">
+    <description>Fatal Run (USA)</description>
+    <title_clean>Fatal Run</title_clean>
+    <title_search>fatal run</title_search>
+    <image ext="png" id="Fatal Run (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fatal Run (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fatal Run (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fight Night (Europe)">
+    <description>Fight Night (Europe)</description>
+    <title_clean>Fight Night</title_clean>
+    <title_search>fight night</title_search>
+    <image ext="png" id="Fight Night (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fight Night (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fight Night (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fight Night (USA)">
+    <description>Fight Night (USA)</description>
+    <title_clean>Fight Night</title_clean>
+    <title_search>fight night</title_search>
+    <image ext="png" id="Fight Night (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fight Night (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fight Night (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Food Fight (Europe)">
+    <description>Food Fight (Europe)</description>
+    <title_clean>Food Fight</title_clean>
+    <title_search>food fight</title_search>
+    <image ext="png" id="Food Fight (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Food Fight (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Food Fight (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Food Fight (USA)">
+    <description>Food Fight (USA)</description>
+    <title_clean>Food Fight</title_clean>
+    <title_search>food fight</title_search>
+    <image ext="png" id="Food Fight (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Food Fight (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Food Fight (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Food Fight (USA) (Beta)">
+    <description>Food Fight (USA) (Beta)</description>
+    <title_clean>Food Fight</title_clean>
+    <title_search>food fight</title_search>
+  </game>
+  <game name="GATO (USA) (Proto)">
+    <description>GATO (USA) (Proto)</description>
+    <title_clean>GATO</title_clean>
+    <title_search>gato</title_search>
+    <image ext="png" id="GATO (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="GATO (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="GATO (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Galaga (Europe)">
+    <description>Galaga (Europe)</description>
+    <title_clean>Galaga</title_clean>
+    <title_search>galaga</title_search>
+    <image ext="png" id="Galaga (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Galaga (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Galaga (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Galaga (USA)">
+    <description>Galaga (USA)</description>
+    <title_clean>Galaga</title_clean>
+    <title_search>galaga</title_search>
+    <image ext="png" id="Galaga (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Galaga (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Galaga (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hat Trick (Europe)">
+    <description>Hat Trick (Europe)</description>
+    <title_clean>Hat Trick</title_clean>
+    <title_search>hat trick</title_search>
+    <image ext="png" id="Hat Trick (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hat Trick (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hat Trick (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hat Trick (USA)">
+    <description>Hat Trick (USA)</description>
+    <title_clean>Hat Trick</title_clean>
+    <title_search>hat trick</title_search>
+    <image ext="png" id="Hat Trick (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hat Trick (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hat Trick (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="High Score Cartridge (USA) (Proto)">
+    <description>High Score Cartridge (USA) (Proto)</description>
+    <title_clean>High Score Cartridge</title_clean>
+    <title_search>high score cartridge</title_search>
+  </game>
+  <game name="Ikari Warriors (Europe)">
+    <description>Ikari Warriors (Europe)</description>
+    <title_clean>Ikari Warriors</title_clean>
+    <title_search>ikari warriors</title_search>
+    <image ext="png" id="Ikari Warriors (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ikari Warriors (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ikari Warriors (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ikari Warriors (USA)">
+    <description>Ikari Warriors (USA)</description>
+    <title_clean>Ikari Warriors</title_clean>
+    <title_search>ikari warriors</title_search>
+    <image ext="png" id="Ikari Warriors (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ikari Warriors (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ikari Warriors (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Impossible Mission (Europe)">
+    <description>Impossible Mission (Europe)</description>
+    <title_clean>Impossible Mission</title_clean>
+    <title_search>impossible mission</title_search>
+    <image ext="png" id="Impossible Mission (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Impossible Mission (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Impossible Mission (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Impossible Mission (USA)">
+    <description>Impossible Mission (USA)</description>
+    <title_clean>Impossible Mission</title_clean>
+    <title_search>impossible mission</title_search>
+    <image ext="png" id="Impossible Mission (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Impossible Mission (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Impossible Mission (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jinks (Europe)">
+    <description>Jinks (Europe)</description>
+    <title_clean>Jinks</title_clean>
+    <title_search>jinks</title_search>
+    <image ext="png" id="Jinks (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jinks (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jinks (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jinks (USA)">
+    <description>Jinks (USA)</description>
+    <title_clean>Jinks</title_clean>
+    <title_search>jinks</title_search>
+    <image ext="png" id="Jinks (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jinks (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jinks (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Joust (Europe)">
+    <description>Joust (Europe)</description>
+    <title_clean>Joust</title_clean>
+    <title_search>joust</title_search>
+    <image ext="png" id="Joust (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Joust (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Joust (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Joust (USA)">
+    <description>Joust (USA)</description>
+    <title_clean>Joust</title_clean>
+    <title_search>joust</title_search>
+    <image ext="png" id="Joust (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Joust (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Joust (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Karateka (Europe)">
+    <description>Karateka (Europe)</description>
+    <title_clean>Karateka</title_clean>
+    <title_search>karateka</title_search>
+    <image ext="png" id="Karateka (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Karateka (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Karateka (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Karateka (USA)">
+    <description>Karateka (USA)</description>
+    <title_clean>Karateka</title_clean>
+    <title_search>karateka</title_search>
+    <image ext="png" id="Karateka (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Karateka (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Karateka (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Klax (USA) (Proto)">
+    <description>Klax (USA) (Proto)</description>
+    <title_clean>Klax</title_clean>
+    <title_search>klax</title_search>
+    <image ext="png" id="Klax (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Klax (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Klax (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kung-Fu Master (Europe)">
+    <description>Kung-Fu Master (Europe)</description>
+    <title_clean>Kung-Fu Master</title_clean>
+    <title_search>kungfu master</title_search>
+    <image ext="png" id="Kung-Fu Master (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kung-Fu Master (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kung-Fu Master (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kung-Fu Master (USA)">
+    <description>Kung-Fu Master (USA)</description>
+    <title_clean>Kung-Fu Master</title_clean>
+    <title_search>kungfu master</title_search>
+    <image ext="png" id="Kung-Fu Master (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kung-Fu Master (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kung-Fu Master (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mario Bros. (Europe)">
+    <description>Mario Bros. (Europe)</description>
+    <title_clean>Mario Bros.</title_clean>
+    <title_search>mario bros</title_search>
+    <image ext="png" id="Mario Bros. (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mario Bros. (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mario Bros. (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mario Bros. (USA)">
+    <description>Mario Bros. (USA)</description>
+    <title_clean>Mario Bros.</title_clean>
+    <title_search>mario bros</title_search>
+    <image ext="png" id="Mario Bros. (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mario Bros. (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mario Bros. (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mat Mania Challenge (Europe)">
+    <description>Mat Mania Challenge (Europe)</description>
+    <title_clean>Mat Mania Challenge</title_clean>
+    <title_search>mat mania challenge</title_search>
+    <image ext="png" id="Mat Mania Challenge (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mat Mania Challenge (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mat Mania Challenge (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mat Mania Challenge (USA)">
+    <description>Mat Mania Challenge (USA)</description>
+    <title_clean>Mat Mania Challenge</title_clean>
+    <title_search>mat mania challenge</title_search>
+    <image ext="png" id="Mat Mania Challenge (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mat Mania Challenge (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mat Mania Challenge (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mean 18 Ultimate Golf (Europe)">
+    <description>Mean 18 Ultimate Golf (Europe)</description>
+    <title_clean>Mean 18 Ultimate Golf</title_clean>
+    <title_search>mean 18 ultimate golf</title_search>
+    <image ext="png" id="Mean 18 Ultimate Golf (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mean 18 Ultimate Golf (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mean 18 Ultimate Golf (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mean 18 Ultimate Golf (USA)">
+    <description>Mean 18 Ultimate Golf (USA)</description>
+    <title_clean>Mean 18 Ultimate Golf</title_clean>
+    <title_search>mean 18 ultimate golf</title_search>
+    <image ext="png" id="Mean 18 Ultimate Golf (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mean 18 Ultimate Golf (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mean 18 Ultimate Golf (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Meltdown (Europe)">
+    <description>Meltdown (Europe)</description>
+    <title_clean>Meltdown</title_clean>
+    <title_search>meltdown</title_search>
+    <image ext="png" id="Meltdown (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Meltdown (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Meltdown (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Meltdown (USA)">
+    <description>Meltdown (USA)</description>
+    <title_clean>Meltdown</title_clean>
+    <title_search>meltdown</title_search>
+    <image ext="png" id="Meltdown (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Meltdown (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Meltdown (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Midnight Mutants (Europe)">
+    <description>Midnight Mutants (Europe)</description>
+    <title_clean>Midnight Mutants</title_clean>
+    <title_search>midnight mutants</title_search>
+    <image ext="png" id="Midnight Mutants (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Midnight Mutants (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Midnight Mutants (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Midnight Mutants (USA)">
+    <description>Midnight Mutants (USA)</description>
+    <title_clean>Midnight Mutants</title_clean>
+    <title_search>midnight mutants</title_search>
+    <image ext="png" id="Midnight Mutants (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Midnight Mutants (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Midnight Mutants (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Missing In Action (Unknown) (Proto)">
+    <description>Missing In Action (Unknown) (Proto)</description>
+    <title_clean>Missing In Action</title_clean>
+    <title_search>missing in action</title_search>
+    <image ext="png" id="Missing In Action (Unknown) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Missing In Action (Unknown) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Missing In Action (Unknown) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Missing in Action (USA) (Proto)">
+    <description>Missing in Action (USA) (Proto)</description>
+    <title_clean>Missing in Action</title_clean>
+    <title_search>missing in action</title_search>
+  </game>
+  <game name="Motor Psycho (Europe)">
+    <description>Motor Psycho (Europe)</description>
+    <title_clean>Motor Psycho</title_clean>
+    <title_search>motor psycho</title_search>
+    <image ext="png" id="Motor Psycho (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Motor Psycho (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Motor Psycho (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Motor Psycho (USA)">
+    <description>Motor Psycho (USA)</description>
+    <title_clean>Motor Psycho</title_clean>
+    <title_search>motor psycho</title_search>
+    <image ext="png" id="Motor Psycho (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Motor Psycho (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Motor Psycho (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ms. Pac-Man (Europe)">
+    <description>Ms. Pac-Man (Europe)</description>
+    <title_clean>Ms. Pac-Man</title_clean>
+    <title_search>ms pacman</title_search>
+    <image ext="png" id="Ms. Pac-Man (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ms. Pac-Man (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ms. Pac-Man (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ms. Pac-Man (USA)">
+    <description>Ms. Pac-Man (USA)</description>
+    <title_clean>Ms. Pac-Man</title_clean>
+    <title_search>ms pacman</title_search>
+    <image ext="png" id="Ms. Pac-Man (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ms. Pac-Man (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ms. Pac-Man (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ninja Golf (Europe)">
+    <description>Ninja Golf (Europe)</description>
+    <title_clean>Ninja Golf</title_clean>
+    <title_search>ninja golf</title_search>
+    <image ext="png" id="Ninja Golf (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ninja Golf (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ninja Golf (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ninja Golf (USA)">
+    <description>Ninja Golf (USA)</description>
+    <title_clean>Ninja Golf</title_clean>
+    <title_search>ninja golf</title_search>
+    <image ext="png" id="Ninja Golf (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ninja Golf (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ninja Golf (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="One-on-One Basketball (Europe)">
+    <description>One-on-One Basketball (Europe)</description>
+    <title_clean>One-on-One Basketball</title_clean>
+    <title_search>oneonone basketball</title_search>
+    <image ext="png" id="One-on-One Basketball (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="One-on-One Basketball (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="One-on-One Basketball (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="One-on-One Basketball (USA)">
+    <description>One-on-One Basketball (USA)</description>
+    <title_clean>One-on-One Basketball</title_clean>
+    <title_search>oneonone basketball</title_search>
+    <image ext="png" id="One-on-One Basketball (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="One-on-One Basketball (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="One-on-One Basketball (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pete Rose Baseball (USA)">
+    <description>Pete Rose Baseball (USA)</description>
+    <title_clean>Pete Rose Baseball</title_clean>
+    <title_search>pete rose baseball</title_search>
+    <image ext="png" id="Pete Rose Baseball (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pete Rose Baseball (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pete Rose Baseball (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pit Fighter (USA) (Proto)">
+    <description>Pit Fighter (USA) (Proto)</description>
+    <title_clean>Pit Fighter</title_clean>
+    <title_search>pit fighter</title_search>
+  </game>
+  <game name="Pit Fighter (Unknown) (Proto)">
+    <description>Pit Fighter (Unknown) (Proto)</description>
+    <title_clean>Pit Fighter</title_clean>
+    <title_search>pit fighter</title_search>
+    <image ext="png" id="Pit Fighter (Unknown) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pit Fighter (Unknown) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pit Fighter (Unknown) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Planet Smashers (Europe)">
+    <description>Planet Smashers (Europe)</description>
+    <title_clean>Planet Smashers</title_clean>
+    <title_search>planet smashers</title_search>
+    <image ext="png" id="Planet Smashers (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Planet Smashers (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Planet Smashers (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Planet Smashers (USA)">
+    <description>Planet Smashers (USA)</description>
+    <title_clean>Planet Smashers</title_clean>
+    <title_search>planet smashers</title_search>
+    <image ext="png" id="Planet Smashers (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Planet Smashers (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Planet Smashers (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Plutos (USA) (Proto)">
+    <description>Plutos (USA) (Proto)</description>
+    <title_clean>Plutos</title_clean>
+    <title_search>plutos</title_search>
+  </game>
+  <game name="Plutos (Unknown) (Proto)">
+    <description>Plutos (Unknown) (Proto)</description>
+    <title_clean>Plutos</title_clean>
+    <title_search>plutos</title_search>
+    <image ext="png" id="Plutos (Unknown) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Plutos (Unknown) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Plutos (Unknown) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pole Position II (Europe)">
+    <description>Pole Position II (Europe)</description>
+    <title_clean>Pole Position II</title_clean>
+    <title_search>pole position ii</title_search>
+    <image ext="png" id="Pole Position II (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pole Position II (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pole Position II (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pole Position II (USA)">
+    <description>Pole Position II (USA)</description>
+    <title_clean>Pole Position II</title_clean>
+    <title_search>pole position ii</title_search>
+    <image ext="png" id="Pole Position II (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pole Position II (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pole Position II (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pole Position II (USA) (Beta)">
+    <description>Pole Position II (USA) (Beta)</description>
+    <title_clean>Pole Position II</title_clean>
+    <title_search>pole position ii</title_search>
+  </game>
+  <game name="Rampage (USA)">
+    <description>Rampage (USA)</description>
+    <title_clean>Rampage</title_clean>
+    <title_search>rampage</title_search>
+    <image ext="png" id="Rampage (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rampage (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rampage (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rampart (USA) (Proto)">
+    <description>Rampart (USA) (Proto)</description>
+    <title_clean>Rampart</title_clean>
+    <title_search>rampart</title_search>
+    <image ext="png" id="Rampart (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rampart (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rampart (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rampart (Unknown) (Proto)">
+    <description>Rampart (Unknown) (Proto)</description>
+    <title_clean>Rampart</title_clean>
+    <title_search>rampart</title_search>
+  </game>
+  <game name="RealSports Baseball (USA)">
+    <description>RealSports Baseball (USA)</description>
+    <title_clean>RealSports Baseball</title_clean>
+    <title_search>realsports baseball</title_search>
+    <image ext="png" id="RealSports Baseball (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="RealSports Baseball (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="RealSports Baseball (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rescue on Fractalus (USA) (Proto)">
+    <description>Rescue on Fractalus (USA) (Proto)</description>
+    <title_clean>Rescue on Fractalus</title_clean>
+    <title_search>rescue on fractalus</title_search>
+    <image ext="png" id="Rescue on Fractalus (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rescue on Fractalus (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rescue on Fractalus (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Robotron - 2084 (USA)">
+    <description>Robotron - 2084 (USA)</description>
+    <title_clean>Robotron - 2084</title_clean>
+    <title_search>robotron 2084</title_search>
+    <image ext="png" id="Robotron - 2084 (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Robotron - 2084 (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Robotron - 2084 (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Scrapyard Dog (Europe)">
+    <description>Scrapyard Dog (Europe)</description>
+    <title_clean>Scrapyard Dog</title_clean>
+    <title_search>scrapyard dog</title_search>
+    <image ext="png" id="Scrapyard Dog (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Scrapyard Dog (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Scrapyard Dog (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Scrapyard Dog (USA)">
+    <description>Scrapyard Dog (USA)</description>
+    <title_clean>Scrapyard Dog</title_clean>
+    <title_search>scrapyard dog</title_search>
+    <image ext="png" id="Scrapyard Dog (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Scrapyard Dog (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Scrapyard Dog (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sentinel (Europe)">
+    <description>Sentinel (Europe)</description>
+    <title_clean>Sentinel</title_clean>
+    <title_search>sentinel</title_search>
+    <image ext="png" id="Sentinel (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sentinel (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sentinel (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sentinel (USA) (Proto)">
+    <description>Sentinel (USA) (Proto)</description>
+    <title_clean>Sentinel</title_clean>
+    <title_search>sentinel</title_search>
+    <image ext="png" id="Sentinel (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sentinel (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sentinel (USA) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sirius (USA) (Proto)">
+    <description>Sirius (USA) (Proto)</description>
+    <title_clean>Sirius</title_clean>
+    <title_search>sirius</title_search>
+  </game>
+  <game name="Sirius (Unknown) (Proto)">
+    <description>Sirius (Unknown) (Proto)</description>
+    <title_clean>Sirius</title_clean>
+    <title_search>sirius</title_search>
+    <image ext="png" id="Sirius (Unknown) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sirius (Unknown) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sirius (Unknown) (Proto)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Summer Games (USA)">
+    <description>Summer Games (USA)</description>
+    <title_clean>Summer Games</title_clean>
+    <title_search>summer games</title_search>
+    <image ext="png" id="Summer Games (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Summer Games (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Summer Games (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Huey UH-IX (Europe)">
+    <description>Super Huey UH-IX (Europe)</description>
+    <title_clean>Super Huey UH-IX</title_clean>
+    <title_search>super huey uhix</title_search>
+    <image ext="png" id="Super Huey UH-IX (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Huey UH-IX (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Huey UH-IX (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Huey UH-IX (USA)">
+    <description>Super Huey UH-IX (USA)</description>
+    <title_clean>Super Huey UH-IX</title_clean>
+    <title_search>super huey uhix</title_search>
+    <image ext="png" id="Super Huey UH-IX (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Huey UH-IX (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Huey UH-IX (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Skateboardin' (Europe)">
+    <description>Super Skateboardin' (Europe)</description>
+    <title_clean>Super Skateboardin'</title_clean>
+    <title_search>super skateboardin</title_search>
+    <image ext="png" id="Super Skateboardin' (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Skateboardin' (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Skateboardin' (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Skateboardin' (USA)">
+    <description>Super Skateboardin' (USA)</description>
+    <title_clean>Super Skateboardin'</title_clean>
+    <title_search>super skateboardin</title_search>
+    <image ext="png" id="Super Skateboardin' (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Skateboardin' (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Skateboardin' (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tank Command (USA)">
+    <description>Tank Command (USA)</description>
+    <title_clean>Tank Command</title_clean>
+    <title_search>tank command</title_search>
+    <image ext="png" id="Tank Command (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tank Command (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tank Command (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Title Match Pro Wrestling (Europe)">
+    <description>Title Match Pro Wrestling (Europe)</description>
+    <title_clean>Title Match Pro Wrestling</title_clean>
+    <title_search>title match pro wrestling</title_search>
+    <image ext="png" id="Title Match Pro Wrestling (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Title Match Pro Wrestling (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Title Match Pro Wrestling (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Title Match Pro Wrestling (USA)">
+    <description>Title Match Pro Wrestling (USA)</description>
+    <title_clean>Title Match Pro Wrestling</title_clean>
+    <title_search>title match pro wrestling</title_search>
+    <image ext="png" id="Title Match Pro Wrestling (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Title Match Pro Wrestling (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Title Match Pro Wrestling (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tomcat - The F-14 Fighter Simulator (Europe)">
+    <description>Tomcat - The F-14 Fighter Simulator (Europe)</description>
+    <title_clean>Tomcat - The F-14 Fighter Simulator</title_clean>
+    <title_search>tomcat the f14 fighter simulator</title_search>
+    <image ext="png" id="Tomcat - The F-14 Fighter Simulator (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tomcat - The F-14 Fighter Simulator (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tomcat - The F-14 Fighter Simulator (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tomcat - The F-14 Fighter Simulator (USA)">
+    <description>Tomcat - The F-14 Fighter Simulator (USA)</description>
+    <title_clean>Tomcat - The F-14 Fighter Simulator</title_clean>
+    <title_search>tomcat the f14 fighter simulator</title_search>
+    <image ext="png" id="Tomcat - The F-14 Fighter Simulator (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tomcat - The F-14 Fighter Simulator (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tomcat - The F-14 Fighter Simulator (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Touchdown Football (USA)">
+    <description>Touchdown Football (USA)</description>
+    <title_clean>Touchdown Football</title_clean>
+    <title_search>touchdown football</title_search>
+    <image ext="png" id="Touchdown Football (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Touchdown Football (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Touchdown Football (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tower Toppler (Europe)">
+    <description>Tower Toppler (Europe)</description>
+    <title_clean>Tower Toppler</title_clean>
+    <title_search>tower toppler</title_search>
+    <image ext="png" id="Tower Toppler (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tower Toppler (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tower Toppler (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tower Toppler (USA)">
+    <description>Tower Toppler (USA)</description>
+    <title_clean>Tower Toppler</title_clean>
+    <title_search>tower toppler</title_search>
+    <image ext="png" id="Tower Toppler (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tower Toppler (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tower Toppler (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Water Ski (USA)">
+    <description>Water Ski (USA)</description>
+    <title_clean>Water Ski</title_clean>
+    <title_search>water ski</title_search>
+    <image ext="png" id="Water Ski (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Water Ski (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Water Ski (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Winter Games (USA)">
+    <description>Winter Games (USA)</description>
+    <title_clean>Winter Games</title_clean>
+    <title_search>winter games</title_search>
+    <image ext="png" id="Winter Games (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Winter Games (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Winter Games (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Xenophobe (Europe)">
+    <description>Xenophobe (Europe)</description>
+    <title_clean>Xenophobe</title_clean>
+    <title_search>xenophobe</title_search>
+    <image ext="png" id="Xenophobe (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Xenophobe (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Xenophobe (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Xenophobe (USA)">
+    <description>Xenophobe (USA)</description>
+    <title_clean>Xenophobe</title_clean>
+    <title_search>xenophobe</title_search>
+    <image ext="png" id="Xenophobe (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Xenophobe (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Xenophobe (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Xevious (Europe)">
+    <description>Xevious (Europe)</description>
+    <title_clean>Xevious</title_clean>
+    <title_search>xevious</title_search>
+    <image ext="png" id="Xevious (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Xevious (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Xevious (Europe)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Xevious (USA)">
+    <description>Xevious (USA)</description>
+    <title_clean>Xevious</title_clean>
+    <title_search>xevious</title_search>
+    <image ext="png" id="Xevious (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Xevious (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Xevious (USA)" source="https://github.com/libretro-thumbnails/Atari_-_7800/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Xevious (USA) (Beta)">
+    <description>Xevious (USA) (Beta)</description>
+    <title_clean>Xevious</title_clean>
+    <title_search>xevious</title_search>
+  </game>
+</datafile>

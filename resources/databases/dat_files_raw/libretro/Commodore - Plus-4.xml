@@ -1,0 +1,64 @@
+<datafile>
+  <game name="Atomic Mission (USA, Europe)">
+    <description>Atomic Mission (USA, Europe)</description>
+    <title_clean>Atomic Mission</title_clean>
+    <title_search>atomic mission</title_search>
+    <image ext="png" id="Atomic Mission (USA, Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_Plus-4/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Atomic Mission (USA, Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_Plus-4/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Calc Plus (USA) (Program)">
+    <description>Calc Plus (USA) (Program)</description>
+    <title_clean>Calc Plus</title_clean>
+    <title_search>calc plus</title_search>
+  </game>
+  <game name="Commodore 16 Keyboard Tutorial Cartridge (USA) (Program)">
+    <description>Commodore 16 Keyboard Tutorial Cartridge (USA) (Program)</description>
+    <title_clean>Commodore 16 Keyboard Tutorial Cartridge</title_clean>
+    <title_search>commodore 16 keyboard tutorial cartridge</title_search>
+  </game>
+  <game name="Financial Advisor (USA) (Program)">
+    <description>Financial Advisor (USA) (Program)</description>
+    <title_clean>Financial Advisor</title_clean>
+    <title_search>financial advisor</title_search>
+    <image ext="png" id="Financial Advisor (USA) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_Plus-4/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Financial Advisor (USA) (Program)" source="https://github.com/libretro-thumbnails/Commodore_-_Plus-4/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jack Attack (USA, Europe)">
+    <description>Jack Attack (USA, Europe)</description>
+    <title_clean>Jack Attack</title_clean>
+    <title_search>jack attack</title_search>
+    <image ext="png" id="Jack Attack (USA, Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_Plus-4/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jack Attack (USA, Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_Plus-4/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="LOGO (USA) (Program)">
+    <description>LOGO (USA) (Program)</description>
+    <title_clean>LOGO</title_clean>
+    <title_search>logo</title_search>
+  </game>
+  <game name="Octasoft BASIC v7.0 (Hungary) (Program)">
+    <description>Octasoft BASIC v7.0 (Hungary) (Program)</description>
+    <title_clean>Octasoft BASIC v7.0</title_clean>
+    <title_search>octasoft basic v70</title_search>
+  </game>
+  <game name="Pirate Adventure (USA, Europe)">
+    <description>Pirate Adventure (USA, Europe)</description>
+    <title_clean>Pirate Adventure</title_clean>
+    <title_search>pirate adventure</title_search>
+    <image ext="png" id="Pirate Adventure (USA, Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_Plus-4/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pirate Adventure (USA, Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_Plus-4/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Strange Odyssey (USA, Europe)">
+    <description>Strange Odyssey (USA, Europe)</description>
+    <title_clean>Strange Odyssey</title_clean>
+    <title_search>strange odyssey</title_search>
+    <image ext="png" id="Strange Odyssey (USA, Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_Plus-4/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Strange Odyssey (USA, Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_Plus-4/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Viduzzles (USA, Europe)">
+    <description>Viduzzles (USA, Europe)</description>
+    <title_clean>Viduzzles</title_clean>
+    <title_search>viduzzles</title_search>
+    <image ext="png" id="Viduzzles (USA, Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_Plus-4/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Viduzzles (USA, Europe)" source="https://github.com/libretro-thumbnails/Commodore_-_Plus-4/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

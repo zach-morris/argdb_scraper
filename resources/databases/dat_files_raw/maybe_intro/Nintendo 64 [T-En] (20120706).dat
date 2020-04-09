@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo 64 [T-En]</name>
+		<description>Nintendo 64 [T-En]</description>
+		<category>English Translations</category>
+		<version>20120706</version>
+		<date>20120706</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Nintendo 64 [T-En] Docs">
+		<description>_Nintendo 64 [T-En] Docs</description>
+		<rom name="Animal Forest (Japan) [T-En by Zoinkity v20101202] [n].txt" size="15361" crc="9804a90b" md5="90fbc38a87ef711ce5918a24444efc27" sha1="bf5188786a954784ffc17771da2e67689025380f"/>
+		<rom name="Wonder Project J2 - Josette from Corlo Forest (Japan) [T-En by Ryu v1.0] [n].txt" size="10681" crc="7d291436" md5="bf1b90362965b1097afb9e4c02850e65" sha1="62dc10b895f0a43ee18c5bae232b813ed5b7fcce"/>
+	</game>
+	<game name="Animal Forest (Japan) [T-En by Zoinkity v20101202] [n]">
+		<description>Animal Forest (Japan) [T-En by Zoinkity v20101202] [n]</description>
+		<rom name="Doubutsu no Mori (Japan) [T-En by Zoinkity v20101202].n64" size="33554432" crc="fe047d7a" md5="2eb14296d077bcd44a141e10d16475e1" sha1="735984ade16a27468d2a3cf2f96178fb89b777af"/>
+	</game>
+	<game name="Wonder Project J2 - Josette from Corlo Forest (Japan) [T-En by Ryu v1.0] [n]">
+		<description>Wonder Project J2 - Josette from Corlo Forest (Japan) [T-En by Ryu v1.0] [n]</description>
+		<rom name="Wonder Project J2 - Koruro no Mori no Jozet (Japan) [T-En by Ryu v1.0].n64" size="8912896" crc="38401ddb" md5="9389cea162a3bbff3bf6f81284cc7786" sha1="cae4915a67d952f37a78e004d97d630bccc155a6"/>
+	</game>
+</datafile>

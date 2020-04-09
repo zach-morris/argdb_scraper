@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo DS [T-En]</name>
+		<description>Nintendo DS [T-En]</description>
+		<category>English Translations</category>
+		<version>20120724</version>
+		<date>20120724</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Nintendo DS [T-En] Docs">
+		<description>_Nintendo DS [T-En] Docs</description>
+		<rom name="Girlish Love Revolution - Love Revo!! DS (Korea) [T-En by jjjewel v1.1] [n].txt" size="3051" crc="92c0af2e" md5="3c1b73e24bc1199012fa81edd5343b36" sha1="49c608eaa1afc706a7c016e882be45e806378c0f"/>
+		<rom name="Love Plus (Japan) [T-En by jjjewel v1.0].txt" size="1655" crc="8d02075e" md5="1f6abaaf5aea78cdcdb6888f0803f4cb" sha1="035bd746726db0060e7ece4208d8ad103c5e3300"/>
+		<rom name="Nameless Game, The (Japan) [T-En by Nagato+Ryusui+Summvs v1.2] [n].txt" size="3427" crc="ee1a12b8" md5="379845befa01adf5b12a89b2a92d5343" sha1="05961d5824f304156a56b0c5c1500c69809d988b"/>
+		<rom name="Puyo Puyo 7 (Japan) [T-En by Puyo Nexus v1.0].txt" size="1373" crc="afa33b1b" md5="e8e414ad43af065fa6c262d2f6894743" sha1="4449861d0b669fb630cb6e237fda6c9fa0c3a0dd"/>
+		<rom name="Puyo Puyo! - Puyopuyo 15th Anniversary (Japan) (Rev 1) [T-En by Puyo Nexus v1.2].txt" size="3364" crc="d9f1c786" md5="e87e4fc2c460a21a5721c12cd4d14c5c" sha1="7d97862027f327e01c226f89e61dc6f8f97c2bf9"/>
+		<rom name="SaGa 2 - Legend of the Relics - Goddesses of Destiny (Japan) [T-En by Crimson Nocturnal v2.11] [n].mht" size="598943" crc="4c66c7ef" md5="f14b95c046f986a90fad7819a2f291e5" sha1="d8dcdf30b3954d38779aa234f14772c9f106d5b5"/>
+		<rom name="SaGa 3 - Champions of Time and Space - Shadow or Light (Japan) [T-En by Cain v0.2.612] [i] [n].txt" size="3530" crc="e57affcb" md5="0232e8629fc60d3c4b123a073181dd2b" sha1="f9f65af6540aca003b5a8c2e925302fe4f30696f"/>
+		<rom name="Soma Bringer (Japan) [T-En by DarthNemesis v20090202].txt" size="635" crc="741fefc7" md5="442efbc3bb4f49e8d7fd2fecf8cca3b8" sha1="07bc3ad4d05f5590e8a06addd0c440114916b58c"/>
+		<rom name="Tales of Innocence (Japan) [T-En by Absolute Zero v1.0].txt" size="10485" crc="1e1a5e37" md5="762c9cbc50ea0018a0574e69bd243c95" sha1="9d491b409fe52ba3eb2cbba6e354b72fa02fafd9"/>
+		<rom name="Tokimeki Memorial Girl's Side - 1st Love Plus (Japan) [T-En by jjjewel v1.0].txt" size="1903" crc="d3632f0f" md5="113c746fc165ef2e7d2e0f6e405f5e0b" sha1="de33870f512217260c6b0e2b41cbcc6458d9a31f"/>
+		<rom name="Tokimeki Memorial Girl's Side - 2nd Season (Japan) [T-En by Gokusaishiki v6].txt" size="509" crc="595b198c" md5="0fd22a08318dde06282dd44a05f5dbb2" sha1="199bc48fe0ee840b55429b8a19d7253ac8276552"/>
+	</game>
+	<game name="ASH - Archaic Sealed Heat (Japan) [T-En by Psycoblaster v1.0b]">
+		<description>ASH - Archaic Sealed Heat (Japan) [T-En by Psycoblaster v1.0b]</description>
+		<rom name="ASH - Archaic Sealed Heat (Japan) [T-En by Psycoblaster v1.0b].nds" size="257877045" crc="33239395" md5="6167f32a1fe1e3b1beaa62e8756cde29" sha1="3df938352013b74439822d4a6df503e71b43bd85"/>
+	</game>
+	<game name="Culdcept DS (Japan) [T-En by Theli v20100702]">
+		<description>Culdcept DS (Japan) [T-En by Theli v20100702]</description>
+		<rom name="Culdcept DS (Japan) [T-En by Theli v20100702].nds" size="66865724" crc="2b23c97f" md5="b25f48238c7378c5d7d24358be223c91" sha1="2a948595b44e535a2eb12c5750e43c528708cd3c"/>
+	</game>
+	<game name="Girlish Love Revolution - Love Revo!! DS (Korea) [T-En by jjjewel v1.1] [n]">
+		<description>Girlish Love Revolution - Love Revo!! DS (Korea) [T-En by jjjewel v1.1] [n]</description>
+		<rom name="Sonyeojeok Yeonae Hyeongmyeong - Love Revo!! DS (Korea) [T-En by jjjewel v1.1].nds" size="62846332" crc="73cae7b5" md5="8068b6b08a94aeb3b7701ccb239e5240" sha1="03a52b5021a44c721a0d4b8615871fd9eec353cc"/>
+	</game>
+	<game name="Jump Ultimate Stars (Japan) [T-En by Deufeufeu+GruntK v20080503]">
+		<description>Jump Ultimate Stars (Japan) [T-En by Deufeufeu+GruntK v20080503]</description>
+		<rom name="Jump Ultimate Stars (Japan) [T-En by Deufeufeu+GruntK v20080503].nds" size="65942936" crc="4ce9fb94" md5="703ea2867e1d5a56311f84951cf5e331" sha1="05b9ecd657843e56f48644032827641bf22d931a"/>
+	</game>
+	<game name="Jump Ultimate Stars (Japan) [T-En by Deufeufeu+GruntK v20080503] (No Koma)">
+		<description>Jump Ultimate Stars (Japan) [T-En by Deufeufeu+GruntK v20080503] (No Koma)</description>
+		<rom name="Jump Ultimate Stars (Japan) [T-En by Deufeufeu+GruntK v20080503] (No Koma).nds" size="65942936" crc="2513db17" md5="f0f30f104dd3b4187c3950cadc1ef6d7" sha1="5b9e3c2af1fb5cc97b1babde578d1e71f9d8db7c"/>
+	</game>
+	<game name="Love Plus (Japan) [T-En by jjjewel v1.0]">
+		<description>Love Plus (Japan) [T-En by jjjewel v1.0]</description>
+		<rom name="Love Plus (Japan) [T-En by jjjewel v1.0].nds" size="268435456" crc="e45b1476" md5="09fb373577b4d4ce799f827fc288be34" sha1="59d04e4f2896faa5bb47d5776a76a75b022faedc"/>
+	</game>
+	<game name="Nameless Game, The (Japan) [T-En by Nagato+Ryusui+Summvs v1.2] [n]">
+		<description>Nameless Game, The (Japan) [T-En by Nagato+Ryusui+Summvs v1.2] [n]</description>
+		<rom name="Nanashi no Geemu (Japan) [T-En by Nagato+Ryusui+Summvs v1.2].nds" size="68743360" crc="90a04d40" md5="b8fcd6501c37c755b7c366c3ff19965e" sha1="7392e2d25354f77bbd6c3b0a16f3b40eb061b1a1"/>
+	</game>
+	<game name="Puyo Puyo 7 (Japan) [T-En by Puyo Nexus v1.0]">
+		<description>Puyo Puyo 7 (Japan) [T-En by Puyo Nexus v1.0]</description>
+		<rom name="Puyo Puyo 7 (Japan) [T-En by Puyo Nexus v1.0].nds" size="53480032" crc="9124c276" md5="1527f2e0df4550aa60276b02662e8d68" sha1="2d27c6b1c5876c1c96f42fb94c46e6fdfe8c7631"/>
+	</game>
+	<game name="Puyo Puyo! - Puyopuyo 15th Anniversary (Japan) (Rev 1) [T-En by Puyo Nexus v1.2]">
+		<description>Puyo Puyo! - Puyopuyo 15th Anniversary (Japan) (Rev 1) [T-En by Puyo Nexus v1.2]</description>
+		<rom name="Puyo Puyo! - Puyopuyo 15th Anniversary (Japan) (Rev 1) [T-En by Puyo Nexus v1.2].nds" size="30067188" crc="16b1d8d4" md5="d823186ce2ce2d23c1b1b45613826cd4" sha1="ede0be55d730b12361353c75ada540d0eb3bd7b2"/>
+	</game>
+	<game name="SaGa 2 - Legend of the Relics - Goddesses of Destiny (Japan) [T-En by Crimson Nocturnal v2.11] [n]">
+		<description>SaGa 2 - Legend of the Relics - Goddesses of Destiny (Japan) [T-En by Crimson Nocturnal v2.11] [n]</description>
+		<rom name="SaGa 2 - Hihou Densetsu - Goddess of Destiny (Japan) [T-En by Crimson Nocturnal v2.11].nds" size="125207004" crc="587188fc" md5="c9f87fd1b6222ac276e44f362d7d120e" sha1="157dd006e06258fcdddc9fb2b6cb1b23e81ac5e2"/>
+	</game>
+	<game name="SaGa 3 - Champions of Time and Space - Shadow or Light (Japan) [T-En by Cain v0.2.612] [i] [n]">
+		<description>SaGa 3 - Champions of Time and Space - Shadow or Light (Japan) [T-En by Cain v0.2.612] [i] [n]</description>
+		<rom name="SaGa 3 - Jikuu no Hasha - Shadow or Light (Japan) [T-En by Cain v0.2.612] [i].nds" size="121683972" crc="597a986d" md5="587c4073e5368e6a168c01aebc44d4f5" sha1="026be9708c52b424340af8230d9edf44ed4f07fa"/>
+	</game>
+	<game name="Soma Bringer (Japan) [T-En by DarthNemesis v20090202]">
+		<description>Soma Bringer (Japan) [T-En by DarthNemesis v20090202]</description>
+		<rom name="Soma Bringer (Japan) [T-En by DarthNemesis v20090202].nds" size="128235920" crc="f63cc5c4" md5="a15b7568eeb20e3f5ff7bafd15de9cf5" sha1="879ea6a67f635d7188240dc583afed55a2c5e6d1"/>
+	</game>
+	<game name="Tales of Innocence (Japan) [T-En by Absolute Zero v1.0]">
+		<description>Tales of Innocence (Japan) [T-En by Absolute Zero v1.0]</description>
+		<rom name="Tales of Innocence (Japan) [T-En by Absolute Zero v1.0].nds" size="134217728" crc="186d0370" md5="0cde783d226ad82ddb8bffd98af4f0a3" sha1="750ebfc067e0d3147361c0e752fb2951212ed52b"/>
+	</game>
+	<game name="Tokimeki Memorial Girl's Side - 1st Love Plus (Japan) [T-En by jjjewel v1.0]">
+		<description>Tokimeki Memorial Girl's Side - 1st Love Plus (Japan) [T-En by jjjewel v1.0]</description>
+		<rom name="Tokimeki Memorial Girl's Side - 1st Love Plus (Japan) [T-En by jjjewel v1.0].nds" size="207547876" crc="102156ec" md5="9b9165b33c26162ac637e0223f66fc6d" sha1="e49886460195a0c476993c8b91b60c484fda7a89"/>
+	</game>
+	<game name="Tokimeki Memorial Girl's Side - 2nd Season (Japan) [T-En by Gokusaishiki v6]">
+		<description>Tokimeki Memorial Girl's Side - 2nd Season (Japan) [T-En by Gokusaishiki v6]</description>
+		<rom name="Tokimeki Memorial Girl's Side - 2nd Season (Japan) [T-En by Gokusaishiki v6].nds" size="257902496" crc="006fdda8" md5="3e313350a2b386a8881e919bdefd9704" sha1="e0e8afaca944737f92ec76122d71ee122eaae5c9"/>
+	</game>
+</datafile>

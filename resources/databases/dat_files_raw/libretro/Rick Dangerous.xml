@@ -1,0 +1,10 @@
+<datafile>
+  <game name="Rick Dangerous">
+    <description>Rick Dangerous</description>
+    <title_clean>Rick Dangerous</title_clean>
+    <title_search>rick dangerous</title_search>
+    <image ext="png" id="Rick Dangerous" source="https://github.com/libretro-thumbnails/Rick_Dangerous/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rick Dangerous" source="https://github.com/libretro-thumbnails/Rick_Dangerous/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rick Dangerous" source="https://github.com/libretro-thumbnails/Rick_Dangerous/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

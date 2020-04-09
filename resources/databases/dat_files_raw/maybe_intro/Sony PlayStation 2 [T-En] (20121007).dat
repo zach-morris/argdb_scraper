@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 [T-En]</name>
+		<description>Sony PlayStation 2 [T-En]</description>
+		<category>English Translations</category>
+		<version>20121007</version>
+		<date>20121007</date>
+		<author>Powerpuff</author>
+		<email>-insert email-</email>
+		<homepage>Maybe-Intro</homepage>
+		<url>http://maybeintro.wordpress.com/</url>
+		<comment>Maybe-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Sony PlayStation 2 [T-En] Docs">
+		<description>_Sony PlayStation 2 [T-En] Docs</description>
+		<rom name="Dragon Quest V - The Heavenly Bride (Japan) [T-En by DQ Translations v1.2] [n] - Manual.pdf" size="23913774" crc="ad1ed470" md5="82480befa866b7f9df0a250cd430759d" sha1="ed83960397a4097e8f8340937d5b56c632514970"/>
+		<rom name="Dragon Quest V - The Heavenly Bride (Japan) [T-En by DQ Translations v1.2] [n].pdf" size="1454643" crc="53c03c3c" md5="c4f8652c5c9dfba387ddda672148d264" sha1="fcf5cee0325f2abdbc7d6b16dc8fbfbf3d9a5ee3"/>
+		<rom name="Final Fantasy XII International - Zodiac Job System (Japan) [T-En by ffgriever v0.22].txt" size="7180" crc="d4be45e1" md5="d83df76bb02fb7c171a46f92bf0c1463" sha1="9dbd7e9221633630f8d17c8bb358af15faac7d02"/>
+		<rom name="Front Mission 5 - Scars of the War (Japan) (v1.01) [T-En by FrontMission.info v4b] - Box Cover.jpg" size="1137546" crc="7a8331a5" md5="794559f6f87b2cec2083c6ca6f503827" sha1="eff7d5f423f8ffb1336a407a5ecf376ddaae8396"/>
+		<rom name="Front Mission 5 - Scars of the War (Japan) (v1.01) [T-En by FrontMission.info v4b] - Disc Label.jpg" size="271209" crc="c80939a5" md5="084d3ee7b78f91a6cf07385897ad4997" sha1="dce69916dd456db609437d6d00cb47f9010d1ef3"/>
+		<rom name="Front Mission 5 - Scars of the War (Japan) (v1.01) [T-En by FrontMission.info v4b] - Manual.pdf" size="20131837" crc="109d343d" md5="b97363019a1cfb5bbb591e4b988154d0" sha1="f3be4bbde3eba4b3b4822fa3af29e8b5a6f6e376"/>
+		<rom name="Front Mission 5 - Scars of the War (Japan) (v1.01) [T-En by FrontMission.info v4b].txt" size="6405" crc="7f18c1e0" md5="9b05e0bd33182b3d5c27d05ffacec248" sha1="60dfcd070421c83d2ed464f0f0329fa223652b01"/>
+		<rom name="Namco X Capcom (Japan) [T-En by TransGen Rev A].txt" size="5984" crc="af5842a6" md5="7bc371813a0bd7966b2645188ebd23e3" sha1="8bfa46fb131a306d81850f2a686d870ecf45e7cd"/>
+		<rom name="Phantasy Star Generation-1 (Sega Ages 2500 Vol. 1) (Japan) [T-En by Kyence v1.0 Lutz].txt" size="6065" crc="8e32877f" md5="f9878e164ae6dc2db71b394a6b93189a" sha1="d641af283c486e348c2941a7579be16d1732c575"/>
+		<rom name="Phantasy Star Generation-1 (Sega Ages 2500 Vol. 1) (Japan) [T-En by Kyence v1.1 Noah].txt" size="6082" crc="bd38c997" md5="f5ae9710687ae97171b1d0e6ab8c6c3b" sha1="7d3d3e8bafe1379141cd63e119351a12e7f9450f"/>
+		<rom name="Phantasy Star Generation-1 (Sega Ages 2500 Vol. 1) (Japan) [T-En by Kyence v1.1] - Collab Combos.ods" size="11958" crc="5e68bd8e" md5="45d9459047ab9848d73b4a6a960f21dd" sha1="06afae738d23548d9e4b31a37498ee8c945c18d6"/>
+		<rom name="Phantasy Star Generation-1 (Sega Ages 2500 Vol. 1) (Japan) [T-En by Kyence v1.1] - Collab Combos.xls" size="14848" crc="167898e2" md5="8a19d8110d6bbb891289921d423fb888" sha1="2210a144a3048776e31d1c1d95e7665caaf2d013"/>
+		<rom name="Phantasy Star Generation-1 (Sega Ages 2500 Vol. 1) (Japan) [T-En by Kyence v1.1] - Credits.txt" size="5438" crc="b081dde8" md5="e45d0823b82fcc99e545ee0a6db6f352" sha1="c810221d44fac3492430a9cfd13c05daea9a3d17"/>
+		<rom name="Phantasy Star Generation-1 (Sega Ages 2500 Vol. 1) (Japan) [T-En by Kyence v1.1] - Hints.txt" size="3276" crc="bcc7357a" md5="25c359a0fba0bf735926b952d7759005" sha1="5327b0e37a90dfcdd388e548ff03e67fb83e6a5b"/>
+	</game>
+	<game name="Dragon Quest V - The Heavenly Bride (Japan) [T-En by DQ Translations v1.2 DQ] [n]">
+		<description>Dragon Quest V - The Heavenly Bride (Japan) [T-En by DQ Translations v1.2 DQ] [n]</description>
+		<rom name="Dragon Quest V - Tenkuu no Hanayome (Japan) [T-En by DQ Translations v1.2 DQ].iso" size="2654199808" crc="d36dcc95" md5="6015480cd73d80417a0e483c71c4a0d2" sha1="da3b402b003867dcaeadfe36aebcc933051250a2"/>
+	</game>
+	<game name="Dragon Warrior V (Japan) [T-En by DQ Translations v1.2 DW] [n]">
+		<description>Dragon Warrior V (Japan) [T-En by DQ Translations v1.2 DW] [n]</description>
+		<rom name="Dragon Quest V - Tenkuu no Hanayome (Japan) [T-En by DQ Translations v1.2 DW].iso" size="2654199808" crc="094abb78" md5="d42a1438ca8bf40d68bed4acdef2afce" sha1="9486ed4f172a640f69c5059ba90832ef2f89c9b9"/>
+	</game>
+	<game name="Final Fantasy XII International - Zodiac Job System (Japan) [T-En by ffgriever v0.22]">
+		<description>Final Fantasy XII International - Zodiac Job System (Japan) [T-En by ffgriever v0.22]</description>
+		<rom name="Final Fantasy XII International - Zodiac Job System (Japan) [T-En by ffgriever v0.22].iso" size="4182384640" crc="768746be" md5="bb0b3b219f502a52afa6839f0fd194c4" sha1="53df022acf205c5f841fa78432275b9b8e4dfdd5"/>
+	</game>
+	<game name="Front Mission 5 - Scars of the War (Japan) (v1.01) [T-En by FrontMission.info v4b]">
+		<description>Front Mission 5 - Scars of the War (Japan) (v1.01) [T-En by FrontMission.info v4b]</description>
+		<rom name="Front Mission 5 - Scars of the War (Japan) (v1.01) [T-En by FrontMission.info v4b].iso" size="3918495744" crc="0955de30" md5="f945e0c864cbfc4471d2750f6fa86ed2" sha1="3787d8450ed1d719db3fbc6dd0134766c002f8fb"/>
+	</game>
+	<game name="Namco X Capcom (Japan) [T-En by TransGen Rev A]">
+		<description>Namco X Capcom (Japan) [T-En by TransGen Rev A]</description>
+		<rom name="Namco X Capcom (Japan) [T-En by TransGen Rev A].iso" size="2229305344" crc="3609b048" md5="688be2f7f579b2cc8a71ac32dd27f66e" sha1="9f90952461815d24aba821c167617f3b6470a8ec"/>
+	</game>
+	<game name="Phantasy Star Generation-1 (Sega Ages 2500 Vol. 1) (Japan) [T-En by Kyence v1.0 Lutz]">
+		<description>Phantasy Star Generation-1 (Sega Ages 2500 Vol. 1) (Japan) [T-En by Kyence v1.0 Lutz]</description>
+		<rom name="Phantasy Star Generation-1 (Sega Ages 2500 Vol. 1) (Japan) [T-En by Kyence v1.0 Lutz].iso" size="72857904" crc="24276350" md5="2cb076ac3705f6a13469a18c6b2a06d5" sha1="fd2d10a9940a7aa273292c4a65734e6e774bfd66"/>
+	</game>
+	<game name="Phantasy Star Generation-1 (Sega Ages 2500 Vol. 1) (Japan) [T-En by Kyence v1.1 Noah]">
+		<description>Phantasy Star Generation-1 (Sega Ages 2500 Vol. 1) (Japan) [T-En by Kyence v1.1 Noah]</description>
+		<rom name="Phantasy Star Generation-1 (Sega Ages 2500 Vol. 1) (Japan) [T-En by Kyence v1.1 Noah].iso" size="72857904" crc="992a2e78" md5="4c8a1be6a50b7c2f71afe87e393b5c6f" sha1="bad698be71a97389631e417047dde3f3d621d5b5"/>
+	</game>
+	<game name="Shadow Tower Abyss (Japan) [T-En by Mord+Wolf v0.3]">
+		<description>Shadow Tower Abyss (Japan) [T-En by Mord+Wolf v0.3]</description>
+		<rom name="Shadow Tower Abyss (Japan) [T-En by Mord+Wolf v0.3].iso" size="1561624576" crc="8c3dffb9" md5="a47d844a2aa33906f30d56e7c08d8817" sha1="31f9bec779b50e29c6392bd4c5470fe7563d5d56"/>
+	</game>
+</datafile>

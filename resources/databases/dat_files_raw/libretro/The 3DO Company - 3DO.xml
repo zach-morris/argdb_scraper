@@ -1,0 +1,2516 @@
+<datafile>
+  <game name="3D Atlas (Europe)">
+    <description>3D Atlas (Europe)</description>
+    <title_clean>3D Atlas</title_clean>
+    <title_search>3d atlas</title_search>
+  </game>
+  <game name="3D Atlas (USA)">
+    <description>3D Atlas (USA)</description>
+    <title_clean>3D Atlas</title_clean>
+    <title_search>3d atlas</title_search>
+    <image ext="png" id="3D Atlas (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="3D Atlas (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="3D Atlas (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="3DO Game Guru (USA)">
+    <description>3DO Game Guru (USA)</description>
+    <title_clean>3DO Game Guru</title_clean>
+    <title_search>3do game guru</title_search>
+    <image ext="png" id="3DO Game Guru (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="3DO Interactive Sampler CD 2, The (USA)">
+    <description>3DO Interactive Sampler CD 2, The (USA)</description>
+    <title_clean>The 3DO Interactive Sampler CD 2</title_clean>
+    <title_search>the 3do interactive sampler cd 2</title_search>
+  </game>
+  <game name="3DO Interactive Sampler CD 3, The (USA)">
+    <description>3DO Interactive Sampler CD 3, The (USA)</description>
+    <title_clean>The 3DO Interactive Sampler CD 3</title_clean>
+    <title_search>the 3do interactive sampler cd 3</title_search>
+  </game>
+  <game name="3DO Interactive Sampler CD 4, The (USA)">
+    <description>3DO Interactive Sampler CD 4, The (USA)</description>
+    <title_clean>The 3DO Interactive Sampler CD 4</title_clean>
+    <title_search>the 3do interactive sampler cd 4</title_search>
+  </game>
+  <game name="3DO Interactive Sampler CD, The (USA)">
+    <description>3DO Interactive Sampler CD, The (USA)</description>
+    <title_clean>The 3DO Interactive Sampler CD</title_clean>
+    <title_search>the 3do interactive sampler cd</title_search>
+  </game>
+  <game name="3DO Interactive Sampler, The (Europe)">
+    <description>3DO Interactive Sampler, The (Europe)</description>
+    <title_clean>The 3DO Interactive Sampler</title_clean>
+    <title_search>the 3do interactive sampler</title_search>
+  </game>
+  <game name="AI Shougi (Japan)">
+    <description>AI Shougi (Japan)</description>
+    <title_clean>AI Shougi</title_clean>
+    <title_search>ai shougi</title_search>
+  </game>
+  <game name="Alone in the Dark (Europe) (En,Fr)">
+    <description>Alone in the Dark (Europe) (En,Fr)</description>
+    <title_clean>Alone in the Dark</title_clean>
+    <title_search>alone in the dark</title_search>
+    <image ext="png" id="Alone in the Dark (Europe) (En,Fr)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Alone in the Dark (Europe) (En,Fr)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alone in the Dark (Europe) (En,Fr)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Alone in the Dark (Japan)">
+    <description>Alone in the Dark (Japan)</description>
+    <title_clean>Alone in the Dark</title_clean>
+    <title_search>alone in the dark</title_search>
+  </game>
+  <game name="Alone in the Dark (USA)">
+    <description>Alone in the Dark (USA)</description>
+    <title_clean>Alone in the Dark</title_clean>
+    <title_search>alone in the dark</title_search>
+    <image ext="png" id="Alone in the Dark (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Alone in the Dark (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alone in the Dark (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Alone in the Dark 2 (Japan)">
+    <description>Alone in the Dark 2 (Japan)</description>
+    <title_clean>Alone in the Dark 2</title_clean>
+    <title_search>alone in the dark 2</title_search>
+  </game>
+  <game name="Alone in the Dark 2 (USA)">
+    <description>Alone in the Dark 2 (USA)</description>
+    <title_clean>Alone in the Dark 2</title_clean>
+    <title_search>alone in the dark 2</title_search>
+    <image ext="png" id="Alone in the Dark 2 (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Alone in the Dark 2 (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alone in the Dark 2 (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Aqua World - Umimi Monogatari (Japan)">
+    <description>Aqua World - Umimi Monogatari (Japan)</description>
+    <title_clean>Aqua World - Umimi Monogatari</title_clean>
+    <title_search>aqua world umimi monogatari</title_search>
+  </game>
+  <game name="AutoBahn Tokio (Japan)">
+    <description>AutoBahn Tokio (Japan)</description>
+    <title_clean>AutoBahn Tokio</title_clean>
+    <title_search>autobahn tokio</title_search>
+    <image ext="png" id="AutoBahn Tokio (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="AutoBahn Tokio (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="AutoBahn Tokio (Japan) (Demo)">
+    <description>AutoBahn Tokio (Japan) (Demo)</description>
+    <title_clean>AutoBahn Tokio</title_clean>
+    <title_search>autobahn tokio</title_search>
+  </game>
+  <game name="BC Racers (USA)">
+    <description>BC Racers (USA)</description>
+    <title_clean>BC Racers</title_clean>
+    <title_search>bc racers</title_search>
+    <image ext="png" id="BC Racers (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="BFS - Blue Forest Story (Japan)">
+    <description>BFS - Blue Forest Story (Japan)</description>
+    <title_clean>BFS - Blue Forest Story</title_clean>
+    <title_search>bfs blue forest story</title_search>
+  </game>
+  <game name="Bakushou!! All Yoshimoto Quiz-ou Kettei-sen (Japan)">
+    <description>Bakushou!! All Yoshimoto Quiz-ou Kettei-sen (Japan)</description>
+    <title_clean>Bakushou!! All Yoshimoto Quiz-ou Kettei-sen</title_clean>
+    <title_search>bakushou all yoshimoto quizou ketteisen</title_search>
+  </game>
+  <game name="Ballz - The Director's Cut (Japan, USA) (En,Ja)">
+    <description>Ballz - The Director's Cut (Japan, USA) (En,Ja)</description>
+    <title_clean>Ballz - The Director's Cut</title_clean>
+    <title_search>ballz the directors cut</title_search>
+  </game>
+  <game name="Battle Chess (Japan)">
+    <description>Battle Chess (Japan)</description>
+    <title_clean>Battle Chess</title_clean>
+    <title_search>battle chess</title_search>
+    <image ext="png" id="Battle Chess (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Battle Chess (USA)">
+    <description>Battle Chess (USA)</description>
+    <title_clean>Battle Chess</title_clean>
+    <title_search>battle chess</title_search>
+    <image ext="png" id="Battle Chess (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Battle Chess (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Battle Chess (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Battle Pinball (Japan)">
+    <description>Battle Pinball (Japan)</description>
+    <title_clean>Battle Pinball</title_clean>
+    <title_search>battle pinball</title_search>
+    <image ext="png" id="Battle Pinball (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Battle Pinball (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="BattleSport (Europe)">
+    <description>BattleSport (Europe)</description>
+    <title_clean>BattleSport</title_clean>
+    <title_search>battlesport</title_search>
+    <image ext="png" id="BattleSport (Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="BattleSport (USA)">
+    <description>BattleSport (USA)</description>
+    <title_clean>BattleSport</title_clean>
+    <title_search>battlesport</title_search>
+    <image ext="png" id="BattleSport (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="BattleSport (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="BattleSport (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Belzerion (Japan)">
+    <description>Belzerion (Japan)</description>
+    <title_clean>Belzerion</title_clean>
+    <title_search>belzerion</title_search>
+    <image ext="png" id="Belzerion (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Belzerion (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Blade Force (Europe)">
+    <description>Blade Force (Europe)</description>
+    <title_clean>Blade Force</title_clean>
+    <title_search>blade force</title_search>
+  </game>
+  <game name="Blade Force (Japan)">
+    <description>Blade Force (Japan)</description>
+    <title_clean>Blade Force</title_clean>
+    <title_search>blade force</title_search>
+  </game>
+  <game name="Blade Force (USA)">
+    <description>Blade Force (USA)</description>
+    <title_clean>Blade Force</title_clean>
+    <title_search>blade force</title_search>
+    <image ext="png" id="Blade Force (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Blade Force (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Blade Force (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Blonde Justice (USA)">
+    <description>Blonde Justice (USA)</description>
+    <title_clean>Blonde Justice</title_clean>
+    <title_search>blonde justice</title_search>
+    <image ext="png" id="Blonde Justice (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Blonde Justice (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Blonde Justice (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bonogurashi (Japan)">
+    <description>Bonogurashi (Japan)</description>
+    <title_clean>Bonogurashi</title_clean>
+    <title_search>bonogurashi</title_search>
+  </game>
+  <game name="BrainDead 13 (USA) (Disc 1)">
+    <description>BrainDead 13 (USA) (Disc 1)</description>
+    <title_clean>BrainDead 13</title_clean>
+    <title_search>braindead 13</title_search>
+  </game>
+  <game name="BrainDead 13 (USA) (Disc 2)">
+    <description>BrainDead 13 (USA) (Disc 2)</description>
+    <title_clean>BrainDead 13</title_clean>
+    <title_search>braindead 13</title_search>
+  </game>
+  <game name="Burning Soldier (Canada)">
+    <description>Burning Soldier (Canada)</description>
+    <title_clean>Burning Soldier</title_clean>
+    <title_search>burning soldier</title_search>
+  </game>
+  <game name="Burning Soldier (Europe)">
+    <description>Burning Soldier (Europe)</description>
+    <title_clean>Burning Soldier</title_clean>
+    <title_search>burning soldier</title_search>
+    <image ext="png" id="Burning Soldier (Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Burning Soldier (Japan)">
+    <description>Burning Soldier (Japan)</description>
+    <title_clean>Burning Soldier</title_clean>
+    <title_search>burning soldier</title_search>
+  </game>
+  <game name="Burning Soldier (USA)">
+    <description>Burning Soldier (USA)</description>
+    <title_clean>Burning Soldier</title_clean>
+    <title_search>burning soldier</title_search>
+    <image ext="png" id="Burning Soldier (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Burning Soldier (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Burning Soldier (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cannon Fodder (Europe)">
+    <description>Cannon Fodder (Europe)</description>
+    <title_clean>Cannon Fodder</title_clean>
+    <title_search>cannon fodder</title_search>
+  </game>
+  <game name="Cannon Fodder (USA)">
+    <description>Cannon Fodder (USA)</description>
+    <title_clean>Cannon Fodder</title_clean>
+    <title_search>cannon fodder</title_search>
+    <image ext="png" id="Cannon Fodder (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cannon Fodder (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cannon Fodder (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Captain Quazar (Japan)">
+    <description>Captain Quazar (Japan)</description>
+    <title_clean>Captain Quazar</title_clean>
+    <title_search>captain quazar</title_search>
+  </game>
+  <game name="Captain Quazar (USA)">
+    <description>Captain Quazar (USA)</description>
+    <title_clean>Captain Quazar</title_clean>
+    <title_search>captain quazar</title_search>
+    <image ext="png" id="Captain Quazar (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Captain Quazar (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Captain Quazar (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Captain Quazar _ BattleSport (Europe) (Demo)">
+    <description>Captain Quazar _ BattleSport (Europe) (Demo)</description>
+    <title_clean>Captain Quazar _ BattleSport</title_clean>
+    <title_search>captain quazar battlesport</title_search>
+  </game>
+  <game name="Carrier - Fortress at Sea (USA)">
+    <description>Carrier - Fortress at Sea (USA)</description>
+    <title_clean>Carrier - Fortress at Sea</title_clean>
+    <title_search>carrier fortress at sea</title_search>
+    <image ext="png" id="Carrier - Fortress at Sea (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Carrier - Fortress at Sea (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Carrier - Fortress at Sea (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Casper (USA)">
+    <description>Casper (USA)</description>
+    <title_clean>Casper</title_clean>
+    <title_search>casper</title_search>
+    <image ext="png" id="Casper (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Casper (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Casper (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan)">
+    <description>Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan)</description>
+    <title_clean>Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen</title_clean>
+    <title_search>chiki chiki machine mou race kenken to black maou no ijiwaru daisakusen</title_search>
+  </game>
+  <game name="Chiki Chiki Machine Mou Race 2 - In Space (Japan)">
+    <description>Chiki Chiki Machine Mou Race 2 - In Space (Japan)</description>
+    <title_clean>Chiki Chiki Machine Mou Race 2 - In Space</title_clean>
+    <title_search>chiki chiki machine mou race 2 in space</title_search>
+  </game>
+  <game name="Club 3DO - Station Invasion (USA)">
+    <description>Club 3DO - Station Invasion (USA)</description>
+    <title_clean>Club 3DO - Station Invasion</title_clean>
+    <title_search>club 3do station invasion</title_search>
+    <image ext="png" id="Club 3DO - Station Invasion (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Club 3DO - Station Invasion (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Club 3DO - Station Invasion (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Corpse Killer (USA)">
+    <description>Corpse Killer (USA)</description>
+    <title_clean>Corpse Killer</title_clean>
+    <title_search>corpse killer</title_search>
+    <image ext="png" id="Corpse Killer (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Corpse Killer (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Corpse Killer (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Coven, The (USA)">
+    <description>Coven, The (USA)</description>
+    <title_clean>The Coven</title_clean>
+    <title_search>the coven</title_search>
+    <image ext="png" id="Coven, The (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Coven, The (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cowboy Casino (USA)">
+    <description>Cowboy Casino (USA)</description>
+    <title_clean>Cowboy Casino</title_clean>
+    <title_search>cowboy casino</title_search>
+  </game>
+  <game name="Crash 'n Burn (Japan)">
+    <description>Crash 'n Burn (Japan)</description>
+    <title_clean>Crash 'n Burn</title_clean>
+    <title_search>crash n burn</title_search>
+  </game>
+  <game name="Crash 'n Burn (USA) (Not for Resale)">
+    <description>Crash 'n Burn (USA) (Not for Resale)</description>
+    <title_clean>Crash 'n Burn</title_clean>
+    <title_search>crash n burn</title_search>
+  </game>
+  <game name="Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan)">
+    <description>Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan)</description>
+    <title_clean>Crayon Shin-chan - Puzzle Daimaou no Nazo</title_clean>
+    <title_search>crayon shinchan puzzle daimaou no nazo</title_search>
+    <image ext="png" id="Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Creature Shock (USA) (Disc 1)">
+    <description>Creature Shock (USA) (Disc 1)</description>
+    <title_clean>Creature Shock</title_clean>
+    <title_search>creature shock</title_search>
+    <image ext="png" id="Creature Shock (USA) (Disc 1)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Creature Shock (USA) (Disc 1)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Creature Shock (USA) (Disc 2)">
+    <description>Creature Shock (USA) (Disc 2)</description>
+    <title_clean>Creature Shock</title_clean>
+    <title_search>creature shock</title_search>
+    <image ext="png" id="Creature Shock (USA) (Disc 2)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Creature Shock (USA) (Disc 2)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Crime Patrol (USA)">
+    <description>Crime Patrol (USA)</description>
+    <title_clean>Crime Patrol</title_clean>
+    <title_search>crime patrol</title_search>
+    <image ext="png" id="Crime Patrol (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Crime Patrol (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Crime Patrol (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cyberia (USA)">
+    <description>Cyberia (USA)</description>
+    <title_clean>Cyberia</title_clean>
+    <title_search>cyberia</title_search>
+    <image ext="png" id="Cyberia (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cyberia (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cyberia (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="D (Germany) (Disc 1)">
+    <description>D (Germany) (Disc 1)</description>
+    <title_clean>D</title_clean>
+    <title_search>d</title_search>
+  </game>
+  <game name="D (Germany) (Disc 2)">
+    <description>D (Germany) (Disc 2)</description>
+    <title_clean>D</title_clean>
+    <title_search>d</title_search>
+  </game>
+  <game name="D (USA, Europe) (Disc 1)">
+    <description>D (USA, Europe) (Disc 1)</description>
+    <title_clean>D</title_clean>
+    <title_search>d</title_search>
+    <image ext="png" id="D (USA, Europe) (Disc 1)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="D (USA, Europe) (Disc 1)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="D (USA, Europe) (Disc 2)">
+    <description>D (USA, Europe) (Disc 2)</description>
+    <title_clean>D</title_clean>
+    <title_search>d</title_search>
+    <image ext="png" id="D (USA, Europe) (Disc 2)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="D (USA, Europe) (Disc 2)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="D no Shokutaku (Japan) (Disc 1)">
+    <description>D no Shokutaku (Japan) (Disc 1)</description>
+    <title_clean>D no Shokutaku</title_clean>
+    <title_search>d no shokutaku</title_search>
+  </game>
+  <game name="D no Shokutaku (Japan) (Disc 2)">
+    <description>D no Shokutaku (Japan) (Disc 2)</description>
+    <title_clean>D no Shokutaku</title_clean>
+    <title_search>d no shokutaku</title_search>
+  </game>
+  <game name="D's Diner - The Director's Cut (Japan) (Disc A)">
+    <description>D's Diner - The Director's Cut (Japan) (Disc A)</description>
+    <title_clean>D's Diner - The Director's Cut</title_clean>
+    <title_search>ds diner the directors cut</title_search>
+  </game>
+  <game name="D's Diner - The Director's Cut (Japan) (Disc B)">
+    <description>D's Diner - The Director's Cut (Japan) (Disc B)</description>
+    <title_clean>D's Diner - The Director's Cut</title_clean>
+    <title_search>ds diner the directors cut</title_search>
+  </game>
+  <game name="D's Diner - The Director's Cut (Japan) (Disc C)">
+    <description>D's Diner - The Director's Cut (Japan) (Disc C)</description>
+    <title_clean>D's Diner - The Director's Cut</title_clean>
+    <title_search>ds diner the directors cut</title_search>
+  </game>
+  <game name="Daedalus Encounter, The (USA) (Disc 1)">
+    <description>Daedalus Encounter, The (USA) (Disc 1)</description>
+    <title_clean>The Daedalus Encounter</title_clean>
+    <title_search>the daedalus encounter</title_search>
+    <image ext="png" id="Daedalus Encounter, The (USA) (Disc 1)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Daedalus Encounter, The (USA) (Disc 1)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Daedalus Encounter, The (USA) (Disc 1)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Daedalus Encounter, The (USA) (Disc 2)">
+    <description>Daedalus Encounter, The (USA) (Disc 2)</description>
+    <title_clean>The Daedalus Encounter</title_clean>
+    <title_search>the daedalus encounter</title_search>
+    <image ext="png" id="Daedalus Encounter, The (USA) (Disc 2)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Daedalus Encounter, The (USA) (Disc 2)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Daedalus Encounter, The (USA) (Disc 2)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Daedalus Encounter, The (USA) (Disc 3)">
+    <description>Daedalus Encounter, The (USA) (Disc 3)</description>
+    <title_clean>The Daedalus Encounter</title_clean>
+    <title_search>the daedalus encounter</title_search>
+    <image ext="png" id="Daedalus Encounter, The (USA) (Disc 3)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Daedalus Encounter, The (USA) (Disc 3)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Daedalus Encounter, The (USA) (Disc 3)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Daedalus Encounter, The (USA) (Disc 4)">
+    <description>Daedalus Encounter, The (USA) (Disc 4)</description>
+    <title_clean>The Daedalus Encounter</title_clean>
+    <title_search>the daedalus encounter</title_search>
+    <image ext="png" id="Daedalus Encounter, The (USA) (Disc 4)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Daedalus Encounter, The (USA) (Disc 4)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Daedalus Encounter, The (USA) (Disc 4)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 1)">
+    <description>Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 1)</description>
+    <title_clean>The Daedalus Encounter - Episode 1 - Nanpasen no Alien</title_clean>
+    <title_search>the daedalus encounter episode 1 nanpasen no alien</title_search>
+  </game>
+  <game name="Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 2)">
+    <description>Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 2)</description>
+    <title_clean>The Daedalus Encounter - Episode 1 - Nanpasen no Alien</title_clean>
+    <title_search>the daedalus encounter episode 1 nanpasen no alien</title_search>
+  </game>
+  <game name="Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 3)">
+    <description>Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 3)</description>
+    <title_clean>The Daedalus Encounter - Episode 1 - Nanpasen no Alien</title_clean>
+    <title_search>the daedalus encounter episode 1 nanpasen no alien</title_search>
+  </game>
+  <game name="Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 4)">
+    <description>Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 4)</description>
+    <title_clean>The Daedalus Encounter - Episode 1 - Nanpasen no Alien</title_clean>
+    <title_search>the daedalus encounter episode 1 nanpasen no alien</title_search>
+  </game>
+  <game name="DeathKeep (USA)">
+    <description>DeathKeep (USA)</description>
+    <title_clean>DeathKeep</title_clean>
+    <title_search>deathkeep</title_search>
+    <image ext="png" id="DeathKeep (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Demolition Man (Japan)">
+    <description>Demolition Man (Japan)</description>
+    <title_clean>Demolition Man</title_clean>
+    <title_search>demolition man</title_search>
+  </game>
+  <game name="Demolition Man (USA)">
+    <description>Demolition Man (USA)</description>
+    <title_clean>Demolition Man</title_clean>
+    <title_search>demolition man</title_search>
+    <image ext="png" id="Demolition Man (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Demolition Man (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Demolition Man (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="DinoPark Tycoon (USA)">
+    <description>DinoPark Tycoon (USA)</description>
+    <title_clean>DinoPark Tycoon</title_clean>
+    <title_search>dinopark tycoon</title_search>
+    <image ext="png" id="DinoPark Tycoon (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="DinoPark Tycoon (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="DinoPark Tycoon (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Diving Spot Guide - Marine Tour (Japan)">
+    <description>Diving Spot Guide - Marine Tour (Japan)</description>
+    <title_clean>Diving Spot Guide - Marine Tour</title_clean>
+    <title_search>diving spot guide marine tour</title_search>
+  </game>
+  <game name="Doctor Hauzer (Japan)">
+    <description>Doctor Hauzer (Japan)</description>
+    <title_clean>Doctor Hauzer</title_clean>
+    <title_search>doctor hauzer</title_search>
+    <image ext="png" id="Doctor Hauzer (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Doctor Hauzer (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Doom (USA)">
+    <description>Doom (USA)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+    <image ext="png" id="Doom (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Doom (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Doom (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon Lore - The Legend Begins (USA) (Disc 1)">
+    <description>Dragon Lore - The Legend Begins (USA) (Disc 1)</description>
+    <title_clean>Dragon Lore - The Legend Begins</title_clean>
+    <title_search>dragon lore the legend begins</title_search>
+  </game>
+  <game name="Dragon Lore - The Legend Begins (USA) (Disc 2)">
+    <description>Dragon Lore - The Legend Begins (USA) (Disc 2)</description>
+    <title_clean>Dragon Lore - The Legend Begins</title_clean>
+    <title_search>dragon lore the legend begins</title_search>
+  </game>
+  <game name="Dragon Lore - The Legend Begins (USA) (Disc 3)">
+    <description>Dragon Lore - The Legend Begins (USA) (Disc 3)</description>
+    <title_clean>Dragon Lore - The Legend Begins</title_clean>
+    <title_search>dragon lore the legend begins</title_search>
+  </game>
+  <game name="Dragon Tycoon Edge (Japan)">
+    <description>Dragon Tycoon Edge (Japan)</description>
+    <title_clean>Dragon Tycoon Edge</title_clean>
+    <title_search>dragon tycoon edge</title_search>
+    <image ext="png" id="Dragon Tycoon Edge (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dragon Tycoon Edge (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon's Lair (Japan)">
+    <description>Dragon's Lair (Japan)</description>
+    <title_clean>Dragon's Lair</title_clean>
+    <title_search>dragons lair</title_search>
+    <image ext="png" id="Dragon's Lair (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Dragon's Lair (USA) (Rev 1)">
+    <description>Dragon's Lair (USA) (Rev 1)</description>
+    <title_clean>Dragon's Lair</title_clean>
+    <title_search>dragons lair</title_search>
+  </game>
+  <game name="Drug Wars (USA)">
+    <description>Drug Wars (USA)</description>
+    <title_clean>Drug Wars</title_clean>
+    <title_search>drug wars</title_search>
+    <image ext="png" id="Drug Wars (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Drug Wars (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Drug Wars (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 1)">
+    <description>ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 1)</description>
+    <title_clean>ESPN Golf - Lower Your Score with Tom Kite - Shot Making</title_clean>
+    <title_search>espn golf lower your score with tom kite shot making</title_search>
+  </game>
+  <game name="ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 2)">
+    <description>ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 2)</description>
+    <title_clean>ESPN Golf - Lower Your Score with Tom Kite - Shot Making</title_clean>
+    <title_search>espn golf lower your score with tom kite shot making</title_search>
+  </game>
+  <game name="ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 3)">
+    <description>ESPN Golf - Lower Your Score with Tom Kite - Shot Making (USA) (Disc 3)</description>
+    <title_clean>ESPN Golf - Lower Your Score with Tom Kite - Shot Making</title_clean>
+    <title_search>espn golf lower your score with tom kite shot making</title_search>
+  </game>
+  <game name="ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 1) (Shot Yousei Kouza Vol. 1)">
+    <description>ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 1) (Shot Yousei Kouza Vol. 1)</description>
+    <title_clean>ESPN Golf - Tom Kite no Kore ga Golf da!</title_clean>
+    <title_search>espn golf tom kite no kore ga golf da</title_search>
+  </game>
+  <game name="ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 2) (Shot Yousei Kouza Vol. 2)">
+    <description>ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 2) (Shot Yousei Kouza Vol. 2)</description>
+    <title_clean>ESPN Golf - Tom Kite no Kore ga Golf da!</title_clean>
+    <title_search>espn golf tom kite no kore ga golf da</title_search>
+  </game>
+  <game name="ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 3) (Pro ni Kike!)">
+    <description>ESPN Golf - Tom Kite no Kore ga Golf da! (Japan) (Disc 3) (Pro ni Kike!)</description>
+    <title_clean>ESPN Golf - Tom Kite no Kore ga Golf da!</title_clean>
+    <title_search>espn golf tom kite no kore ga golf da</title_search>
+  </game>
+  <game name="Emit Vol. 1 - Toki no Maigo (Japan)">
+    <description>Emit Vol. 1 - Toki no Maigo (Japan)</description>
+    <title_clean>Emit Vol. 1 - Toki no Maigo</title_clean>
+    <title_search>emit vol 1 toki no maigo</title_search>
+  </game>
+  <game name="Emit Vol. 2 - Inochigake no Tabi (Japan)">
+    <description>Emit Vol. 2 - Inochigake no Tabi (Japan)</description>
+    <title_clean>Emit Vol. 2 - Inochigake no Tabi</title_clean>
+    <title_search>emit vol 2 inochigake no tabi</title_search>
+  </game>
+  <game name="Emit Vol. 3 - Watashi ni Sayonara o (Japan)">
+    <description>Emit Vol. 3 - Watashi ni Sayonara o (Japan)</description>
+    <title_clean>Emit Vol. 3 - Watashi ni Sayonara o</title_clean>
+    <title_search>emit vol 3 watashi ni sayonara o</title_search>
+  </game>
+  <game name="Endlessly (USA)">
+    <description>Endlessly (USA)</description>
+    <title_clean>Endlessly</title_clean>
+    <title_search>endlessly</title_search>
+    <image ext="png" id="Endlessly (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Escape from Monster Manor (Europe)">
+    <description>Escape from Monster Manor (Europe)</description>
+    <title_clean>Escape from Monster Manor</title_clean>
+    <title_search>escape from monster manor</title_search>
+  </game>
+  <game name="F1GP (Japan)">
+    <description>F1GP (Japan)</description>
+    <title_clean>F1GP</title_clean>
+    <title_search>f1gp</title_search>
+    <image ext="png" id="F1GP (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="F1GP (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="FIFA International Soccer (Europe)">
+    <description>FIFA International Soccer (Europe)</description>
+    <title_clean>FIFA International Soccer</title_clean>
+    <title_search>fifa international soccer</title_search>
+  </game>
+  <game name="FIFA International Soccer (USA)">
+    <description>FIFA International Soccer (USA)</description>
+    <title_clean>FIFA International Soccer</title_clean>
+    <title_search>fifa international soccer</title_search>
+    <image ext="png" id="FIFA International Soccer (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="FIFA International Soccer (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="FIFA International Soccer (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Family Feud (USA)">
+    <description>Family Feud (USA)</description>
+    <title_clean>Family Feud</title_clean>
+    <title_search>family feud</title_search>
+    <image ext="png" id="Family Feud (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Family Feud (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Family Feud (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fatty Bear's Birthday Surprise (Japan) (En,Ja)">
+    <description>Fatty Bear's Birthday Surprise (Japan) (En,Ja)</description>
+    <title_clean>Fatty Bear's Birthday Surprise</title_clean>
+    <title_search>fatty bears birthday surprise</title_search>
+  </game>
+  <game name="Fatty Bear's Birthday Surprise (USA)">
+    <description>Fatty Bear's Birthday Surprise (USA)</description>
+    <title_clean>Fatty Bear's Birthday Surprise</title_clean>
+    <title_search>fatty bears birthday surprise</title_search>
+    <image ext="png" id="Fatty Bear's Birthday Surprise (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fatty Bear's Birthday Surprise (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fatty Bear's Birthday Surprise (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fatty Bear's Funpack (Japan)">
+    <description>Fatty Bear's Funpack (Japan)</description>
+    <title_clean>Fatty Bear's Funpack</title_clean>
+    <title_search>fatty bears funpack</title_search>
+  </game>
+  <game name="Fatty Bear's Funpack (USA)">
+    <description>Fatty Bear's Funpack (USA)</description>
+    <title_clean>Fatty Bear's Funpack</title_clean>
+    <title_search>fatty bears funpack</title_search>
+    <image ext="png" id="Fatty Bear's Funpack (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fatty Bear's Funpack (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fire Ball!! (Japan)">
+    <description>Fire Ball!! (Japan)</description>
+    <title_clean>Fire Ball!!</title_clean>
+    <title_search>fire ball</title_search>
+  </game>
+  <game name="Flashback (Japan) (En,Ja,Fr,De,It,Nl)">
+    <description>Flashback (Japan) (En,Ja,Fr,De,It,Nl)</description>
+    <title_clean>Flashback</title_clean>
+    <title_search>flashback</title_search>
+  </game>
+  <game name="Flashback - The Quest for Identity (USA)">
+    <description>Flashback - The Quest for Identity (USA)</description>
+    <title_clean>Flashback - The Quest for Identity</title_clean>
+    <title_search>flashback the quest for identity</title_search>
+    <image ext="png" id="Flashback - The Quest for Identity (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Flashback - The Quest for Identity (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Flashback - The Quest for Identity (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Flopon World (Japan)">
+    <description>Flopon World (Japan)</description>
+    <title_clean>Flopon World</title_clean>
+    <title_search>flopon world</title_search>
+  </game>
+  <game name="Flying Nightmares (USA)">
+    <description>Flying Nightmares (USA)</description>
+    <title_clean>Flying Nightmares</title_clean>
+    <title_search>flying nightmares</title_search>
+    <image ext="png" id="Flying Nightmares (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Flying Nightmares (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Flying Nightmares (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Foes of Ali (Europe)">
+    <description>Foes of Ali (Europe)</description>
+    <title_clean>Foes of Ali</title_clean>
+    <title_search>foes of ali</title_search>
+    <image ext="png" id="Foes of Ali (Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Foes of Ali (USA)">
+    <description>Foes of Ali (USA)</description>
+    <title_clean>Foes of Ali</title_clean>
+    <title_search>foes of ali</title_search>
+    <image ext="png" id="Foes of Ali (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Foes of Ali (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Foes of Ali (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fun 'n Games - Soft no Omochabako (Japan) (En,Ja)">
+    <description>Fun 'n Games - Soft no Omochabako (Japan) (En,Ja)</description>
+    <title_clean>Fun 'n Games - Soft no Omochabako</title_clean>
+    <title_search>fun n games soft no omochabako</title_search>
+    <image ext="png" id="Fun 'n Games - Soft no Omochabako (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan)">
+    <description>Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan)</description>
+    <title_clean>Gakkou no Kowai Uwasa - Hanako-san ga Kita!!</title_clean>
+    <title_search>gakkou no kowai uwasa hanakosan ga kita</title_search>
+  </game>
+  <game name="Game no Tatsujin (Japan)">
+    <description>Game no Tatsujin (Japan)</description>
+    <title_clean>Game no Tatsujin</title_clean>
+    <title_search>game no tatsujin</title_search>
+  </game>
+  <game name="Gex (Japan)">
+    <description>Gex (Japan)</description>
+    <title_clean>Gex</title_clean>
+    <title_search>gex</title_search>
+  </game>
+  <game name="Gex (USA, Europe)">
+    <description>Gex (USA, Europe)</description>
+    <title_clean>Gex</title_clean>
+    <title_search>gex</title_search>
+  </game>
+  <game name="Goal FH (Field Hunter) (Japan)">
+    <description>Goal FH (Field Hunter) (Japan)</description>
+    <title_clean>Goal FH</title_clean>
+    <title_search>goal fh</title_search>
+  </game>
+  <game name="Great! Soccer Kid (Japan)">
+    <description>Great! Soccer Kid (Japan)</description>
+    <title_clean>Great! Soccer Kid</title_clean>
+    <title_search>great soccer kid</title_search>
+  </game>
+  <game name="Gridders (Japan)">
+    <description>Gridders (Japan)</description>
+    <title_clean>Gridders</title_clean>
+    <title_search>gridders</title_search>
+    <image ext="png" id="Gridders (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Gridders (USA)">
+    <description>Gridders (USA)</description>
+    <title_clean>Gridders</title_clean>
+    <title_search>gridders</title_search>
+    <image ext="png" id="Gridders (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gridders (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gridders (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Grimm Meisaku Gekijou Vol. 2 - Hansel to Gretel (Japan)">
+    <description>Grimm Meisaku Gekijou Vol. 2 - Hansel to Gretel (Japan)</description>
+    <title_clean>Grimm Meisaku Gekijou Vol. 2 - Hansel to Gretel</title_clean>
+    <title_search>grimm meisaku gekijou vol 2 hansel to gretel</title_search>
+  </game>
+  <game name="Grimm Meisaku Gekijou Vol. 3 - Akazukin (Japan)">
+    <description>Grimm Meisaku Gekijou Vol. 3 - Akazukin (Japan)</description>
+    <title_clean>Grimm Meisaku Gekijou Vol. 3 - Akazukin</title_clean>
+    <title_search>grimm meisaku gekijou vol 3 akazukin</title_search>
+  </game>
+  <game name="Guardian War (Canada)">
+    <description>Guardian War (Canada)</description>
+    <title_clean>Guardian War</title_clean>
+    <title_search>guardian war</title_search>
+  </game>
+  <game name="Guardian War (USA)">
+    <description>Guardian War (USA)</description>
+    <title_clean>Guardian War</title_clean>
+    <title_search>guardian war</title_search>
+    <image ext="png" id="Guardian War (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Guardian War (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Guardian War (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hatsubai 1 Shuunen - 3DO REAL - Tokubetsu Premium CD (Japan)">
+    <description>Hatsubai 1 Shuunen - 3DO REAL - Tokubetsu Premium CD (Japan)</description>
+    <title_clean>Hatsubai 1 Shuunen - 3DO REAL - Tokubetsu Premium CD</title_clean>
+    <title_search>hatsubai 1 shuunen 3do real tokubetsu premium cd</title_search>
+  </game>
+  <game name="Hell - A Cyberpunk Thriller (USA)">
+    <description>Hell - A Cyberpunk Thriller (USA)</description>
+    <title_clean>Hell - A Cyberpunk Thriller</title_clean>
+    <title_search>hell a cyberpunk thriller</title_search>
+    <image ext="png" id="Hell - A Cyberpunk Thriller (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hell - A Cyberpunk Thriller (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hell - A Cyberpunk Thriller (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hirata Shougo Interactive Ehon - Aesop Monogatari Vol. 1 (Japan) (En,Ja,Fr)">
+    <description>Hirata Shougo Interactive Ehon - Aesop Monogatari Vol. 1 (Japan) (En,Ja,Fr)</description>
+    <title_clean>Hirata Shougo Interactive Ehon - Aesop Monogatari Vol. 1</title_clean>
+    <title_search>hirata shougo interactive ehon aesop monogatari vol 1</title_search>
+  </game>
+  <game name="Hirata Shougo Interactive Ehon - Cinderella (Japan) (En,Ja,Fr)">
+    <description>Hirata Shougo Interactive Ehon - Cinderella (Japan) (En,Ja,Fr)</description>
+    <title_clean>Hirata Shougo Interactive Ehon - Cinderella</title_clean>
+    <title_search>hirata shougo interactive ehon cinderella</title_search>
+  </game>
+  <game name="Hirata Shougo Interactive Ehon - Sanbiki no Kobuta (Japan) (En,Ja,Fr)">
+    <description>Hirata Shougo Interactive Ehon - Sanbiki no Kobuta (Japan) (En,Ja,Fr)</description>
+    <title_clean>Hirata Shougo Interactive Ehon - Sanbiki no Kobuta</title_clean>
+    <title_search>hirata shougo interactive ehon sanbiki no kobuta</title_search>
+  </game>
+  <game name="Horde, The (Europe)">
+    <description>Horde, The (Europe)</description>
+    <title_clean>The Horde</title_clean>
+    <title_search>the horde</title_search>
+    <image ext="png" id="Horde, The (Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Horde, The (Japan)">
+    <description>Horde, The (Japan)</description>
+    <title_clean>The Horde</title_clean>
+    <title_search>the horde</title_search>
+  </game>
+  <game name="Icebreaker (USA)">
+    <description>Icebreaker (USA)</description>
+    <title_clean>Icebreaker</title_clean>
+    <title_search>icebreaker</title_search>
+    <image ext="png" id="Icebreaker (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Icebreaker (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Icebreaker (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Idol Janshi Suchie-Pai Special (Japan)">
+    <description>Idol Janshi Suchie-Pai Special (Japan)</description>
+    <title_clean>Idol Janshi Suchie-Pai Special</title_clean>
+    <title_search>idol janshi suchiepai special</title_search>
+  </game>
+  <game name="Idol Mahjong - Final Romance 2 - Hyper Edition (Japan)">
+    <description>Idol Mahjong - Final Romance 2 - Hyper Edition (Japan)</description>
+    <title_clean>Idol Mahjong - Final Romance 2 - Hyper Edition</title_clean>
+    <title_search>idol mahjong final romance 2 hyper edition</title_search>
+  </game>
+  <game name="Igo Time Trial - Shikatsu Daihyakka (Japan)">
+    <description>Igo Time Trial - Shikatsu Daihyakka (Japan)</description>
+    <title_clean>Igo Time Trial - Shikatsu Daihyakka</title_clean>
+    <title_search>igo time trial shikatsu daihyakka</title_search>
+  </game>
+  <game name="Igo Time Trial - Tsumego I (Japan)">
+    <description>Igo Time Trial - Tsumego I (Japan)</description>
+    <title_clean>Igo Time Trial - Tsumego I</title_clean>
+    <title_search>igo time trial tsumego i</title_search>
+  </game>
+  <game name="Immercenary - Combat in a Digital World (USA)">
+    <description>Immercenary - Combat in a Digital World (USA)</description>
+    <title_clean>Immercenary - Combat in a Digital World</title_clean>
+    <title_search>immercenary combat in a digital world</title_search>
+    <image ext="png" id="Immercenary - Combat in a Digital World (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Immortal Desire (USA)">
+    <description>Immortal Desire (USA)</description>
+    <title_clean>Immortal Desire</title_clean>
+    <title_search>immortal desire</title_search>
+    <image ext="png" id="Immortal Desire (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Immortal Desire (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Immortal Desire (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Incredible Machine, The (USA)">
+    <description>Incredible Machine, The (USA)</description>
+    <title_clean>The Incredible Machine</title_clean>
+    <title_search>the incredible machine</title_search>
+    <image ext="png" id="Incredible Machine, The (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Incredible Machine, The (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Incredible Machine, The (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Incredible Machine, The - Pararancho (Japan)">
+    <description>Incredible Machine, The - Pararancho (Japan)</description>
+    <title_clean>The Incredible Machine - Pararancho</title_clean>
+    <title_search>the incredible machine pararancho</title_search>
+  </game>
+  <game name="Insector War (Japan)">
+    <description>Insector War (Japan)</description>
+    <title_clean>Insector War</title_clean>
+    <title_search>insector war</title_search>
+  </game>
+  <game name="Interplay 3DO Buffet, The (USA)">
+    <description>Interplay 3DO Buffet, The (USA)</description>
+    <title_clean>The Interplay 3DO Buffet</title_clean>
+    <title_search>the interplay 3do buffet</title_search>
+    <image ext="png" id="Interplay 3DO Buffet, The (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Iron Angel of the Apocalypse - Tetsujin (Europe)">
+    <description>Iron Angel of the Apocalypse - Tetsujin (Europe)</description>
+    <title_clean>Iron Angel of the Apocalypse - Tetsujin</title_clean>
+    <title_search>iron angel of the apocalypse tetsujin</title_search>
+  </game>
+  <game name="Iron Angel of the Apocalypse - Tetsujin (USA)">
+    <description>Iron Angel of the Apocalypse - Tetsujin (USA)</description>
+    <title_clean>Iron Angel of the Apocalypse - Tetsujin</title_clean>
+    <title_search>iron angel of the apocalypse tetsujin</title_search>
+  </game>
+  <game name="Iron Angel of the Apocalypse - The Return (USA)">
+    <description>Iron Angel of the Apocalypse - The Return (USA)</description>
+    <title_clean>Iron Angel of the Apocalypse - The Return</title_clean>
+    <title_search>iron angel of the apocalypse the return</title_search>
+    <image ext="png" id="Iron Angel of the Apocalypse - The Return (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Iron Angel of the Apocalypse - The Return (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Iron Angel of the Apocalypse - The Return (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ishida Yoshio Kudan no Igo Seiha (Japan)">
+    <description>Ishida Yoshio Kudan no Igo Seiha (Japan)</description>
+    <title_clean>Ishida Yoshio Kudan no Igo Seiha</title_clean>
+    <title_search>ishida yoshio kudan no igo seiha</title_search>
+  </game>
+  <game name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)">
+    <description>J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)</description>
+    <title_clean>J. B. Harold - Blue Chicago Blues</title_clean>
+    <title_search>j b harold blue chicago blues</title_search>
+  </game>
+  <game name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 2)">
+    <description>J. B. Harold - Blue Chicago Blues (Japan) (Disc 2)</description>
+    <title_clean>J. B. Harold - Blue Chicago Blues</title_clean>
+    <title_search>j b harold blue chicago blues</title_search>
+  </game>
+  <game name="J. League Virtual Stadium '95 (Japan)">
+    <description>J. League Virtual Stadium '95 (Japan)</description>
+    <title_clean>J. League Virtual Stadium '95</title_clean>
+    <title_search>j league virtual stadium 95</title_search>
+  </game>
+  <game name="J. League Virtual Stadium (Japan)">
+    <description>J. League Virtual Stadium (Japan)</description>
+    <title_clean>J. League Virtual Stadium</title_clean>
+    <title_search>j league virtual stadium</title_search>
+    <image ext="png" id="J. League Virtual Stadium (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Jikki Pachi-Slot Simulator Vol. 1 (Japan)">
+    <description>Jikki Pachi-Slot Simulator Vol. 1 (Japan)</description>
+    <title_clean>Jikki Pachi-Slot Simulator Vol. 1</title_clean>
+    <title_search>jikki pachislot simulator vol 1</title_search>
+  </game>
+  <game name="John Madden Football (USA)">
+    <description>John Madden Football (USA)</description>
+    <title_clean>John Madden Football</title_clean>
+    <title_search>john madden football</title_search>
+    <image ext="png" id="John Madden Football (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="John Madden Football (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="John Madden Football (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="John Madden Football (USA) (Alt)">
+    <description>John Madden Football (USA) (Alt)</description>
+    <title_clean>John Madden Football</title_clean>
+    <title_search>john madden football</title_search>
+  </game>
+  <game name="John Madden NFL Football (Europe)">
+    <description>John Madden NFL Football (Europe)</description>
+    <title_clean>John Madden NFL Football</title_clean>
+    <title_search>john madden nfl football</title_search>
+  </game>
+  <game name="Johnny Bazookatone (USA)">
+    <description>Johnny Bazookatone (USA)</description>
+    <title_clean>Johnny Bazookatone</title_clean>
+    <title_search>johnny bazookatone</title_search>
+    <image ext="png" id="Johnny Bazookatone (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Johnny Bazookatone (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Johnny Bazookatone (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jurassic Park Interactive (Japan)">
+    <description>Jurassic Park Interactive (Japan)</description>
+    <title_clean>Jurassic Park Interactive</title_clean>
+    <title_search>jurassic park interactive</title_search>
+  </game>
+  <game name="Jurassic Park Interactive (USA)">
+    <description>Jurassic Park Interactive (USA)</description>
+    <title_clean>Jurassic Park Interactive</title_clean>
+    <title_search>jurassic park interactive</title_search>
+    <image ext="png" id="Jurassic Park Interactive (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jurassic Park Interactive (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jurassic Park Interactive (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kakinoki Shougi (Japan)">
+    <description>Kakinoki Shougi (Japan)</description>
+    <title_clean>Kakinoki Shougi</title_clean>
+    <title_search>kakinoki shougi</title_search>
+  </game>
+  <game name="Keiba Saishou no Housoku (Japan)">
+    <description>Keiba Saishou no Housoku (Japan)</description>
+    <title_clean>Keiba Saishou no Housoku</title_clean>
+    <title_search>keiba saishou no housoku</title_search>
+  </game>
+  <game name="Killing Time (USA) (Rev 1)">
+    <description>Killing Time (USA) (Rev 1)</description>
+    <title_clean>Killing Time</title_clean>
+    <title_search>killing time</title_search>
+  </game>
+  <game name="Kingdom - The Far Reaches (USA, Europe)">
+    <description>Kingdom - The Far Reaches (USA, Europe)</description>
+    <title_clean>Kingdom - The Far Reaches</title_clean>
+    <title_search>kingdom the far reaches</title_search>
+    <image ext="png" id="Kingdom - The Far Reaches (USA, Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kingdom - The Far Reaches (USA, Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Konpeki no Kantai (Japan)">
+    <description>Konpeki no Kantai (Japan)</description>
+    <title_clean>Konpeki no Kantai</title_clean>
+    <title_search>konpeki no kantai</title_search>
+  </game>
+  <game name="Kyuusei Senjutsu ni Yoru - Heisei Kaiun Koyomi (Japan)">
+    <description>Kyuusei Senjutsu ni Yoru - Heisei Kaiun Koyomi (Japan)</description>
+    <title_clean>Kyuusei Senjutsu ni Yoru - Heisei Kaiun Koyomi</title_clean>
+    <title_search>kyuusei senjutsu ni yoru heisei kaiun koyomi</title_search>
+  </game>
+  <game name="Lemmings (Japan)">
+    <description>Lemmings (Japan)</description>
+    <title_clean>Lemmings</title_clean>
+    <title_search>lemmings</title_search>
+  </game>
+  <game name="Lemmings (USA)">
+    <description>Lemmings (USA)</description>
+    <title_clean>Lemmings</title_clean>
+    <title_search>lemmings</title_search>
+    <image ext="png" id="Lemmings (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lemmings (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lemmings (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Let's Go Skiing (USA)">
+    <description>Let's Go Skiing (USA)</description>
+    <title_clean>Let's Go Skiing</title_clean>
+    <title_search>lets go skiing</title_search>
+  </game>
+  <game name="Let's Play Beach Volleyball (USA)">
+    <description>Let's Play Beach Volleyball (USA)</description>
+    <title_clean>Let's Play Beach Volleyball</title_clean>
+    <title_search>lets play beach volleyball</title_search>
+  </game>
+  <game name="Life Stage, The - Virtual House (Japan)">
+    <description>Life Stage, The - Virtual House (Japan)</description>
+    <title_clean>The Life Stage - Virtual House</title_clean>
+    <title_search>the life stage virtual house</title_search>
+  </game>
+  <game name="Life Stage, The - Virtual House (USA)">
+    <description>Life Stage, The - Virtual House (USA)</description>
+    <title_clean>The Life Stage - Virtual House</title_clean>
+    <title_search>the life stage virtual house</title_search>
+    <image ext="png" id="Life Stage, The - Virtual House (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Life Stage, The - Virtual House (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Life Stage, The - Virtual House (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Live! 3DO Magazine CD-ROM 1 (Japan)">
+    <description>Live! 3DO Magazine CD-ROM 1 (Japan)</description>
+    <title_clean>Live! 3DO Magazine CD-ROM 1</title_clean>
+    <title_search>live 3do magazine cdrom 1</title_search>
+  </game>
+  <game name="Live! 3DO Magazine CD-ROM 10 (Japan)">
+    <description>Live! 3DO Magazine CD-ROM 10 (Japan)</description>
+    <title_clean>Live! 3DO Magazine CD-ROM 10</title_clean>
+    <title_search>live 3do magazine cdrom 10</title_search>
+  </game>
+  <game name="Live! 3DO Magazine CD-ROM 11 (Japan)">
+    <description>Live! 3DO Magazine CD-ROM 11 (Japan)</description>
+    <title_clean>Live! 3DO Magazine CD-ROM 11</title_clean>
+    <title_search>live 3do magazine cdrom 11</title_search>
+  </game>
+  <game name="Live! 3DO Magazine CD-ROM 2 (Japan)">
+    <description>Live! 3DO Magazine CD-ROM 2 (Japan)</description>
+    <title_clean>Live! 3DO Magazine CD-ROM 2</title_clean>
+    <title_search>live 3do magazine cdrom 2</title_search>
+  </game>
+  <game name="Live! 3DO Magazine CD-ROM 3 (Japan)">
+    <description>Live! 3DO Magazine CD-ROM 3 (Japan)</description>
+    <title_clean>Live! 3DO Magazine CD-ROM 3</title_clean>
+    <title_search>live 3do magazine cdrom 3</title_search>
+  </game>
+  <game name="Live! 3DO Magazine CD-ROM 4 (Japan)">
+    <description>Live! 3DO Magazine CD-ROM 4 (Japan)</description>
+    <title_clean>Live! 3DO Magazine CD-ROM 4</title_clean>
+    <title_search>live 3do magazine cdrom 4</title_search>
+  </game>
+  <game name="Live! 3DO Magazine CD-ROM 5 (Japan)">
+    <description>Live! 3DO Magazine CD-ROM 5 (Japan)</description>
+    <title_clean>Live! 3DO Magazine CD-ROM 5</title_clean>
+    <title_search>live 3do magazine cdrom 5</title_search>
+  </game>
+  <game name="Live! 3DO Magazine CD-ROM 6 (Japan)">
+    <description>Live! 3DO Magazine CD-ROM 6 (Japan)</description>
+    <title_clean>Live! 3DO Magazine CD-ROM 6</title_clean>
+    <title_search>live 3do magazine cdrom 6</title_search>
+  </game>
+  <game name="Live! 3DO Magazine CD-ROM 7 (Japan)">
+    <description>Live! 3DO Magazine CD-ROM 7 (Japan)</description>
+    <title_clean>Live! 3DO Magazine CD-ROM 7</title_clean>
+    <title_search>live 3do magazine cdrom 7</title_search>
+  </game>
+  <game name="Live! 3DO Magazine CD-ROM 8 (Japan)">
+    <description>Live! 3DO Magazine CD-ROM 8 (Japan)</description>
+    <title_clean>Live! 3DO Magazine CD-ROM 8</title_clean>
+    <title_search>live 3do magazine cdrom 8</title_search>
+  </game>
+  <game name="Live! 3DO Magazine CD-ROM 9 (Japan)">
+    <description>Live! 3DO Magazine CD-ROM 9 (Japan)</description>
+    <title_clean>Live! 3DO Magazine CD-ROM 9</title_clean>
+    <title_search>live 3do magazine cdrom 9</title_search>
+  </game>
+  <game name="Lost Eden (USA)">
+    <description>Lost Eden (USA)</description>
+    <title_clean>Lost Eden</title_clean>
+    <title_search>lost eden</title_search>
+    <image ext="png" id="Lost Eden (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lost Eden (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lost Eden (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lost Files of Sherlock Holmes, The (Europe)">
+    <description>Lost Files of Sherlock Holmes, The (Europe)</description>
+    <title_clean>The Lost Files of Sherlock Holmes</title_clean>
+    <title_search>the lost files of sherlock holmes</title_search>
+  </game>
+  <game name="Lost Files of Sherlock Holmes, The (USA)">
+    <description>Lost Files of Sherlock Holmes, The (USA)</description>
+    <title_clean>The Lost Files of Sherlock Holmes</title_clean>
+    <title_search>the lost files of sherlock holmes</title_search>
+    <image ext="png" id="Lost Files of Sherlock Holmes, The (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lost Files of Sherlock Holmes, The (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lost Files of Sherlock Holmes, The (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Love Bites (USA)">
+    <description>Love Bites (USA)</description>
+    <title_clean>Love Bites</title_clean>
+    <title_search>love bites</title_search>
+    <image ext="png" id="Love Bites (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Love Bites (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Love Bites (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lucienne's Quest (USA)">
+    <description>Lucienne's Quest (USA)</description>
+    <title_clean>Lucienne's Quest</title_clean>
+    <title_search>luciennes quest</title_search>
+    <image ext="png" id="Lucienne's Quest (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lucienne's Quest (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lucienne's Quest (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mad Dog II - The Lost Gold (USA)">
+    <description>Mad Dog II - The Lost Gold (USA)</description>
+    <title_clean>Mad Dog II - The Lost Gold</title_clean>
+    <title_search>mad dog ii the lost gold</title_search>
+    <image ext="png" id="Mad Dog II - The Lost Gold (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mad Dog II - The Lost Gold (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mad Dog McCree (USA)">
+    <description>Mad Dog McCree (USA)</description>
+    <title_clean>Mad Dog McCree</title_clean>
+    <title_search>mad dog mccree</title_search>
+    <image ext="png" id="Mad Dog McCree (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mad Dog McCree (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mad Dog McCree (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mahjong Gokuu Tenjiku (Japan)">
+    <description>Mahjong Gokuu Tenjiku (Japan)</description>
+    <title_clean>Mahjong Gokuu Tenjiku</title_clean>
+    <title_search>mahjong gokuu tenjiku</title_search>
+  </game>
+  <game name="Makaroni Hourensou Interactive (Japan)">
+    <description>Makaroni Hourensou Interactive (Japan)</description>
+    <title_clean>Makaroni Hourensou Interactive</title_clean>
+    <title_search>makaroni hourensou interactive</title_search>
+  </game>
+  <game name="Mathemagics - An Interactive Learning Cube (USA)">
+    <description>Mathemagics - An Interactive Learning Cube (USA)</description>
+    <title_clean>Mathemagics - An Interactive Learning Cube</title_clean>
+    <title_search>mathemagics an interactive learning cube</title_search>
+    <image ext="png" id="Mathemagics - An Interactive Learning Cube (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mathemagics - An Interactive Learning Cube (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mathemagics - An Interactive Learning Cube (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mazer (USA)">
+    <description>Mazer (USA)</description>
+    <title_clean>Mazer</title_clean>
+    <title_search>mazer</title_search>
+    <image ext="png" id="Mazer (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mazer (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mazer (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="MegaRace (Europe) (En,Fr,De,Es,It)">
+    <description>MegaRace (Europe) (En,Fr,De,Es,It)</description>
+    <title_clean>MegaRace</title_clean>
+    <title_search>megarace</title_search>
+  </game>
+  <game name="MegaRace (Japan)">
+    <description>MegaRace (Japan)</description>
+    <title_clean>MegaRace</title_clean>
+    <title_search>megarace</title_search>
+  </game>
+  <game name="MegaRace (USA)">
+    <description>MegaRace (USA)</description>
+    <title_clean>MegaRace</title_clean>
+    <title_search>megarace</title_search>
+    <image ext="png" id="MegaRace (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="MegaRace (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="MegaRace (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Microcosm (Japan)">
+    <description>Microcosm (Japan)</description>
+    <title_clean>Microcosm</title_clean>
+    <title_search>microcosm</title_search>
+  </game>
+  <game name="Microcosm (USA)">
+    <description>Microcosm (USA)</description>
+    <title_clean>Microcosm</title_clean>
+    <title_search>microcosm</title_search>
+    <image ext="png" id="Microcosm (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Microcosm (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Microcosm (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mirai Shounen Conan - Digital Library (Japan)">
+    <description>Mirai Shounen Conan - Digital Library (Japan)</description>
+    <title_clean>Mirai Shounen Conan - Digital Library</title_clean>
+    <title_search>mirai shounen conan digital library</title_search>
+  </game>
+  <game name="Monoshiri Jiyuugaku - Ogura Hyakunin Isshu-hen (Japan)">
+    <description>Monoshiri Jiyuugaku - Ogura Hyakunin Isshu-hen (Japan)</description>
+    <title_clean>Monoshiri Jiyuugaku - Ogura Hyakunin Isshu-hen</title_clean>
+    <title_search>monoshiri jiyuugaku ogura hyakunin isshuhen</title_search>
+  </game>
+  <game name="Montana Jones (Japan)">
+    <description>Montana Jones (Japan)</description>
+    <title_clean>Montana Jones</title_clean>
+    <title_search>montana jones</title_search>
+  </game>
+  <game name="Moon Cradle - Igyou no Hanayome (Japan)">
+    <description>Moon Cradle - Igyou no Hanayome (Japan)</description>
+    <title_clean>Moon Cradle - Igyou no Hanayome</title_clean>
+    <title_search>moon cradle igyou no hanayome</title_search>
+  </game>
+  <game name="Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja)">
+    <description>Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja)</description>
+    <title_clean>Murphy da yo Zen'in Shuugou!!</title_clean>
+    <title_search>murphy da yo zenin shuugou</title_search>
+  </game>
+  <game name="Myst (Germany)">
+    <description>Myst (Germany)</description>
+    <title_clean>Myst</title_clean>
+    <title_search>myst</title_search>
+  </game>
+  <game name="Myst (Japan)">
+    <description>Myst (Japan)</description>
+    <title_clean>Myst</title_clean>
+    <title_search>myst</title_search>
+  </game>
+  <game name="Myst (USA)">
+    <description>Myst (USA)</description>
+    <title_clean>Myst</title_clean>
+    <title_search>myst</title_search>
+    <image ext="png" id="Myst (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Myst (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Myst (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="NFL Madden Football (Japan)">
+    <description>NFL Madden Football (Japan)</description>
+    <title_clean>NFL Madden Football</title_clean>
+    <title_search>nfl madden football</title_search>
+  </game>
+  <game name="Nemurenu Yoru no Chiisana Ohanashi (Japan)">
+    <description>Nemurenu Yoru no Chiisana Ohanashi (Japan)</description>
+    <title_clean>Nemurenu Yoru no Chiisana Ohanashi</title_clean>
+    <title_search>nemurenu yoru no chiisana ohanashi</title_search>
+  </game>
+  <game name="NeuroDancer - Journey into the Neuronet! (USA)">
+    <description>NeuroDancer - Journey into the Neuronet! (USA)</description>
+    <title_clean>NeuroDancer - Journey into the Neuronet!</title_clean>
+    <title_search>neurodancer journey into the neuronet</title_search>
+  </game>
+  <game name="Night Trap (Japan) (Disc 1)">
+    <description>Night Trap (Japan) (Disc 1)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Night Trap (Japan) (Disc 2)">
+    <description>Night Trap (Japan) (Disc 2)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+  </game>
+  <game name="Night Trap (USA) (Disc 1)">
+    <description>Night Trap (USA) (Disc 1)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+    <image ext="png" id="Night Trap (USA) (Disc 1)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Night Trap (USA) (Disc 1)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Night Trap (USA) (Disc 2)">
+    <description>Night Trap (USA) (Disc 2)</description>
+    <title_clean>Night Trap</title_clean>
+    <title_search>night trap</title_search>
+    <image ext="png" id="Night Trap (USA) (Disc 2)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Night Trap (USA) (Disc 2)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1)">
+    <description>Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1)</description>
+    <title_clean>Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken</title_clean>
+    <title_search>nishimura kyoutarou travel mystery akugyaku no kisetsu tokyo nanki shirahama renzoku satsujin jiken</title_search>
+  </game>
+  <game name="Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2)">
+    <description>Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2)</description>
+    <title_clean>Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken</title_clean>
+    <title_search>nishimura kyoutarou travel mystery akugyaku no kisetsu tokyo nanki shirahama renzoku satsujin jiken</title_search>
+  </game>
+  <game name="Nobunaga no Yabou - Haouden (Japan)">
+    <description>Nobunaga no Yabou - Haouden (Japan)</description>
+    <title_clean>Nobunaga no Yabou - Haouden</title_clean>
+    <title_search>nobunaga no yabou haouden</title_search>
+  </game>
+  <game name="Nontan to Issho - Hoshi no Okurimono (Japan)">
+    <description>Nontan to Issho - Hoshi no Okurimono (Japan)</description>
+    <title_clean>Nontan to Issho - Hoshi no Okurimono</title_clean>
+    <title_search>nontan to issho hoshi no okurimono</title_search>
+  </game>
+  <game name="Nontan to Issho - Nohara de Asobo (Japan)">
+    <description>Nontan to Issho - Nohara de Asobo (Japan)</description>
+    <title_clean>Nontan to Issho - Nohara de Asobo</title_clean>
+    <title_search>nontan to issho nohara de asobo</title_search>
+  </game>
+  <game name="Nova-Storm (Japan)">
+    <description>Nova-Storm (Japan)</description>
+    <title_clean>Nova-Storm</title_clean>
+    <title_search>novastorm</title_search>
+  </game>
+  <game name="Novastorm (USA)">
+    <description>Novastorm (USA)</description>
+    <title_clean>Novastorm</title_clean>
+    <title_search>novastorm</title_search>
+    <image ext="png" id="Novastorm (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Novastorm (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Novastorm (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Oceans Below (Japan)">
+    <description>Oceans Below (Japan)</description>
+    <title_clean>Oceans Below</title_clean>
+    <title_search>oceans below</title_search>
+  </game>
+  <game name="Off-World Interceptor (Japan)">
+    <description>Off-World Interceptor (Japan)</description>
+    <title_clean>Off-World Interceptor</title_clean>
+    <title_search>offworld interceptor</title_search>
+  </game>
+  <game name="Off-World Interceptor (USA, Europe)">
+    <description>Off-World Interceptor (USA, Europe)</description>
+    <title_clean>Off-World Interceptor</title_clean>
+    <title_search>offworld interceptor</title_search>
+  </game>
+  <game name="Olympic Games (Europe) (Demo)">
+    <description>Olympic Games (Europe) (Demo)</description>
+    <title_clean>Olympic Games</title_clean>
+    <title_search>olympic games</title_search>
+  </game>
+  <game name="Olympic Soccer (USA)">
+    <description>Olympic Soccer (USA)</description>
+    <title_clean>Olympic Soccer</title_clean>
+    <title_search>olympic soccer</title_search>
+    <image ext="png" id="Olympic Soccer (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Olympic Soccer (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Olympic Soccer (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Olympic Summer Games (USA)">
+    <description>Olympic Summer Games (USA)</description>
+    <title_clean>Olympic Summer Games</title_clean>
+    <title_search>olympic summer games</title_search>
+    <image ext="png" id="Olympic Summer Games (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Olympic Summer Games (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Olympic Summer Games (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Onee-san to Issho! Janken Paradise (Japan)">
+    <description>Onee-san to Issho! Janken Paradise (Japan)</description>
+    <title_clean>Onee-san to Issho! Janken Paradise</title_clean>
+    <title_search>oneesan to issho janken paradise</title_search>
+  </game>
+  <game name="Outer World (Japan)">
+    <description>Outer World (Japan)</description>
+    <title_clean>Outer World</title_clean>
+    <title_search>outer world</title_search>
+  </game>
+  <game name="Oyaji Hunter Mahjong (Japan)">
+    <description>Oyaji Hunter Mahjong (Japan)</description>
+    <title_clean>Oyaji Hunter Mahjong</title_clean>
+    <title_search>oyaji hunter mahjong</title_search>
+    <image ext="png" id="Oyaji Hunter Mahjong (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Oyaji Hunter Mahjong (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="PGA Tour 96 (USA)">
+    <description>PGA Tour 96 (USA)</description>
+    <title_clean>PGA Tour 96</title_clean>
+    <title_search>pga tour 96</title_search>
+    <image ext="png" id="PGA Tour 96 (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="PGA Tour 96 (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="PGA Tour 96 (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="PO'ed (USA, Europe)">
+    <description>PO'ed (USA, Europe)</description>
+    <title_clean>PO'ed</title_clean>
+    <title_search>poed</title_search>
+    <image ext="png" id="PO'ed (USA, Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="PO'ed (USA, Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="PO'ed (USA, Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="PaTaank (Japan)">
+    <description>PaTaank (Japan)</description>
+    <title_clean>PaTaank</title_clean>
+    <title_search>pataank</title_search>
+  </game>
+  <game name="PaTaank (USA, Europe)">
+    <description>PaTaank (USA, Europe)</description>
+    <title_clean>PaTaank</title_clean>
+    <title_search>pataank</title_search>
+    <image ext="png" id="PaTaank (USA, Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="PaTaank (USA, Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Paddock Note '95 (Japan)">
+    <description>Paddock Note '95 (Japan)</description>
+    <title_clean>Paddock Note '95</title_clean>
+    <title_search>paddock note 95</title_search>
+  </game>
+  <game name="Paddock Note '95 (Japan) (Rev 1)">
+    <description>Paddock Note '95 (Japan) (Rev 1)</description>
+    <title_clean>Paddock Note '95</title_clean>
+    <title_search>paddock note 95</title_search>
+  </game>
+  <game name="Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (Japan)">
+    <description>Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (Japan)</description>
+    <title_clean>Panasonic REAL 3DO Interactive Multiplayer - Sampler CD</title_clean>
+    <title_search>panasonic real 3do interactive multiplayer sampler cd</title_search>
+  </game>
+  <game name="Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZAZ)">
+    <description>Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZAZ)</description>
+    <title_clean>Panasonic REAL 3DO Interactive Multiplayer - Sampler CD</title_clean>
+    <title_search>panasonic real 3do interactive multiplayer sampler cd</title_search>
+  </game>
+  <game name="Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZBZ)">
+    <description>Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (USA) (ZBZ)</description>
+    <title_clean>Panasonic REAL 3DO Interactive Multiplayer - Sampler CD</title_clean>
+    <title_search>panasonic real 3do interactive multiplayer sampler cd</title_search>
+  </game>
+  <game name="Panasonic Special CD-ROM (Japan)">
+    <description>Panasonic Special CD-ROM (Japan)</description>
+    <title_clean>Panasonic Special CD-ROM</title_clean>
+    <title_search>panasonic special cdrom</title_search>
+  </game>
+  <game name="Pebble Beach Golf Links (USA)">
+    <description>Pebble Beach Golf Links (USA)</description>
+    <title_clean>Pebble Beach Golf Links</title_clean>
+    <title_search>pebble beach golf links</title_search>
+    <image ext="png" id="Pebble Beach Golf Links (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pebble Beach Golf Links (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pebble Beach Golf Links (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Perfect General, The (USA)">
+    <description>Perfect General, The (USA)</description>
+    <title_clean>The Perfect General</title_clean>
+    <title_search>the perfect general</title_search>
+    <image ext="png" id="Perfect General, The (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Perfect General, The (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Perfect General, The (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Perfect World - Combat in a Digital World (Japan)">
+    <description>Perfect World - Combat in a Digital World (Japan)</description>
+    <title_clean>Perfect World - Combat in a Digital World</title_clean>
+    <title_search>perfect world combat in a digital world</title_search>
+  </game>
+  <game name="Perfect World - Combat in a Digital World (Japan) (Demo)">
+    <description>Perfect World - Combat in a Digital World (Japan) (Demo)</description>
+    <title_clean>Perfect World - Combat in a Digital World</title_clean>
+    <title_search>perfect world combat in a digital world</title_search>
+  </game>
+  <game name="Peter Frankl - Puzzle no Tou (Japan)">
+    <description>Peter Frankl - Puzzle no Tou (Japan)</description>
+    <title_clean>Peter Frankl - Puzzle no Tou</title_clean>
+    <title_search>peter frankl puzzle no tou</title_search>
+    <image ext="png" id="Peter Frankl - Puzzle no Tou (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Peter Frankl - Puzzle no Tou (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Phoenix 3 (Europe) (Demo)">
+    <description>Phoenix 3 (Europe) (Demo)</description>
+    <title_clean>Phoenix 3</title_clean>
+    <title_search>phoenix 3</title_search>
+  </game>
+  <game name="Phoenix 3 (USA)">
+    <description>Phoenix 3 (USA)</description>
+    <title_clean>Phoenix 3</title_clean>
+    <title_search>phoenix 3</title_search>
+    <image ext="png" id="Phoenix 3 (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Phoenix 3 (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Phoenix 3 (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Plumbers Don't Wear Ties (USA)">
+    <description>Plumbers Don't Wear Ties (USA)</description>
+    <title_clean>Plumbers Don't Wear Ties</title_clean>
+    <title_search>plumbers dont wear ties</title_search>
+    <image ext="png" id="Plumbers Don't Wear Ties (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Plumbers Don't Wear Ties (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Plumbers Don't Wear Ties (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Policenauts (Japan) (Disc 1)">
+    <description>Policenauts (Japan) (Disc 1)</description>
+    <title_clean>Policenauts</title_clean>
+    <title_search>policenauts</title_search>
+  </game>
+  <game name="Policenauts (Japan) (Disc 2)">
+    <description>Policenauts (Japan) (Disc 2)</description>
+    <title_clean>Policenauts</title_clean>
+    <title_search>policenauts</title_search>
+  </game>
+  <game name="Policenauts - Pilot Disk (Japan)">
+    <description>Policenauts - Pilot Disk (Japan)</description>
+    <title_clean>Policenauts - Pilot Disk</title_clean>
+    <title_search>policenauts pilot disk</title_search>
+  </game>
+  <game name="Powers Kingdom (Europe)">
+    <description>Powers Kingdom (Europe)</description>
+    <title_clean>Powers Kingdom</title_clean>
+    <title_search>powers kingdom</title_search>
+  </game>
+  <game name="Powers Kingdom (Japan)">
+    <description>Powers Kingdom (Japan)</description>
+    <title_clean>Powers Kingdom</title_clean>
+    <title_search>powers kingdom</title_search>
+  </game>
+  <game name="Pretty Soldier SailorMoon S (Japan)">
+    <description>Pretty Soldier SailorMoon S (Japan)</description>
+    <title_clean>Pretty Soldier SailorMoon S</title_clean>
+    <title_search>pretty soldier sailormoon s</title_search>
+  </game>
+  <game name="Primal Rage (USA, Europe)">
+    <description>Primal Rage (USA, Europe)</description>
+    <title_clean>Primal Rage</title_clean>
+    <title_search>primal rage</title_search>
+    <image ext="png" id="Primal Rage (USA, Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Primal Rage (USA, Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Primal Rage (USA, Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Princess Maker 2 (Japan)">
+    <description>Princess Maker 2 (Japan)</description>
+    <title_clean>Princess Maker 2</title_clean>
+    <title_search>princess maker 2</title_search>
+  </game>
+  <game name="Pro Stadium (Japan)">
+    <description>Pro Stadium (Japan)</description>
+    <title_clean>Pro Stadium</title_clean>
+    <title_search>pro stadium</title_search>
+    <image ext="png" id="Pro Stadium (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pro Stadium (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pro Yakyuu Virtual Stadium - Professional Baseball (Japan)">
+    <description>Pro Yakyuu Virtual Stadium - Professional Baseball (Japan)</description>
+    <title_clean>Pro Yakyuu Virtual Stadium - Professional Baseball</title_clean>
+    <title_search>pro yakyuu virtual stadium professional baseball</title_search>
+    <image ext="png" id="Pro Yakyuu Virtual Stadium - Professional Baseball (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pro Yakyuu Virtual Stadium - Professional Baseball (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pro Yakyuu Virtual Stadium - Professional Baseball (Japan) (Demo)">
+    <description>Pro Yakyuu Virtual Stadium - Professional Baseball (Japan) (Demo)</description>
+    <title_clean>Pro Yakyuu Virtual Stadium - Professional Baseball</title_clean>
+    <title_search>pro yakyuu virtual stadium professional baseball</title_search>
+  </game>
+  <game name="Psychic Detective (USA) (Disc 1)">
+    <description>Psychic Detective (USA) (Disc 1)</description>
+    <title_clean>Psychic Detective</title_clean>
+    <title_search>psychic detective</title_search>
+    <image ext="png" id="Psychic Detective (USA) (Disc 1)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Psychic Detective (USA) (Disc 1)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Psychic Detective (USA) (Disc 2)">
+    <description>Psychic Detective (USA) (Disc 2)</description>
+    <title_clean>Psychic Detective</title_clean>
+    <title_search>psychic detective</title_search>
+    <image ext="png" id="Psychic Detective (USA) (Disc 2)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Psychic Detective (USA) (Disc 2)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Psychic Detective (USA) (Disc 3)">
+    <description>Psychic Detective (USA) (Disc 3)</description>
+    <title_clean>Psychic Detective</title_clean>
+    <title_search>psychic detective</title_search>
+    <image ext="png" id="Psychic Detective (USA) (Disc 3)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Psychic Detective (USA) (Disc 3)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Puppet Tale (Japan)">
+    <description>Puppet Tale (Japan)</description>
+    <title_clean>Puppet Tale</title_clean>
+    <title_search>puppet tale</title_search>
+  </game>
+  <game name="Putt-Putt Joins the Parade (Japan) (En,Ja)">
+    <description>Putt-Putt Joins the Parade (Japan) (En,Ja)</description>
+    <title_clean>Putt-Putt Joins the Parade</title_clean>
+    <title_search>puttputt joins the parade</title_search>
+  </game>
+  <game name="Putt-Putt Joins the Parade (USA)">
+    <description>Putt-Putt Joins the Parade (USA)</description>
+    <title_clean>Putt-Putt Joins the Parade</title_clean>
+    <title_search>puttputt joins the parade</title_search>
+    <image ext="png" id="Putt-Putt Joins the Parade (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Putt-Putt Joins the Parade (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Putt-Putt Joins the Parade (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Putt-Putt's Fun Pack (Japan) (En,Ja)">
+    <description>Putt-Putt's Fun Pack (Japan) (En,Ja)</description>
+    <title_clean>Putt-Putt's Fun Pack</title_clean>
+    <title_search>puttputts fun pack</title_search>
+  </game>
+  <game name="Putt-Putt's Fun Pack (USA)">
+    <description>Putt-Putt's Fun Pack (USA)</description>
+    <title_clean>Putt-Putt's Fun Pack</title_clean>
+    <title_search>puttputts fun pack</title_search>
+    <image ext="png" id="Putt-Putt's Fun Pack (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Putt-Putt's Fun Pack (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Puzzle Bobble (Japan)">
+    <description>Puzzle Bobble (Japan)</description>
+    <title_clean>Puzzle Bobble</title_clean>
+    <title_search>puzzle bobble</title_search>
+  </game>
+  <game name="Puzzle Bobble (Japan) (Demo)">
+    <description>Puzzle Bobble (Japan) (Demo)</description>
+    <title_clean>Puzzle Bobble</title_clean>
+    <title_search>puzzle bobble</title_search>
+  </game>
+  <game name="Pyramid Intruder (Japan)">
+    <description>Pyramid Intruder (Japan)</description>
+    <title_clean>Pyramid Intruder</title_clean>
+    <title_search>pyramid intruder</title_search>
+    <image ext="png" id="Pyramid Intruder (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pyramid Intruder (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pyramid Intruder (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Quarantine (Japan, USA) (En,Ja,Fr,De,Es) (Rev 3)">
+    <description>Quarantine (Japan, USA) (En,Ja,Fr,De,Es) (Rev 3)</description>
+    <title_clean>Quarantine</title_clean>
+    <title_search>quarantine</title_search>
+  </game>
+  <game name="Real Pinball (Europe)">
+    <description>Real Pinball (Europe)</description>
+    <title_clean>Real Pinball</title_clean>
+    <title_search>real pinball</title_search>
+    <image ext="png" id="Real Pinball (Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Return Fire (Japan, Europe) (En,Ja,Fr,De,Es,It,Pt,Ko,Ru,Ar)">
+    <description>Return Fire (Japan, Europe) (En,Ja,Fr,De,Es,It,Pt,Ko,Ru,Ar)</description>
+    <title_clean>Return Fire</title_clean>
+    <title_search>return fire</title_search>
+  </game>
+  <game name="Return Fire (USA)">
+    <description>Return Fire (USA)</description>
+    <title_clean>Return Fire</title_clean>
+    <title_search>return fire</title_search>
+    <image ext="png" id="Return Fire (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Return Fire (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Return Fire (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Return Fire (USA, Europe)">
+    <description>Return Fire (USA, Europe)</description>
+    <title_clean>Return Fire</title_clean>
+    <title_search>return fire</title_search>
+  </game>
+  <game name="Return Fire - Maps o' Death (Europe)">
+    <description>Return Fire - Maps o' Death (Europe)</description>
+    <title_clean>Return Fire - Maps o' Death</title_clean>
+    <title_search>return fire maps o death</title_search>
+    <image ext="png" id="Return Fire - Maps o' Death (Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Rise of the Robots (USA)">
+    <description>Rise of the Robots (USA)</description>
+    <title_clean>Rise of the Robots</title_clean>
+    <title_search>rise of the robots</title_search>
+    <image ext="png" id="Rise of the Robots (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rise of the Robots (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rise of the Robots (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Road Rash (Europe)">
+    <description>Road Rash (Europe)</description>
+    <title_clean>Road Rash</title_clean>
+    <title_search>road rash</title_search>
+    <image ext="png" id="Road Rash (Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Road Rash (Japan)">
+    <description>Road Rash (Japan)</description>
+    <title_clean>Road Rash</title_clean>
+    <title_search>road rash</title_search>
+  </game>
+  <game name="Road Rash (USA)">
+    <description>Road Rash (USA)</description>
+    <title_clean>Road Rash</title_clean>
+    <title_search>road rash</title_search>
+    <image ext="png" id="Road Rash (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Road Rash (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Road Rash (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Road _ Track Presents - OverDrivin' (Japan)">
+    <description>Road _ Track Presents - OverDrivin' (Japan)</description>
+    <title_clean>Road _ Track Presents - OverDrivin'</title_clean>
+    <title_search>road track presents overdrivin</title_search>
+  </game>
+  <game name="Road _ Track Presents - The Need for Speed (USA, Europe)">
+    <description>Road _ Track Presents - The Need for Speed (USA, Europe)</description>
+    <title_clean>Road _ Track Presents - The Need for Speed</title_clean>
+    <title_search>road track presents the need for speed</title_search>
+  </game>
+  <game name="Robinson's Requiem (USA)">
+    <description>Robinson's Requiem (USA)</description>
+    <title_clean>Robinson's Requiem</title_clean>
+    <title_search>robinsons requiem</title_search>
+    <image ext="png" id="Robinson's Requiem (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Robinson's Requiem (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Robinson's Requiem (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SHADOW - War of Succession (USA)">
+    <description>SHADOW - War of Succession (USA)</description>
+    <title_clean>SHADOW - War of Succession</title_clean>
+    <title_search>shadow war of succession</title_search>
+  </game>
+  <game name="SHADOW Warriors (Japan)">
+    <description>SHADOW Warriors (Japan)</description>
+    <title_clean>SHADOW Warriors</title_clean>
+    <title_search>shadow warriors</title_search>
+  </game>
+  <game name="Sample This! (USA)">
+    <description>Sample This! (USA)</description>
+    <title_clean>Sample This!</title_clean>
+    <title_search>sample this</title_search>
+    <image ext="png" id="Sample This! (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Samurai Shodown (Japan) (En,Ja)">
+    <description>Samurai Shodown (Japan) (En,Ja)</description>
+    <title_clean>Samurai Shodown</title_clean>
+    <title_search>samurai shodown</title_search>
+  </game>
+  <game name="Samurai Shodown (USA, Europe)">
+    <description>Samurai Shodown (USA, Europe)</description>
+    <title_clean>Samurai Shodown</title_clean>
+    <title_search>samurai shodown</title_search>
+    <image ext="png" id="Samurai Shodown (USA, Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Samurai Shodown (USA, Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sangokushi IV (Japan)">
+    <description>Sangokushi IV (Japan)</description>
+    <title_clean>Sangokushi IV</title_clean>
+    <title_search>sangokushi iv</title_search>
+  </game>
+  <game name="Scramble Cobra (Japan)">
+    <description>Scramble Cobra (Japan)</description>
+    <title_clean>Scramble Cobra</title_clean>
+    <title_search>scramble cobra</title_search>
+  </game>
+  <game name="Secre Fuumin no Omochabako (Japan)">
+    <description>Secre Fuumin no Omochabako (Japan)</description>
+    <title_clean>Secre Fuumin no Omochabako</title_clean>
+    <title_search>secre fuumin no omochabako</title_search>
+  </game>
+  <game name="Seimei Handan (Japan)">
+    <description>Seimei Handan (Japan)</description>
+    <title_clean>Seimei Handan</title_clean>
+    <title_search>seimei handan</title_search>
+  </game>
+  <game name="Sento Monogatari - Sono I (Japan)">
+    <description>Sento Monogatari - Sono I (Japan)</description>
+    <title_clean>Sento Monogatari - Sono I</title_clean>
+    <title_search>sento monogatari sono i</title_search>
+  </game>
+  <game name="Sesame Street - Numbers (Japan)">
+    <description>Sesame Street - Numbers (Japan)</description>
+    <title_clean>Sesame Street - Numbers</title_clean>
+    <title_search>sesame street numbers</title_search>
+  </game>
+  <game name="Sewer Shark (USA)">
+    <description>Sewer Shark (USA)</description>
+    <title_clean>Sewer Shark</title_clean>
+    <title_search>sewer shark</title_search>
+    <image ext="png" id="Sewer Shark (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sewer Shark (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sewer Shark (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sex (USA)">
+    <description>Sex (USA)</description>
+    <title_clean>Sex</title_clean>
+    <title_search>sex</title_search>
+    <image ext="png" id="Sex (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sex (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sex (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shanghai - Banri no Choujou - The Great Wall (Japan) (Rev 1)">
+    <description>Shanghai - Banri no Choujou - The Great Wall (Japan) (Rev 1)</description>
+    <title_clean>Shanghai - Banri no Choujou - The Great Wall</title_clean>
+    <title_search>shanghai banri no choujou the great wall</title_search>
+  </game>
+  <game name="Shanghai - Triple-Threat (USA)">
+    <description>Shanghai - Triple-Threat (USA)</description>
+    <title_clean>Shanghai - Triple-Threat</title_clean>
+    <title_search>shanghai triplethreat</title_search>
+    <image ext="png" id="Shanghai - Triple-Threat (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shanghai - Triple-Threat (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shanghai - Triple-Threat (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shanghai - Triple-Threat (USA) (3DO Action Pak)">
+    <description>Shanghai - Triple-Threat (USA) (3DO Action Pak)</description>
+    <title_clean>Shanghai - Triple-Threat</title_clean>
+    <title_search>shanghai triplethreat</title_search>
+  </game>
+  <game name="Shelley Duvall's It's a Bird's Life (USA)">
+    <description>Shelley Duvall's It's a Bird's Life (USA)</description>
+    <title_clean>Shelley Duvall's It's a Bird's Life</title_clean>
+    <title_search>shelley duvalls its a birds life</title_search>
+  </game>
+  <game name="Shock Wave (Europe)">
+    <description>Shock Wave (Europe)</description>
+    <title_clean>Shock Wave</title_clean>
+    <title_search>shock wave</title_search>
+  </game>
+  <game name="Shock Wave (Japan)">
+    <description>Shock Wave (Japan)</description>
+    <title_clean>Shock Wave</title_clean>
+    <title_search>shock wave</title_search>
+  </game>
+  <game name="Shock Wave (USA) (Rev 1)">
+    <description>Shock Wave (USA) (Rev 1)</description>
+    <title_clean>Shock Wave</title_clean>
+    <title_search>shock wave</title_search>
+  </game>
+  <game name="Shock Wave (USA) (Rev 2)">
+    <description>Shock Wave (USA) (Rev 2)</description>
+    <title_clean>Shock Wave</title_clean>
+    <title_search>shock wave</title_search>
+  </game>
+  <game name="Shock Wave - Operation JumpGate (Japan)">
+    <description>Shock Wave - Operation JumpGate (Japan)</description>
+    <title_clean>Shock Wave - Operation JumpGate</title_clean>
+    <title_search>shock wave operation jumpgate</title_search>
+    <image ext="png" id="Shock Wave - Operation JumpGate (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Shock Wave - Operation JumpGate (USA, Europe)">
+    <description>Shock Wave - Operation JumpGate (USA, Europe)</description>
+    <title_clean>Shock Wave - Operation JumpGate</title_clean>
+    <title_search>shock wave operation jumpgate</title_search>
+  </game>
+  <game name="Shockwave 2 - Beyond the Gate (USA) (Disc 1)">
+    <description>Shockwave 2 - Beyond the Gate (USA) (Disc 1)</description>
+    <title_clean>Shockwave 2 - Beyond the Gate</title_clean>
+    <title_search>shockwave 2 beyond the gate</title_search>
+    <image ext="png" id="Shockwave 2 - Beyond the Gate (USA) (Disc 1)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shockwave 2 - Beyond the Gate (USA) (Disc 1)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shockwave 2 - Beyond the Gate (USA) (Disc 2)">
+    <description>Shockwave 2 - Beyond the Gate (USA) (Disc 2)</description>
+    <title_clean>Shockwave 2 - Beyond the Gate</title_clean>
+    <title_search>shockwave 2 beyond the gate</title_search>
+    <image ext="png" id="Shockwave 2 - Beyond the Gate (USA) (Disc 2)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shockwave 2 - Beyond the Gate (USA) (Disc 2)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Short Warp - Warp's Short Game Collection (Japan)">
+    <description>Short Warp - Warp's Short Game Collection (Japan)</description>
+    <title_clean>Short Warp - Warp's Short Game Collection</title_clean>
+    <title_search>short warp warps short game collection</title_search>
+  </game>
+  <game name="Sid Meier's C.P.U. Bach (USA)">
+    <description>Sid Meier's C.P.U. Bach (USA)</description>
+    <title_clean>Sid Meier's C.P.U. Bach</title_clean>
+    <title_search>sid meiers cpu bach</title_search>
+    <image ext="png" id="Sid Meier's C.P.U. Bach (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sid Meier's C.P.U. Bach (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sid Meier's C.P.U. Bach (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Slam 'n Jam '95 (Japan)">
+    <description>Slam 'n Jam '95 (Japan)</description>
+    <title_clean>Slam 'n Jam '95</title_clean>
+    <title_search>slam n jam 95</title_search>
+  </game>
+  <game name="Slam 'n Jam '95 (USA, Europe)">
+    <description>Slam 'n Jam '95 (USA, Europe)</description>
+    <title_clean>Slam 'n Jam '95</title_clean>
+    <title_search>slam n jam 95</title_search>
+    <image ext="png" id="Slam 'n Jam '95 (USA, Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Slayer (USA)">
+    <description>Slayer (USA)</description>
+    <title_clean>Slayer</title_clean>
+    <title_search>slayer</title_search>
+    <image ext="png" id="Slayer (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Slayer (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Slayer (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Slayer (USA) (3DO Action Pak)">
+    <description>Slayer (USA) (3DO Action Pak)</description>
+    <title_clean>Slayer</title_clean>
+    <title_search>slayer</title_search>
+  </game>
+  <game name="Soccer Kid (Europe)">
+    <description>Soccer Kid (Europe)</description>
+    <title_clean>Soccer Kid</title_clean>
+    <title_search>soccer kid</title_search>
+  </game>
+  <game name="Soccer Kid (USA) (Rev 1)">
+    <description>Soccer Kid (USA) (Rev 1)</description>
+    <title_clean>Soccer Kid</title_clean>
+    <title_search>soccer kid</title_search>
+  </game>
+  <game name="Sotsugyou - Graduation - Final (Japan)">
+    <description>Sotsugyou - Graduation - Final (Japan)</description>
+    <title_clean>Sotsugyou - Graduation - Final</title_clean>
+    <title_search>sotsugyou graduation final</title_search>
+    <image ext="png" id="Sotsugyou - Graduation - Final (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sotsugyou - Graduation - Final (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sotsugyou - Graduation - Final (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sotsugyou II Special - Neo Generation (Japan)">
+    <description>Sotsugyou II Special - Neo Generation (Japan)</description>
+    <title_clean>Sotsugyou II Special - Neo Generation</title_clean>
+    <title_search>sotsugyou ii special neo generation</title_search>
+  </game>
+  <game name="Space Ace (Europe) (Demo)">
+    <description>Space Ace (Europe) (Demo)</description>
+    <title_clean>Space Ace</title_clean>
+    <title_search>space ace</title_search>
+  </game>
+  <game name="Space Ace (USA)">
+    <description>Space Ace (USA)</description>
+    <title_clean>Space Ace</title_clean>
+    <title_search>space ace</title_search>
+    <image ext="png" id="Space Ace (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Ace (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Ace (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Hulk - Vengeance of the Blood Angels (Europe)">
+    <description>Space Hulk - Vengeance of the Blood Angels (Europe)</description>
+    <title_clean>Space Hulk - Vengeance of the Blood Angels</title_clean>
+    <title_search>space hulk vengeance of the blood angels</title_search>
+    <image ext="png" id="Space Hulk - Vengeance of the Blood Angels (Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Space Hulk - Vengeance of the Blood Angels (USA)">
+    <description>Space Hulk - Vengeance of the Blood Angels (USA)</description>
+    <title_clean>Space Hulk - Vengeance of the Blood Angels</title_clean>
+    <title_search>space hulk vengeance of the blood angels</title_search>
+    <image ext="png" id="Space Hulk - Vengeance of the Blood Angels (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Hulk - Vengeance of the Blood Angels (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Hulk - Vengeance of the Blood Angels (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Pirates (USA)">
+    <description>Space Pirates (USA)</description>
+    <title_clean>Space Pirates</title_clean>
+    <title_search>space pirates</title_search>
+    <image ext="png" id="Space Pirates (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Pirates (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Pirates (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Star Control II (USA)">
+    <description>Star Control II (USA)</description>
+    <title_clean>Star Control II</title_clean>
+    <title_search>star control ii</title_search>
+    <image ext="png" id="Star Control II (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Star Control II - The Ur-Quan Masters (Japan)">
+    <description>Star Control II - The Ur-Quan Masters (Japan)</description>
+    <title_clean>Star Control II - The Ur-Quan Masters</title_clean>
+    <title_search>star control ii the urquan masters</title_search>
+  </game>
+  <game name="Star Fighter (Europe) (Demo)">
+    <description>Star Fighter (Europe) (Demo)</description>
+    <title_clean>Star Fighter</title_clean>
+    <title_search>star fighter</title_search>
+  </game>
+  <game name="Star Fighter (USA, Europe)">
+    <description>Star Fighter (USA, Europe)</description>
+    <title_clean>Star Fighter</title_clean>
+    <title_search>star fighter</title_search>
+    <image ext="png" id="Star Fighter (USA, Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Fighter (USA, Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Star Wars - Rebel Assault (Japan)">
+    <description>Star Wars - Rebel Assault (Japan)</description>
+    <title_clean>Star Wars - Rebel Assault</title_clean>
+    <title_search>star wars rebel assault</title_search>
+    <image ext="png" id="Star Wars - Rebel Assault (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Star Wars - Rebel Assault (USA, Europe)">
+    <description>Star Wars - Rebel Assault (USA, Europe)</description>
+    <title_clean>Star Wars - Rebel Assault</title_clean>
+    <title_search>star wars rebel assault</title_search>
+    <image ext="png" id="Star Wars - Rebel Assault (USA, Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Star Wars - Rebel Assault (USA, Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Starblade (Canada)">
+    <description>Starblade (Canada)</description>
+    <title_clean>Starblade</title_clean>
+    <title_search>starblade</title_search>
+  </game>
+  <game name="Starblade (Europe)">
+    <description>Starblade (Europe)</description>
+    <title_clean>Starblade</title_clean>
+    <title_search>starblade</title_search>
+    <image ext="png" id="Starblade (Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Starblade (Japan)">
+    <description>Starblade (Japan)</description>
+    <title_clean>Starblade</title_clean>
+    <title_search>starblade</title_search>
+  </game>
+  <game name="Starblade (Japan) (Demo)">
+    <description>Starblade (Japan) (Demo)</description>
+    <title_clean>Starblade</title_clean>
+    <title_search>starblade</title_search>
+  </game>
+  <game name="Stellar 7 - Draxon's Revenge (Japan)">
+    <description>Stellar 7 - Draxon's Revenge (Japan)</description>
+    <title_clean>Stellar 7 - Draxon's Revenge</title_clean>
+    <title_search>stellar 7 draxons revenge</title_search>
+    <image ext="png" id="Stellar 7 - Draxon's Revenge (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Stellar 7 - Draxon's Revenge (USA)">
+    <description>Stellar 7 - Draxon's Revenge (USA)</description>
+    <title_clean>Stellar 7 - Draxon's Revenge</title_clean>
+    <title_search>stellar 7 draxons revenge</title_search>
+    <image ext="png" id="Stellar 7 - Draxon's Revenge (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Stellar 7 - Draxon's Revenge (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Stellar 7 - Draxon's Revenge (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Step Aerobics (USA)">
+    <description>Step Aerobics (USA)</description>
+    <title_clean>Step Aerobics</title_clean>
+    <title_search>step aerobics</title_search>
+  </game>
+  <game name="Strahl (Japan)">
+    <description>Strahl (Japan)</description>
+    <title_clean>Strahl</title_clean>
+    <title_search>strahl</title_search>
+  </game>
+  <game name="Striker - World Cup Special (Europe)">
+    <description>Striker - World Cup Special (Europe)</description>
+    <title_clean>Striker - World Cup Special</title_clean>
+    <title_search>striker world cup special</title_search>
+    <image ext="png" id="Striker - World Cup Special (Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Striker - World Cup Special (Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Striker - World Cup Special (Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Real Mahjong P.V (Japan)">
+    <description>Super Real Mahjong P.V (Japan)</description>
+    <title_clean>Super Real Mahjong P.V</title_clean>
+    <title_search>super real mahjong pv</title_search>
+    <image ext="png" id="Super Real Mahjong P.V (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Real Mahjong P.V (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Real Mahjong PIV + Aishou Shindan (Japan)">
+    <description>Super Real Mahjong PIV + Aishou Shindan (Japan)</description>
+    <title_clean>Super Real Mahjong PIV + Aishou Shindan</title_clean>
+    <title_search>super real mahjong piv aishou shindan</title_search>
+    <image ext="png" id="Super Real Mahjong PIV + Aishou Shindan (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Real Mahjong PIV + Aishou Shindan (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Real Mahjong PIV + Aishou Shindan (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Street Fighter II Turbo (Europe)">
+    <description>Super Street Fighter II Turbo (Europe)</description>
+    <title_clean>Super Street Fighter II Turbo</title_clean>
+    <title_search>super street fighter ii turbo</title_search>
+  </game>
+  <game name="Super Street Fighter II Turbo (Europe) (Demo)">
+    <description>Super Street Fighter II Turbo (Europe) (Demo)</description>
+    <title_clean>Super Street Fighter II Turbo</title_clean>
+    <title_search>super street fighter ii turbo</title_search>
+  </game>
+  <game name="Super Street Fighter II Turbo (USA) (Rev 1)">
+    <description>Super Street Fighter II Turbo (USA) (Rev 1)</description>
+    <title_clean>Super Street Fighter II Turbo</title_clean>
+    <title_search>super street fighter ii turbo</title_search>
+  </game>
+  <game name="Super Street Fighter II Turbo (USA) (Rev 2)">
+    <description>Super Street Fighter II Turbo (USA) (Rev 2)</description>
+    <title_clean>Super Street Fighter II Turbo</title_clean>
+    <title_search>super street fighter ii turbo</title_search>
+  </game>
+  <game name="Super Street Fighter II X - Grand Master Challenge (Japan)">
+    <description>Super Street Fighter II X - Grand Master Challenge (Japan)</description>
+    <title_clean>Super Street Fighter II X - Grand Master Challenge</title_clean>
+    <title_search>super street fighter ii x grand master challenge</title_search>
+    <image ext="png" id="Super Street Fighter II X - Grand Master Challenge (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Super Wing Commander (Europe)">
+    <description>Super Wing Commander (Europe)</description>
+    <title_clean>Super Wing Commander</title_clean>
+    <title_search>super wing commander</title_search>
+    <image ext="png" id="Super Wing Commander (Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Super Wing Commander (Japan)">
+    <description>Super Wing Commander (Japan)</description>
+    <title_clean>Super Wing Commander</title_clean>
+    <title_search>super wing commander</title_search>
+  </game>
+  <game name="Super Wing Commander (USA)">
+    <description>Super Wing Commander (USA)</description>
+    <title_clean>Super Wing Commander</title_clean>
+    <title_search>super wing commander</title_search>
+    <image ext="png" id="Super Wing Commander (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Wing Commander (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Wing Commander (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SuperModels Go Wild (USA)">
+    <description>SuperModels Go Wild (USA)</description>
+    <title_clean>SuperModels Go Wild</title_clean>
+    <title_search>supermodels go wild</title_search>
+    <image ext="png" id="SuperModels Go Wild (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SuperModels Go Wild (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Supreme Warrior (Japan) (Ja,Zh) (Disc 1) (Fire _ Earth)">
+    <description>Supreme Warrior (Japan) (Ja,Zh) (Disc 1) (Fire _ Earth)</description>
+    <title_clean>Supreme Warrior</title_clean>
+    <title_search>supreme warrior</title_search>
+  </game>
+  <game name="Supreme Warrior (Japan) (Ja,Zh) (Disc 2) (Wind _ Fang Tu)">
+    <description>Supreme Warrior (Japan) (Ja,Zh) (Disc 2) (Wind _ Fang Tu)</description>
+    <title_clean>Supreme Warrior</title_clean>
+    <title_search>supreme warrior</title_search>
+  </game>
+  <game name="Supreme Warrior (USA) (Disc 2) (Wind _ Fang Tu)">
+    <description>Supreme Warrior (USA) (Disc 2) (Wind _ Fang Tu)</description>
+    <title_clean>Supreme Warrior</title_clean>
+    <title_search>supreme warrior</title_search>
+  </game>
+  <game name="Sword _ Sorcery (Japan)">
+    <description>Sword _ Sorcery (Japan)</description>
+    <title_clean>Sword _ Sorcery</title_clean>
+    <title_search>sword sorcery</title_search>
+  </game>
+  <game name="Sword _ Sorcery (Japan) (Demo)">
+    <description>Sword _ Sorcery (Japan) (Demo)</description>
+    <title_clean>Sword _ Sorcery</title_clean>
+    <title_search>sword sorcery</title_search>
+  </game>
+  <game name="Syndicate (Europe)">
+    <description>Syndicate (Europe)</description>
+    <title_clean>Syndicate</title_clean>
+    <title_search>syndicate</title_search>
+    <image ext="png" id="Syndicate (Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Syndicate (Europe) (Demo)">
+    <description>Syndicate (Europe) (Demo)</description>
+    <title_clean>Syndicate</title_clean>
+    <title_search>syndicate</title_search>
+  </game>
+  <game name="Syndicate (Japan)">
+    <description>Syndicate (Japan)</description>
+    <title_clean>Syndicate</title_clean>
+    <title_search>syndicate</title_search>
+  </game>
+  <game name="T_E VR Golf - Devil's Course (Japan)">
+    <description>T_E VR Golf - Devil's Course (Japan)</description>
+    <title_clean>T_E VR Golf - Devil's Course</title_clean>
+    <title_search>te vr golf devils course</title_search>
+  </game>
+  <game name="T_E VR Golf - Masters - Harukanaru Augusta 3 (Japan)">
+    <description>T_E VR Golf - Masters - Harukanaru Augusta 3 (Japan)</description>
+    <title_clean>T_E VR Golf - Masters - Harukanaru Augusta 3</title_clean>
+    <title_search>te vr golf masters harukanaru augusta 3</title_search>
+  </game>
+  <game name="T_E VR Golf - Pebble Beach no Hatou (Japan)">
+    <description>T_E VR Golf - Pebble Beach no Hatou (Japan)</description>
+    <title_clean>T_E VR Golf - Pebble Beach no Hatou</title_clean>
+    <title_search>te vr golf pebble beach no hatou</title_search>
+  </game>
+  <game name="T_E VR Golf - Waialae no Kiseki (Japan)">
+    <description>T_E VR Golf - Waialae no Kiseki (Japan)</description>
+    <title_clean>T_E VR Golf - Waialae no Kiseki</title_clean>
+    <title_search>te vr golf waialae no kiseki</title_search>
+  </game>
+  <game name="Taiketsu Rumiizu! (Japan)">
+    <description>Taiketsu Rumiizu! (Japan)</description>
+    <title_clean>Taiketsu Rumiizu!</title_clean>
+    <title_search>taiketsu rumiizu</title_search>
+  </game>
+  <game name="Takeru (Japan)">
+    <description>Takeru (Japan)</description>
+    <title_clean>Takeru</title_clean>
+    <title_search>takeru</title_search>
+  </game>
+  <game name="Tarot Uranai (Japan)">
+    <description>Tarot Uranai (Japan)</description>
+    <title_clean>Tarot Uranai</title_clean>
+    <title_search>tarot uranai</title_search>
+  </game>
+  <game name="Tetsujin (Japan)">
+    <description>Tetsujin (Japan)</description>
+    <title_clean>Tetsujin</title_clean>
+    <title_search>tetsujin</title_search>
+  </game>
+  <game name="Tetsujin Returns (Japan)">
+    <description>Tetsujin Returns (Japan)</description>
+    <title_clean>Tetsujin Returns</title_clean>
+    <title_search>tetsujin returns</title_search>
+  </game>
+  <game name="Theatre Wars - Goraku no Dendou (Japan)">
+    <description>Theatre Wars - Goraku no Dendou (Japan)</description>
+    <title_clean>Theatre Wars - Goraku no Dendou</title_clean>
+    <title_search>theatre wars goraku no dendou</title_search>
+  </game>
+  <game name="Theme Park (Europe) (Demo)">
+    <description>Theme Park (Europe) (Demo)</description>
+    <title_clean>Theme Park</title_clean>
+    <title_search>theme park</title_search>
+  </game>
+  <game name="Theme Park (Europe) (En,Fr)">
+    <description>Theme Park (Europe) (En,Fr)</description>
+    <title_clean>Theme Park</title_clean>
+    <title_search>theme park</title_search>
+  </game>
+  <game name="Theme Park (Japan)">
+    <description>Theme Park (Japan)</description>
+    <title_clean>Theme Park</title_clean>
+    <title_search>theme park</title_search>
+  </game>
+  <game name="Toki o Koeta Tegami (Japan)">
+    <description>Toki o Koeta Tegami (Japan)</description>
+    <title_clean>Toki o Koeta Tegami</title_clean>
+    <title_search>toki o koeta tegami</title_search>
+  </game>
+  <game name="Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan)">
+    <description>Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan)</description>
+    <title_clean>Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat</title_clean>
+    <title_search>tokimeki mahjong paradise special koi no tenpai beat</title_search>
+    <image ext="png" id="Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Total Eclipse (Europe)">
+    <description>Total Eclipse (Europe)</description>
+    <title_clean>Total Eclipse</title_clean>
+    <title_search>total eclipse</title_search>
+  </game>
+  <game name="Total Eclipse (Japan)">
+    <description>Total Eclipse (Japan)</description>
+    <title_clean>Total Eclipse</title_clean>
+    <title_search>total eclipse</title_search>
+  </game>
+  <game name="Total Eclipse (Korea)">
+    <description>Total Eclipse (Korea)</description>
+    <title_clean>Total Eclipse</title_clean>
+    <title_search>total eclipse</title_search>
+  </game>
+  <game name="Total Eclipse (USA)">
+    <description>Total Eclipse (USA)</description>
+    <title_clean>Total Eclipse</title_clean>
+    <title_search>total eclipse</title_search>
+    <image ext="png" id="Total Eclipse (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Total Eclipse (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Total Eclipse (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Total Eclipse (USA, Europe)">
+    <description>Total Eclipse (USA, Europe)</description>
+    <title_clean>Total Eclipse</title_clean>
+    <title_search>total eclipse</title_search>
+  </game>
+  <game name="Totsugeki Karakuri! Megadas!! (Japan)">
+    <description>Totsugeki Karakuri! Megadas!! (Japan)</description>
+    <title_clean>Totsugeki Karakuri! Megadas!!</title_clean>
+    <title_search>totsugeki karakuri megadas</title_search>
+  </game>
+  <game name="Tower, The (Japan)">
+    <description>Tower, The (Japan)</description>
+    <title_clean>The Tower</title_clean>
+    <title_search>the tower</title_search>
+  </game>
+  <game name="Tozasareta Yakata (Japan)">
+    <description>Tozasareta Yakata (Japan)</description>
+    <title_clean>Tozasareta Yakata</title_clean>
+    <title_search>tozasareta yakata</title_search>
+  </game>
+  <game name="Trip'd (USA)">
+    <description>Trip'd (USA)</description>
+    <title_clean>Trip'd</title_clean>
+    <title_search>tripd</title_search>
+    <image ext="png" id="Trip'd (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="True Golf Classics - Pebble Beach Golf Links (Europe)">
+    <description>True Golf Classics - Pebble Beach Golf Links (Europe)</description>
+    <title_clean>True Golf Classics - Pebble Beach Golf Links</title_clean>
+    <title_search>true golf classics pebble beach golf links</title_search>
+  </game>
+  <game name="True Golf Classics - Waialae Country Club (Germany)">
+    <description>True Golf Classics - Waialae Country Club (Germany)</description>
+    <title_clean>True Golf Classics - Waialae Country Club</title_clean>
+    <title_search>true golf classics waialae country club</title_search>
+  </game>
+  <game name="Twisted (Japan)">
+    <description>Twisted (Japan)</description>
+    <title_clean>Twisted</title_clean>
+    <title_search>twisted</title_search>
+  </game>
+  <game name="Twisted - The Game Show (Europe)">
+    <description>Twisted - The Game Show (Europe)</description>
+    <title_clean>Twisted - The Game Show</title_clean>
+    <title_search>twisted the game show</title_search>
+    <image ext="png" id="Twisted - The Game Show (Europe)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Twisted - The Game Show (USA)">
+    <description>Twisted - The Game Show (USA)</description>
+    <title_clean>Twisted - The Game Show</title_clean>
+    <title_search>twisted the game show</title_search>
+    <image ext="png" id="Twisted - The Game Show (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Twisted - The Game Show (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Twisted - The Game Show (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Twisted - The Game Show (USA) (Alt)">
+    <description>Twisted - The Game Show (USA) (Alt)</description>
+    <title_clean>Twisted - The Game Show</title_clean>
+    <title_search>twisted the game show</title_search>
+  </game>
+  <game name="Uchuu Seibutsu Flopon-kun (Japan)">
+    <description>Uchuu Seibutsu Flopon-kun (Japan)</description>
+    <title_clean>Uchuu Seibutsu Flopon-kun</title_clean>
+    <title_search>uchuu seibutsu floponkun</title_search>
+  </game>
+  <game name="Ultraman Powered (Japan)">
+    <description>Ultraman Powered (Japan)</description>
+    <title_clean>Ultraman Powered</title_clean>
+    <title_search>ultraman powered</title_search>
+    <image ext="png" id="Ultraman Powered (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ultraman Powered (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="V Goal Soccer '96 (Japan)">
+    <description>V Goal Soccer '96 (Japan)</description>
+    <title_clean>V Goal Soccer '96</title_clean>
+    <title_search>v goal soccer 96</title_search>
+    <image ext="png" id="V Goal Soccer '96 (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="V Goal Soccer '96 (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="VR Stalker (Europe) (Improved Version)">
+    <description>VR Stalker (Europe) (Improved Version)</description>
+    <title_clean>VR Stalker</title_clean>
+    <title_search>vr stalker</title_search>
+  </game>
+  <game name="VR Stalker (USA)">
+    <description>VR Stalker (USA)</description>
+    <title_clean>VR Stalker</title_clean>
+    <title_search>vr stalker</title_search>
+    <image ext="png" id="VR Stalker (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="VR Stalker (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="VR Stalker (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Virtual Cameraman Part 1 - Naomi Sawada _ Anna Juri (Japan)">
+    <description>Virtual Cameraman Part 1 - Naomi Sawada _ Anna Juri (Japan)</description>
+    <title_clean>Virtual Cameraman Part 1 - Naomi Sawada _ Anna Juri</title_clean>
+    <title_search>virtual cameraman part 1 naomi sawada anna juri</title_search>
+  </game>
+  <game name="Virtual Cameraman Part 2 - Natsumi Kawai _ Kimi Tachihara (Japan)">
+    <description>Virtual Cameraman Part 2 - Natsumi Kawai _ Kimi Tachihara (Japan)</description>
+    <title_clean>Virtual Cameraman Part 2 - Natsumi Kawai _ Kimi Tachihara</title_clean>
+    <title_search>virtual cameraman part 2 natsumi kawai kimi tachihara</title_search>
+  </game>
+  <game name="Virtual Horror - Norowareta Yakata (Japan)">
+    <description>Virtual Horror - Norowareta Yakata (Japan)</description>
+    <title_clean>Virtual Horror - Norowareta Yakata</title_clean>
+    <title_search>virtual horror norowareta yakata</title_search>
+  </game>
+  <game name="Virtual Puppet Reika (Japan)">
+    <description>Virtual Puppet Reika (Japan)</description>
+    <title_clean>Virtual Puppet Reika</title_clean>
+    <title_search>virtual puppet reika</title_search>
+  </game>
+  <game name="Virtual Quest - Pharaoh no Fuuin (Japan)">
+    <description>Virtual Quest - Pharaoh no Fuuin (Japan)</description>
+    <title_clean>Virtual Quest - Pharaoh no Fuuin</title_clean>
+    <title_search>virtual quest pharaoh no fuuin</title_search>
+  </game>
+  <game name="Virtual Vivid (USA) (RE-1)">
+    <description>Virtual Vivid (USA) (RE-1)</description>
+    <title_clean>Virtual Vivid</title_clean>
+    <title_search>virtual vivid</title_search>
+  </game>
+  <game name="Virtuoso (Japan)">
+    <description>Virtuoso (Japan)</description>
+    <title_clean>Virtuoso</title_clean>
+    <title_search>virtuoso</title_search>
+    <image ext="png" id="Virtuoso (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Waialae Country Club (USA)">
+    <description>Waialae Country Club (USA)</description>
+    <title_clean>Waialae Country Club</title_clean>
+    <title_search>waialae country club</title_search>
+    <image ext="png" id="Waialae Country Club (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Waialae Country Club (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Waialae Country Club (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Way of the Warrior (Japan)">
+    <description>Way of the Warrior (Japan)</description>
+    <title_clean>Way of the Warrior</title_clean>
+    <title_search>way of the warrior</title_search>
+    <image ext="png" id="Way of the Warrior (Japan)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Way of the Warrior (USA)">
+    <description>Way of the Warrior (USA)</description>
+    <title_clean>Way of the Warrior</title_clean>
+    <title_search>way of the warrior</title_search>
+    <image ext="png" id="Way of the Warrior (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Way of the Warrior (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Way of the Warrior (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wing Commander III - Heart of the Tiger (Germany) (Disc 1)">
+    <description>Wing Commander III - Heart of the Tiger (Germany) (Disc 1)</description>
+    <title_clean>Wing Commander III - Heart of the Tiger</title_clean>
+    <title_search>wing commander iii heart of the tiger</title_search>
+  </game>
+  <game name="Wing Commander III - Heart of the Tiger (Germany) (Disc 2)">
+    <description>Wing Commander III - Heart of the Tiger (Germany) (Disc 2)</description>
+    <title_clean>Wing Commander III - Heart of the Tiger</title_clean>
+    <title_search>wing commander iii heart of the tiger</title_search>
+  </game>
+  <game name="Wing Commander III - Heart of the Tiger (Germany) (Disc 3)">
+    <description>Wing Commander III - Heart of the Tiger (Germany) (Disc 3)</description>
+    <title_clean>Wing Commander III - Heart of the Tiger</title_clean>
+    <title_search>wing commander iii heart of the tiger</title_search>
+  </game>
+  <game name="Wing Commander III - Heart of the Tiger (Germany) (Disc 4)">
+    <description>Wing Commander III - Heart of the Tiger (Germany) (Disc 4)</description>
+    <title_clean>Wing Commander III - Heart of the Tiger</title_clean>
+    <title_search>wing commander iii heart of the tiger</title_search>
+  </game>
+  <game name="Wing Commander III - Heart of the Tiger (USA) (Disc 1)">
+    <description>Wing Commander III - Heart of the Tiger (USA) (Disc 1)</description>
+    <title_clean>Wing Commander III - Heart of the Tiger</title_clean>
+    <title_search>wing commander iii heart of the tiger</title_search>
+    <image ext="png" id="Wing Commander III - Heart of the Tiger (USA) (Disc 1)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wing Commander III - Heart of the Tiger (USA) (Disc 1)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2)">
+    <description>Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2)</description>
+    <title_clean>Wing Commander III - Heart of the Tiger</title_clean>
+    <title_search>wing commander iii heart of the tiger</title_search>
+  </game>
+  <game name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3)">
+    <description>Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3)</description>
+    <title_clean>Wing Commander III - Heart of the Tiger</title_clean>
+    <title_search>wing commander iii heart of the tiger</title_search>
+  </game>
+  <game name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 4)">
+    <description>Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 4)</description>
+    <title_clean>Wing Commander III - Heart of the Tiger</title_clean>
+    <title_search>wing commander iii heart of the tiger</title_search>
+  </game>
+  <game name="Winning Post (Japan)">
+    <description>Winning Post (Japan)</description>
+    <title_clean>Winning Post</title_clean>
+    <title_search>winning post</title_search>
+  </game>
+  <game name="Wolfenstein 3D (Europe)">
+    <description>Wolfenstein 3D (Europe)</description>
+    <title_clean>Wolfenstein 3D</title_clean>
+    <title_search>wolfenstein 3d</title_search>
+  </game>
+  <game name="Wolfenstein 3D (Japan)">
+    <description>Wolfenstein 3D (Japan)</description>
+    <title_clean>Wolfenstein 3D</title_clean>
+    <title_search>wolfenstein 3d</title_search>
+  </game>
+  <game name="Wolfenstein 3D (USA)">
+    <description>Wolfenstein 3D (USA)</description>
+    <title_clean>Wolfenstein 3D</title_clean>
+    <title_search>wolfenstein 3d</title_search>
+    <image ext="png" id="Wolfenstein 3D (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wolfenstein 3D (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wolfenstein 3D (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Woody Woodpecker and Friends - Volume One (USA) (RE-1)">
+    <description>Woody Woodpecker and Friends - Volume One (USA) (RE-1)</description>
+    <title_clean>Woody Woodpecker and Friends - Volume One</title_clean>
+    <title_search>woody woodpecker and friends volume one</title_search>
+  </game>
+  <game name="Woody Woodpecker and Friends - Volume Three (USA)">
+    <description>Woody Woodpecker and Friends - Volume Three (USA)</description>
+    <title_clean>Woody Woodpecker and Friends - Volume Three</title_clean>
+    <title_search>woody woodpecker and friends volume three</title_search>
+  </game>
+  <game name="Woody Woodpecker and Friends - Volume Two (USA)">
+    <description>Woody Woodpecker and Friends - Volume Two (USA)</description>
+    <title_clean>Woody Woodpecker and Friends - Volume Two</title_clean>
+    <title_search>woody woodpecker and friends volume two</title_search>
+  </game>
+  <game name="World Cup Golf - Hyatt Dorado Beach (Europe)">
+    <description>World Cup Golf - Hyatt Dorado Beach (Europe)</description>
+    <title_clean>World Cup Golf - Hyatt Dorado Beach</title_clean>
+    <title_search>world cup golf hyatt dorado beach</title_search>
+  </game>
+  <game name="World Cup Golf - Hyatt Dorado Beach (USA)">
+    <description>World Cup Golf - Hyatt Dorado Beach (USA)</description>
+    <title_clean>World Cup Golf - Hyatt Dorado Beach</title_clean>
+    <title_search>world cup golf hyatt dorado beach</title_search>
+    <image ext="png" id="World Cup Golf - Hyatt Dorado Beach (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="World Cup Golf - Hyatt Dorado Beach (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="World Cup Golf - Hyatt Dorado Beach (USA)" source="https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="World Cup Special (Japan)">
+    <description>World Cup Special (Japan)</description>
+    <title_clean>World Cup Special</title_clean>
+    <title_search>world cup special</title_search>
+  </game>
+  <game name="WorldCup Super Stadium (Japan)">
+    <description>WorldCup Super Stadium (Japan)</description>
+    <title_clean>WorldCup Super Stadium</title_clean>
+    <title_search>worldcup super stadium</title_search>
+  </game>
+  <game name="Yamada Kamachi Bijutsukan - Kamachi's Museum (Japan)">
+    <description>Yamada Kamachi Bijutsukan - Kamachi's Museum (Japan)</description>
+    <title_clean>Yamada Kamachi Bijutsukan - Kamachi's Museum</title_clean>
+    <title_search>yamada kamachi bijutsukan kamachis museum</title_search>
+  </game>
+  <game name="Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1)">
+    <description>Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1)</description>
+    <title_clean>Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken</title_clean>
+    <title_search>yamamura misa suspense kyoto kurama sansou satsujin jiken</title_search>
+  </game>
+  <game name="Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 2)">
+    <description>Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 2)</description>
+    <title_clean>Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken</title_clean>
+    <title_search>yamamura misa suspense kyoto kurama sansou satsujin jiken</title_search>
+  </game>
+  <game name="Yu Yu Hakusho (Japan)">
+    <description>Yu Yu Hakusho (Japan)</description>
+    <title_clean>Yu Yu Hakusho</title_clean>
+    <title_search>yu yu hakusho</title_search>
+  </game>
+  <game name="Yuujou Densetsu - The Doraemons (Japan)">
+    <description>Yuujou Densetsu - The Doraemons (Japan)</description>
+    <title_clean>Yuujou Densetsu - The Doraemons</title_clean>
+    <title_search>yuujou densetsu the doraemons</title_search>
+  </game>
+  <game name="Zhadnost - The People's Party (USA)">
+    <description>Zhadnost - The People's Party (USA)</description>
+    <title_clean>Zhadnost - The People's Party</title_clean>
+    <title_search>zhadnost the peoples party</title_search>
+  </game>
+</datafile>

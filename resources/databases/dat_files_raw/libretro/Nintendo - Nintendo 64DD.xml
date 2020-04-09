@@ -1,0 +1,90 @@
+<datafile>
+  <game name="Dezaemon DD (Japan) (Proto)">
+    <description>Dezaemon DD (Japan) (Proto)</description>
+    <title_clean>Dezaemon DD</title_clean>
+    <title_search>dezaemon dd</title_search>
+    <image ext="png" id="Dezaemon DD (Japan) (Proto)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_64DD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="F-Zero X - Expansion Kit (Japan)">
+    <description>F-Zero X - Expansion Kit (Japan)</description>
+    <title_clean>F-Zero X - Expansion Kit</title_clean>
+    <title_search>fzero x expansion kit</title_search>
+    <image ext="png" id="F-Zero X - Expansion Kit (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_64DD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="F-Zero X - Expansion Kit (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_64DD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="F-Zero X - Expansion Kit (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_64DD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kyojin no Doshin (Japan)">
+    <description>Kyojin no Doshin (Japan)</description>
+    <title_clean>Kyojin no Doshin</title_clean>
+    <title_search>kyojin no doshin</title_search>
+  </game>
+  <game name="Kyojin no Doshin (Japan) (Demo) (Kiosk) [b]">
+    <description>Kyojin no Doshin (Japan) (Demo) (Kiosk) [b]</description>
+    <title_clean>Kyojin no Doshin</title_clean>
+    <title_search>kyojin no doshin</title_search>
+  </game>
+  <game name="Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b]">
+    <description>Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b]</description>
+    <title_clean>Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou</title_clean>
+    <title_search>kyojin no doshin kaihou sensen chibikko chikko daishuugou</title_search>
+  </game>
+  <game name="Mario Artist - Communication Kit (Japan)">
+    <description>Mario Artist - Communication Kit (Japan)</description>
+    <title_clean>Mario Artist - Communication Kit</title_clean>
+    <title_search>mario artist communication kit</title_search>
+    <image ext="png" id="Mario Artist - Communication Kit (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_64DD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mario Artist - Communication Kit (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_64DD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mario Artist - Communication Kit (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_64DD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mario Artist - Paint Studio (Japan)">
+    <description>Mario Artist - Paint Studio (Japan)</description>
+    <title_clean>Mario Artist - Paint Studio</title_clean>
+    <title_search>mario artist paint studio</title_search>
+    <image ext="png" id="Mario Artist - Paint Studio (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_64DD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Mario Artist - Polygon Studio (Japan)">
+    <description>Mario Artist - Polygon Studio (Japan)</description>
+    <title_clean>Mario Artist - Polygon Studio</title_clean>
+    <title_search>mario artist polygon studio</title_search>
+    <image ext="png" id="Mario Artist - Polygon Studio (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_64DD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Mario Artist - Talent Studio (Japan)">
+    <description>Mario Artist - Talent Studio (Japan)</description>
+    <title_clean>Mario Artist - Talent Studio</title_clean>
+    <title_search>mario artist talent studio</title_search>
+    <image ext="png" id="Mario Artist - Talent Studio (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_64DD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Nihon Pro Golf Tour 64 (Japan) [b]">
+    <description>Nihon Pro Golf Tour 64 (Japan) [b]</description>
+    <title_clean>Nihon Pro Golf Tour 64</title_clean>
+    <title_search>nihon pro golf tour 64</title_search>
+  </game>
+  <game name="Nintendo 64 Modem (Japan) (Add-on)">
+    <description>Nintendo 64 Modem (Japan) (Add-on)</description>
+    <title_clean>Nintendo 64 Modem</title_clean>
+    <title_search>nintendo 64 modem</title_search>
+  </game>
+  <game name="Randnet Disk (Japan) (Rev 1) [b]">
+    <description>Randnet Disk (Japan) (Rev 1) [b]</description>
+    <title_clean>Randnet Disk</title_clean>
+    <title_search>randnet disk</title_search>
+  </game>
+  <game name="Randnet Disk (Japan) [b]">
+    <description>Randnet Disk (Japan) [b]</description>
+    <title_clean>Randnet Disk</title_clean>
+    <title_search>randnet disk</title_search>
+  </game>
+  <game name="SimCity 64 (Japan)">
+    <description>SimCity 64 (Japan)</description>
+    <title_clean>SimCity 64</title_clean>
+    <title_search>simcity 64</title_search>
+    <image ext="png" id="SimCity 64 (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_64DD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SimCity 64 (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_64DD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SimCity 64 (Japan)" source="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_64DD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Mario 64 - Disk Version (Japan) (Proto)">
+    <description>Super Mario 64 - Disk Version (Japan) (Proto)</description>
+    <title_clean>Super Mario 64 - Disk Version</title_clean>
+    <title_search>super mario 64 disk version</title_search>
+  </game>
+</datafile>

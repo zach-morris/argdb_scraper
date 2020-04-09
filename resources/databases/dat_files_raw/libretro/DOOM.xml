@@ -1,0 +1,551 @@
+<datafile>
+  <game name="Action Doom 2 - Urban Brawl">
+    <description>Action Doom 2 - Urban Brawl</description>
+    <title_clean>Action Doom 2 - Urban Brawl</title_clean>
+    <title_search>action doom 2 urban brawl</title_search>
+  </game>
+  <game name="Adventures of Square, The - Episodes 1 _ 2 (v2.0)">
+    <description>Adventures of Square, The - Episodes 1 _ 2 (v2.0)</description>
+    <title_clean>The Adventures of Square - Episodes 1 _ 2</title_clean>
+    <title_search>the adventures of square episodes 1 2</title_search>
+  </game>
+  <game name="Blasphemer (v0.1.5)">
+    <description>Blasphemer (v0.1.5)</description>
+    <title_clean>Blasphemer</title_clean>
+    <title_search>blasphemer</title_search>
+  </game>
+  <game name="Chex Quest">
+    <description>Chex Quest</description>
+    <title_clean>Chex Quest</title_clean>
+    <title_search>chex quest</title_search>
+    <image ext="png" id="Chex Quest" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Chex Quest 2">
+    <description>Chex Quest 2</description>
+    <title_clean>Chex Quest 2</title_clean>
+    <title_search>chex quest 2</title_search>
+  </game>
+  <game name="Chex Quest 3 (v1.4)">
+    <description>Chex Quest 3 (v1.4)</description>
+    <title_clean>Chex Quest 3</title_clean>
+    <title_search>chex quest 3</title_search>
+  </game>
+  <game name="Delaweare">
+    <description>Delaweare</description>
+    <title_clean>Delaweare</title_clean>
+    <title_search>delaweare</title_search>
+  </game>
+  <game name="Doom (Demo)">
+    <description>Doom (Demo)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (PocketPC)">
+    <description>Doom (PocketPC)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (Press-Release Beta)">
+    <description>Doom (Press-Release Beta)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (v0.2) (Alpha)">
+    <description>Doom (v0.2) (Alpha)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (v0.3) (Alpha)">
+    <description>Doom (v0.3) (Alpha)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (v0.4) (Alpha)">
+    <description>Doom (v0.4) (Alpha)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (v0.5) (Alpha)">
+    <description>Doom (v0.5) (Alpha)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (v1.1)">
+    <description>Doom (v1.1)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (v1.1) (Demo)">
+    <description>Doom (v1.1) (Demo)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (v1.2)">
+    <description>Doom (v1.2)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (v1.2) (Demo)">
+    <description>Doom (v1.2) (Demo)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (v1.25) (Demo)">
+    <description>Doom (v1.25) (Demo)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (v1.4 Beta) (Demo)">
+    <description>Doom (v1.4 Beta) (Demo)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (v1.5 Beta) (Demo)">
+    <description>Doom (v1.5 Beta) (Demo)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (v1.6 Beta) (Demo)">
+    <description>Doom (v1.6 Beta) (Demo)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (v1.666)">
+    <description>Doom (v1.666)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (v1.666) (Demo)">
+    <description>Doom (v1.666) (Demo)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (v1.8)">
+    <description>Doom (v1.8)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (v1.8) (Demo)">
+    <description>Doom (v1.8) (Demo)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+  </game>
+  <game name="Doom (v1.9)">
+    <description>Doom (v1.9)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+    <image ext="png" id="Doom (v1.9)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Doom (v1.9)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Doom (v1.9)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Doom (v1.9) (Demo)">
+    <description>Doom (v1.9) (Demo)</description>
+    <title_clean>Doom</title_clean>
+    <title_search>doom</title_search>
+    <image ext="png" id="Doom (v1.9) (Demo)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Doom II - Hell on Earth (BFG Edition)">
+    <description>Doom II - Hell on Earth (BFG Edition)</description>
+    <title_clean>Doom II - Hell on Earth</title_clean>
+    <title_search>doom ii hell on earth</title_search>
+  </game>
+  <game name="Doom II - Hell on Earth (BFG Edition) (PlayStation 3 _ Xbox 360)">
+    <description>Doom II - Hell on Earth (BFG Edition) (PlayStation 3 _ Xbox 360)</description>
+    <title_clean>Doom II - Hell on Earth</title_clean>
+    <title_search>doom ii hell on earth</title_search>
+  </game>
+  <game name="Doom II - Hell on Earth (Classic Complete) (PlayStation 3)">
+    <description>Doom II - Hell on Earth (Classic Complete) (PlayStation 3)</description>
+    <title_clean>Doom II - Hell on Earth</title_clean>
+    <title_search>doom ii hell on earth</title_search>
+  </game>
+  <game name="Doom II - Hell on Earth (Tapwave Zodiac)">
+    <description>Doom II - Hell on Earth (Tapwave Zodiac)</description>
+    <title_clean>Doom II - Hell on Earth</title_clean>
+    <title_search>doom ii hell on earth</title_search>
+  </game>
+  <game name="Doom II - Hell on Earth (XBLA)">
+    <description>Doom II - Hell on Earth (XBLA)</description>
+    <title_clean>Doom II - Hell on Earth</title_clean>
+    <title_search>doom ii hell on earth</title_search>
+  </game>
+  <game name="Doom II - Hell on Earth (Xbox)">
+    <description>Doom II - Hell on Earth (Xbox)</description>
+    <title_clean>Doom II - Hell on Earth</title_clean>
+    <title_search>doom ii hell on earth</title_search>
+  </game>
+  <game name="Doom II - Hell on Earth (v1.666)">
+    <description>Doom II - Hell on Earth (v1.666)</description>
+    <title_clean>Doom II - Hell on Earth</title_clean>
+    <title_search>doom ii hell on earth</title_search>
+  </game>
+  <game name="Doom II - Hell on Earth (v1.666) (German)">
+    <description>Doom II - Hell on Earth (v1.666) (German)</description>
+    <title_clean>Doom II - Hell on Earth</title_clean>
+    <title_search>doom ii hell on earth</title_search>
+  </game>
+  <game name="Doom II - Hell on Earth (v1.7)">
+    <description>Doom II - Hell on Earth (v1.7)</description>
+    <title_clean>Doom II - Hell on Earth</title_clean>
+    <title_search>doom ii hell on earth</title_search>
+  </game>
+  <game name="Doom II - Hell on Earth (v1.7a)">
+    <description>Doom II - Hell on Earth (v1.7a)</description>
+    <title_clean>Doom II - Hell on Earth</title_clean>
+    <title_search>doom ii hell on earth</title_search>
+  </game>
+  <game name="Doom II - Hell on Earth (v1.8)">
+    <description>Doom II - Hell on Earth (v1.8)</description>
+    <title_clean>Doom II - Hell on Earth</title_clean>
+    <title_search>doom ii hell on earth</title_search>
+  </game>
+  <game name="Doom II - Hell on Earth (v1.8) (French)">
+    <description>Doom II - Hell on Earth (v1.8) (French)</description>
+    <title_clean>Doom II - Hell on Earth</title_clean>
+    <title_search>doom ii hell on earth</title_search>
+  </game>
+  <game name="Doom II - Hell on Earth (v1.9)">
+    <description>Doom II - Hell on Earth (v1.9)</description>
+    <title_clean>Doom II - Hell on Earth</title_clean>
+    <title_search>doom ii hell on earth</title_search>
+    <image ext="png" id="Doom II - Hell on Earth (v1.9)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Doom II - Hell on Earth (v1.9)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Doom II - Hell on Earth (v1.9)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Doom II - No Rest for the Living (BFG Edition)">
+    <description>Doom II - No Rest for the Living (BFG Edition)</description>
+    <title_clean>Doom II - No Rest for the Living</title_clean>
+    <title_search>doom ii no rest for the living</title_search>
+    <image ext="png" id="Doom II - No Rest for the Living (BFG Edition)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Final Doom - Evilution">
+    <description>Final Doom - Evilution</description>
+    <title_clean>Final Doom - Evilution</title_clean>
+    <title_search>final doom evilution</title_search>
+    <image ext="png" id="Final Doom - Evilution" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Final Doom - Evilution" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Final Doom - Evilution" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Final Doom - Evilution (Classic Complete) (PlayStation 3)">
+    <description>Final Doom - Evilution (Classic Complete) (PlayStation 3)</description>
+    <title_clean>Final Doom - Evilution</title_clean>
+    <title_search>final doom evilution</title_search>
+  </game>
+  <game name="Final Doom - Evilution (id Anthology)">
+    <description>Final Doom - Evilution (id Anthology)</description>
+    <title_clean>Final Doom - Evilution</title_clean>
+    <title_search>final doom evilution</title_search>
+  </game>
+  <game name="Final Doom - The Plutonia Experiment">
+    <description>Final Doom - The Plutonia Experiment</description>
+    <title_clean>Final Doom - The Plutonia Experiment</title_clean>
+    <title_search>final doom the plutonia experiment</title_search>
+    <image ext="png" id="Final Doom - The Plutonia Experiment" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Final Doom - The Plutonia Experiment" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Final Doom - The Plutonia Experiment" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Final Doom - The Plutonia Experiment (Classic Complete) (PlayStation 3)">
+    <description>Final Doom - The Plutonia Experiment (Classic Complete) (PlayStation 3)</description>
+    <title_clean>Final Doom - The Plutonia Experiment</title_clean>
+    <title_search>final doom the plutonia experiment</title_search>
+  </game>
+  <game name="Final Doom - The Plutonia Experiment (id Anthology)">
+    <description>Final Doom - The Plutonia Experiment (id Anthology)</description>
+    <title_clean>Final Doom - The Plutonia Experiment</title_clean>
+    <title_search>final doom the plutonia experiment</title_search>
+  </game>
+  <game name="Freedoom - FreeDM (v0.11.3)">
+    <description>Freedoom - FreeDM (v0.11.3)</description>
+    <title_clean>Freedoom - FreeDM</title_clean>
+    <title_search>freedoom freedm</title_search>
+    <image ext="png" id="Freedoom - FreeDM (v0.11.3)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Freedoom - Phase 1 (v0.11.3)">
+    <description>Freedoom - Phase 1 (v0.11.3)</description>
+    <title_clean>Freedoom - Phase 1</title_clean>
+    <title_search>freedoom phase 1</title_search>
+    <image ext="png" id="Freedoom - Phase 1 (v0.11.3)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Freedoom - Phase 1 (v0.11.3)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Freedoom - Phase 2 (v0.11.3)">
+    <description>Freedoom - Phase 2 (v0.11.3)</description>
+    <title_clean>Freedoom - Phase 2</title_clean>
+    <title_search>freedoom phase 2</title_search>
+    <image ext="png" id="Freedoom - Phase 2 (v0.11.3)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Freedoom - Phase 2 (v0.11.3)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="HACX">
+    <description>HACX</description>
+    <title_clean>HACX</title_clean>
+    <title_search>hacx</title_search>
+  </game>
+  <game name="HACX (Demo)">
+    <description>HACX (Demo)</description>
+    <title_clean>HACX</title_clean>
+    <title_search>hacx</title_search>
+  </game>
+  <game name="HACX (v1.1)">
+    <description>HACX (v1.1)</description>
+    <title_clean>HACX</title_clean>
+    <title_search>hacx</title_search>
+  </game>
+  <game name="HACX (v1.2)">
+    <description>HACX (v1.2)</description>
+    <title_clean>HACX</title_clean>
+    <title_search>hacx</title_search>
+  </game>
+  <game name="HACX (v2.0-r61)">
+    <description>HACX (v2.0-r61)</description>
+    <title_clean>HACX</title_clean>
+    <title_search>hacx</title_search>
+  </game>
+  <game name="Harmony (v1.1)">
+    <description>Harmony (v1.1)</description>
+    <title_clean>Harmony</title_clean>
+    <title_search>harmony</title_search>
+  </game>
+  <game name="Hell to Pay">
+    <description>Hell to Pay</description>
+    <title_clean>Hell to Pay</title_clean>
+    <title_search>hell to pay</title_search>
+    <image ext="png" id="Hell to Pay" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hell to Pay" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hell to Pay" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hell to Pay (Demo)">
+    <description>Hell to Pay (Demo)</description>
+    <title_clean>Hell to Pay</title_clean>
+    <title_search>hell to pay</title_search>
+    <image ext="png" id="Hell to Pay (Demo)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Heretic">
+    <description>Heretic</description>
+    <title_clean>Heretic</title_clean>
+    <title_search>heretic</title_search>
+  </game>
+  <game name="Heretic (Demo)">
+    <description>Heretic (Demo)</description>
+    <title_clean>Heretic</title_clean>
+    <title_search>heretic</title_search>
+  </game>
+  <game name="Heretic (Wide Area Beta)">
+    <description>Heretic (Wide Area Beta)</description>
+    <title_clean>Heretic</title_clean>
+    <title_search>heretic</title_search>
+  </game>
+  <game name="Heretic (v1.2)">
+    <description>Heretic (v1.2)</description>
+    <title_clean>Heretic</title_clean>
+    <title_search>heretic</title_search>
+    <image ext="png" id="Heretic (v1.2)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Heretic (v1.2) (Demo)">
+    <description>Heretic (v1.2) (Demo)</description>
+    <title_clean>Heretic</title_clean>
+    <title_search>heretic</title_search>
+    <image ext="png" id="Heretic (v1.2) (Demo)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Heretic - Shadow of the Serpent Riders (v1.3)">
+    <description>Heretic - Shadow of the Serpent Riders (v1.3)</description>
+    <title_clean>Heretic - Shadow of the Serpent Riders</title_clean>
+    <title_search>heretic shadow of the serpent riders</title_search>
+    <image ext="png" id="Heretic - Shadow of the Serpent Riders (v1.3)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Hexen - Beyond Heretic">
+    <description>Hexen - Beyond Heretic</description>
+    <title_clean>Hexen - Beyond Heretic</title_clean>
+    <title_search>hexen beyond heretic</title_search>
+  </game>
+  <game name="Hexen - Beyond Heretic (Beta) (Demo)">
+    <description>Hexen - Beyond Heretic (Beta) (Demo)</description>
+    <title_clean>Hexen - Beyond Heretic</title_clean>
+    <title_search>hexen beyond heretic</title_search>
+  </game>
+  <game name="Hexen - Beyond Heretic (Demo)">
+    <description>Hexen - Beyond Heretic (Demo)</description>
+    <title_clean>Hexen - Beyond Heretic</title_clean>
+    <title_search>hexen beyond heretic</title_search>
+  </game>
+  <game name="Hexen - Beyond Heretic (Mac Edition)">
+    <description>Hexen - Beyond Heretic (Mac Edition)</description>
+    <title_clean>Hexen - Beyond Heretic</title_clean>
+    <title_search>hexen beyond heretic</title_search>
+  </game>
+  <game name="Hexen - Beyond Heretic (Mac Edition) (Demo)">
+    <description>Hexen - Beyond Heretic (Mac Edition) (Demo)</description>
+    <title_clean>Hexen - Beyond Heretic</title_clean>
+    <title_search>hexen beyond heretic</title_search>
+  </game>
+  <game name="Hexen - Beyond Heretic (Retail Store Beta)">
+    <description>Hexen - Beyond Heretic (Retail Store Beta)</description>
+    <title_clean>Hexen - Beyond Heretic</title_clean>
+    <title_search>hexen beyond heretic</title_search>
+  </game>
+  <game name="Hexen - Beyond Heretic (v1.1)">
+    <description>Hexen - Beyond Heretic (v1.1)</description>
+    <title_clean>Hexen - Beyond Heretic</title_clean>
+    <title_search>hexen beyond heretic</title_search>
+    <image ext="png" id="Hexen - Beyond Heretic (v1.1)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Hexen - Deathkings of the Dark Citadel">
+    <description>Hexen - Deathkings of the Dark Citadel</description>
+    <title_clean>Hexen - Deathkings of the Dark Citadel</title_clean>
+    <title_search>hexen deathkings of the dark citadel</title_search>
+  </game>
+  <game name="Hexen - Deathkings of the Dark Citadel (v1.1)">
+    <description>Hexen - Deathkings of the Dark Citadel (v1.1)</description>
+    <title_clean>Hexen - Deathkings of the Dark Citadel</title_clean>
+    <title_search>hexen deathkings of the dark citadel</title_search>
+    <image ext="png" id="Hexen - Deathkings of the Dark Citadel (v1.1)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Kick Attack for Doom II">
+    <description>Kick Attack for Doom II</description>
+    <title_clean>Kick Attack for Doom II</title_clean>
+    <title_search>kick attack for doom ii</title_search>
+  </game>
+  <game name="Kick Attack for Ultimate Doom">
+    <description>Kick Attack for Ultimate Doom</description>
+    <title_clean>Kick Attack for Ultimate Doom</title_clean>
+    <title_search>kick attack for ultimate doom</title_search>
+  </game>
+  <game name="Lost Episodes of Doom, The">
+    <description>Lost Episodes of Doom, The</description>
+    <title_clean>The Lost Episodes of Doom</title_clean>
+    <title_search>the lost episodes of doom</title_search>
+    <image ext="png" id="Lost Episodes of Doom, The" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lost Episodes of Doom, The" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Master Levels for Doom II">
+    <description>Master Levels for Doom II</description>
+    <title_clean>Master Levels for Doom II</title_clean>
+    <title_search>master levels for doom ii</title_search>
+  </game>
+  <game name="Master Levels for Doom II (Classic Complete) (PlayStation 3)">
+    <description>Master Levels for Doom II (Classic Complete) (PlayStation 3)</description>
+    <title_clean>Master Levels for Doom II</title_clean>
+    <title_search>master levels for doom ii</title_search>
+    <image ext="png" id="Master Levels for Doom II (Classic Complete) (PlayStation 3)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="PSXDoom (v2.135)">
+    <description>PSXDoom (v2.135)</description>
+    <title_clean>PSXDoom</title_clean>
+    <title_search>psxdoom</title_search>
+  </game>
+  <game name="Perdition's Gate">
+    <description>Perdition's Gate</description>
+    <title_clean>Perdition's Gate</title_clean>
+    <title_search>perditions gate</title_search>
+    <image ext="png" id="Perdition's Gate" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Perdition's Gate" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Perdition's Gate" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Perdition's Gate (Demo)">
+    <description>Perdition's Gate (Demo)</description>
+    <title_clean>Perdition's Gate</title_clean>
+    <title_search>perditions gate</title_search>
+    <image ext="png" id="Perdition's Gate (Demo)" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rise Of The Wool Ball (v1.3)">
+    <description>Rise Of The Wool Ball (v1.3)</description>
+    <title_clean>Rise Of The Wool Ball</title_clean>
+    <title_search>rise of the wool ball</title_search>
+  </game>
+  <game name="SIGIL (v1.0)">
+    <description>SIGIL (v1.0)</description>
+    <title_clean>SIGIL</title_clean>
+    <title_search>sigil</title_search>
+  </game>
+  <game name="SIGIL (v1.0) (Compatible Edition)">
+    <description>SIGIL (v1.0) (Compatible Edition)</description>
+    <title_clean>SIGIL</title_clean>
+    <title_search>sigil</title_search>
+  </game>
+  <game name="SIGIL (v1.1)">
+    <description>SIGIL (v1.1)</description>
+    <title_clean>SIGIL</title_clean>
+    <title_search>sigil</title_search>
+  </game>
+  <game name="SIGIL (v1.1) (Compatible Edition)">
+    <description>SIGIL (v1.1) (Compatible Edition)</description>
+    <title_clean>SIGIL</title_clean>
+    <title_search>sigil</title_search>
+  </game>
+  <game name="SIGIL Buckethead Music">
+    <description>SIGIL Buckethead Music</description>
+    <title_clean>SIGIL Buckethead Music</title_clean>
+    <title_search>sigil buckethead music</title_search>
+  </game>
+  <game name="SIGIL Buckethead Music (Compatible Edition)">
+    <description>SIGIL Buckethead Music (Compatible Edition)</description>
+    <title_clean>SIGIL Buckethead Music</title_clean>
+    <title_search>sigil buckethead music</title_search>
+  </game>
+  <game name="Strife">
+    <description>Strife</description>
+    <title_clean>Strife</title_clean>
+    <title_search>strife</title_search>
+  </game>
+  <game name="Strife (Demo)">
+    <description>Strife (Demo)</description>
+    <title_clean>Strife</title_clean>
+    <title_search>strife</title_search>
+  </game>
+  <game name="Strife (v1.1) (Demo)">
+    <description>Strife (v1.1) (Demo)</description>
+    <title_clean>Strife</title_clean>
+    <title_search>strife</title_search>
+  </game>
+  <game name="Strife (v1.2)">
+    <description>Strife (v1.2)</description>
+    <title_clean>Strife</title_clean>
+    <title_search>strife</title_search>
+  </game>
+  <game name="Strife - Veteran Edition">
+    <description>Strife - Veteran Edition</description>
+    <title_clean>Strife - Veteran Edition</title_clean>
+    <title_search>strife veteran edition</title_search>
+  </game>
+  <game name="Strife - Veteran Edition (v1.1)">
+    <description>Strife - Veteran Edition (v1.1)</description>
+    <title_clean>Strife - Veteran Edition</title_clean>
+    <title_search>strife veteran edition</title_search>
+  </game>
+  <game name="Strife - Veteran Edition (v1.2)">
+    <description>Strife - Veteran Edition (v1.2)</description>
+    <title_clean>Strife - Veteran Edition</title_clean>
+    <title_search>strife veteran edition</title_search>
+  </game>
+  <game name="Ultimate Doom, The">
+    <description>Ultimate Doom, The</description>
+    <title_clean>The Ultimate Doom</title_clean>
+    <title_search>the ultimate doom</title_search>
+    <image ext="png" id="Ultimate Doom, The" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ultimate Doom, The" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ultimate Doom, The" source="https://github.com/libretro-thumbnails/DOOM/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ultimate Doom, The (BFG Edition)">
+    <description>Ultimate Doom, The (BFG Edition)</description>
+    <title_clean>The Ultimate Doom</title_clean>
+    <title_search>the ultimate doom</title_search>
+  </game>
+  <game name="Ultimate Doom, The (BFG Edition) (Xbox 360)">
+    <description>Ultimate Doom, The (BFG Edition) (Xbox 360)</description>
+    <title_clean>The Ultimate Doom</title_clean>
+    <title_search>the ultimate doom</title_search>
+  </game>
+  <game name="Ultimate Doom, The (BFG Edition, Classic Complete) (PlayStation 3)">
+    <description>Ultimate Doom, The (BFG Edition, Classic Complete) (PlayStation 3)</description>
+    <title_clean>The Ultimate Doom</title_clean>
+    <title_search>the ultimate doom</title_search>
+  </game>
+  <game name="Ultimate Doom, The (XBLA)">
+    <description>Ultimate Doom, The (XBLA)</description>
+    <title_clean>The Ultimate Doom</title_clean>
+    <title_search>the ultimate doom</title_search>
+  </game>
+  <game name="Ultimate Doom, The (Xbox)">
+    <description>Ultimate Doom, The (Xbox)</description>
+    <title_clean>The Ultimate Doom</title_clean>
+    <title_search>the ultimate doom</title_search>
+  </game>
+</datafile>

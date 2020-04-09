@@ -1,0 +1,527 @@
+<datafile>
+  <game name="2 in 1 - Block Buster + Cross High (USA, Europe)">
+    <description>2 in 1 - Block Buster + Cross High (USA, Europe)</description>
+    <title_clean>2 in 1 - Block Buster + Cross High</title_clean>
+    <title_search>2 in 1 block buster cross high</title_search>
+    <image ext="png" id="2 in 1 - Block Buster + Cross High (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="2 in 1 - Block Buster + Cross High (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="2 in 1 - Block Buster + Cross High (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="2 in 1 - Hash Blocks + Eagle Plan (USA, Europe)">
+    <description>2 in 1 - Hash Blocks + Eagle Plan (USA, Europe)</description>
+    <title_clean>2 in 1 - Hash Blocks + Eagle Plan</title_clean>
+    <title_search>2 in 1 hash blocks eagle plan</title_search>
+    <image ext="png" id="2 in 1 - Hash Blocks + Eagle Plan (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="2 in 1 - Hash Blocks + Eagle Plan (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="2 in 1 - Hash Blocks + Eagle Plan (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Alien (USA, Europe)">
+    <description>Alien (USA, Europe)</description>
+    <title_clean>Alien</title_clean>
+    <title_search>alien</title_search>
+    <image ext="png" id="Alien (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Alien (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alien (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Balloon Fight (USA, Europe)">
+    <description>Balloon Fight (USA, Europe)</description>
+    <title_clean>Balloon Fight</title_clean>
+    <title_search>balloon fight</title_search>
+    <image ext="png" id="Balloon Fight (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Balloon Fight (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Balloon Fight (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Block Buster (USA, Europe)">
+    <description>Block Buster (USA, Europe)</description>
+    <title_clean>Block Buster</title_clean>
+    <title_search>block buster</title_search>
+    <image ext="png" id="Block Buster (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Block Buster (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Block Buster (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Brain Power (USA, Europe)">
+    <description>Brain Power (USA, Europe)</description>
+    <title_clean>Brain Power</title_clean>
+    <title_search>brain power</title_search>
+    <image ext="png" id="Brain Power (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Brain Power (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Brain Power (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bubble World (USA, Europe)">
+    <description>Bubble World (USA, Europe)</description>
+    <title_clean>Bubble World</title_clean>
+    <title_search>bubble world</title_search>
+    <image ext="png" id="Bubble World (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bubble World (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bubble World (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Carrier (USA, Europe)">
+    <description>Carrier (USA, Europe)</description>
+    <title_clean>Carrier</title_clean>
+    <title_search>carrier</title_search>
+    <image ext="png" id="Carrier (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Carrier (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Carrier (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cave Wonders (USA, Europe)">
+    <description>Cave Wonders (USA, Europe)</description>
+    <title_clean>Cave Wonders</title_clean>
+    <title_search>cave wonders</title_search>
+    <image ext="png" id="Cave Wonders (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cave Wonders (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cave Wonders (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Challenger Tank (USA, Europe)">
+    <description>Challenger Tank (USA, Europe)</description>
+    <title_clean>Challenger Tank</title_clean>
+    <title_search>challenger tank</title_search>
+    <image ext="png" id="Challenger Tank (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Challenger Tank (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Challenger Tank (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chimera (USA, Europe)">
+    <description>Chimera (USA, Europe)</description>
+    <title_clean>Chimera</title_clean>
+    <title_search>chimera</title_search>
+    <image ext="png" id="Chimera (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chimera (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chimera (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chinese Checkers (USA, Europe)">
+    <description>Chinese Checkers (USA, Europe)</description>
+    <title_clean>Chinese Checkers</title_clean>
+    <title_search>chinese checkers</title_search>
+    <image ext="png" id="Chinese Checkers (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chinese Checkers (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chinese Checkers (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Classic Casino (USA, Europe)">
+    <description>Classic Casino (USA, Europe)</description>
+    <title_clean>Classic Casino</title_clean>
+    <title_search>classic casino</title_search>
+    <image ext="png" id="Classic Casino (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Classic Casino (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Classic Casino (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Climber (USA, Europe)">
+    <description>Climber (USA, Europe)</description>
+    <title_clean>Climber</title_clean>
+    <title_search>climber</title_search>
+    <image ext="png" id="Climber (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Climber (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Climber (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Crystball (USA, Europe)">
+    <description>Crystball (USA, Europe)</description>
+    <title_clean>Crystball</title_clean>
+    <title_search>crystball</title_search>
+    <image ext="png" id="Crystball (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Crystball (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Crystball (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dancing Block (USA, Europe)">
+    <description>Dancing Block (USA, Europe)</description>
+    <title_clean>Dancing Block</title_clean>
+    <title_search>dancing block</title_search>
+    <image ext="png" id="Dancing Block (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dancing Block (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dancing Block (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Delta Hero (USA, Europe)">
+    <description>Delta Hero (USA, Europe)</description>
+    <title_clean>Delta Hero</title_clean>
+    <title_search>delta hero</title_search>
+    <image ext="png" id="Delta Hero (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Delta Hero (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Delta Hero (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dream World (USA, Europe)">
+    <description>Dream World (USA, Europe)</description>
+    <title_clean>Dream World</title_clean>
+    <title_search>dream world</title_search>
+    <image ext="png" id="Dream World (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dream World (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dream World (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Eagle Plan (USA, Europe)">
+    <description>Eagle Plan (USA, Europe)</description>
+    <title_clean>Eagle Plan</title_clean>
+    <title_search>eagle plan</title_search>
+    <image ext="png" id="Eagle Plan (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Eagle Plan (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Eagle Plan (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Earth Defender (USA, Europe)">
+    <description>Earth Defender (USA, Europe)</description>
+    <title_clean>Earth Defender</title_clean>
+    <title_search>earth defender</title_search>
+    <image ext="png" id="Earth Defender (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Earth Defender (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Earth Defender (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fatal Craft (USA, Europe)">
+    <description>Fatal Craft (USA, Europe)</description>
+    <title_clean>Fatal Craft</title_clean>
+    <title_search>fatal craft</title_search>
+    <image ext="png" id="Fatal Craft (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fatal Craft (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fatal Craft (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Final Combat (USA, Europe)">
+    <description>Final Combat (USA, Europe)</description>
+    <title_clean>Final Combat</title_clean>
+    <title_search>final combat</title_search>
+    <image ext="png" id="Final Combat (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Final Combat (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Final Combat (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Galactic Crusader (USA, Europe)">
+    <description>Galactic Crusader (USA, Europe)</description>
+    <title_clean>Galactic Crusader</title_clean>
+    <title_search>galactic crusader</title_search>
+    <image ext="png" id="Galactic Crusader (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Galactic Crusader (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Galactic Crusader (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Galaxy Fighter (USA, Europe)">
+    <description>Galaxy Fighter (USA, Europe)</description>
+    <title_clean>Galaxy Fighter</title_clean>
+    <title_search>galaxy fighter</title_search>
+    <image ext="png" id="Galaxy Fighter (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Galaxy Fighter (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Galaxy Fighter (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Grand Prix (USA, Europe)">
+    <description>Grand Prix (USA, Europe)</description>
+    <title_clean>Grand Prix</title_clean>
+    <title_search>grand prix</title_search>
+    <image ext="png" id="Grand Prix (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Grand Prix (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Grand Prix (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Happy Pairs (USA, Europe)">
+    <description>Happy Pairs (USA, Europe)</description>
+    <title_clean>Happy Pairs</title_clean>
+    <title_search>happy pairs</title_search>
+    <image ext="png" id="Happy Pairs (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Happy Pairs (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Happy Pairs (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Happy Race (USA, Europe)">
+    <description>Happy Race (USA, Europe)</description>
+    <title_clean>Happy Race</title_clean>
+    <title_search>happy race</title_search>
+    <image ext="png" id="Happy Race (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Happy Race (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Happy Race (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hash Blocks (USA, Europe)">
+    <description>Hash Blocks (USA, Europe)</description>
+    <title_clean>Hash Blocks</title_clean>
+    <title_search>hash blocks</title_search>
+    <image ext="png" id="Hash Blocks (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hash Blocks (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hash Blocks (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hero Hawk (USA, Europe)">
+    <description>Hero Hawk (USA, Europe)</description>
+    <title_clean>Hero Hawk</title_clean>
+    <title_search>hero hawk</title_search>
+    <image ext="png" id="Hero Hawk (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hero Hawk (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hero Hawk (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hero Kid (USA, Europe)">
+    <description>Hero Kid (USA, Europe)</description>
+    <title_clean>Hero Kid</title_clean>
+    <title_search>hero kid</title_search>
+    <image ext="png" id="Hero Kid (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hero Kid (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hero Kid (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Honey Bee (USA, Europe)">
+    <description>Honey Bee (USA, Europe)</description>
+    <title_clean>Honey Bee</title_clean>
+    <title_search>honey bee</title_search>
+    <image ext="png" id="Honey Bee (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Honey Bee (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Honey Bee (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jacky Lucky (USA, Europe)">
+    <description>Jacky Lucky (USA, Europe)</description>
+    <title_clean>Jacky Lucky</title_clean>
+    <title_search>jacky lucky</title_search>
+    <image ext="png" id="Jacky Lucky (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jacky Lucky (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jacky Lucky (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jaguar Bomber (USA, Europe)">
+    <description>Jaguar Bomber (USA, Europe)</description>
+    <title_clean>Jaguar Bomber</title_clean>
+    <title_search>jaguar bomber</title_search>
+    <image ext="png" id="Jaguar Bomber (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jaguar Bomber (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jaguar Bomber (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="John Adventure (USA, Europe)">
+    <description>John Adventure (USA, Europe)</description>
+    <title_clean>John Adventure</title_clean>
+    <title_search>john adventure</title_search>
+    <image ext="png" id="John Adventure (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="John Adventure (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="John Adventure (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Journey to the West (USA)">
+    <description>Journey to the West (USA)</description>
+    <title_clean>Journey to the West</title_clean>
+    <title_search>journey to the west</title_search>
+  </game>
+  <game name="Juggler (USA, Europe)">
+    <description>Juggler (USA, Europe)</description>
+    <title_clean>Juggler</title_clean>
+    <title_search>juggler</title_search>
+    <image ext="png" id="Juggler (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Juggler (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Juggler (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kabi Island - Gold in Island (USA, Europe)">
+    <description>Kabi Island - Gold in Island (USA, Europe)</description>
+    <title_clean>Kabi Island - Gold in Island</title_clean>
+    <title_search>kabi island gold in island</title_search>
+    <image ext="png" id="Kabi Island - Gold in Island (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kabi Island - Gold in Island (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kabi Island - Gold in Island (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kitchen War (USA, Europe)">
+    <description>Kitchen War (USA, Europe)</description>
+    <title_clean>Kitchen War</title_clean>
+    <title_search>kitchen war</title_search>
+    <image ext="png" id="Kitchen War (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kitchen War (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kitchen War (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kung-Fu Street (USA, Europe)">
+    <description>Kung-Fu Street (USA, Europe)</description>
+    <title_clean>Kung-Fu Street</title_clean>
+    <title_search>kungfu street</title_search>
+    <image ext="png" id="Kung-Fu Street (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kung-Fu Street (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kung-Fu Street (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Linear Racing (USA, Europe)">
+    <description>Linear Racing (USA, Europe)</description>
+    <title_clean>Linear Racing</title_clean>
+    <title_search>linear racing</title_search>
+    <image ext="png" id="Linear Racing (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Linear Racing (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Linear Racing (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Magincross (USA, Europe)">
+    <description>Magincross (USA, Europe)</description>
+    <title_clean>Magincross</title_clean>
+    <title_search>magincross</title_search>
+    <image ext="png" id="Magincross (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Magincross (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Magincross (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Majong (USA, Europe)">
+    <description>Majong (USA, Europe)</description>
+    <title_clean>Majong</title_clean>
+    <title_search>majong</title_search>
+  </game>
+  <game name="Matta Blatta (USA, Europe)">
+    <description>Matta Blatta (USA, Europe)</description>
+    <title_clean>Matta Blatta</title_clean>
+    <title_search>matta blatta</title_search>
+    <image ext="png" id="Matta Blatta (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Matta Blatta (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Matta Blatta (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Olympic Trials (USA, Europe)">
+    <description>Olympic Trials (USA, Europe)</description>
+    <title_clean>Olympic Trials</title_clean>
+    <title_search>olympic trials</title_search>
+    <image ext="png" id="Olympic Trials (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Olympic Trials (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Olympic Trials (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="P-52 Sea Battle (USA, Europe)">
+    <description>P-52 Sea Battle (USA, Europe)</description>
+    <title_clean>P-52 Sea Battle</title_clean>
+    <title_search>p52 sea battle</title_search>
+    <image ext="png" id="P-52 Sea Battle (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="P-52 Sea Battle (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="P-52 Sea Battle (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="PacBoy _ Mouse (USA, Europe)">
+    <description>PacBoy _ Mouse (USA, Europe)</description>
+    <title_clean>PacBoy _ Mouse</title_clean>
+    <title_search>pacboy mouse</title_search>
+    <image ext="png" id="PacBoy _ Mouse (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="PacBoy _ Mouse (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="PacBoy _ Mouse (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pacific Battle (USA, Europe)">
+    <description>Pacific Battle (USA, Europe)</description>
+    <title_clean>Pacific Battle</title_clean>
+    <title_search>pacific battle</title_search>
+    <image ext="png" id="Pacific Battle (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pacific Battle (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pacific Battle (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Penguin Hideout (USA, Europe)">
+    <description>Penguin Hideout (USA, Europe)</description>
+    <title_clean>Penguin Hideout</title_clean>
+    <title_search>penguin hideout</title_search>
+    <image ext="png" id="Penguin Hideout (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Penguin Hideout (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Penguin Hideout (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Police Bust (USA, Europe)">
+    <description>Police Bust (USA, Europe)</description>
+    <title_clean>Police Bust</title_clean>
+    <title_search>police bust</title_search>
+    <image ext="png" id="Police Bust (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Police Bust (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Police Bust (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Popo Team (USA, Europe)">
+    <description>Popo Team (USA, Europe)</description>
+    <title_clean>Popo Team</title_clean>
+    <title_search>popo team</title_search>
+    <image ext="png" id="Popo Team (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Popo Team (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Popo Team (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pyramid (USA, Europe)">
+    <description>Pyramid (USA, Europe)</description>
+    <title_clean>Pyramid</title_clean>
+    <title_search>pyramid</title_search>
+    <image ext="png" id="Pyramid (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pyramid (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pyramid (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Recycle Design (USA, Europe)">
+    <description>Recycle Design (USA, Europe)</description>
+    <title_clean>Recycle Design</title_clean>
+    <title_search>recycle design</title_search>
+    <image ext="png" id="Recycle Design (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Recycle Design (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Recycle Design (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="SSSnake (USA, Europe)">
+    <description>SSSnake (USA, Europe)</description>
+    <title_clean>SSSnake</title_clean>
+    <title_search>sssnake</title_search>
+    <image ext="png" id="SSSnake (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="SSSnake (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="SSSnake (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Scaffolder (USA, Europe)">
+    <description>Scaffolder (USA, Europe)</description>
+    <title_clean>Scaffolder</title_clean>
+    <title_search>scaffolder</title_search>
+    <image ext="png" id="Scaffolder (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Scaffolder (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Scaffolder (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Soccer Champion (USA, Europe)">
+    <description>Soccer Champion (USA, Europe)</description>
+    <title_clean>Soccer Champion</title_clean>
+    <title_search>soccer champion</title_search>
+    <image ext="png" id="Soccer Champion (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Soccer Champion (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Soccer Champion (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sonny X'Press (USA, Europe)">
+    <description>Sonny X'Press (USA, Europe)</description>
+    <title_clean>Sonny X'Press</title_clean>
+    <title_search>sonny xpress</title_search>
+  </game>
+  <game name="Space Fighter (USA, Europe)">
+    <description>Space Fighter (USA, Europe)</description>
+    <title_clean>Space Fighter</title_clean>
+    <title_search>space fighter</title_search>
+    <image ext="png" id="Space Fighter (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Fighter (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Fighter (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Block (USA, Europe)">
+    <description>Super Block (USA, Europe)</description>
+    <title_clean>Super Block</title_clean>
+    <title_search>super block</title_search>
+    <image ext="png" id="Super Block (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Block (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Block (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Kong (USA, Europe)">
+    <description>Super Kong (USA, Europe)</description>
+    <title_clean>Super Kong</title_clean>
+    <title_search>super kong</title_search>
+    <image ext="png" id="Super Kong (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Kong (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Kong (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Pang (USA, Europe)">
+    <description>Super Pang (USA, Europe)</description>
+    <title_clean>Super Pang</title_clean>
+    <title_search>super pang</title_search>
+    <image ext="png" id="Super Pang (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Pang (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Pang (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="TV-Link (USA, Europe)">
+    <description>TV-Link (USA, Europe)</description>
+    <title_clean>TV-Link</title_clean>
+    <title_search>tvlink</title_search>
+    <image ext="png" id="TV-Link (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tasac 2010 (USA, Europe)">
+    <description>Tasac 2010 (USA, Europe)</description>
+    <title_clean>Tasac 2010</title_clean>
+    <title_search>tasac 2010</title_search>
+    <image ext="png" id="Tasac 2010 (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tasac 2010 (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tasac 2010 (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tennis Pro '92 (USA, Europe)">
+    <description>Tennis Pro '92 (USA, Europe)</description>
+    <title_clean>Tennis Pro '92</title_clean>
+    <title_search>tennis pro 92</title_search>
+    <image ext="png" id="Tennis Pro '92 (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tennis Pro '92 (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tennis Pro '92 (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Thunder Shooting (USA, Europe)">
+    <description>Thunder Shooting (USA, Europe)</description>
+    <title_clean>Thunder Shooting</title_clean>
+    <title_search>thunder shooting</title_search>
+    <image ext="png" id="Thunder Shooting (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Thunder Shooting (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Thunder Shooting (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Treasure Hunter (USA, Europe)">
+    <description>Treasure Hunter (USA, Europe)</description>
+    <title_clean>Treasure Hunter</title_clean>
+    <title_search>treasure hunter</title_search>
+    <image ext="png" id="Treasure Hunter (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Treasure Hunter (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Treasure Hunter (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Untouchable (USA, Europe)">
+    <description>Untouchable (USA, Europe)</description>
+    <title_clean>Untouchable</title_clean>
+    <title_search>untouchable</title_search>
+    <image ext="png" id="Untouchable (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Untouchable (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Untouchable (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Witty Cat (USA, Europe)">
+    <description>Witty Cat (USA, Europe)</description>
+    <title_clean>Witty Cat</title_clean>
+    <title_search>witty cat</title_search>
+    <image ext="png" id="Witty Cat (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Witty Cat (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Witty Cat (USA, Europe)" source="https://github.com/libretro-thumbnails/Watara_-_Supervision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

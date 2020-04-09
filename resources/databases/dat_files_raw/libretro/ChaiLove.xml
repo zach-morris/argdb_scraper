@@ -1,0 +1,39 @@
+<datafile>
+  <game name="Floppy Bird">
+    <description>Floppy Bird</description>
+    <title_clean>Floppy Bird</title_clean>
+    <title_search>floppy bird</title_search>
+    <image ext="png" id="Floppy Bird" source="https://github.com/libretro-thumbnails/ChaiLove/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Floppy Bird" source="https://github.com/libretro-thumbnails/ChaiLove/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Floppy Bird" source="https://github.com/libretro-thumbnails/ChaiLove/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Game of Life">
+    <description>Game of Life</description>
+    <title_clean>Game of Life</title_clean>
+    <title_search>game of life</title_search>
+    <image ext="png" id="Game of Life" source="https://github.com/libretro-thumbnails/ChaiLove/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="JSTest">
+    <description>JSTest</description>
+    <title_clean>JSTest</title_clean>
+    <title_search>jstest</title_search>
+    <image ext="png" id="JSTest" source="https://github.com/libretro-thumbnails/ChaiLove/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Launcher">
+    <description>Launcher</description>
+    <title_clean>Launcher</title_clean>
+    <title_search>launcher</title_search>
+  </game>
+  <game name="Nyan Cat">
+    <description>Nyan Cat</description>
+    <title_clean>Nyan Cat</title_clean>
+    <title_search>nyan cat</title_search>
+    <image ext="png" id="Nyan Cat" source="https://github.com/libretro-thumbnails/ChaiLove/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Snake">
+    <description>Snake</description>
+    <title_clean>Snake</title_clean>
+    <title_search>snake</title_search>
+    <image ext="png" id="Snake" source="https://github.com/libretro-thumbnails/ChaiLove/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+</datafile>

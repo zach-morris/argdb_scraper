@@ -1,0 +1,572 @@
+<datafile>
+  <game name="2020 Super Baseball (Japan) (En,Ja)">
+    <description>2020 Super Baseball (Japan) (En,Ja)</description>
+    <title_clean>2020 Super Baseball</title_clean>
+    <title_search>2020 super baseball</title_search>
+    <image ext="png" id="2020 Super Baseball (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="2020 Super Baseball (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="2020 Super Baseball (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja)">
+    <description>ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja)</description>
+    <title_clean>ASO II - The Last Guardian ~ Alpha Mission II</title_clean>
+    <title_search>aso ii the last guardian alpha mission ii</title_search>
+    <image ext="png" id="ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (Japan) (En,Ja,Es,Pt)">
+    <description>Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (Japan) (En,Ja,Es,Pt)</description>
+    <title_clean>Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3</title_clean>
+    <title_search>art of fighting ryuuko no ken gaiden the path of the warrior art of fighting 3</title_search>
+  </game>
+  <game name="Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt)">
+    <description>Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt)</description>
+    <title_clean>Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade</title_clean>
+    <title_search>bakumatsu roman gekka no kenshi the last blade</title_search>
+    <image ext="png" id="Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt)">
+    <description>Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt)</description>
+    <title_clean>Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2</title_clean>
+    <title_search>bakumatsu roman daini maku gekka no kenshi tsuki ni saku hana chiri yuku hana the last blade 2</title_search>
+    <image ext="png" id="Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Choujin Gakuen - Gowcaizer (Japan) (En,Ja)">
+    <description>Choujin Gakuen - Gowcaizer (Japan) (En,Ja)</description>
+    <title_clean>Choujin Gakuen - Gowcaizer</title_clean>
+    <title_search>choujin gakuen gowcaizer</title_search>
+    <image ext="png" id="Choujin Gakuen - Gowcaizer (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Choujin Gakuen - Gowcaizer (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Choujin Gakuen - Gowcaizer (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Crossed Swords (Japan)">
+    <description>Crossed Swords (Japan)</description>
+    <title_clean>Crossed Swords</title_clean>
+    <title_search>crossed swords</title_search>
+    <image ext="png" id="Crossed Swords (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Crossed Swords (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Crossed Swords (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Double Dragon (Japan) (En,Ja) (Rev 1)">
+    <description>Double Dragon (Japan) (En,Ja) (Rev 1)</description>
+    <title_clean>Double Dragon</title_clean>
+    <title_search>double dragon</title_search>
+    <image ext="png" id="Double Dragon (Japan) (En,Ja) (Rev 1)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Double Dragon (Japan) (En,Ja) (Rev 1)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Double Dragon (Japan) (En,Ja) (Rev 1)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Double Dragon (USA) (En,Ja)">
+    <description>Double Dragon (USA) (En,Ja)</description>
+    <title_clean>Double Dragon</title_clean>
+    <title_search>double dragon</title_search>
+    <image ext="png" id="Double Dragon (USA) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Double Dragon (USA) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Double Dragon (USA) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA)">
+    <description>Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA)</description>
+    <title_clean>Dunk Dream ~ Street Slam ~ Street Hoop</title_clean>
+    <title_search>dunk dream street slam street hoop</title_search>
+    <image ext="png" id="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja)">
+    <description>Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja)</description>
+    <title_clean>Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash</title_clean>
+    <title_search>far east of eden tengai makyou shinden far east of eden kabuki klash</title_search>
+    <image ext="png" id="Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja)">
+    <description>Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja)</description>
+    <title_clean>Fighter's History Dynamite ~ Karnov's Revenge</title_clean>
+    <title_search>fighters history dynamite karnovs revenge</title_search>
+    <image ext="png" id="Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fire Suplex ~ 3 Count Bout (Japan, USA) (En,Ja)">
+    <description>Fire Suplex ~ 3 Count Bout (Japan, USA) (En,Ja)</description>
+    <title_clean>Fire Suplex ~ 3 Count Bout</title_clean>
+    <title_search>fire suplex 3 count bout</title_search>
+    <image ext="png" id="Fire Suplex ~ 3 Count Bout (Japan, USA) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fire Suplex ~ 3 Count Bout (Japan, USA) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fire Suplex ~ 3 Count Bout (Japan, USA) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Flying Power Disc ~ Windjammers (Japan) (En,Ja)">
+    <description>Flying Power Disc ~ Windjammers (Japan) (En,Ja)</description>
+    <title_clean>Flying Power Disc ~ Windjammers</title_clean>
+    <title_search>flying power disc windjammers</title_search>
+    <image ext="png" id="Flying Power Disc ~ Windjammers (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Flying Power Disc ~ Windjammers (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Flying Power Disc ~ Windjammers (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Football Frenzy (Japan) (En,Ja)">
+    <description>Football Frenzy (Japan) (En,Ja)</description>
+    <title_clean>Football Frenzy</title_clean>
+    <title_search>football frenzy</title_search>
+    <image ext="png" id="Football Frenzy (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Football Frenzy (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Football Frenzy (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt)">
+    <description>Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt)</description>
+    <title_clean>Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign</title_clean>
+    <title_search>fuuun mokushiroku kakutou sousei savage reign</title_search>
+    <image ext="png" id="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es)">
+    <description>Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es)</description>
+    <title_clean>Galaxy Fight - Universal Warriors</title_clean>
+    <title_search>galaxy fight universal warriors</title_search>
+    <image ext="png" id="Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)">
+    <description>Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)</description>
+    <title_clean>Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters</title_clean>
+    <title_search>garou densetsu shukumei no tatakai fatal fury king of fighters</title_search>
+    <image ext="png" id="Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja)">
+    <description>Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja)</description>
+    <title_clean>Garou Densetsu 2 ~ Fatal Fury 2</title_clean>
+    <title_search>garou densetsu 2 fatal fury 2</title_search>
+    <image ext="png" id="Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt)">
+    <description>Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt)</description>
+    <title_clean>Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory</title_clean>
+    <title_search>garou densetsu 3 road to the final victory fatal fury 3 road to the final victory</title_search>
+    <image ext="png" id="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan, USA) (En,Ja,Es,Pt) (Rev 1)">
+    <description>Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan, USA) (En,Ja,Es,Pt) (Rev 1)</description>
+    <title_clean>Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory</title_clean>
+    <title_search>garou densetsu 3 road to the final victory fatal fury 3 road to the final victory</title_search>
+  </game>
+  <game name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (USA) (En,Ja,Es,Pt) (Rev 2)">
+    <description>Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (USA) (En,Ja,Es,Pt) (Rev 2)</description>
+    <title_clean>Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory</title_clean>
+    <title_search>garou densetsu 3 road to the final victory fatal fury 3 road to the final victory</title_search>
+  </game>
+  <game name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (USA) (En,Ja,Es,Pt) (Rev 3)">
+    <description>Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (USA) (En,Ja,Es,Pt) (Rev 3)</description>
+    <title_clean>Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory</title_clean>
+    <title_search>garou densetsu 3 road to the final victory fatal fury 3 road to the final victory</title_search>
+  </game>
+  <game name="Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)">
+    <description>Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)</description>
+    <title_clean>Garou Densetsu Special ~ Fatal Fury Special</title_clean>
+    <title_search>garou densetsu special fatal fury special</title_search>
+    <image ext="png" id="Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Garou Densetsu Special ~ Fatal Fury Special (Japan, USA) (En,Ja) (Rev 1)">
+    <description>Garou Densetsu Special ~ Fatal Fury Special (Japan, USA) (En,Ja) (Rev 1)</description>
+    <title_clean>Garou Densetsu Special ~ Fatal Fury Special</title_clean>
+    <title_search>garou densetsu special fatal fury special</title_search>
+  </game>
+  <game name="Ghost Pilots (Japan)">
+    <description>Ghost Pilots (Japan)</description>
+    <title_clean>Ghost Pilots</title_clean>
+    <title_search>ghost pilots</title_search>
+    <image ext="png" id="Ghost Pilots (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ghost Pilots (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ghost Pilots (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Idol Mahjong - Final Romance 2 (Japan)">
+    <description>Idol Mahjong - Final Romance 2 (Japan)</description>
+    <title_clean>Idol Mahjong - Final Romance 2</title_clean>
+    <title_search>idol mahjong final romance 2</title_search>
+    <image ext="png" id="Idol Mahjong - Final Romance 2 (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Idol Mahjong - Final Romance 2 (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Idol Mahjong - Final Romance 2 (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="King of Fighters '94, The (Japan) (En,Ja)">
+    <description>King of Fighters '94, The (Japan) (En,Ja)</description>
+    <title_clean>The King of Fighters '94</title_clean>
+    <title_search>the king of fighters 94</title_search>
+    <image ext="png" id="King of Fighters '94, The (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="King of Fighters '94, The (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="King of Fighters '94, The (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="King of Fighters '94, The (Japan) (En,Ja) (Rev A)">
+    <description>King of Fighters '94, The (Japan) (En,Ja) (Rev A)</description>
+    <title_clean>The King of Fighters '94</title_clean>
+    <title_search>the king of fighters 94</title_search>
+  </game>
+  <game name="King of Fighters '95, The (Japan) (En,Ja)">
+    <description>King of Fighters '95, The (Japan) (En,Ja)</description>
+    <title_clean>The King of Fighters '95</title_clean>
+    <title_search>the king of fighters 95</title_search>
+    <image ext="png" id="King of Fighters '95, The (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="King of Fighters '95, The (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="King of Fighters '95, The (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="King of Fighters '95, The (Japan) (En,Ja) (Rev 1)">
+    <description>King of Fighters '95, The (Japan) (En,Ja) (Rev 1)</description>
+    <title_clean>The King of Fighters '95</title_clean>
+    <title_search>the king of fighters 95</title_search>
+  </game>
+  <game name="King of Fighters '96, The (Japan) (En,Ja)">
+    <description>King of Fighters '96, The (Japan) (En,Ja)</description>
+    <title_clean>The King of Fighters '96</title_clean>
+    <title_search>the king of fighters 96</title_search>
+    <image ext="png" id="King of Fighters '96, The (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="King of Fighters '96, The (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="King of Fighters '96, The (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="King of Fighters '97, The (Japan) (En,Ja)">
+    <description>King of Fighters '97, The (Japan) (En,Ja)</description>
+    <title_clean>The King of Fighters '97</title_clean>
+    <title_search>the king of fighters 97</title_search>
+    <image ext="png" id="King of Fighters '97, The (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="King of Fighters '97, The (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="King of Fighters '97, The (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja)">
+    <description>King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja)</description>
+    <title_clean>The King of Fighters '98 - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest</title_clean>
+    <title_search>the king of fighters 98 dream match never ends the king of fighters 98 the slugfest</title_search>
+    <image ext="png" id="King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle (Japan) (En,Ja,Es,Pt)">
+    <description>King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle (Japan) (En,Ja,Es,Pt)</description>
+    <title_clean>King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle</title_clean>
+    <title_search>king of fighters 99 the the king of fighters 99 millennium battle</title_search>
+    <image ext="png" id="King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Last Resort (Japan) (En,Ja)">
+    <description>Last Resort (Japan) (En,Ja)</description>
+    <title_clean>Last Resort</title_clean>
+    <title_search>last resort</title_search>
+    <image ext="png" id="Last Resort (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Last Resort (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Last Resort (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="League Bowling (Japan) (En,Ja)">
+    <description>League Bowling (Japan) (En,Ja)</description>
+    <title_clean>League Bowling</title_clean>
+    <title_search>league bowling</title_search>
+    <image ext="png" id="League Bowling (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="League Bowling (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="League Bowling (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Magician Lord (Japan) (En,Ja)">
+    <description>Magician Lord (Japan) (En,Ja)</description>
+    <title_clean>Magician Lord</title_clean>
+    <title_search>magician lord</title_search>
+    <image ext="png" id="Magician Lord (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Magician Lord (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Magician Lord (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Metal Slug (Japan) (En,Ja)">
+    <description>Metal Slug (Japan) (En,Ja)</description>
+    <title_clean>Metal Slug</title_clean>
+    <title_search>metal slug</title_search>
+    <image ext="png" id="Metal Slug (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Metal Slug (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Metal Slug (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Metal Slug 2 (Japan) (En,Ja)">
+    <description>Metal Slug 2 (Japan) (En,Ja)</description>
+    <title_clean>Metal Slug 2</title_clean>
+    <title_search>metal slug 2</title_search>
+    <image ext="png" id="Metal Slug 2 (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Metal Slug 2 (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Metal Slug 2 (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mutation Nation (Japan) (En,Ja)">
+    <description>Mutation Nation (Japan) (En,Ja)</description>
+    <title_clean>Mutation Nation</title_clean>
+    <title_search>mutation nation</title_search>
+    <image ext="png" id="Mutation Nation (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mutation Nation (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mutation Nation (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Neo-Geo CD Special (Japan)">
+    <description>Neo-Geo CD Special (Japan)</description>
+    <title_clean>Neo-Geo CD Special</title_clean>
+    <title_search>neogeo cd special</title_search>
+    <image ext="png" id="Neo-Geo CD Special (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Neo-Geo CD Special (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Next Thing, The - King of the Monsters 2 (Japan, USA) (En,Ja)">
+    <description>Next Thing, The - King of the Monsters 2 (Japan, USA) (En,Ja)</description>
+    <title_clean>The Next Thing - King of the Monsters 2</title_clean>
+    <title_search>the next thing king of the monsters 2</title_search>
+  </game>
+  <game name="Ninja Commando (Japan) (En,Ja)">
+    <description>Ninja Commando (Japan) (En,Ja)</description>
+    <title_clean>Ninja Commando</title_clean>
+    <title_search>ninja commando</title_search>
+    <image ext="png" id="Ninja Commando (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ninja Commando (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ninja Commando (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ninja Master's - Haou Ninpou Chou (Japan) (En,Ja)">
+    <description>Ninja Master's - Haou Ninpou Chou (Japan) (En,Ja)</description>
+    <title_clean>Ninja Master's - Haou Ninpou Chou</title_clean>
+    <title_search>ninja masters haou ninpou chou</title_search>
+    <image ext="png" id="Ninja Master's - Haou Ninpou Chou (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ninja Master's - Haou Ninpou Chou (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ninja Master's - Haou Ninpou Chou (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Power Spikes II (Japan) (En,Ja)">
+    <description>Power Spikes II (Japan) (En,Ja)</description>
+    <title_clean>Power Spikes II</title_clean>
+    <title_search>power spikes ii</title_search>
+    <image ext="png" id="Power Spikes II (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Power Spikes II (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Power Spikes II (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pulstar (Japan)">
+    <description>Pulstar (Japan)</description>
+    <title_clean>Pulstar</title_clean>
+    <title_search>pulstar</title_search>
+  </game>
+  <game name="Puzzle Bobble ~ Bust-a-Move (Japan) (En,Ja)">
+    <description>Puzzle Bobble ~ Bust-a-Move (Japan) (En,Ja)</description>
+    <title_clean>Puzzle Bobble ~ Bust-a-Move</title_clean>
+    <title_search>puzzle bobble bustamove</title_search>
+    <image ext="png" id="Puzzle Bobble ~ Bust-a-Move (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Puzzle Bobble ~ Bust-a-Move (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Quiz King of Fighters (Japan)">
+    <description>Quiz King of Fighters (Japan)</description>
+    <title_clean>Quiz King of Fighters</title_clean>
+    <title_search>quiz king of fighters</title_search>
+    <image ext="png" id="Quiz King of Fighters (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Quiz King of Fighters (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Quiz King of Fighters (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja)">
+    <description>RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja)</description>
+    <title_clean>RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2</title_clean>
+    <title_search>rb2 the newcomers real bout garou densetsu 2 rb2 the newcomers real bout fatal fury 2</title_search>
+    <image ext="png" id="RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Raguy ~ Blue's Journey (Japan) (En,Ja)">
+    <description>Raguy ~ Blue's Journey (Japan) (En,Ja)</description>
+    <title_clean>Raguy ~ Blue's Journey</title_clean>
+    <title_search>raguy blues journey</title_search>
+    <image ext="png" id="Raguy ~ Blue's Journey (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Raguy ~ Blue's Journey (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Raguy ~ Blue's Journey (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rally Chase (Japan) (En,Ja)">
+    <description>Rally Chase (Japan) (En,Ja)</description>
+    <title_clean>Rally Chase</title_clean>
+    <title_search>rally chase</title_search>
+    <image ext="png" id="Rally Chase (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rally Chase (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rally Chase (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (Japan) (En,Ja,Es,Pt)">
+    <description>Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (Japan) (En,Ja,Es,Pt)</description>
+    <title_clean>Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special</title_clean>
+    <title_search>real bout garou densetsu special real bout fatal fury special</title_search>
+    <image ext="png" id="Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Real Bout Garou Densetsu ~ Real Bout Fatal Fury (Japan) (En,Ja,Es,Pt)">
+    <description>Real Bout Garou Densetsu ~ Real Bout Fatal Fury (Japan) (En,Ja,Es,Pt)</description>
+    <title_clean>Real Bout Garou Densetsu ~ Real Bout Fatal Fury</title_clean>
+    <title_search>real bout garou densetsu real bout fatal fury</title_search>
+    <image ext="png" id="Real Bout Garou Densetsu ~ Real Bout Fatal Fury (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Real Bout Garou Densetsu ~ Real Bout Fatal Fury (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Real Bout Garou Densetsu ~ Real Bout Fatal Fury (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ryuuko no Ken 2 ~ Art of Fighting 2 (Japan) (En,Ja,Es)">
+    <description>Ryuuko no Ken 2 ~ Art of Fighting 2 (Japan) (En,Ja,Es)</description>
+    <title_clean>Ryuuko no Ken 2 ~ Art of Fighting 2</title_clean>
+    <title_search>ryuuko no ken 2 art of fighting 2</title_search>
+    <image ext="png" id="Ryuuko no Ken 2 ~ Art of Fighting 2 (Japan) (En,Ja,Es)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ryuuko no Ken 2 ~ Art of Fighting 2 (Japan) (En,Ja,Es)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ryuuko no Ken 2 ~ Art of Fighting 2 (Japan) (En,Ja,Es)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ryuuko no Ken ~ Art of Fighting (Japan, USA) (En,Ja,Es)">
+    <description>Ryuuko no Ken ~ Art of Fighting (Japan, USA) (En,Ja,Es)</description>
+    <title_clean>Ryuuko no Ken ~ Art of Fighting</title_clean>
+    <title_search>ryuuko no ken art of fighting</title_search>
+    <image ext="png" id="Ryuuko no Ken ~ Art of Fighting (Japan, USA) (En,Ja,Es)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ryuuko no Ken ~ Art of Fighting (Japan, USA) (En,Ja,Es)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ryuuko no Ken ~ Art of Fighting (Japan, USA) (En,Ja,Es)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (Japan) (En,Ja,Es,Pt)">
+    <description>Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (Japan) (En,Ja,Es,Pt)</description>
+    <title_clean>Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge</title_clean>
+    <title_search>samurai spirits amakusa kourin samurai shodown iv amakusas revenge</title_search>
+    <image ext="png" id="Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (Japan) (En,Ja,Es,Pt)">
+    <description>Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (Japan) (En,Ja,Es,Pt)</description>
+    <title_clean>Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III</title_clean>
+    <title_search>samurai spirits zankurou musouken samurai shodown iii</title_search>
+    <image ext="png" id="Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (Japan) (En,Ja,Es,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja)">
+    <description>Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja)</description>
+    <title_clean>Samurai Spirits ~ Samurai Shodown</title_clean>
+    <title_search>samurai spirits samurai shodown</title_search>
+    <image ext="png" id="Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (Japan, USA) (En,Ja)">
+    <description>Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (Japan, USA) (En,Ja)</description>
+    <title_clean>Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II</title_clean>
+    <title_search>shin samurai spirits haoumaru jigokuhen samurai shodown ii</title_search>
+    <image ext="png" id="Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (Japan, USA) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (Japan, USA) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (Japan, USA) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan)">
+    <description>Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan)</description>
+    <title_clean>Shinsetsu Samurai Spirits - Bushidou Retsuden</title_clean>
+    <title_search>shinsetsu samurai spirits bushidou retsuden</title_search>
+    <image ext="png" id="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Shougi no Tatsujin - Master of Syougi (Japan)">
+    <description>Shougi no Tatsujin - Master of Syougi (Japan)</description>
+    <title_clean>Shougi no Tatsujin - Master of Syougi</title_clean>
+    <title_search>shougi no tatsujin master of syougi</title_search>
+    <image ext="png" id="Shougi no Tatsujin - Master of Syougi (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Shougi no Tatsujin - Master of Syougi (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Shougi no Tatsujin - Master of Syougi (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Soccer Brawl (Japan)">
+    <description>Soccer Brawl (Japan)</description>
+    <title_clean>Soccer Brawl</title_clean>
+    <title_search>soccer brawl</title_search>
+    <image ext="png" id="Soccer Brawl (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Soccer Brawl (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Soccer Brawl (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja)">
+    <description>Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja)</description>
+    <title_clean>Sonic Wings 2 ~ Aero Fighters 2</title_clean>
+    <title_search>sonic wings 2 aero fighters 2</title_search>
+    <image ext="png" id="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja)">
+    <description>Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja)</description>
+    <title_clean>Sonic Wings 3 ~ Aero Fighters 3</title_clean>
+    <title_search>sonic wings 3 aero fighters 3</title_search>
+    <image ext="png" id="Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Stakes Winner - GI Kanzen Seiha e no Michi (Japan)">
+    <description>Stakes Winner - GI Kanzen Seiha e no Michi (Japan)</description>
+    <title_clean>Stakes Winner - GI Kanzen Seiha e no Michi</title_clean>
+    <title_search>stakes winner gi kanzen seiha e no michi</title_search>
+    <image ext="png" id="Stakes Winner - GI Kanzen Seiha e no Michi (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Stakes Winner - GI Kanzen Seiha e no Michi (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Stakes Winner - GI Kanzen Seiha e no Michi (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship (Japan) (En,Ja,Es)">
+    <description>Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship (Japan) (En,Ja,Es)</description>
+    <title_clean>Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship</title_clean>
+    <title_search>tokutenou 2 super sidekicks 2 the world championship</title_search>
+    <image ext="png" id="Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship (Japan) (En,Ja,Es)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship (Japan) (En,Ja,Es)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship (Japan) (En,Ja,Es)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (Japan, USA) (En,Ja,Fr,Es,It,Pt)">
+    <description>Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (Japan, USA) (En,Ja,Fr,Es,It,Pt)</description>
+    <title_clean>Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory</title_clean>
+    <title_search>tokutenou 3 eikou e no chousen super sidekicks 3 the next glory</title_search>
+    <image ext="png" id="Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (Japan, USA) (En,Ja,Fr,Es,It,Pt)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Top Hunter - Roddy _ Cathy (Japan) (En,Ja)">
+    <description>Top Hunter - Roddy _ Cathy (Japan) (En,Ja)</description>
+    <title_clean>Top Hunter - Roddy _ Cathy</title_clean>
+    <title_search>top hunter roddy cathy</title_search>
+    <image ext="png" id="Top Hunter - Roddy _ Cathy (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Top Hunter - Roddy _ Cathy (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Top Hunter - Roddy _ Cathy (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Top Player's Golf (Japan) (En,Ja)">
+    <description>Top Player's Golf (Japan) (En,Ja)</description>
+    <title_clean>Top Player's Golf</title_clean>
+    <title_search>top players golf</title_search>
+    <image ext="png" id="Top Player's Golf (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Top Player's Golf (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Top Player's Golf (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tsuukai Gangan Koushinkyoku ~ Aggressors of Dark Kombat (Japan) (En,Ja)">
+    <description>Tsuukai Gangan Koushinkyoku ~ Aggressors of Dark Kombat (Japan) (En,Ja)</description>
+    <title_clean>Tsuukai Gangan Koushinkyoku ~ Aggressors of Dark Kombat</title_clean>
+    <title_search>tsuukai gangan koushinkyoku aggressors of dark kombat</title_search>
+    <image ext="png" id="Tsuukai Gangan Koushinkyoku ~ Aggressors of Dark Kombat (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tsuukai Gangan Koushinkyoku ~ Aggressors of Dark Kombat (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tsuukai Gangan Koushinkyoku ~ Aggressors of Dark Kombat (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Viewpoint (Japan)">
+    <description>Viewpoint (Japan)</description>
+    <title_clean>Viewpoint</title_clean>
+    <title_search>viewpoint</title_search>
+    <image ext="png" id="Viewpoint (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Viewpoint (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Viewpoint (Japan)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="World Heroes (Japan) (En,Ja)">
+    <description>World Heroes (Japan) (En,Ja)</description>
+    <title_clean>World Heroes</title_clean>
+    <title_search>world heroes</title_search>
+    <image ext="png" id="World Heroes (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="World Heroes (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="World Heroes (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="World Heroes 2 (Japan) (En,Ja)">
+    <description>World Heroes 2 (Japan) (En,Ja)</description>
+    <title_clean>World Heroes 2</title_clean>
+    <title_search>world heroes 2</title_search>
+    <image ext="png" id="World Heroes 2 (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="World Heroes 2 (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="World Heroes 2 Jet (Japan) (En,Ja)">
+    <description>World Heroes 2 Jet (Japan) (En,Ja)</description>
+    <title_clean>World Heroes 2 Jet</title_clean>
+    <title_search>world heroes 2 jet</title_search>
+    <image ext="png" id="World Heroes 2 Jet (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="World Heroes 2 Jet (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="World Heroes 2 Jet (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="World Heroes Perfect (Japan) (En,Ja)">
+    <description>World Heroes Perfect (Japan) (En,Ja)</description>
+    <title_clean>World Heroes Perfect</title_clean>
+    <title_search>world heroes perfect</title_search>
+    <image ext="png" id="World Heroes Perfect (Japan) (En,Ja)" source="https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

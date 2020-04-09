@@ -1,0 +1,1333 @@
+<datafile>
+  <game name="2010 - The Graphic Action Game (USA)">
+    <description>2010 - The Graphic Action Game (USA)</description>
+    <title_clean>2010 - The Graphic Action Game</title_clean>
+    <title_search>2010 the graphic action game</title_search>
+    <image ext="png" id="2010 - The Graphic Action Game (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="2010 - The Graphic Action Game (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="2010 - The Graphic Action Game (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="2010 - The Graphic Action Game (USA) (Beta)">
+    <description>2010 - The Graphic Action Game (USA) (Beta)</description>
+    <title_clean>2010 - The Graphic Action Game</title_clean>
+    <title_search>2010 the graphic action game</title_search>
+  </game>
+  <game name="A.E. (USA) (Proto)">
+    <description>A.E. (USA) (Proto)</description>
+    <title_clean>A.E.</title_clean>
+    <title_search>ae</title_search>
+  </game>
+  <game name="Activision Decathlon, The (USA)">
+    <description>Activision Decathlon, The (USA)</description>
+    <title_clean>The Activision Decathlon</title_clean>
+    <title_search>the activision decathlon</title_search>
+    <image ext="png" id="Activision Decathlon, The (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Activision Decathlon, The (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Activision Decathlon, The (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Adam's Musicbox Demo (USA) (Demo)">
+    <description>Adam's Musicbox Demo (USA) (Demo)</description>
+    <title_clean>Adam's Musicbox Demo</title_clean>
+    <title_search>adams musicbox demo</title_search>
+    <image ext="png" id="Adam's Musicbox Demo (USA) (Demo)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Adam's Musicbox Demo (USA) (Demo)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Adam's Musicbox Demo (USA) (Demo)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Alcazar - The Forgotten Fortress (USA)">
+    <description>Alcazar - The Forgotten Fortress (USA)</description>
+    <title_clean>Alcazar - The Forgotten Fortress</title_clean>
+    <title_search>alcazar the forgotten fortress</title_search>
+    <image ext="png" id="Alcazar - The Forgotten Fortress (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Alcazar - The Forgotten Fortress (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alcazar - The Forgotten Fortress (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Alphabet Zoo (USA)">
+    <description>Alphabet Zoo (USA)</description>
+    <title_clean>Alphabet Zoo</title_clean>
+    <title_search>alphabet zoo</title_search>
+    <image ext="png" id="Alphabet Zoo (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Alphabet Zoo (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Alphabet Zoo (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Amazing Bumpman (USA)">
+    <description>Amazing Bumpman (USA)</description>
+    <title_clean>Amazing Bumpman</title_clean>
+    <title_search>amazing bumpman</title_search>
+    <image ext="png" id="Amazing Bumpman (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Amazing Bumpman (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Amazing Bumpman (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Antarctic Adventure (USA, Europe)">
+    <description>Antarctic Adventure (USA, Europe)</description>
+    <title_clean>Antarctic Adventure</title_clean>
+    <title_search>antarctic adventure</title_search>
+    <image ext="png" id="Antarctic Adventure (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Antarctic Adventure (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Antarctic Adventure (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Antarctic Adventure (USA, Europe) (Beta)">
+    <description>Antarctic Adventure (USA, Europe) (Beta)</description>
+    <title_clean>Antarctic Adventure</title_clean>
+    <title_search>antarctic adventure</title_search>
+  </game>
+  <game name="Aquattack (USA)">
+    <description>Aquattack (USA)</description>
+    <title_clean>Aquattack</title_clean>
+    <title_search>aquattack</title_search>
+    <image ext="png" id="Aquattack (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Aquattack (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Aquattack (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Artillery Duel (USA)">
+    <description>Artillery Duel (USA)</description>
+    <title_clean>Artillery Duel</title_clean>
+    <title_search>artillery duel</title_search>
+    <image ext="png" id="Artillery Duel (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Artillery Duel (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Artillery Duel (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="BC's Quest for Tires (Canada)">
+    <description>BC's Quest for Tires (Canada)</description>
+    <title_clean>BC's Quest for Tires</title_clean>
+    <title_search>bcs quest for tires</title_search>
+  </game>
+  <game name="BC's Quest for Tires (USA)">
+    <description>BC's Quest for Tires (USA)</description>
+    <title_clean>BC's Quest for Tires</title_clean>
+    <title_search>bcs quest for tires</title_search>
+    <image ext="png" id="BC's Quest for Tires (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="BC's Quest for Tires (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="BC's Quest for Tires (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="BC's Quest for Tires II - Grog's Revenge (Canada)">
+    <description>BC's Quest for Tires II - Grog's Revenge (Canada)</description>
+    <title_clean>BC's Quest for Tires II - Grog's Revenge</title_clean>
+    <title_search>bcs quest for tires ii grogs revenge</title_search>
+    <image ext="png" id="BC's Quest for Tires II - Grog's Revenge (Canada)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="BC's Quest for Tires II - Grog's Revenge (Canada)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="BC's Quest for Tires II - Grog's Revenge (Canada)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="BC's Quest for Tires II - Grog's Revenge (USA)">
+    <description>BC's Quest for Tires II - Grog's Revenge (USA)</description>
+    <title_clean>BC's Quest for Tires II - Grog's Revenge</title_clean>
+    <title_search>bcs quest for tires ii grogs revenge</title_search>
+    <image ext="png" id="BC's Quest for Tires II - Grog's Revenge (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="BC's Quest for Tires II - Grog's Revenge (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="BC's Quest for Tires II - Grog's Revenge (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Beamrider (USA)">
+    <description>Beamrider (USA)</description>
+    <title_clean>Beamrider</title_clean>
+    <title_search>beamrider</title_search>
+    <image ext="png" id="Beamrider (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Beamrider (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Beamrider (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Berenstain Bears, The (USA) (Demo)">
+    <description>Berenstain Bears, The (USA) (Demo)</description>
+    <title_clean>The Berenstain Bears</title_clean>
+    <title_search>the berenstain bears</title_search>
+  </game>
+  <game name="Blockade Runner (USA)">
+    <description>Blockade Runner (USA)</description>
+    <title_clean>Blockade Runner</title_clean>
+    <title_search>blockade runner</title_search>
+    <image ext="png" id="Blockade Runner (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Blockade Runner (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Blockade Runner (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Boulder Dash (USA)">
+    <description>Boulder Dash (USA)</description>
+    <title_clean>Boulder Dash</title_clean>
+    <title_search>boulder dash</title_search>
+    <image ext="png" id="Boulder Dash (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Boulder Dash (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Boulder Dash (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Boulder Dash (USA) (Beta)">
+    <description>Boulder Dash (USA) (Beta)</description>
+    <title_clean>Boulder Dash</title_clean>
+    <title_search>boulder dash</title_search>
+  </game>
+  <game name="Brain Strainers (USA)">
+    <description>Brain Strainers (USA)</description>
+    <title_clean>Brain Strainers</title_clean>
+    <title_search>brain strainers</title_search>
+  </game>
+  <game name="Buck Rogers - Planet of Zoom (USA, Europe)">
+    <description>Buck Rogers - Planet of Zoom (USA, Europe)</description>
+    <title_clean>Buck Rogers - Planet of Zoom</title_clean>
+    <title_search>buck rogers planet of zoom</title_search>
+    <image ext="png" id="Buck Rogers - Planet of Zoom (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Buck Rogers - Planet of Zoom (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Buck Rogers - Planet of Zoom (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bump 'n' Jump (USA, Europe)">
+    <description>Bump 'n' Jump (USA, Europe)</description>
+    <title_clean>Bump 'n' Jump</title_clean>
+    <title_search>bump n jump</title_search>
+    <image ext="png" id="Bump 'n' Jump (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bump 'n' Jump (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bump 'n' Jump (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Bump 'n' Jump (USA, Europe) (Beta)">
+    <description>Bump 'n' Jump (USA, Europe) (Beta)</description>
+    <title_clean>Bump 'n' Jump</title_clean>
+    <title_search>bump n jump</title_search>
+    <image ext="png" id="Bump 'n' Jump (USA, Europe) (Beta)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bump 'n' Jump (USA, Europe) (Beta)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bump 'n' Jump (USA, Europe) (Beta)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="BurgerTime (USA, Europe)">
+    <description>BurgerTime (USA, Europe)</description>
+    <title_clean>BurgerTime</title_clean>
+    <title_search>burgertime</title_search>
+    <image ext="png" id="BurgerTime (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="BurgerTime (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="BurgerTime (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="BurgerTime (USA, Europe) (Beta)">
+    <description>BurgerTime (USA, Europe) (Beta)</description>
+    <title_clean>BurgerTime</title_clean>
+    <title_search>burgertime</title_search>
+    <image ext="png" id="BurgerTime (USA, Europe) (Beta)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="BurgerTime (USA, Europe) (Beta)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="BurgerTime (USA, Europe) (Beta)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="CAT S.O.S. Game, The (USA) (Promo)">
+    <description>CAT S.O.S. Game, The (USA) (Promo)</description>
+    <title_clean>The CAT S.O.S. Game</title_clean>
+    <title_search>the cat sos game</title_search>
+  </game>
+  <game name="Cabbage Patch Kids - Adventures in the Park (USA, Europe)">
+    <description>Cabbage Patch Kids - Adventures in the Park (USA, Europe)</description>
+    <title_clean>Cabbage Patch Kids - Adventures in the Park</title_clean>
+    <title_search>cabbage patch kids adventures in the park</title_search>
+    <image ext="png" id="Cabbage Patch Kids - Adventures in the Park (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cabbage Patch Kids - Adventures in the Park (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cabbage Patch Kids - Adventures in the Park (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 1)">
+    <description>Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 1)</description>
+    <title_clean>Cabbage Patch Kids - Adventures in the Park</title_clean>
+    <title_search>cabbage patch kids adventures in the park</title_search>
+    <image ext="png" id="Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 1)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 1)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 1)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 2)">
+    <description>Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 2)</description>
+    <title_clean>Cabbage Patch Kids - Adventures in the Park</title_clean>
+    <title_search>cabbage patch kids adventures in the park</title_search>
+  </game>
+  <game name="Cabbage Patch Kids - Picture Show (USA)">
+    <description>Cabbage Patch Kids - Picture Show (USA)</description>
+    <title_clean>Cabbage Patch Kids - Picture Show</title_clean>
+    <title_search>cabbage patch kids picture show</title_search>
+    <image ext="png" id="Cabbage Patch Kids - Picture Show (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cabbage Patch Kids - Picture Show (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cabbage Patch Kids - Picture Show (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Campaign '84 (USA)">
+    <description>Campaign '84 (USA)</description>
+    <title_clean>Campaign '84</title_clean>
+    <title_search>campaign 84</title_search>
+    <image ext="png" id="Campaign '84 (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Campaign '84 (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Campaign '84 (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Carnival (USA, Europe)">
+    <description>Carnival (USA, Europe)</description>
+    <title_clean>Carnival</title_clean>
+    <title_search>carnival</title_search>
+    <image ext="png" id="Carnival (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Carnival (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Carnival (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Castelo (Brazil) (Unl)">
+    <description>Castelo (Brazil) (Unl)</description>
+    <title_clean>Castelo</title_clean>
+    <title_search>castelo</title_search>
+  </game>
+  <game name="Centipede (USA)">
+    <description>Centipede (USA)</description>
+    <title_clean>Centipede</title_clean>
+    <title_search>centipede</title_search>
+    <image ext="png" id="Centipede (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Centipede (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Centipede (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Choplifter! (USA)">
+    <description>Choplifter! (USA)</description>
+    <title_clean>Choplifter!</title_clean>
+    <title_search>choplifter</title_search>
+    <image ext="png" id="Choplifter! (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Choplifter! (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Choplifter! (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chuck Norris - Superkicks (USA)">
+    <description>Chuck Norris - Superkicks (USA)</description>
+    <title_clean>Chuck Norris - Superkicks</title_clean>
+    <title_search>chuck norris superkicks</title_search>
+    <image ext="png" id="Chuck Norris - Superkicks (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chuck Norris - Superkicks (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chuck Norris - Superkicks (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="ColecoVision Monitor Test (USA, Europe)">
+    <description>ColecoVision Monitor Test (USA, Europe)</description>
+    <title_clean>ColecoVision Monitor Test</title_clean>
+    <title_search>colecovision monitor test</title_search>
+    <image ext="png" id="ColecoVision Monitor Test (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="ColecoVision Monitor Test (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="ColecoVision Monitor Test (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Congo Bongo (USA)">
+    <description>Congo Bongo (USA)</description>
+    <title_clean>Congo Bongo</title_clean>
+    <title_search>congo bongo</title_search>
+    <image ext="png" id="Congo Bongo (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Congo Bongo (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Congo Bongo (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cosmic Avenger (USA, Europe)">
+    <description>Cosmic Avenger (USA, Europe)</description>
+    <title_clean>Cosmic Avenger</title_clean>
+    <title_search>cosmic avenger</title_search>
+    <image ext="png" id="Cosmic Avenger (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cosmic Avenger (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cosmic Avenger (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Cosmic Crisis (Europe)">
+    <description>Cosmic Crisis (Europe)</description>
+    <title_clean>Cosmic Crisis</title_clean>
+    <title_search>cosmic crisis</title_search>
+    <image ext="png" id="Cosmic Crisis (Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cosmic Crisis (Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Cosmic Crisis (Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dam Busters, The (Canada)">
+    <description>Dam Busters, The (Canada)</description>
+    <title_clean>The Dam Busters</title_clean>
+    <title_search>the dam busters</title_search>
+  </game>
+  <game name="Dam Busters, The (USA)">
+    <description>Dam Busters, The (USA)</description>
+    <title_clean>The Dam Busters</title_clean>
+    <title_search>the dam busters</title_search>
+    <image ext="png" id="Dam Busters, The (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dam Busters, The (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dam Busters, The (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dance Fantasy (USA)">
+    <description>Dance Fantasy (USA)</description>
+    <title_clean>Dance Fantasy</title_clean>
+    <title_search>dance fantasy</title_search>
+    <image ext="png" id="Dance Fantasy (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dance Fantasy (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dance Fantasy (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Defender (USA)">
+    <description>Defender (USA)</description>
+    <title_clean>Defender</title_clean>
+    <title_search>defender</title_search>
+    <image ext="png" id="Defender (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Defender (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Defender (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Destructor (USA, Europe)">
+    <description>Destructor (USA, Europe)</description>
+    <title_clean>Destructor</title_clean>
+    <title_search>destructor</title_search>
+    <image ext="png" id="Destructor (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Destructor (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Destructor (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dig Dug (USA) (Proto)">
+    <description>Dig Dug (USA) (Proto)</description>
+    <title_clean>Dig Dug</title_clean>
+    <title_search>dig dug</title_search>
+    <image ext="png" id="Dig Dug (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dig Dug (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dig Dug (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Donkey Kong (USA)">
+    <description>Donkey Kong (USA)</description>
+    <title_clean>Donkey Kong</title_clean>
+    <title_search>donkey kong</title_search>
+    <image ext="png" id="Donkey Kong (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Donkey Kong (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Donkey Kong (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Donkey Kong (USA, Europe) (v1.1)">
+    <description>Donkey Kong (USA, Europe) (v1.1)</description>
+    <title_clean>Donkey Kong</title_clean>
+    <title_search>donkey kong</title_search>
+    <image ext="png" id="Donkey Kong (USA, Europe) (v1.1)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Donkey Kong (USA, Europe) (v1.1)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Donkey Kong (USA, Europe) (v1.1)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Donkey Kong Junior (USA, Europe)">
+    <description>Donkey Kong Junior (USA, Europe)</description>
+    <title_clean>Donkey Kong Junior</title_clean>
+    <title_search>donkey kong junior</title_search>
+    <image ext="png" id="Donkey Kong Junior (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Donkey Kong Junior (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Donkey Kong Junior (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA)">
+    <description>Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA)</description>
+    <title_clean>Dr. Seuss - Fix-Up the Mix-Up Puzzler</title_clean>
+    <title_search>dr seuss fixup the mixup puzzler</title_search>
+    <image ext="png" id="Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon's Lair (USA) (Proto)">
+    <description>Dragon's Lair (USA) (Proto)</description>
+    <title_clean>Dragon's Lair</title_clean>
+    <title_search>dragons lair</title_search>
+  </game>
+  <game name="Dragonfire (USA)">
+    <description>Dragonfire (USA)</description>
+    <title_clean>Dragonfire</title_clean>
+    <title_search>dragonfire</title_search>
+    <image ext="png" id="Dragonfire (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dragonfire (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dragonfire (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dukes of Hazzard, The (USA)">
+    <description>Dukes of Hazzard, The (USA)</description>
+    <title_clean>The Dukes of Hazzard</title_clean>
+    <title_search>the dukes of hazzard</title_search>
+    <image ext="png" id="Dukes of Hazzard, The (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dukes of Hazzard, The (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dukes of Hazzard, The (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Escape from the Mindmaster (USA) (Proto)">
+    <description>Escape from the Mindmaster (USA) (Proto)</description>
+    <title_clean>Escape from the Mindmaster</title_clean>
+    <title_search>escape from the mindmaster</title_search>
+    <image ext="png" id="Escape from the Mindmaster (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Escape from the Mindmaster (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Escape from the Mindmaster (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Evolution (Canada)">
+    <description>Evolution (Canada)</description>
+    <title_clean>Evolution</title_clean>
+    <title_search>evolution</title_search>
+  </game>
+  <game name="Evolution (USA) (Unl)">
+    <description>Evolution (USA) (Unl)</description>
+    <title_clean>Evolution</title_clean>
+    <title_search>evolution</title_search>
+    <image ext="png" id="Evolution (USA) (Unl)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Evolution (USA) (Unl)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Evolution (USA) (Unl)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Facemaker (USA)">
+    <description>Facemaker (USA)</description>
+    <title_clean>Facemaker</title_clean>
+    <title_search>facemaker</title_search>
+    <image ext="png" id="Facemaker (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Facemaker (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Facemaker (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fall Guy (Europe) (Proto)">
+    <description>Fall Guy (Europe) (Proto)</description>
+    <title_clean>Fall Guy</title_clean>
+    <title_search>fall guy</title_search>
+    <image ext="png" id="Fall Guy (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fall Guy (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fall Guy (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fathom (USA)">
+    <description>Fathom (USA)</description>
+    <title_clean>Fathom</title_clean>
+    <title_search>fathom</title_search>
+    <image ext="png" id="Fathom (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fathom (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fathom (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Final Test Cartridge (USA)">
+    <description>Final Test Cartridge (USA)</description>
+    <title_clean>Final Test Cartridge</title_clean>
+    <title_search>final test cartridge</title_search>
+    <image ext="png" id="Final Test Cartridge (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Final Test Cartridge (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Final Test Cartridge (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fireman (Europe)">
+    <description>Fireman (Europe)</description>
+    <title_clean>Fireman</title_clean>
+    <title_search>fireman</title_search>
+  </game>
+  <game name="Flipper Slipper (USA) (Unl)">
+    <description>Flipper Slipper (USA) (Unl)</description>
+    <title_clean>Flipper Slipper</title_clean>
+    <title_search>flipper slipper</title_search>
+  </game>
+  <game name="Flipper Slipper (USA, Europe)">
+    <description>Flipper Slipper (USA, Europe)</description>
+    <title_clean>Flipper Slipper</title_clean>
+    <title_search>flipper slipper</title_search>
+    <image ext="png" id="Flipper Slipper (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Flipper Slipper (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Flipper Slipper (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fortune Builder (USA)">
+    <description>Fortune Builder (USA)</description>
+    <title_clean>Fortune Builder</title_clean>
+    <title_search>fortune builder</title_search>
+    <image ext="png" id="Fortune Builder (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fortune Builder (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fortune Builder (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fraction Fever (USA)">
+    <description>Fraction Fever (USA)</description>
+    <title_clean>Fraction Fever</title_clean>
+    <title_search>fraction fever</title_search>
+    <image ext="png" id="Fraction Fever (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fraction Fever (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fraction Fever (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Frantic Freddy (USA)">
+    <description>Frantic Freddy (USA)</description>
+    <title_clean>Frantic Freddy</title_clean>
+    <title_search>frantic freddy</title_search>
+    <image ext="png" id="Frantic Freddy (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Frantic Freddy (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Frantic Freddy (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Frenzy (USA, Europe)">
+    <description>Frenzy (USA, Europe)</description>
+    <title_clean>Frenzy</title_clean>
+    <title_search>frenzy</title_search>
+    <image ext="png" id="Frenzy (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Frenzy (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Frenzy (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Frogger (USA)">
+    <description>Frogger (USA)</description>
+    <title_clean>Frogger</title_clean>
+    <title_search>frogger</title_search>
+    <image ext="png" id="Frogger (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Frogger (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Frogger (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Frogger II - ThreeeDeep! (USA)">
+    <description>Frogger II - ThreeeDeep! (USA)</description>
+    <title_clean>Frogger II - ThreeeDeep!</title_clean>
+    <title_search>frogger ii threeedeep</title_search>
+    <image ext="png" id="Frogger II - ThreeeDeep! (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Frogger II - ThreeeDeep! (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Frogger II - ThreeeDeep! (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Front Line (USA, Europe)">
+    <description>Front Line (USA, Europe)</description>
+    <title_clean>Front Line</title_clean>
+    <title_search>front line</title_search>
+    <image ext="png" id="Front Line (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Front Line (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Front Line (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Front Line (USA, Europe) (Green Version)">
+    <description>Front Line (USA, Europe) (Green Version)</description>
+    <title_clean>Front Line</title_clean>
+    <title_search>front line</title_search>
+    <image ext="png" id="Front Line (USA, Europe) (Green Version)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Front Line (USA, Europe) (Green Version)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Front Line (USA, Europe) (Green Version)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Galaxian (USA)">
+    <description>Galaxian (USA)</description>
+    <title_clean>Galaxian</title_clean>
+    <title_search>galaxian</title_search>
+    <image ext="png" id="Galaxian (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Galaxian (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Galaxian (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gateway to Apshai (USA, Europe)">
+    <description>Gateway to Apshai (USA, Europe)</description>
+    <title_clean>Gateway to Apshai</title_clean>
+    <title_search>gateway to apshai</title_search>
+    <image ext="png" id="Gateway to Apshai (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gateway to Apshai (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gateway to Apshai (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gorf (USA, Europe)">
+    <description>Gorf (USA, Europe)</description>
+    <title_clean>Gorf</title_clean>
+    <title_search>gorf</title_search>
+    <image ext="png" id="Gorf (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gorf (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gorf (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gust Buster (USA)">
+    <description>Gust Buster (USA)</description>
+    <title_clean>Gust Buster</title_clean>
+    <title_search>gust buster</title_search>
+    <image ext="png" id="Gust Buster (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gust Buster (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gust Buster (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gyruss (USA)">
+    <description>Gyruss (USA)</description>
+    <title_clean>Gyruss</title_clean>
+    <title_search>gyruss</title_search>
+    <image ext="png" id="Gyruss (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Gyruss (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Gyruss (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Gyruss (USA) (Beta)">
+    <description>Gyruss (USA) (Beta)</description>
+    <title_clean>Gyruss</title_clean>
+    <title_search>gyruss</title_search>
+  </game>
+  <game name="H.E.R.O. - Helicopter Emergency Rescue Operation (USA)">
+    <description>H.E.R.O. - Helicopter Emergency Rescue Operation (USA)</description>
+    <title_clean>H.E.R.O. - Helicopter Emergency Rescue Operation</title_clean>
+    <title_search>hero helicopter emergency rescue operation</title_search>
+    <image ext="png" id="H.E.R.O. - Helicopter Emergency Rescue Operation (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="H.E.R.O. - Helicopter Emergency Rescue Operation (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="H.E.R.O. - Helicopter Emergency Rescue Operation (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Heist, The (USA)">
+    <description>Heist, The (USA)</description>
+    <title_clean>The Heist</title_clean>
+    <title_search>the heist</title_search>
+    <image ext="png" id="Heist, The (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Heist, The (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Heist, The (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Illusions (USA)">
+    <description>Illusions (USA)</description>
+    <title_clean>Illusions</title_clean>
+    <title_search>illusions</title_search>
+  </game>
+  <game name="It's Only Rock 'N' Roll (USA)">
+    <description>It's Only Rock 'N' Roll (USA)</description>
+    <title_clean>It's Only Rock 'N' Roll</title_clean>
+    <title_search>its only rock n roll</title_search>
+    <image ext="png" id="It's Only Rock 'N' Roll (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="It's Only Rock 'N' Roll (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="It's Only Rock 'N' Roll (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="James Bond 007 (USA)">
+    <description>James Bond 007 (USA)</description>
+    <title_clean>James Bond 007</title_clean>
+    <title_search>james bond 007</title_search>
+  </game>
+  <game name="Joust (USA) (Proto)">
+    <description>Joust (USA) (Proto)</description>
+    <title_clean>Joust</title_clean>
+    <title_search>joust</title_search>
+    <image ext="png" id="Joust (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Joust (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Joust (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Jukebox (USA)">
+    <description>Jukebox (USA)</description>
+    <title_clean>Jukebox</title_clean>
+    <title_search>jukebox</title_search>
+  </game>
+  <game name="Julius Erving and Larry Bird Go - One-on-One (USA)">
+    <description>Julius Erving and Larry Bird Go - One-on-One (USA)</description>
+    <title_clean>Julius Erving and Larry Bird Go - One-on-One</title_clean>
+    <title_search>julius erving and larry bird go oneonone</title_search>
+  </game>
+  <game name="Jumpman Junior (USA, Europe)">
+    <description>Jumpman Junior (USA, Europe)</description>
+    <title_clean>Jumpman Junior</title_clean>
+    <title_search>jumpman junior</title_search>
+  </game>
+  <game name="Jungle Hunt (USA)">
+    <description>Jungle Hunt (USA)</description>
+    <title_clean>Jungle Hunt</title_clean>
+    <title_search>jungle hunt</title_search>
+    <image ext="png" id="Jungle Hunt (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Jungle Hunt (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Jungle Hunt (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ken Uston Blackjack-Poker (USA, Europe)">
+    <description>Ken Uston Blackjack-Poker (USA, Europe)</description>
+    <title_clean>Ken Uston Blackjack-Poker</title_clean>
+    <title_search>ken uston blackjackpoker</title_search>
+    <image ext="png" id="Ken Uston Blackjack-Poker (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Ken Uston Blackjack-Poker (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Ken Uston Blackjack-Poker (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Keystone Kapers (USA)">
+    <description>Keystone Kapers (USA)</description>
+    <title_clean>Keystone Kapers</title_clean>
+    <title_search>keystone kapers</title_search>
+    <image ext="png" id="Keystone Kapers (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Keystone Kapers (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Keystone Kapers (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lady Bug (USA, Europe)">
+    <description>Lady Bug (USA, Europe)</description>
+    <title_clean>Lady Bug</title_clean>
+    <title_search>lady bug</title_search>
+    <image ext="png" id="Lady Bug (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lady Bug (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Lady Bug (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Learning with Leeper (USA)">
+    <description>Learning with Leeper (USA)</description>
+    <title_clean>Learning with Leeper</title_clean>
+    <title_search>learning with leeper</title_search>
+    <image ext="png" id="Learning with Leeper (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Learning with Leeper (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Learning with Leeper (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Linking Logic (USA)">
+    <description>Linking Logic (USA)</description>
+    <title_clean>Linking Logic</title_clean>
+    <title_search>linking logic</title_search>
+    <image ext="png" id="Linking Logic (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Linking Logic (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Linking Logic (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Logic Levels (USA)">
+    <description>Logic Levels (USA)</description>
+    <title_clean>Logic Levels</title_clean>
+    <title_search>logic levels</title_search>
+    <image ext="png" id="Logic Levels (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Logic Levels (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Logic Levels (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Looping (USA, Europe)">
+    <description>Looping (USA, Europe)</description>
+    <title_clean>Looping</title_clean>
+    <title_search>looping</title_search>
+    <image ext="png" id="Looping (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Looping (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Looping (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Lord of the Dungeon (USA) (Beta)">
+    <description>Lord of the Dungeon (USA) (Beta)</description>
+    <title_clean>Lord of the Dungeon</title_clean>
+    <title_search>lord of the dungeon</title_search>
+  </game>
+  <game name="M.A.S.H (Europe) (Proto)">
+    <description>M.A.S.H (Europe) (Proto)</description>
+    <title_clean>M.A.S.H</title_clean>
+    <title_search>mash</title_search>
+  </game>
+  <game name="Matt Patrol (USA) (Proto)">
+    <description>Matt Patrol (USA) (Proto)</description>
+    <title_clean>Matt Patrol</title_clean>
+    <title_search>matt patrol</title_search>
+  </game>
+  <game name="Matt Patrol (USA) (Proto) (Alt 1)">
+    <description>Matt Patrol (USA) (Proto) (Alt 1)</description>
+    <title_clean>Matt Patrol</title_clean>
+    <title_search>matt patrol</title_search>
+  </game>
+  <game name="Memory Manor (USA)">
+    <description>Memory Manor (USA)</description>
+    <title_clean>Memory Manor</title_clean>
+    <title_search>memory manor</title_search>
+    <image ext="png" id="Memory Manor (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Memory Manor (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Memory Manor (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Meteoric Shower (Europe)">
+    <description>Meteoric Shower (Europe)</description>
+    <title_clean>Meteoric Shower</title_clean>
+    <title_search>meteoric shower</title_search>
+  </game>
+  <game name="Miner 2049er Starring Bounty Bob (USA, Europe)">
+    <description>Miner 2049er Starring Bounty Bob (USA, Europe)</description>
+    <title_clean>Miner 2049er Starring Bounty Bob</title_clean>
+    <title_search>miner 2049er starring bounty bob</title_search>
+  </game>
+  <game name="Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)">
+    <description>Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)</description>
+    <title_clean>Miner 2049er Starring Bounty Bob</title_clean>
+    <title_search>miner 2049er starring bounty bob</title_search>
+  </game>
+  <game name="Monkey Academy (USA)">
+    <description>Monkey Academy (USA)</description>
+    <title_clean>Monkey Academy</title_clean>
+    <title_search>monkey academy</title_search>
+  </game>
+  <game name="Monkey Academy (USA) (Beta)">
+    <description>Monkey Academy (USA) (Beta)</description>
+    <title_clean>Monkey Academy</title_clean>
+    <title_search>monkey academy</title_search>
+  </game>
+  <game name="Montezuma's Revenge (USA)">
+    <description>Montezuma's Revenge (USA)</description>
+    <title_clean>Montezuma's Revenge</title_clean>
+    <title_search>montezumas revenge</title_search>
+    <image ext="png" id="Montezuma's Revenge (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Montezuma's Revenge (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Montezuma's Revenge (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Moonsweeper (USA, Europe)">
+    <description>Moonsweeper (USA, Europe)</description>
+    <title_clean>Moonsweeper</title_clean>
+    <title_search>moonsweeper</title_search>
+  </game>
+  <game name="Motocross Racer (USA)">
+    <description>Motocross Racer (USA)</description>
+    <title_clean>Motocross Racer</title_clean>
+    <title_search>motocross racer</title_search>
+    <image ext="png" id="Motocross Racer (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Motocross Racer (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Motocross Racer (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mountain King (USA)">
+    <description>Mountain King (USA)</description>
+    <title_clean>Mountain King</title_clean>
+    <title_search>mountain king</title_search>
+    <image ext="png" id="Mountain King (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mountain King (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mountain King (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mouse Trap (USA, Europe)">
+    <description>Mouse Trap (USA, Europe)</description>
+    <title_clean>Mouse Trap</title_clean>
+    <title_search>mouse trap</title_search>
+  </game>
+  <game name="Mr. Do! (USA, Europe)">
+    <description>Mr. Do! (USA, Europe)</description>
+    <title_clean>Mr. Do!</title_clean>
+    <title_search>mr do</title_search>
+    <image ext="png" id="Mr. Do! (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mr. Do! (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mr. Do! (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mr. Do!'s Castle (USA)">
+    <description>Mr. Do!'s Castle (USA)</description>
+    <title_clean>Mr. Do!'s Castle</title_clean>
+    <title_search>mr dos castle</title_search>
+    <image ext="png" id="Mr. Do!'s Castle (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mr. Do!'s Castle (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mr. Do!'s Castle (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Nova Blast (USA, Europe)">
+    <description>Nova Blast (USA, Europe)</description>
+    <title_clean>Nova Blast</title_clean>
+    <title_search>nova blast</title_search>
+  </game>
+  <game name="Number Bumper (USA) (Beta)">
+    <description>Number Bumper (USA) (Beta)</description>
+    <title_clean>Number Bumper</title_clean>
+    <title_search>number bumper</title_search>
+  </game>
+  <game name="Oil's Well (USA)">
+    <description>Oil's Well (USA)</description>
+    <title_clean>Oil's Well</title_clean>
+    <title_search>oils well</title_search>
+    <image ext="png" id="Oil's Well (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Oil's Well (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Oil's Well (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Omega Race (USA, Europe)">
+    <description>Omega Race (USA, Europe)</description>
+    <title_clean>Omega Race</title_clean>
+    <title_search>omega race</title_search>
+    <image ext="png" id="Omega Race (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Omega Race (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Omega Race (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Orbit (USA) (Proto)">
+    <description>Orbit (USA) (Proto)</description>
+    <title_clean>Orbit</title_clean>
+    <title_search>orbit</title_search>
+  </game>
+  <game name="Pac-Man (USA) (Proto)">
+    <description>Pac-Man (USA) (Proto)</description>
+    <title_clean>Pac-Man</title_clean>
+    <title_search>pacman</title_search>
+    <image ext="png" id="Pac-Man (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pac-Man (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pac-Man (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pepper II (USA, Europe)">
+    <description>Pepper II (USA, Europe)</description>
+    <title_clean>Pepper II</title_clean>
+    <title_search>pepper ii</title_search>
+    <image ext="png" id="Pepper II (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pepper II (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pepper II (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pitfall II - Lost Caverns (USA)">
+    <description>Pitfall II - Lost Caverns (USA)</description>
+    <title_clean>Pitfall II - Lost Caverns</title_clean>
+    <title_search>pitfall ii lost caverns</title_search>
+    <image ext="png" id="Pitfall II - Lost Caverns (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pitfall II - Lost Caverns (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pitfall II - Lost Caverns (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pitfall! (USA)">
+    <description>Pitfall! (USA)</description>
+    <title_clean>Pitfall!</title_clean>
+    <title_search>pitfall</title_search>
+    <image ext="png" id="Pitfall! (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pitfall! (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pitfall! (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pitstop (USA)">
+    <description>Pitstop (USA)</description>
+    <title_clean>Pitstop</title_clean>
+    <title_search>pitstop</title_search>
+    <image ext="png" id="Pitstop (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pitstop (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pitstop (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Pitstop (USA, Europe)">
+    <description>Pitstop (USA, Europe)</description>
+    <title_clean>Pitstop</title_clean>
+    <title_search>pitstop</title_search>
+  </game>
+  <game name="Popeye (USA)">
+    <description>Popeye (USA)</description>
+    <title_clean>Popeye</title_clean>
+    <title_search>popeye</title_search>
+    <image ext="png" id="Popeye (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Popeye (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Popeye (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Porky's (USA) (Proto)">
+    <description>Porky's (USA) (Proto)</description>
+    <title_clean>Porky's</title_clean>
+    <title_search>porkys</title_search>
+    <image ext="png" id="Porky's (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Porky's (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Porky's (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Power Lords - Quest for Volcan (USA) (Proto)">
+    <description>Power Lords - Quest for Volcan (USA) (Proto)</description>
+    <title_clean>Power Lords - Quest for Volcan</title_clean>
+    <title_search>power lords quest for volcan</title_search>
+    <image ext="png" id="Power Lords - Quest for Volcan (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Power Lords - Quest for Volcan (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Power Lords - Quest for Volcan (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Q-bert (USA)">
+    <description>Q-bert (USA)</description>
+    <title_clean>Q-bert</title_clean>
+    <title_search>qbert</title_search>
+    <image ext="png" id="Q-bert (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Q-bert (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Q-bert (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Q-bert's Qubes (USA)">
+    <description>Q-bert's Qubes (USA)</description>
+    <title_clean>Q-bert's Qubes</title_clean>
+    <title_search>qberts qubes</title_search>
+  </game>
+  <game name="Quest for Quintana Roo (USA)">
+    <description>Quest for Quintana Roo (USA)</description>
+    <title_clean>Quest for Quintana Roo</title_clean>
+    <title_search>quest for quintana roo</title_search>
+    <image ext="png" id="Quest for Quintana Roo (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Quest for Quintana Roo (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Quest for Quintana Roo (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="River Raid (USA)">
+    <description>River Raid (USA)</description>
+    <title_clean>River Raid</title_clean>
+    <title_search>river raid</title_search>
+    <image ext="png" id="River Raid (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="River Raid (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="River Raid (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Robin Hood (USA)">
+    <description>Robin Hood (USA)</description>
+    <title_clean>Robin Hood</title_clean>
+    <title_search>robin hood</title_search>
+    <image ext="png" id="Robin Hood (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Robin Hood (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Robin Hood (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Roc 'N Rope (USA, Europe)">
+    <description>Roc 'N Rope (USA, Europe)</description>
+    <title_clean>Roc 'N Rope</title_clean>
+    <title_search>roc n rope</title_search>
+    <image ext="png" id="Roc 'N Rope (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Roc 'N Rope (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Roc 'N Rope (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Rock n' Bolt (USA)">
+    <description>Rock n' Bolt (USA)</description>
+    <title_clean>Rock n' Bolt</title_clean>
+    <title_search>rock n bolt</title_search>
+  </game>
+  <game name="Rocky - Super Action Boxing (USA, Europe)">
+    <description>Rocky - Super Action Boxing (USA, Europe)</description>
+    <title_clean>Rocky - Super Action Boxing</title_clean>
+    <title_search>rocky super action boxing</title_search>
+  </game>
+  <game name="Rolloverture (USA)">
+    <description>Rolloverture (USA)</description>
+    <title_clean>Rolloverture</title_clean>
+    <title_search>rolloverture</title_search>
+    <image ext="png" id="Rolloverture (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Rolloverture (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Rolloverture (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Root Beer Tapper (USA)">
+    <description>Root Beer Tapper (USA)</description>
+    <title_clean>Root Beer Tapper</title_clean>
+    <title_search>root beer tapper</title_search>
+  </game>
+  <game name="Sammy Lightfoot (USA)">
+    <description>Sammy Lightfoot (USA)</description>
+    <title_clean>Sammy Lightfoot</title_clean>
+    <title_search>sammy lightfoot</title_search>
+    <image ext="png" id="Sammy Lightfoot (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sammy Lightfoot (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sammy Lightfoot (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sector Alpha (USA)">
+    <description>Sector Alpha (USA)</description>
+    <title_clean>Sector Alpha</title_clean>
+    <title_search>sector alpha</title_search>
+    <image ext="png" id="Sector Alpha (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sector Alpha (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sector Alpha (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sewer Sam (USA)">
+    <description>Sewer Sam (USA)</description>
+    <title_clean>Sewer Sam</title_clean>
+    <title_search>sewer sam</title_search>
+    <image ext="png" id="Sewer Sam (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sewer Sam (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sewer Sam (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sir Lancelot (USA)">
+    <description>Sir Lancelot (USA)</description>
+    <title_clean>Sir Lancelot</title_clean>
+    <title_search>sir lancelot</title_search>
+    <image ext="png" id="Sir Lancelot (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sir Lancelot (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sir Lancelot (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Skiing (USA)">
+    <description>Skiing (USA)</description>
+    <title_clean>Skiing</title_clean>
+    <title_search>skiing</title_search>
+    <image ext="png" id="Skiing (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Skiing (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Skiing (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Slither (USA, Europe)">
+    <description>Slither (USA, Europe)</description>
+    <title_clean>Slither</title_clean>
+    <title_search>slither</title_search>
+  </game>
+  <game name="Slurpy (USA)">
+    <description>Slurpy (USA)</description>
+    <title_clean>Slurpy</title_clean>
+    <title_search>slurpy</title_search>
+    <image ext="png" id="Slurpy (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Slurpy (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Slurpy (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Smurf - Paint 'n' Play WORKSHOP (USA, Europe)">
+    <description>Smurf - Paint 'n' Play WORKSHOP (USA, Europe)</description>
+    <title_clean>Smurf - Paint 'n' Play WORKSHOP</title_clean>
+    <title_search>smurf paint n play workshop</title_search>
+  </game>
+  <game name="Smurf - Rescue in Gargamel's Castle (USA, Europe)">
+    <description>Smurf - Rescue in Gargamel's Castle (USA, Europe)</description>
+    <title_clean>Smurf - Rescue in Gargamel's Castle</title_clean>
+    <title_search>smurf rescue in gargamels castle</title_search>
+  </game>
+  <game name="Smurfs Save the Day (USA) (Demo)">
+    <description>Smurfs Save the Day (USA) (Demo)</description>
+    <title_clean>Smurfs Save the Day</title_clean>
+    <title_search>smurfs save the day</title_search>
+  </game>
+  <game name="Space Fury (USA, Europe)">
+    <description>Space Fury (USA, Europe)</description>
+    <title_clean>Space Fury</title_clean>
+    <title_search>space fury</title_search>
+    <image ext="png" id="Space Fury (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Fury (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Fury (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Panic (USA, Europe)">
+    <description>Space Panic (USA, Europe)</description>
+    <title_clean>Space Panic</title_clean>
+    <title_search>space panic</title_search>
+    <image ext="png" id="Space Panic (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Panic (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Panic (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Spectron (USA)">
+    <description>Spectron (USA)</description>
+    <title_clean>Spectron</title_clean>
+    <title_search>spectron</title_search>
+    <image ext="png" id="Spectron (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Spectron (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Spectron (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Spy Hunter (USA)">
+    <description>Spy Hunter (USA)</description>
+    <title_clean>Spy Hunter</title_clean>
+    <title_search>spy hunter</title_search>
+  </game>
+  <game name="Spy Hunter (USA) (Beta)">
+    <description>Spy Hunter (USA) (Beta)</description>
+    <title_clean>Spy Hunter</title_clean>
+    <title_search>spy hunter</title_search>
+  </game>
+  <game name="Squish'em Featuring Sam (USA)">
+    <description>Squish'em Featuring Sam (USA)</description>
+    <title_clean>Squish'em Featuring Sam</title_clean>
+    <title_search>squishem featuring sam</title_search>
+  </game>
+  <game name="Star Trek - Strategic Operations Simulator (USA)">
+    <description>Star Trek - Strategic Operations Simulator (USA)</description>
+    <title_clean>Star Trek - Strategic Operations Simulator</title_clean>
+    <title_search>star trek strategic operations simulator</title_search>
+  </game>
+  <game name="Star Wars - The Arcade Game (USA)">
+    <description>Star Wars - The Arcade Game (USA)</description>
+    <title_clean>Star Wars - The Arcade Game</title_clean>
+    <title_search>star wars the arcade game</title_search>
+  </game>
+  <game name="Steamroller (USA) (Proto)">
+    <description>Steamroller (USA) (Proto)</description>
+    <title_clean>Steamroller</title_clean>
+    <title_search>steamroller</title_search>
+    <image ext="png" id="Steamroller (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Steamroller (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Steamroller (USA) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Strike It! (Europe)">
+    <description>Strike It! (Europe)</description>
+    <title_clean>Strike It!</title_clean>
+    <title_search>strike it</title_search>
+  </game>
+  <game name="Subroc (USA, Europe)">
+    <description>Subroc (USA, Europe)</description>
+    <title_clean>Subroc</title_clean>
+    <title_search>subroc</title_search>
+    <image ext="png" id="Subroc (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Subroc (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Subroc (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Action Baseball (USA)">
+    <description>Super Action Baseball (USA)</description>
+    <title_clean>Super Action Baseball</title_clean>
+    <title_search>super action baseball</title_search>
+  </game>
+  <game name="Super Action Football (Europe)">
+    <description>Super Action Football (Europe)</description>
+    <title_clean>Super Action Football</title_clean>
+    <title_search>super action football</title_search>
+  </game>
+  <game name="Super Action Football (USA)">
+    <description>Super Action Football (USA)</description>
+    <title_clean>Super Action Football</title_clean>
+    <title_search>super action football</title_search>
+  </game>
+  <game name="Super Cobra (USA)">
+    <description>Super Cobra (USA)</description>
+    <title_clean>Super Cobra</title_clean>
+    <title_search>super cobra</title_search>
+    <image ext="png" id="Super Cobra (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Cobra (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Cobra (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Controller Tester (USA)">
+    <description>Super Controller Tester (USA)</description>
+    <title_clean>Super Controller Tester</title_clean>
+    <title_search>super controller tester</title_search>
+    <image ext="png" id="Super Controller Tester (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Controller Tester (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Controller Tester (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super Cross Force (USA, Europe)">
+    <description>Super Cross Force (USA, Europe)</description>
+    <title_clean>Super Cross Force</title_clean>
+    <title_search>super cross force</title_search>
+  </game>
+  <game name="Super DK! (USA) (Proto)">
+    <description>Super DK! (USA) (Proto)</description>
+    <title_clean>Super DK!</title_clean>
+    <title_search>super dk</title_search>
+  </game>
+  <game name="Super DK! Junior (USA) (Proto)">
+    <description>Super DK! Junior (USA) (Proto)</description>
+    <title_clean>Super DK! Junior</title_clean>
+    <title_search>super dk junior</title_search>
+  </game>
+  <game name="Super Sketch - Sketch Master (USA) (Program)">
+    <description>Super Sketch - Sketch Master (USA) (Program)</description>
+    <title_clean>Super Sketch - Sketch Master</title_clean>
+    <title_search>super sketch sketch master</title_search>
+  </game>
+  <game name="Sword and the Sorcerer, The (USA) (Demo)">
+    <description>Sword and the Sorcerer, The (USA) (Demo)</description>
+    <title_clean>The Sword and the Sorcerer</title_clean>
+    <title_search>the sword and the sorcerer</title_search>
+  </game>
+  <game name="TOMARC the Barbarian (USA)">
+    <description>TOMARC the Barbarian (USA)</description>
+    <title_clean>TOMARC the Barbarian</title_clean>
+    <title_search>tomarc the barbarian</title_search>
+  </game>
+  <game name="Tank Wars (Europe)">
+    <description>Tank Wars (Europe)</description>
+    <title_clean>Tank Wars</title_clean>
+    <title_search>tank wars</title_search>
+  </game>
+  <game name="Tarzan (USA, Europe)">
+    <description>Tarzan (USA, Europe)</description>
+    <title_clean>Tarzan</title_clean>
+    <title_search>tarzan</title_search>
+  </game>
+  <game name="Telly Turtle (USA)">
+    <description>Telly Turtle (USA)</description>
+    <title_clean>Telly Turtle</title_clean>
+    <title_search>telly turtle</title_search>
+  </game>
+  <game name="Threshold (USA)">
+    <description>Threshold (USA)</description>
+    <title_clean>Threshold</title_clean>
+    <title_search>threshold</title_search>
+    <image ext="png" id="Threshold (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Threshold (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Threshold (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Time Pilot (USA, Europe)">
+    <description>Time Pilot (USA, Europe)</description>
+    <title_clean>Time Pilot</title_clean>
+    <title_search>time pilot</title_search>
+    <image ext="png" id="Time Pilot (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Time Pilot (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Time Pilot (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tournament Tennis (USA)">
+    <description>Tournament Tennis (USA)</description>
+    <title_clean>Tournament Tennis</title_clean>
+    <title_search>tournament tennis</title_search>
+    <image ext="png" id="Tournament Tennis (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tournament Tennis (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tournament Tennis (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tunnels _ Trolls (USA) (Demo)">
+    <description>Tunnels _ Trolls (USA) (Demo)</description>
+    <title_clean>Tunnels _ Trolls</title_clean>
+    <title_search>tunnels trolls</title_search>
+  </game>
+  <game name="Turbo (USA, Europe)">
+    <description>Turbo (USA, Europe)</description>
+    <title_clean>Turbo</title_clean>
+    <title_search>turbo</title_search>
+    <image ext="png" id="Turbo (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Turbo (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Turbo (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tutankham (USA)">
+    <description>Tutankham (USA)</description>
+    <title_clean>Tutankham</title_clean>
+    <title_search>tutankham</title_search>
+    <image ext="png" id="Tutankham (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tutankham (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tutankham (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Up 'n Down (USA)">
+    <description>Up 'n Down (USA)</description>
+    <title_clean>Up 'n Down</title_clean>
+    <title_search>up n down</title_search>
+  </game>
+  <game name="Venture (USA, Europe)">
+    <description>Venture (USA, Europe)</description>
+    <title_clean>Venture</title_clean>
+    <title_search>venture</title_search>
+    <image ext="png" id="Venture (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Venture (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Venture (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Victory (Europe)">
+    <description>Victory (Europe)</description>
+    <title_clean>Victory</title_clean>
+    <title_search>victory</title_search>
+  </game>
+  <game name="Victory (USA)">
+    <description>Victory (USA)</description>
+    <title_clean>Victory</title_clean>
+    <title_search>victory</title_search>
+  </game>
+  <game name="Video Hustler (Europe) (Proto 1)">
+    <description>Video Hustler (Europe) (Proto 1)</description>
+    <title_clean>Video Hustler</title_clean>
+    <title_search>video hustler</title_search>
+  </game>
+  <game name="Video Hustler (Europe) (Proto 2)">
+    <description>Video Hustler (Europe) (Proto 2)</description>
+    <title_clean>Video Hustler</title_clean>
+    <title_search>video hustler</title_search>
+  </game>
+  <game name="War Room (USA)">
+    <description>War Room (USA)</description>
+    <title_clean>War Room</title_clean>
+    <title_search>war room</title_search>
+    <image ext="png" id="War Room (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="War Room (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="War Room (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="WarGames (USA, Europe)">
+    <description>WarGames (USA, Europe)</description>
+    <title_clean>WarGames</title_clean>
+    <title_search>wargames</title_search>
+  </game>
+  <game name="Wing War (USA)">
+    <description>Wing War (USA)</description>
+    <title_clean>Wing War</title_clean>
+    <title_search>wing war</title_search>
+    <image ext="png" id="Wing War (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wing War (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wing War (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Wizard of Id's - WizMath (USA)">
+    <description>Wizard of Id's - WizMath (USA)</description>
+    <title_clean>Wizard of Id's - WizMath</title_clean>
+    <title_search>wizard of ids wizmath</title_search>
+  </game>
+  <game name="Word Feud (USA)">
+    <description>Word Feud (USA)</description>
+    <title_clean>Word Feud</title_clean>
+    <title_search>word feud</title_search>
+    <image ext="png" id="Word Feud (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Word Feud (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Word Feud (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Yolk's on You, The (Europe) (Proto)">
+    <description>Yolk's on You, The (Europe) (Proto)</description>
+    <title_clean>The Yolk's on You</title_clean>
+    <title_search>the yolks on you</title_search>
+    <image ext="png" id="Yolk's on You, The (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Yolk's on You, The (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Yolk's on You, The (Europe) (Proto)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zaxxon (Taiwan) (En) (Unl)">
+    <description>Zaxxon (Taiwan) (En) (Unl)</description>
+    <title_clean>Zaxxon</title_clean>
+    <title_search>zaxxon</title_search>
+  </game>
+  <game name="Zaxxon (USA, Europe)">
+    <description>Zaxxon (USA, Europe)</description>
+    <title_clean>Zaxxon</title_clean>
+    <title_search>zaxxon</title_search>
+    <image ext="png" id="Zaxxon (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Zaxxon (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zaxxon (USA, Europe)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zenji (USA)">
+    <description>Zenji (USA)</description>
+    <title_clean>Zenji</title_clean>
+    <title_search>zenji</title_search>
+    <image ext="png" id="Zenji (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Zenji (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Zenji (USA)" source="https://github.com/libretro-thumbnails/Coleco_-_ColecoVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

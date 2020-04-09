@@ -1,0 +1,1 @@
+Unzip the file in this folder to use it with the scraper.  It needed to be compressed to upload to git

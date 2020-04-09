@@ -1,0 +1,401 @@
+<datafile>
+  <game name="Armor Battle">
+    <description>Armor Battle</description>
+    <title_clean>Armor Battle</title_clean>
+    <title_search>armor battle</title_search>
+    <image ext="png" id="Armor Battle" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Banana (Time _ Fun)">
+    <description>Banana (Time _ Fun)</description>
+    <title_clean>Banana</title_clean>
+    <title_search>banana</title_search>
+    <image ext="png" id="Banana (Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Banana (Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Baseball (Explorer Time _ Fun)">
+    <description>Baseball (Explorer Time _ Fun)</description>
+    <title_clean>Baseball</title_clean>
+    <title_search>baseball</title_search>
+    <image ext="png" id="Baseball (Explorer Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Baseball (Explorer Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Bomb Fight (Mini Time _ Fun)">
+    <description>Bomb Fight (Mini Time _ Fun)</description>
+    <title_clean>Bomb Fight</title_clean>
+    <title_search>bomb fight</title_search>
+    <image ext="png" id="Bomb Fight (Mini Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bomb Fight (Mini Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Caccia al Ladro (Mini Time _ Fun)">
+    <description>Caccia al Ladro (Mini Time _ Fun)</description>
+    <title_clean>Caccia al Ladro</title_clean>
+    <title_search>caccia al ladro</title_search>
+    <image ext="png" id="Caccia al Ladro (Mini Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Caccia al Ladro (Mini Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Cessate il Fuoco (Mini Time _ Fun)">
+    <description>Cessate il Fuoco (Mini Time _ Fun)</description>
+    <title_clean>Cessate il Fuoco</title_clean>
+    <title_search>cessate il fuoco</title_search>
+    <image ext="png" id="Cessate il Fuoco (Mini Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Cessate il Fuoco (Mini Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Chicky Woggy (Arcade Time _ Fun)">
+    <description>Chicky Woggy (Arcade Time _ Fun)</description>
+    <title_clean>Chicky Woggy</title_clean>
+    <title_search>chicky woggy</title_search>
+    <image ext="png" id="Chicky Woggy (Arcade Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chicky Woggy (Arcade Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Chicky Woggy (Electronic Tini-Arcade)">
+    <description>Chicky Woggy (Electronic Tini-Arcade)</description>
+    <title_clean>Chicky Woggy</title_clean>
+    <title_search>chicky woggy</title_search>
+    <image ext="png" id="Chicky Woggy (Electronic Tini-Arcade)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chicky Woggy (Electronic Tini-Arcade)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Condor (Time _ Fun)">
+    <description>Condor (Time _ Fun)</description>
+    <title_clean>Condor</title_clean>
+    <title_search>condor</title_search>
+    <image ext="png" id="Condor (Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Condor (Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Crazy Chewy (Electronic Tini-Arcade)">
+    <description>Crazy Chewy (Electronic Tini-Arcade)</description>
+    <title_clean>Crazy Chewy</title_clean>
+    <title_search>crazy chewy</title_search>
+    <image ext="png" id="Crazy Chewy (Electronic Tini-Arcade)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Crazy Chewy (Electronic Tini-Arcade)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Defendo (Explorer Time _ Fun)">
+    <description>Defendo (Explorer Time _ Fun)</description>
+    <title_clean>Defendo</title_clean>
+    <title_search>defendo</title_search>
+    <image ext="png" id="Defendo (Explorer Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Defendo (Explorer Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Donkey Angler (LCD Card Game)">
+    <description>Donkey Angler (LCD Card Game)</description>
+    <title_clean>Donkey Angler</title_clean>
+    <title_search>donkey angler</title_search>
+  </game>
+  <game name="Donkey Kong">
+    <description>Donkey Kong</description>
+    <title_clean>Donkey Kong</title_clean>
+    <title_search>donkey kong</title_search>
+    <image ext="png" id="Donkey Kong" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Donkey Kong (Multi Screen)">
+    <description>Donkey Kong (Multi Screen)</description>
+    <title_clean>Donkey Kong</title_clean>
+    <title_search>donkey kong</title_search>
+    <image ext="png" id="Donkey Kong (Multi Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Donkey Kong (Multi Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Donkey Kong Circus (Panorama Screen)">
+    <description>Donkey Kong Circus (Panorama Screen)</description>
+    <title_clean>Donkey Kong Circus</title_clean>
+    <title_search>donkey kong circus</title_search>
+    <image ext="png" id="Donkey Kong Circus (Panorama Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Donkey Kong Circus (Panorama Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Donkey Kong II (Multi Screen)">
+    <description>Donkey Kong II (Multi Screen)</description>
+    <title_clean>Donkey Kong II</title_clean>
+    <title_search>donkey kong ii</title_search>
+    <image ext="png" id="Donkey Kong II (Multi Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Donkey Kong II (Multi Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Donkey Kong Jr.">
+    <description>Donkey Kong Jr.</description>
+    <title_clean>Donkey Kong Jr.</title_clean>
+    <title_search>donkey kong jr</title_search>
+    <image ext="png" id="Donkey Kong Jr." source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Donkey Kong Jr. (Panorama Screen)">
+    <description>Donkey Kong Jr. (Panorama Screen)</description>
+    <title_clean>Donkey Kong Jr.</title_clean>
+    <title_search>donkey kong jr</title_search>
+    <image ext="png" id="Donkey Kong Jr. (Panorama Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Donkey Kong Jr. (Panorama Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Donkey Kong Jr. (Table Top)">
+    <description>Donkey Kong Jr. (Table Top)</description>
+    <title_clean>Donkey Kong Jr.</title_clean>
+    <title_search>donkey kong jr</title_search>
+    <image ext="png" id="Donkey Kong Jr. (Table Top)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Donkey Kong Jr. (Table Top)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Dungeons _ Dragons Computer Fantasy Game (Arcade Action Series)">
+    <description>Dungeons _ Dragons Computer Fantasy Game (Arcade Action Series)</description>
+    <title_clean>Dungeons _ Dragons Computer Fantasy Game</title_clean>
+    <title_search>dungeons dragons computer fantasy game</title_search>
+    <image ext="png" id="Dungeons _ Dragons Computer Fantasy Game (Arcade Action Series)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dungeons _ Dragons Computer Fantasy Game (Arcade Action Series)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Egg (Wide Screen)">
+    <description>Egg (Wide Screen)</description>
+    <title_clean>Egg</title_clean>
+    <title_search>egg</title_search>
+    <image ext="png" id="Egg (Wide Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Egg (Wide Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Engine Room (Explorer Time _ Fun)">
+    <description>Engine Room (Explorer Time _ Fun)</description>
+    <title_clean>Engine Room</title_clean>
+    <title_search>engine room</title_search>
+    <image ext="png" id="Engine Room (Explorer Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Engine Room (Explorer Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Escape (Time _ Fun)">
+    <description>Escape (Time _ Fun)</description>
+    <title_clean>Escape</title_clean>
+    <title_search>escape</title_search>
+    <image ext="png" id="Escape (Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Escape (Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Explorers of Space">
+    <description>Explorers of Space</description>
+    <title_clean>Explorers of Space</title_clean>
+    <title_search>explorers of space</title_search>
+    <image ext="png" id="Explorers of Space" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Explorers of Space" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Fowling">
+    <description>Fowling</description>
+    <title_clean>Fowling</title_clean>
+    <title_search>fowling</title_search>
+    <image ext="png" id="Fowling" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fowling" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Frog Boaster">
+    <description>Frog Boaster</description>
+    <title_clean>Frog Boaster</title_clean>
+    <title_search>frog boaster</title_search>
+    <image ext="png" id="Frog Boaster" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Frog Boaster" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Galaxy II">
+    <description>Galaxy II</description>
+    <title_clean>Galaxy II</title_clean>
+    <title_search>galaxy ii</title_search>
+    <image ext="png" id="Galaxy II" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Galaxy II" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Grab Man (Game _ Time)">
+    <description>Grab Man (Game _ Time)</description>
+    <title_clean>Grab Man</title_clean>
+    <title_search>grab man</title_search>
+    <image ext="png" id="Grab Man (Game _ Time)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Grab Man (Game _ Time)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Hippo Teeth (Mini Time _ Fun)">
+    <description>Hippo Teeth (Mini Time _ Fun)</description>
+    <title_clean>Hippo Teeth</title_clean>
+    <title_search>hippo teeth</title_search>
+    <image ext="png" id="Hippo Teeth (Mini Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hippo Teeth (Mini Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Hippo Teeth (Sporty Time _ Fun)">
+    <description>Hippo Teeth (Sporty Time _ Fun)</description>
+    <title_clean>Hippo Teeth</title_clean>
+    <title_search>hippo teeth</title_search>
+    <image ext="png" id="Hippo Teeth (Sporty Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hippo Teeth (Sporty Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Hot Line (Mini Time _ Fun)">
+    <description>Hot Line (Mini Time _ Fun)</description>
+    <title_clean>Hot Line</title_clean>
+    <title_search>hot line</title_search>
+    <image ext="png" id="Hot Line (Mini Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hot Line (Mini Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Hot Line (Sporty Time _ Fun)">
+    <description>Hot Line (Sporty Time _ Fun)</description>
+    <title_clean>Hot Line</title_clean>
+    <title_search>hot line</title_search>
+    <image ext="png" id="Hot Line (Sporty Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hot Line (Sporty Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Las Vegas (LCD Game Digital)">
+    <description>Las Vegas (LCD Game Digital)</description>
+    <title_clean>Las Vegas</title_clean>
+    <title_search>las vegas</title_search>
+    <image ext="png" id="Las Vegas (LCD Game Digital)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Las Vegas (LCD Game Digital)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Lifeboat (Multi Screen)">
+    <description>Lifeboat (Multi Screen)</description>
+    <title_clean>Lifeboat</title_clean>
+    <title_search>lifeboat</title_search>
+    <image ext="png" id="Lifeboat (Multi Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Lifeboat (Multi Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Mario Bros. (Multi Screen)">
+    <description>Mario Bros. (Multi Screen)</description>
+    <title_clean>Mario Bros.</title_clean>
+    <title_search>mario bros</title_search>
+    <image ext="png" id="Mario Bros. (Multi Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mario Bros. (Multi Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Mario's Bombs Away (Panorama Screen)">
+    <description>Mario's Bombs Away (Panorama Screen)</description>
+    <title_clean>Mario's Bombs Away</title_clean>
+    <title_search>marios bombs away</title_search>
+    <image ext="png" id="Mario's Bombs Away (Panorama Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mario's Bombs Away (Panorama Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Mickey Mouse (Panorama Screen)">
+    <description>Mickey Mouse (Panorama Screen)</description>
+    <title_clean>Mickey Mouse</title_clean>
+    <title_search>mickey mouse</title_search>
+    <image ext="png" id="Mickey Mouse (Panorama Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mickey Mouse (Panorama Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Mickey Mouse (Wide Screen)">
+    <description>Mickey Mouse (Wide Screen)</description>
+    <title_clean>Mickey Mouse</title_clean>
+    <title_search>mickey mouse</title_search>
+    <image ext="png" id="Mickey Mouse (Wide Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mickey Mouse (Wide Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Monkey (Time _ Fun)">
+    <description>Monkey (Time _ Fun)</description>
+    <title_clean>Monkey</title_clean>
+    <title_search>monkey</title_search>
+    <image ext="png" id="Monkey (Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Monkey (Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Monkey Jump (Arcade Time _ Fun)">
+    <description>Monkey Jump (Arcade Time _ Fun)</description>
+    <title_clean>Monkey Jump</title_clean>
+    <title_search>monkey jump</title_search>
+    <image ext="png" id="Monkey Jump (Arcade Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Monkey Jump (Arcade Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Motor Cross">
+    <description>Motor Cross</description>
+    <title_clean>Motor Cross</title_clean>
+    <title_search>motor cross</title_search>
+  </game>
+  <game name="Pac Man">
+    <description>Pac Man</description>
+    <title_clean>Pac Man</title_clean>
+    <title_search>pac man</title_search>
+  </game>
+  <game name="Pancake (Time _ Fun)">
+    <description>Pancake (Time _ Fun)</description>
+    <title_clean>Pancake</title_clean>
+    <title_search>pancake</title_search>
+    <image ext="png" id="Pancake (Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pancake (Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Parachute (Wide Screen)">
+    <description>Parachute (Wide Screen)</description>
+    <title_clean>Parachute</title_clean>
+    <title_search>parachute</title_search>
+    <image ext="png" id="Parachute (Wide Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Parachute (Wide Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Penguin Land (LSI Game Double Play)">
+    <description>Penguin Land (LSI Game Double Play)</description>
+    <title_clean>Penguin Land</title_clean>
+    <title_search>penguin land</title_search>
+  </game>
+  <game name="Pirate (Time _ Fun)">
+    <description>Pirate (Time _ Fun)</description>
+    <title_clean>Pirate</title_clean>
+    <title_search>pirate</title_search>
+    <image ext="png" id="Pirate (Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pirate (Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Roller Coaster (Explorer Time _ Fun)">
+    <description>Roller Coaster (Explorer Time _ Fun)</description>
+    <title_clean>Roller Coaster</title_clean>
+    <title_search>roller coaster</title_search>
+    <image ext="png" id="Roller Coaster (Explorer Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Roller Coaster (Explorer Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Safari (Time _ Fun)">
+    <description>Safari (Time _ Fun)</description>
+    <title_clean>Safari</title_clean>
+    <title_search>safari</title_search>
+    <image ext="png" id="Safari (Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Safari (Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Sleep Walker (Time _ Fun)">
+    <description>Sleep Walker (Time _ Fun)</description>
+    <title_clean>Sleep Walker</title_clean>
+    <title_search>sleep walker</title_search>
+    <image ext="png" id="Sleep Walker (Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sleep Walker (Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Snoopy (Panorama Screen)">
+    <description>Snoopy (Panorama Screen)</description>
+    <title_clean>Snoopy</title_clean>
+    <title_search>snoopy</title_search>
+    <image ext="png" id="Snoopy (Panorama Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Snoopy (Panorama Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Snoopy (Table Top)">
+    <description>Snoopy (Table Top)</description>
+    <title_clean>Snoopy</title_clean>
+    <title_search>snoopy</title_search>
+    <image ext="png" id="Snoopy (Table Top)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Snoopy (Table Top)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Snoopy Tennis (Wide Screen)">
+    <description>Snoopy Tennis (Wide Screen)</description>
+    <title_clean>Snoopy Tennis</title_clean>
+    <title_search>snoopy tennis</title_search>
+    <image ext="png" id="Snoopy Tennis (Wide Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Snoopy Tennis (Wide Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Sub Chase">
+    <description>Sub Chase</description>
+    <title_clean>Sub Chase</title_clean>
+    <title_search>sub chase</title_search>
+    <image ext="png" id="Sub Chase" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sub Chase" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Tennis Menace (Sporty Time _ Fun)">
+    <description>Tennis Menace (Sporty Time _ Fun)</description>
+    <title_clean>Tennis Menace</title_clean>
+    <title_search>tennis menace</title_search>
+    <image ext="png" id="Tennis Menace (Sporty Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tennis Menace (Sporty Time _ Fun)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Tom _ Jerry Popper (LCD Card Game)">
+    <description>Tom _ Jerry Popper (LCD Card Game)</description>
+    <title_clean>Tom _ Jerry Popper</title_clean>
+    <title_search>tom jerry popper</title_search>
+  </game>
+  <game name="Towering Rescue (LCD Card Game)">
+    <description>Towering Rescue (LCD Card Game)</description>
+    <title_clean>Towering Rescue</title_clean>
+    <title_search>towering rescue</title_search>
+    <image ext="png" id="Towering Rescue (LCD Card Game)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Towering Rescue (LCD Card Game)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Tron">
+    <description>Tron</description>
+    <title_clean>Tron</title_clean>
+    <title_search>tron</title_search>
+    <image ext="png" id="Tron" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Turtle Bridge (Wide Screen)">
+    <description>Turtle Bridge (Wide Screen)</description>
+    <title_clean>Turtle Bridge</title_clean>
+    <title_search>turtle bridge</title_search>
+    <image ext="png" id="Turtle Bridge (Wide Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Turtle Bridge (Wide Screen)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+  <game name="Wild Man Jump (Electronic Tini-Arcade)">
+    <description>Wild Man Jump (Electronic Tini-Arcade)</description>
+    <title_clean>Wild Man Jump</title_clean>
+    <title_search>wild man jump</title_search>
+    <image ext="png" id="Wild Man Jump (Electronic Tini-Arcade)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wild Man Jump (Electronic Tini-Arcade)" source="https://github.com/libretro-thumbnails/Handheld_Electronic_Game/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+  </game>
+</datafile>

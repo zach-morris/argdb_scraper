@@ -1,0 +1,1165 @@
+<datafile>
+  <game>
+    <description>1080 Avalanche (USA)</description>
+    <title_clean>1080 Avalanche</title_clean>
+    <title_search>1080 avalanche</title_search>
+    <image ext="png" id="1080 Avalanche (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/1080%20Avalanche%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Animal Crossing (Europe)</description>
+    <title_clean>Animal Crossing</title_clean>
+    <title_search>animal crossing</title_search>
+    <image ext="png" id="Animal Crossing (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Animal%20Crossing%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Animal Crossing (USA)</description>
+    <title_clean>Animal Crossing</title_clean>
+    <title_search>animal crossing</title_search>
+    <image ext="png" id="Animal Crossing (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Animal%20Crossing%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Beach Spikers - Virtua Beach Volleyball (USA)</description>
+    <title_clean>Beach Spikers - Virtua Beach Volleyball</title_clean>
+    <title_search>beach spikers virtua beach volleyball</title_search>
+    <image ext="png" id="Beach Spikers - Virtua Beach Volleyball (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Beach%20Spikers%20-%20Virtua%20Beach%20Volleyball%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Beyond Good And Evil (Europe)</description>
+    <title_clean>Beyond Good And Evil</title_clean>
+    <title_search>beyond good and evil</title_search>
+    <image ext="png" id="Beyond Good And Evil (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Beyond%20Good%20And%20Evil%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Beyond Good _ Evil (USA)</description>
+    <title_clean>Beyond Good _ Evil</title_clean>
+    <title_search>beyond good evil</title_search>
+    <image ext="png" id="Beyond Good _ Evil (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Beyond%20Good%20_%20Evil%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Biohazard (Japan) (Disc 1)</description>
+    <title_clean>Biohazard</title_clean>
+    <title_search>biohazard</title_search>
+    <image ext="png" id="Biohazard (Japan) (Disc 1)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Biohazard%20(Japan)%20(Disc%201).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Biohazard (Japan) (Disc 2)</description>
+    <title_clean>Biohazard</title_clean>
+    <title_search>biohazard</title_search>
+    <image ext="png" id="Biohazard (Japan) (Disc 2)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Biohazard%20(Japan)%20(Disc%202).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)</description>
+    <title_clean>Biohazard - Code - Veronica - Kanzenban</title_clean>
+    <title_search>biohazard code veronica kanzenban</title_search>
+    <image ext="png" id="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Biohazard%20-%20Code%20-%20Veronica%20-%20Kanzenban%20(Japan)%20(Disc%201).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)</description>
+    <title_clean>Biohazard - Code - Veronica - Kanzenban</title_clean>
+    <title_search>biohazard code veronica kanzenban</title_search>
+    <image ext="png" id="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Biohazard%20-%20Code%20-%20Veronica%20-%20Kanzenban%20(Japan)%20(Disc%202).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Biohazard 2 (Japan)</description>
+    <title_clean>Biohazard 2</title_clean>
+    <title_search>biohazard 2</title_search>
+    <image ext="png" id="Biohazard 2 (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Biohazard%202%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Biohazard 3 - Last Escape (Japan)</description>
+    <title_clean>Biohazard 3 - Last Escape</title_clean>
+    <title_search>biohazard 3 last escape</title_search>
+    <image ext="png" id="Biohazard 3 - Last Escape (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Biohazard%203%20-%20Last%20Escape%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Biohazard 4 (Japan) (Disc 1)</description>
+    <title_clean>Biohazard 4</title_clean>
+    <title_search>biohazard 4</title_search>
+    <image ext="png" id="Biohazard 4 (Japan) (Disc 1)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Biohazard%204%20(Japan)%20(Disc%201).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Biohazard 4 (Japan) (Disc 2)</description>
+    <title_clean>Biohazard 4</title_clean>
+    <title_search>biohazard 4</title_search>
+    <image ext="png" id="Biohazard 4 (Japan) (Disc 2)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Biohazard%204%20(Japan)%20(Disc%202).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Biohazard Zero (Japan) (Disc 1)</description>
+    <title_clean>Biohazard Zero</title_clean>
+    <title_search>biohazard zero</title_search>
+    <image ext="png" id="Biohazard Zero (Japan) (Disc 1)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Biohazard%20Zero%20(Japan)%20(Disc%201).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Biohazard Zero (Japan) (Disc 2)</description>
+    <title_clean>Biohazard Zero</title_clean>
+    <title_search>biohazard zero</title_search>
+    <image ext="png" id="Biohazard Zero (Japan) (Disc 2)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Biohazard%20Zero%20(Japan)%20(Disc%202).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Bionicle (Europe)</description>
+    <title_clean>Bionicle</title_clean>
+    <title_search>bionicle</title_search>
+    <image ext="png" id="Bionicle (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Bionicle%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Bionicle (USA)</description>
+    <title_clean>Bionicle</title_clean>
+    <title_search>bionicle</title_search>
+    <image ext="png" id="Bionicle (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Bionicle%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Bionicle Heroes (USA)</description>
+    <title_clean>Bionicle Heroes</title_clean>
+    <title_search>bionicle heroes</title_search>
+    <image ext="png" id="Bionicle Heroes (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Bionicle%20Heroes%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>BloodRayne (Europe)</description>
+    <title_clean>BloodRayne</title_clean>
+    <title_search>bloodrayne</title_search>
+    <image ext="png" id="BloodRayne (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/BloodRayne%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>BloodRayne (USA)</description>
+    <title_clean>BloodRayne</title_clean>
+    <title_search>bloodrayne</title_search>
+    <image ext="png" id="BloodRayne (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/BloodRayne%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Bloody Roar - Extreme (Japan)</description>
+    <title_clean>Bloody Roar - Extreme</title_clean>
+    <title_search>bloody roar extreme</title_search>
+    <image ext="png" id="Bloody Roar - Extreme (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Bloody%20Roar%20-%20Extreme%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Bloody Roar - Primal Fury (USA)</description>
+    <title_clean>Bloody Roar - Primal Fury</title_clean>
+    <title_search>bloody roar primal fury</title_search>
+    <image ext="png" id="Bloody Roar - Primal Fury (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Bloody%20Roar%20-%20Primal%20Fury%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Bomberman Jetters (USA)</description>
+    <title_clean>Bomberman Jetters</title_clean>
+    <title_search>bomberman jetters</title_search>
+    <image ext="png" id="Bomberman Jetters (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Bomberman%20Jetters%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Castleween (Europe)</description>
+    <title_clean>Castleween</title_clean>
+    <title_search>castleween</title_search>
+    <image ext="png" id="Castleween (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Castleween%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Chaos Field (USA)</description>
+    <title_clean>Chaos Field</title_clean>
+    <title_search>chaos field</title_search>
+    <image ext="png" id="Chaos Field (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Chaos%20Field%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Custom Robo (USA)</description>
+    <title_clean>Custom Robo</title_clean>
+    <title_search>custom robo</title_search>
+    <image ext="png" id="Custom Robo (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Custom%20Robo%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Disney's Magical Mirror Starring Mickey Mouse (USA)</description>
+    <title_clean>Disney's Magical Mirror Starring Mickey Mouse</title_clean>
+    <title_search>disneys magical mirror starring mickey mouse</title_search>
+    <image ext="png" id="Disney's Magical Mirror Starring Mickey Mouse (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Disney's%20Magical%20Mirror%20Starring%20Mickey%20Mouse%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Donkey Konga (Europe)</description>
+    <title_clean>Donkey Konga</title_clean>
+    <title_search>donkey konga</title_search>
+    <image ext="png" id="Donkey Konga (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Donkey%20Konga%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Donkey Konga 2 (Europe)</description>
+    <title_clean>Donkey Konga 2</title_clean>
+    <title_search>donkey konga 2</title_search>
+    <image ext="png" id="Donkey Konga 2 (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Donkey%20Konga%202%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Donkey Konga 2 (USA)</description>
+    <title_clean>Donkey Konga 2</title_clean>
+    <title_search>donkey konga 2</title_search>
+    <image ext="png" id="Donkey Konga 2 (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Donkey%20Konga%202%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Donkey Konga 3 (Japan)</description>
+    <title_clean>Donkey Konga 3</title_clean>
+    <title_search>donkey konga 3</title_search>
+    <image ext="png" id="Donkey Konga 3 (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Donkey%20Konga%203%20(Japan).png" type="Box - Front"/>
+    <image ext="png" id="Donkey Konga 3 (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Snaps/Donkey%20Konga%203%20(Japan).png" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Donkey Konga 3 (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Titles/Donkey%20Konga%203%20(Japan).png" type="Screenshot - Game Title"/>
+  </game>
+  <game>
+    <description>Evolution Worlds (USA)</description>
+    <title_clean>Evolution Worlds</title_clean>
+    <title_search>evolution worlds</title_search>
+    <image ext="png" id="Evolution Worlds (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Evolution%20Worlds%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>F-Zero GX (Europe)</description>
+    <title_clean>F-Zero GX</title_clean>
+    <title_search>fzero gx</title_search>
+    <image ext="png" id="F-Zero GX (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/F-Zero%20GX%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>F-Zero GX (Japan)</description>
+    <title_clean>F-Zero GX</title_clean>
+    <title_search>fzero gx</title_search>
+    <image ext="png" id="F-Zero GX (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/F-Zero%20GX%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>F-Zero GX (USA)</description>
+    <title_clean>F-Zero GX</title_clean>
+    <title_search>fzero gx</title_search>
+    <image ext="png" id="F-Zero GX (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/F-Zero%20GX%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Final Fantasy - Crystal Chronicles (USA)</description>
+    <title_clean>Final Fantasy - Crystal Chronicles</title_clean>
+    <title_search>final fantasy crystal chronicles</title_search>
+    <image ext="png" id="Final Fantasy - Crystal Chronicles (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Final%20Fantasy%20-%20Crystal%20Chronicles%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Final Fantasy Crystal Chronicles (Europe)</description>
+    <title_clean>Final Fantasy Crystal Chronicles</title_clean>
+    <title_search>final fantasy crystal chronicles</title_search>
+    <image ext="png" id="Final Fantasy Crystal Chronicles (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Final%20Fantasy%20Crystal%20Chronicles%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Final Fantasy Crystal Chronicles (Japan)</description>
+    <title_clean>Final Fantasy Crystal Chronicles</title_clean>
+    <title_search>final fantasy crystal chronicles</title_search>
+    <image ext="png" id="Final Fantasy Crystal Chronicles (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Final%20Fantasy%20Crystal%20Chronicles%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Fire Emblem - Path of Radiance (USA)</description>
+    <title_clean>Fire Emblem - Path of Radiance</title_clean>
+    <title_search>fire emblem path of radiance</title_search>
+    <image ext="png" id="Fire Emblem - Path of Radiance (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Fire%20Emblem%20-%20Path%20of%20Radiance%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Fire Emblem_ Path of Radiance (Europe)</description>
+    <title_clean>Fire Emblem_ Path of Radiance</title_clean>
+    <title_search>fire emblem path of radiance</title_search>
+    <image ext="png" id="Fire Emblem_ Path of Radiance (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Fire%20Emblem_%20Path%20of%20Radiance%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Fire Emblem_ Path of Radiance (USA)</description>
+    <title_clean>Fire Emblem_ Path of Radiance</title_clean>
+    <title_search>fire emblem path of radiance</title_search>
+    <image ext="png" id="Fire Emblem_ Path of Radiance (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Fire%20Emblem_%20Path%20of%20Radiance%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Fire Emblem_ Souen no Kiseki (Japan)</description>
+    <title_clean>Fire Emblem_ Souen no Kiseki</title_clean>
+    <title_search>fire emblem souen no kiseki</title_search>
+    <image ext="png" id="Fire Emblem_ Souen no Kiseki (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Fire%20Emblem_%20Souen%20no%20Kiseki%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Geist (USA)</description>
+    <title_clean>Geist</title_clean>
+    <title_search>geist</title_search>
+    <image ext="png" id="Geist (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Geist%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Harry Potter World Cup (Japan)</description>
+    <title_clean>Harry Potter World Cup</title_clean>
+    <title_search>harry potter world cup</title_search>
+    <image ext="png" id="Harry Potter World Cup (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Harry%20Potter%20World%20Cup%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Harry Potter and the Chamber of Secrets (Europe)</description>
+    <title_clean>Harry Potter and the Chamber of Secrets</title_clean>
+    <title_search>harry potter and the chamber of secrets</title_search>
+    <image ext="png" id="Harry Potter and the Chamber of Secrets (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Harry Potter and the Chamber of Secrets (USA)</description>
+    <title_clean>Harry Potter and the Chamber of Secrets</title_clean>
+    <title_search>harry potter and the chamber of secrets</title_search>
+    <image ext="png" id="Harry Potter and the Chamber of Secrets (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Harry Potter and the Goblet of Fire (Europe)</description>
+    <title_clean>Harry Potter and the Goblet of Fire</title_clean>
+    <title_search>harry potter and the goblet of fire</title_search>
+    <image ext="png" id="Harry Potter and the Goblet of Fire (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Harry Potter and the Goblet of Fire (USA)</description>
+    <title_clean>Harry Potter and the Goblet of Fire</title_clean>
+    <title_search>harry potter and the goblet of fire</title_search>
+    <image ext="png" id="Harry Potter and the Goblet of Fire (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Harry Potter and the Philosopher's Stone (Europe)</description>
+    <title_clean>Harry Potter and the Philosopher's Stone</title_clean>
+    <title_search>harry potter and the philosophers stone</title_search>
+    <image ext="png" id="Harry Potter and the Philosopher's Stone (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Harry%20Potter%20and%20the%20Philosopher's%20Stone%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Harry Potter and the Prisoner of Azkaban (Europe)</description>
+    <title_clean>Harry Potter and the Prisoner of Azkaban</title_clean>
+    <title_search>harry potter and the prisoner of azkaban</title_search>
+    <image ext="png" id="Harry Potter and the Prisoner of Azkaban (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Harry Potter and the Prisoner of Azkaban (USA)</description>
+    <title_clean>Harry Potter and the Prisoner of Azkaban</title_clean>
+    <title_search>harry potter and the prisoner of azkaban</title_search>
+    <image ext="png" id="Harry Potter and the Prisoner of Azkaban (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Harry Potter and the Sorcerer's Stone (Europe)</description>
+    <title_clean>Harry Potter and the Sorcerer's Stone</title_clean>
+    <title_search>harry potter and the sorcerers stone</title_search>
+    <image ext="png" id="Harry Potter and the Sorcerer's Stone (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Harry%20Potter%20and%20the%20Sorcerer's%20Stone%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Harry Potter and the Sorcerer's Stone (USA)</description>
+    <title_clean>Harry Potter and the Sorcerer's Stone</title_clean>
+    <title_search>harry potter and the sorcerers stone</title_search>
+    <image ext="png" id="Harry Potter and the Sorcerer's Stone (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Harry%20Potter%20and%20the%20Sorcerer's%20Stone%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Harry Potter to Azkaban no Shuujin (Japan)</description>
+    <title_clean>Harry Potter to Azkaban no Shuujin</title_clean>
+    <title_search>harry potter to azkaban no shuujin</title_search>
+    <image ext="png" id="Harry Potter to Azkaban no Shuujin (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Harry%20Potter%20to%20Azkaban%20no%20Shuujin%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Harry Potter to Himitsu no Heya (Japan)</description>
+    <title_clean>Harry Potter to Himitsu no Heya</title_clean>
+    <title_search>harry potter to himitsu no heya</title_search>
+    <image ext="png" id="Harry Potter to Himitsu no Heya (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Harry%20Potter%20to%20Himitsu%20no%20Heya%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Harry Potter to Honoo no Goblet (Japan)</description>
+    <title_clean>Harry Potter to Honoo no Goblet</title_clean>
+    <title_search>harry potter to honoo no goblet</title_search>
+    <image ext="png" id="Harry Potter to Honoo no Goblet (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Harry%20Potter%20to%20Honoo%20no%20Goblet%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Harry Potter to Kenja no Ishi (Japan)</description>
+    <title_clean>Harry Potter to Kenja no Ishi</title_clean>
+    <title_search>harry potter to kenja no ishi</title_search>
+    <image ext="png" id="Harry Potter to Kenja no Ishi (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Harry%20Potter%20to%20Kenja%20no%20Ishi%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Harry Potter_ Quidditch World Cup (Europe)</description>
+    <title_clean>Harry Potter_ Quidditch World Cup</title_clean>
+    <title_search>harry potter quidditch world cup</title_search>
+    <image ext="png" id="Harry Potter_ Quidditch World Cup (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Harry%20Potter_%20Quidditch%20World%20Cup%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Harry Potter_ Quidditch World Cup (USA)</description>
+    <title_clean>Harry Potter_ Quidditch World Cup</title_clean>
+    <title_search>harry potter quidditch world cup</title_search>
+    <image ext="png" id="Harry Potter_ Quidditch World Cup (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Harry%20Potter_%20Quidditch%20World%20Cup%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Harvest Moon - A Wonderful Life (USA)</description>
+    <title_clean>Harvest Moon - A Wonderful Life</title_clean>
+    <title_search>harvest moon a wonderful life</title_search>
+    <image ext="png" id="Harvest Moon - A Wonderful Life (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Harvest%20Moon%20-%20A%20Wonderful%20Life%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Ikaruga (Europe)</description>
+    <title_clean>Ikaruga</title_clean>
+    <title_search>ikaruga</title_search>
+    <image ext="png" id="Ikaruga (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Ikaruga%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Ikaruga (USA)</description>
+    <title_clean>Ikaruga</title_clean>
+    <title_search>ikaruga</title_search>
+    <image ext="png" id="Ikaruga (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Ikaruga%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Kirby Air Ride (Europe)</description>
+    <title_clean>Kirby Air Ride</title_clean>
+    <title_search>kirby air ride</title_search>
+    <image ext="png" id="Kirby Air Ride (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Kirby%20Air%20Ride%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Kirby Air Ride (USA)</description>
+    <title_clean>Kirby Air Ride</title_clean>
+    <title_search>kirby air ride</title_search>
+    <image ext="png" id="Kirby Air Ride (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Kirby%20Air%20Ride%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Kururin Squash! (Japan)</description>
+    <title_clean>Kururin Squash!</title_clean>
+    <title_search>kururin squash</title_search>
+    <image ext="png" id="Kururin Squash! (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Kururin%20Squash!%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Legend of Zelda, The - Four Swords Adventures (USA)</description>
+    <title_clean>The Legend of Zelda - Four Swords Adventures</title_clean>
+    <title_search>the legend of zelda four swords adventures</title_search>
+    <image ext="png" id="Legend of Zelda, The - Four Swords Adventures (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Four%20Swords%20Adventures%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Legend of Zelda, The - The Wind Waker (USA)</description>
+    <title_clean>The Legend of Zelda - The Wind Waker</title_clean>
+    <title_search>the legend of zelda the wind waker</title_search>
+    <image ext="png" id="Legend of Zelda, The - The Wind Waker (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20The%20Wind%20Waker%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Legend of Zelda, The - Twilight Princess (USA)</description>
+    <title_clean>The Legend of Zelda - Twilight Princess</title_clean>
+    <title_search>the legend of zelda twilight princess</title_search>
+    <image ext="png" id="Legend of Zelda, The - Twilight Princess (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Twilight%20Princess%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Lost Kingdoms (USA)</description>
+    <title_clean>Lost Kingdoms</title_clean>
+    <title_search>lost kingdoms</title_search>
+    <image ext="png" id="Lost Kingdoms (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Lost%20Kingdoms%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Luigi Mansion (Japan)</description>
+    <title_clean>Luigi Mansion</title_clean>
+    <title_search>luigi mansion</title_search>
+    <image ext="png" id="Luigi Mansion (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Luigi%20Mansion%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Luigi's Mansion (Europe)</description>
+    <title_clean>Luigi's Mansion</title_clean>
+    <title_search>luigis mansion</title_search>
+    <image ext="png" id="Luigi's Mansion (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Luigi's%20Mansion%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Luigi's Mansion (USA)</description>
+    <title_clean>Luigi's Mansion</title_clean>
+    <title_search>luigis mansion</title_search>
+    <image ext="png" id="Luigi's Mansion (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Luigi's%20Mansion%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mahou no Pumpkin - An to Greg no Daibouken (Japan)</description>
+    <title_clean>Mahou no Pumpkin - An to Greg no Daibouken</title_clean>
+    <title_search>mahou no pumpkin an to greg no daibouken</title_search>
+    <image ext="png" id="Mahou no Pumpkin - An to Greg no Daibouken (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mahou%20no%20Pumpkin%20-%20An%20to%20Greg%20no%20Daibouken%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Golf_ Toadstool Tour (Europe)</description>
+    <title_clean>Mario Golf_ Toadstool Tour</title_clean>
+    <title_search>mario golf toadstool tour</title_search>
+    <image ext="png" id="Mario Golf_ Toadstool Tour (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Golf_%20Toadstool%20Tour%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Golf_ Toadstool Tour (USA)</description>
+    <title_clean>Mario Golf_ Toadstool Tour</title_clean>
+    <title_search>mario golf toadstool tour</title_search>
+    <image ext="png" id="Mario Golf_ Toadstool Tour (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Golf_%20Toadstool%20Tour%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Kart - Double Dash!! (USA)</description>
+    <title_clean>Mario Kart - Double Dash!!</title_clean>
+    <title_search>mario kart double dash</title_search>
+    <image ext="png" id="Mario Kart - Double Dash!! (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Kart%20-%20Double%20Dash!!%20(USA)%20(Bonus%20Disc).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Kart - Double Dash!! (USA) (Bonus Disc)</description>
+    <title_clean>Mario Kart - Double Dash!!</title_clean>
+    <title_search>mario kart double dash</title_search>
+    <image ext="png" id="Mario Kart - Double Dash!! (USA) (Bonus Disc)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Kart%20-%20Double%20Dash!!%20(USA)%20(Bonus%20Disc).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Kart_ Double Dash!! (Europe)</description>
+    <title_clean>Mario Kart_ Double Dash!!</title_clean>
+    <title_search>mario kart double dash</title_search>
+    <image ext="png" id="Mario Kart_ Double Dash!! (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Kart_%20Double%20Dash!!%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Kart_ Double Dash!! (Japan)</description>
+    <title_clean>Mario Kart_ Double Dash!!</title_clean>
+    <title_search>mario kart double dash</title_search>
+    <image ext="png" id="Mario Kart_ Double Dash!! (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Kart_%20Double%20Dash!!%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Kart_ Double Dash!! (USA)</description>
+    <title_clean>Mario Kart_ Double Dash!!</title_clean>
+    <title_search>mario kart double dash</title_search>
+    <image ext="png" id="Mario Kart_ Double Dash!! (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Kart_%20Double%20Dash!!%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Kart_ Double Dash!! Bonus Disc (USA)</description>
+    <title_clean>Mario Kart_ Double Dash!! Bonus Disc</title_clean>
+    <title_search>mario kart double dash bonus disc</title_search>
+    <image ext="png" id="Mario Kart_ Double Dash!! Bonus Disc (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Kart_%20Double%20Dash!!%20Bonus%20Disc%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Party 4 (Europe)</description>
+    <title_clean>Mario Party 4</title_clean>
+    <title_search>mario party 4</title_search>
+    <image ext="png" id="Mario Party 4 (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Party%204%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Party 4 (USA) (v1.00)</description>
+    <title_clean>Mario Party 4</title_clean>
+    <title_search>mario party 4</title_search>
+    <image ext="png" id="Mario Party 4 (USA) (v1.00)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Party%204%20(USA)%20(v1.00).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Party 4 (USA) (v1.01)</description>
+    <title_clean>Mario Party 4</title_clean>
+    <title_search>mario party 4</title_search>
+    <image ext="png" id="Mario Party 4 (USA) (v1.01)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Party%204%20(USA)%20(v1.01).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Party 5 (Europe)</description>
+    <title_clean>Mario Party 5</title_clean>
+    <title_search>mario party 5</title_search>
+    <image ext="png" id="Mario Party 5 (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Party%205%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Party 5 (USA)</description>
+    <title_clean>Mario Party 5</title_clean>
+    <title_search>mario party 5</title_search>
+    <image ext="png" id="Mario Party 5 (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Party%205%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Party 6 (Europe)</description>
+    <title_clean>Mario Party 6</title_clean>
+    <title_search>mario party 6</title_search>
+    <image ext="png" id="Mario Party 6 (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Party%206%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Party 6 (USA)</description>
+    <title_clean>Mario Party 6</title_clean>
+    <title_search>mario party 6</title_search>
+    <image ext="png" id="Mario Party 6 (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Party%206%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Party 7 (Europe)</description>
+    <title_clean>Mario Party 7</title_clean>
+    <title_search>mario party 7</title_search>
+    <image ext="png" id="Mario Party 7 (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Party%207%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Party 7 (USA)</description>
+    <title_clean>Mario Party 7</title_clean>
+    <title_search>mario party 7</title_search>
+    <image ext="png" id="Mario Party 7 (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Party%207%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Power Tennis (Europe)</description>
+    <title_clean>Mario Power Tennis</title_clean>
+    <title_search>mario power tennis</title_search>
+    <image ext="png" id="Mario Power Tennis (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Power%20Tennis%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Power Tennis (USA)</description>
+    <title_clean>Mario Power Tennis</title_clean>
+    <title_search>mario power tennis</title_search>
+    <image ext="png" id="Mario Power Tennis (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Power%20Tennis%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Smash Football (Europe)</description>
+    <title_clean>Mario Smash Football</title_clean>
+    <title_search>mario smash football</title_search>
+    <image ext="png" id="Mario Smash Football (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Smash%20Football%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Mario Tennis GC (Japan)</description>
+    <title_clean>Mario Tennis GC</title_clean>
+    <title_search>mario tennis gc</title_search>
+    <image ext="png" id="Mario Tennis GC (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Mario%20Tennis%20GC%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Metal Gear Solid - The Twin Snakes (USA) (Disc 1)</description>
+    <title_clean>Metal Gear Solid - The Twin Snakes</title_clean>
+    <title_search>metal gear solid the twin snakes</title_search>
+    <image ext="png" id="Metal Gear Solid - The Twin Snakes (USA) (Disc 1)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Metal%20Gear%20Solid%20-%20The%20Twin%20Snakes%20(USA)%20(Disc%201).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Metal Gear Solid - The Twin Snakes (USA) (Disc 2)</description>
+    <title_clean>Metal Gear Solid - The Twin Snakes</title_clean>
+    <title_search>metal gear solid the twin snakes</title_search>
+    <image ext="png" id="Metal Gear Solid - The Twin Snakes (USA) (Disc 2)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Metal%20Gear%20Solid%20-%20The%20Twin%20Snakes%20(USA)%20(Disc%202).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Metroid Prime (Europe)</description>
+    <title_clean>Metroid Prime</title_clean>
+    <title_search>metroid prime</title_search>
+    <image ext="png" id="Metroid Prime (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Metroid%20Prime%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Metroid Prime (USA)</description>
+    <title_clean>Metroid Prime</title_clean>
+    <title_search>metroid prime</title_search>
+    <image ext="png" id="Metroid Prime (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Metroid%20Prime%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Nintendo Puzzle Collection (Japan)</description>
+    <title_clean>Nintendo Puzzle Collection</title_clean>
+    <title_search>nintendo puzzle collection</title_search>
+    <image ext="png" id="Nintendo Puzzle Collection (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Nintendo%20Puzzle%20Collection%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>P.N. 03 (USA)</description>
+    <title_clean>P.N. 03</title_clean>
+    <title_search>pn 03</title_search>
+    <image ext="png" id="P.N. 03 (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/P.N.%2003%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pac-Man Vs. (USA)</description>
+    <title_clean>Pac-Man Vs.</title_clean>
+    <title_search>pacman vs</title_search>
+    <image ext="png" id="Pac-Man Vs. (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pac-Man%20Vs.%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pac-Man World Rally (USA)</description>
+    <title_clean>Pac-Man World Rally</title_clean>
+    <title_search>pacman world rally</title_search>
+    <image ext="png" id="Pac-Man World Rally (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pac-Man%20World%20Rally%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Paper Mario_ The Thousand-Year Door (Europe)</description>
+    <title_clean>Paper Mario_ The Thousand-Year Door</title_clean>
+    <title_search>paper mario the thousandyear door</title_search>
+    <image ext="png" id="Paper Mario_ The Thousand-Year Door (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Paper%20Mario_%20The%20Thousand-Year%20Door%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Paper Mario_ The Thousand-Year Door (USA)</description>
+    <title_clean>Paper Mario_ The Thousand-Year Door</title_clean>
+    <title_search>paper mario the thousandyear door</title_search>
+    <image ext="png" id="Paper Mario_ The Thousand-Year Door (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Paper%20Mario_%20The%20Thousand-Year%20Door%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Phantasy Star Online Episode I _ II Plus (USA) (En,Ja,Fr,De,Es)</description>
+    <title_clean>Phantasy Star Online Episode I _ II Plus</title_clean>
+    <title_search>phantasy star online episode i ii plus</title_search>
+    <image ext="png" id="Phantasy Star Online Episode I _ II Plus (USA) (En,Ja,Fr,De,Es)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Phantasy%20Star%20Online%20Episode%20I%20_%20II%20Plus%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja)</description>
+    <title_clean>Phantasy Star Online Episode III - C.A.R.D. Revolution</title_clean>
+    <title_search>phantasy star online episode iii card revolution</title_search>
+    <image ext="png" id="Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Phantasy%20Star%20Online%20Episode%20III%20-%20C.A.R.D.%20Revolution%20(USA)%20(En%2CJa).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pikmin (USA) (v1.00)</description>
+    <title_clean>Pikmin</title_clean>
+    <title_search>pikmin</title_search>
+    <image ext="png" id="Pikmin (USA) (v1.00)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pikmin%20(USA)%20(v1.00).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pikmin (USA) (v1.01)</description>
+    <title_clean>Pikmin</title_clean>
+    <title_search>pikmin</title_search>
+    <image ext="png" id="Pikmin (USA) (v1.01)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pikmin%20(USA)%20(v1.01).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokemon Channel (USA)</description>
+    <title_clean>Pokemon Channel</title_clean>
+    <title_search>pokemon channel</title_search>
+    <image ext="png" id="Pokemon Channel (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pokemon%20Channel%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokemon Colosseum (Europe)</description>
+    <title_clean>Pokemon Colosseum</title_clean>
+    <title_search>pokemon colosseum</title_search>
+    <image ext="png" id="Pokemon Colosseum (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pokemon%20Colosseum%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokemon Colosseum (USA)</description>
+    <title_clean>Pokemon Colosseum</title_clean>
+    <title_search>pokemon colosseum</title_search>
+    <image ext="png" id="Pokemon Colosseum (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pokemon%20Colosseum%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokemon XD_ Gale of Darkness (Europe)</description>
+    <title_clean>Pokemon XD_ Gale of Darkness</title_clean>
+    <title_search>pokemon xd gale of darkness</title_search>
+    <image ext="png" id="Pokemon XD_ Gale of Darkness (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pokemon%20XD_%20Gale%20of%20Darkness%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokemon XD_ Gale of Darkness (USA)</description>
+    <title_clean>Pokemon XD_ Gale of Darkness</title_clean>
+    <title_search>pokemon xd gale of darkness</title_search>
+    <image ext="png" id="Pokemon XD_ Gale of Darkness (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pokemon%20XD_%20Gale%20of%20Darkness%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokémon Box_ Ruby _ Sapphire (Europe)</description>
+    <title_clean>Pokémon Box_ Ruby _ Sapphire</title_clean>
+    <title_search>pokemon box ruby sapphire</title_search>
+    <image ext="png" id="Pokémon Box_ Ruby _ Sapphire (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pok%C3%A9mon%20Box_%20Ruby%20_%20Sapphire%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokémon Box_ Ruby _ Sapphire (Japan)</description>
+    <title_clean>Pokémon Box_ Ruby _ Sapphire</title_clean>
+    <title_search>pokemon box ruby sapphire</title_search>
+    <image ext="png" id="Pokémon Box_ Ruby _ Sapphire (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pok%C3%A9mon%20Box_%20Ruby%20_%20Sapphire%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokémon Box_ Ruby _ Sapphire (USA)</description>
+    <title_clean>Pokémon Box_ Ruby _ Sapphire</title_clean>
+    <title_search>pokemon box ruby sapphire</title_search>
+    <image ext="png" id="Pokémon Box_ Ruby _ Sapphire (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pok%C3%A9mon%20Box_%20Ruby%20_%20Sapphire%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokémon Channel (Bonus Disc) (Japan)</description>
+    <title_clean>Pokémon Channel</title_clean>
+    <title_search>pokemon channel</title_search>
+    <image ext="png" id="Pokémon Channel (Bonus Disc) (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pok%C3%A9mon%20Channel%20(Bonus%20Disc)%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokémon Channel (Europe)</description>
+    <title_clean>Pokémon Channel</title_clean>
+    <title_search>pokemon channel</title_search>
+    <image ext="png" id="Pokémon Channel (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pok%C3%A9mon%20Channel%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokémon Channel (Japan)</description>
+    <title_clean>Pokémon Channel</title_clean>
+    <title_search>pokemon channel</title_search>
+    <image ext="png" id="Pokémon Channel (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pok%C3%A9mon%20Channel%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokémon Channel (USA)</description>
+    <title_clean>Pokémon Channel</title_clean>
+    <title_search>pokemon channel</title_search>
+    <image ext="png" id="Pokémon Channel (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pok%C3%A9mon%20Channel%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokémon Colosseum (Europe)</description>
+    <title_clean>Pokémon Colosseum</title_clean>
+    <title_search>pokemon colosseum</title_search>
+    <image ext="png" id="Pokémon Colosseum (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pok%C3%A9mon%20Colosseum%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokémon Colosseum (Japan)</description>
+    <title_clean>Pokémon Colosseum</title_clean>
+    <title_search>pokemon colosseum</title_search>
+    <image ext="png" id="Pokémon Colosseum (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pok%C3%A9mon%20Colosseum%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokémon Colosseum (USA)</description>
+    <title_clean>Pokémon Colosseum</title_clean>
+    <title_search>pokemon colosseum</title_search>
+    <image ext="png" id="Pokémon Colosseum (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pok%C3%A9mon%20Colosseum%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokémon Colosseum Bonus Disc (Japan)</description>
+    <title_clean>Pokémon Colosseum Bonus Disc</title_clean>
+    <title_search>pokemon colosseum bonus disc</title_search>
+    <image ext="png" id="Pokémon Colosseum Bonus Disc (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pok%C3%A9mon%20Colosseum%20Bonus%20Disc%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokémon Colosseum Bonus Disc (USA)</description>
+    <title_clean>Pokémon Colosseum Bonus Disc</title_clean>
+    <title_search>pokemon colosseum bonus disc</title_search>
+    <image ext="png" id="Pokémon Colosseum Bonus Disc (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pok%C3%A9mon%20Colosseum%20Bonus%20Disc%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokémon Colosseum_ Kakuchou Disc (Bonus Disc) (Japan)</description>
+    <title_clean>Pokémon Colosseum_ Kakuchou Disc</title_clean>
+    <title_search>pokemon colosseum kakuchou disc</title_search>
+    <image ext="png" id="Pokémon Colosseum_ Kakuchou Disc (Bonus Disc) (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pok%C3%A9mon%20Colosseum_%20Kakuchou%20Disc%20(Bonus%20Disc)%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokémon XD_ Gale of Darkness (Europe)</description>
+    <title_clean>Pokémon XD_ Gale of Darkness</title_clean>
+    <title_search>pokemon xd gale of darkness</title_search>
+    <image ext="png" id="Pokémon XD_ Gale of Darkness (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pok%C3%A9mon%20XD_%20Gale%20of%20Darkness%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokémon XD_ Gale of Darkness (USA)</description>
+    <title_clean>Pokémon XD_ Gale of Darkness</title_clean>
+    <title_search>pokemon xd gale of darkness</title_search>
+    <image ext="png" id="Pokémon XD_ Gale of Darkness (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pok%C3%A9mon%20XD_%20Gale%20of%20Darkness%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Pokémon XD_ Yami no Kaze Dark Lugia (Japan)</description>
+    <title_clean>Pokémon XD_ Yami no Kaze Dark Lugia</title_clean>
+    <title_search>pokemon xd yami no kaze dark lugia</title_search>
+    <image ext="png" id="Pokémon XD_ Yami no Kaze Dark Lugia (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Pok%C3%A9mon%20XD_%20Yami%20no%20Kaze%20Dark%20Lugia%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>R_ Racing (Europe)</description>
+    <title_clean>R_ Racing</title_clean>
+    <title_search>r racing</title_search>
+    <image ext="png" id="R_ Racing (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/R_%20Racing%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>R_ Racing Evolution (USA)</description>
+    <title_clean>R_ Racing Evolution</title_clean>
+    <title_search>r racing evolution</title_search>
+    <image ext="png" id="R_ Racing Evolution (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/R_%20Racing%20Evolution%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>R_ Racing Evolution_ Life in the Fast Lane (Japan)</description>
+    <title_clean>R_ Racing Evolution_ Life in the Fast Lane</title_clean>
+    <title_search>r racing evolution life in the fast lane</title_search>
+    <image ext="png" id="R_ Racing Evolution_ Life in the Fast Lane (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/R_%20Racing%20Evolution_%20Life%20in%20the%20Fast%20Lane%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Rayman 3_ Hoodlum Havoc (Europe)</description>
+    <title_clean>Rayman 3_ Hoodlum Havoc</title_clean>
+    <title_search>rayman 3 hoodlum havoc</title_search>
+    <image ext="png" id="Rayman 3_ Hoodlum Havoc (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Rayman%203_%20Hoodlum%20Havoc%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Rayman 3_ Hoodlum Havoc (USA)</description>
+    <title_clean>Rayman 3_ Hoodlum Havoc</title_clean>
+    <title_search>rayman 3 hoodlum havoc</title_search>
+    <image ext="png" id="Rayman 3_ Hoodlum Havoc (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Rayman%203_%20Hoodlum%20Havoc%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Resident Evil (Europe)</description>
+    <title_clean>Resident Evil</title_clean>
+    <title_search>resident evil</title_search>
+    <image ext="png" id="Resident Evil (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Resident%20Evil%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Resident Evil (USA)</description>
+    <title_clean>Resident Evil</title_clean>
+    <title_search>resident evil</title_search>
+    <image ext="png" id="Resident Evil (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Resident%20Evil%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Resident Evil 4 (Europe)</description>
+    <title_clean>Resident Evil 4</title_clean>
+    <title_search>resident evil 4</title_search>
+    <image ext="png" id="Resident Evil 4 (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Resident%20Evil%204%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Resident Evil 4 (USA)</description>
+    <title_clean>Resident Evil 4</title_clean>
+    <title_search>resident evil 4</title_search>
+    <image ext="png" id="Resident Evil 4 (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Resident%20Evil%204%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Resident Evil Zero (USA) (Disc 1)</description>
+    <title_clean>Resident Evil Zero</title_clean>
+    <title_search>resident evil zero</title_search>
+    <image ext="png" id="Resident Evil Zero (USA) (Disc 1)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Resident%20Evil%20Zero%20(USA)%20(Disc%201).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Resident Evil Zero (USA) (Disc 2)</description>
+    <title_clean>Resident Evil Zero</title_clean>
+    <title_search>resident evil zero</title_search>
+    <image ext="png" id="Resident Evil Zero (USA) (Disc 2)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Resident%20Evil%20Zero%20(USA)%20(Disc%202).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Ribbit King (USA) (En,Es)</description>
+    <title_clean>Ribbit King</title_clean>
+    <title_search>ribbit king</title_search>
+    <image ext="png" id="Ribbit King (USA) (En,Es)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Ribbit%20King%20(USA)%20(En%2CEs).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Sega Soccer Slam (USA)</description>
+    <title_clean>Sega Soccer Slam</title_clean>
+    <title_search>sega soccer slam</title_search>
+    <image ext="png" id="Sega Soccer Slam (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Sega%20Soccer%20Slam%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Shadow The Hedgehog (USA) (En,Ja,Fr,De,Es,It)</description>
+    <title_clean>Shadow The Hedgehog</title_clean>
+    <title_search>shadow the hedgehog</title_search>
+    <image ext="png" id="Shadow The Hedgehog (USA) (En,Ja,Fr,De,Es,It)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Shadow%20The%20Hedgehog%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Skies of Arcadia Legends (USA)</description>
+    <title_clean>Skies of Arcadia Legends</title_clean>
+    <title_search>skies of arcadia legends</title_search>
+    <image ext="png" id="Skies of Arcadia Legends (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Skies%20of%20Arcadia%20Legends%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Sonic Adventure 2_ Battle (Europe)</description>
+    <title_clean>Sonic Adventure 2_ Battle</title_clean>
+    <title_search>sonic adventure 2 battle</title_search>
+    <image ext="png" id="Sonic Adventure 2_ Battle (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Sonic%20Adventure%202_%20Battle%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Sonic Adventure 2_ Battle (USA)</description>
+    <title_clean>Sonic Adventure 2_ Battle</title_clean>
+    <title_search>sonic adventure 2 battle</title_search>
+    <image ext="png" id="Sonic Adventure 2_ Battle (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Sonic%20Adventure%202_%20Battle%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es)</description>
+    <title_clean>Sonic Adventure DX - Director's Cut</title_clean>
+    <title_search>sonic adventure dx directors cut</title_search>
+    <image ext="png" id="Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Sonic%20Adventure%20DX%20-%20Director's%20Cut%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Sonic Heroes (Europe)</description>
+    <title_clean>Sonic Heroes</title_clean>
+    <title_search>sonic heroes</title_search>
+    <image ext="png" id="Sonic Heroes (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Sonic%20Heroes%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Sonic Heroes (USA)</description>
+    <title_clean>Sonic Heroes</title_clean>
+    <title_search>sonic heroes</title_search>
+    <image ext="png" id="Sonic Heroes (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Sonic%20Heroes%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Sonic Mega Collection (Europe)</description>
+    <title_clean>Sonic Mega Collection</title_clean>
+    <title_search>sonic mega collection</title_search>
+    <image ext="png" id="Sonic Mega Collection (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Sonic%20Mega%20Collection%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Sonic Mega Collection (USA)</description>
+    <title_clean>Sonic Mega Collection</title_clean>
+    <title_search>sonic mega collection</title_search>
+    <image ext="png" id="Sonic Mega Collection (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Sonic%20Mega%20Collection%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>SoulCalibur II (Europe)</description>
+    <title_clean>SoulCalibur II</title_clean>
+    <title_search>soulcalibur ii</title_search>
+    <image ext="png" id="SoulCalibur II (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/SoulCalibur%20II%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Soulcalibur II (Japan)</description>
+    <title_clean>Soulcalibur II</title_clean>
+    <title_search>soulcalibur ii</title_search>
+    <image ext="png" id="Soulcalibur II (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Soulcalibur%20II%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Soulcalibur II (USA)</description>
+    <title_clean>Soulcalibur II</title_clean>
+    <title_search>soulcalibur ii</title_search>
+    <image ext="png" id="Soulcalibur II (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Soulcalibur%20II%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Spirits _ Spells (USA)</description>
+    <title_clean>Spirits _ Spells</title_clean>
+    <title_search>spirits spells</title_search>
+    <image ext="png" id="Spirits _ Spells (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Spirits%20_%20Spells%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Star Fox - Assault (USA)</description>
+    <title_clean>Star Fox - Assault</title_clean>
+    <title_search>star fox assault</title_search>
+    <image ext="png" id="Star Fox - Assault (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Star%20Fox%20-%20Assault%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Star Fox Adventures (Europe)</description>
+    <title_clean>Star Fox Adventures</title_clean>
+    <title_search>star fox adventures</title_search>
+    <image ext="png" id="Star Fox Adventures (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Star%20Fox%20Adventures%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Star Fox Adventures (USA) (v1.00)</description>
+    <title_clean>Star Fox Adventures</title_clean>
+    <title_search>star fox adventures</title_search>
+    <image ext="png" id="Star Fox Adventures (USA) (v1.00)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Star%20Fox%20Adventures%20(USA)%20(v1.00).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Star Fox Adventures (USA) (v1.01)</description>
+    <title_clean>Star Fox Adventures</title_clean>
+    <title_search>star fox adventures</title_search>
+    <image ext="png" id="Star Fox Adventures (USA) (v1.01)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Star%20Fox%20Adventures%20(USA)%20(v1.01).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Star Wars - Rogue Squadron II - Rogue Leader (USA)</description>
+    <title_clean>Star Wars - Rogue Squadron II - Rogue Leader</title_clean>
+    <title_search>star wars rogue squadron ii rogue leader</title_search>
+    <image ext="png" id="Star Wars - Rogue Squadron II - Rogue Leader (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Star%20Wars%20-%20Rogue%20Squadron%20II%20-%20Rogue%20Leader%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Star Wars - Rogue Squadron III - Rebel Strike (USA)</description>
+    <title_clean>Star Wars - Rogue Squadron III - Rebel Strike</title_clean>
+    <title_search>star wars rogue squadron iii rebel strike</title_search>
+    <image ext="png" id="Star Wars - Rogue Squadron III - Rebel Strike (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Star%20Wars%20-%20Rogue%20Squadron%20III%20-%20Rebel%20Strike%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Summoner - A Goddess Reborn (USA)</description>
+    <title_clean>Summoner - A Goddess Reborn</title_clean>
+    <title_search>summoner a goddess reborn</title_search>
+    <image ext="png" id="Summoner - A Goddess Reborn (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Summoner%20-%20A%20Goddess%20Reborn%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Super Mario Stadium - Miracle Baseball (Japan)</description>
+    <title_clean>Super Mario Stadium - Miracle Baseball</title_clean>
+    <title_search>super mario stadium miracle baseball</title_search>
+    <image ext="png" id="Super Mario Stadium - Miracle Baseball (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Super%20Mario%20Stadium%20-%20Miracle%20Baseball%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Super Mario Strikers (USA)</description>
+    <title_clean>Super Mario Strikers</title_clean>
+    <title_search>super mario strikers</title_search>
+    <image ext="png" id="Super Mario Strikers (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Super%20Mario%20Strikers%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Super Mario Sunshine (Europe)</description>
+    <title_clean>Super Mario Sunshine</title_clean>
+    <title_search>super mario sunshine</title_search>
+    <image ext="png" id="Super Mario Sunshine (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Super%20Mario%20Sunshine%20(Europe).png" type="Box - Front"/>
+    <image ext="png" id="Super Mario Sunshine (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Titles/Super%20Mario%20Sunshine%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png" type="Screenshot - Game Title"/>
+  </game>
+  <game>
+    <description>Super Mario Sunshine (Europe) (En,Fr,De,Es,It)</description>
+    <title_clean>Super Mario Sunshine</title_clean>
+    <title_search>super mario sunshine</title_search>
+    <image ext="png" id="Super Mario Sunshine (Europe) (En,Fr,De,Es,It)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Titles/Super%20Mario%20Sunshine%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png" type="Screenshot - Game Title"/>
+  </game>
+  <game>
+    <description>Super Mario Sunshine (Japan)</description>
+    <title_clean>Super Mario Sunshine</title_clean>
+    <title_search>super mario sunshine</title_search>
+    <image ext="png" id="Super Mario Sunshine (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Titles/Super%20Mario%20Sunshine%20(Japan).png" type="Screenshot - Game Title"/>
+  </game>
+  <game>
+    <description>Super Mario Sunshine (USA)</description>
+    <title_clean>Super Mario Sunshine</title_clean>
+    <title_search>super mario sunshine</title_search>
+    <image ext="png" id="Super Mario Sunshine (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Super%20Mario%20Sunshine%20(USA).png" type="Box - Front"/>
+    <image ext="png" id="Super Mario Sunshine (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Snaps/Super%20Mario%20Sunshine%20(USA).png" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Mario Sunshine (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Titles/Super%20Mario%20Sunshine%20(USA).png" type="Screenshot - Game Title"/>
+  </game>
+  <game>
+    <description>Super Monkey Ball (USA)</description>
+    <title_clean>Super Monkey Ball</title_clean>
+    <title_search>super monkey ball</title_search>
+    <image ext="png" id="Super Monkey Ball (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Super%20Monkey%20Ball%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Super Monkey Ball 2 (USA)</description>
+    <title_clean>Super Monkey Ball 2</title_clean>
+    <title_search>super monkey ball 2</title_search>
+    <image ext="png" id="Super Monkey Ball 2 (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Super%20Monkey%20Ball%202%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Super Smash Bros. Melee (Europe)</description>
+    <title_clean>Super Smash Bros. Melee</title_clean>
+    <title_search>super smash bros melee</title_search>
+    <image ext="png" id="Super Smash Bros. Melee (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Super%20Smash%20Bros.%20Melee%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Super Smash Bros. Melee (USA)</description>
+    <title_clean>Super Smash Bros. Melee</title_clean>
+    <title_search>super smash bros melee</title_search>
+    <image ext="png" id="Super Smash Bros. Melee (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Super%20Smash%20Bros.%20Melee%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>TMNT - Mutant Melee (USA)</description>
+    <title_clean>TMNT - Mutant Melee</title_clean>
+    <title_search>tmnt mutant melee</title_search>
+    <image ext="png" id="TMNT - Mutant Melee (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/TMNT%20-%20Mutant%20Melee%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Tales of Symphonia (Europe)</description>
+    <title_clean>Tales of Symphonia</title_clean>
+    <title_search>tales of symphonia</title_search>
+    <image ext="png" id="Tales of Symphonia (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Tales%20of%20Symphonia%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Tales of Symphonia (USA) (Disc 1)</description>
+    <title_clean>Tales of Symphonia</title_clean>
+    <title_search>tales of symphonia</title_search>
+    <image ext="png" id="Tales of Symphonia (USA) (Disc 1)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Tales%20of%20Symphonia%20(USA)%20(Disc%201).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Tales of Symphonia (USA) (Disc 2)</description>
+    <title_clean>Tales of Symphonia</title_clean>
+    <title_search>tales of symphonia</title_search>
+    <image ext="png" id="Tales of Symphonia (USA) (Disc 2)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Tales%20of%20Symphonia%20(USA)%20(Disc%202).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>The Legend of Zelda_ Four Swords Adventures (Europe)</description>
+    <title_clean>The Legend of Zelda_ Four Swords Adventures</title_clean>
+    <title_search>the legend of zelda four swords adventures</title_search>
+    <image ext="png" id="The Legend of Zelda_ Four Swords Adventures (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/The%20Legend%20of%20Zelda_%20Four%20Swords%20Adventures%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>The Legend of Zelda_ Four Swords Adventures (USA)</description>
+    <title_clean>The Legend of Zelda_ Four Swords Adventures</title_clean>
+    <title_search>the legend of zelda four swords adventures</title_search>
+    <image ext="png" id="The Legend of Zelda_ Four Swords Adventures (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/The%20Legend%20of%20Zelda_%20Four%20Swords%20Adventures%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>The Legend of Zelda_ The Wind Waker (Europe)</description>
+    <title_clean>The Legend of Zelda_ The Wind Waker</title_clean>
+    <title_search>the legend of zelda the wind waker</title_search>
+    <image ext="png" id="The Legend of Zelda_ The Wind Waker (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/The%20Legend%20of%20Zelda_%20The%20Wind%20Waker%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>The Legend of Zelda_ The Wind Waker (USA)</description>
+    <title_clean>The Legend of Zelda_ The Wind Waker</title_clean>
+    <title_search>the legend of zelda the wind waker</title_search>
+    <image ext="png" id="The Legend of Zelda_ The Wind Waker (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/The%20Legend%20of%20Zelda_%20The%20Wind%20Waker%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>The Legend of Zelda_ Twilight Princess (Europe)</description>
+    <title_clean>The Legend of Zelda_ Twilight Princess</title_clean>
+    <title_search>the legend of zelda twilight princess</title_search>
+    <image ext="png" id="The Legend of Zelda_ Twilight Princess (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/The%20Legend%20of%20Zelda_%20Twilight%20Princess%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>The Legend of Zelda_ Twilight Princess (USA)</description>
+    <title_clean>The Legend of Zelda_ Twilight Princess</title_clean>
+    <title_search>the legend of zelda twilight princess</title_search>
+    <image ext="png" id="The Legend of Zelda_ Twilight Princess (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/The%20Legend%20of%20Zelda_%20Twilight%20Princess%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>V-Rally 3 (Europe)</description>
+    <title_clean>V-Rally 3</title_clean>
+    <title_search>vrally 3</title_search>
+    <image ext="png" id="V-Rally 3 (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/V-Rally%203%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>V-Rally 3 (Japan)</description>
+    <title_clean>V-Rally 3</title_clean>
+    <title_search>vrally 3</title_search>
+    <image ext="png" id="V-Rally 3 (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/V-Rally%203%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Viewtiful Joe (Europe)</description>
+    <title_clean>Viewtiful Joe</title_clean>
+    <title_search>viewtiful joe</title_search>
+    <image ext="png" id="Viewtiful Joe (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Viewtiful%20Joe%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Viewtiful Joe (USA)</description>
+    <title_clean>Viewtiful Joe</title_clean>
+    <title_search>viewtiful joe</title_search>
+    <image ext="png" id="Viewtiful Joe (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Viewtiful%20Joe%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Viewtiful Joe 2 (Europe)</description>
+    <title_clean>Viewtiful Joe 2</title_clean>
+    <title_search>viewtiful joe 2</title_search>
+    <image ext="png" id="Viewtiful Joe 2 (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Viewtiful%20Joe%202%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Viewtiful Joe 2 (USA)</description>
+    <title_clean>Viewtiful Joe 2</title_clean>
+    <title_search>viewtiful joe 2</title_search>
+    <image ext="png" id="Viewtiful Joe 2 (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Viewtiful%20Joe%202%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Wario World (Europe)</description>
+    <title_clean>Wario World</title_clean>
+    <title_search>wario world</title_search>
+    <image ext="png" id="Wario World (Europe)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Wario%20World%20(Europe).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Wario World (USA)</description>
+    <title_clean>Wario World</title_clean>
+    <title_search>wario world</title_search>
+    <image ext="png" id="Wario World (USA)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Wario%20World%20(USA).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Zelda no Densetsu_ Kaze no Takuto (Japan)</description>
+    <title_clean>Zelda no Densetsu_ Kaze no Takuto</title_clean>
+    <title_search>zelda no densetsu kaze no takuto</title_search>
+    <image ext="png" id="Zelda no Densetsu_ Kaze no Takuto (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Zelda%20no%20Densetsu_%20Kaze%20no%20Takuto%20(Japan).png" type="Box - Front"/>
+  </game>
+  <game>
+    <description>Zelda no Densetsu_ Twilight Princess (Japan)</description>
+    <title_clean>Zelda no Densetsu_ Twilight Princess</title_clean>
+    <title_search>zelda no densetsu twilight princess</title_search>
+    <image ext="png" id="Zelda no Densetsu_ Twilight Princess (Japan)" source="https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Zelda%20no%20Densetsu_%20Twilight%20Princess%20(Japan).png" type="Box - Front"/>
+  </game>
+</datafile>

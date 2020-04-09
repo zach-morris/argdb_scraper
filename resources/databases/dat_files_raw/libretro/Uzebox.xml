@@ -1,0 +1,327 @@
+<datafile>
+  <game name="2048">
+    <description>2048</description>
+    <title_clean>2048</title_clean>
+    <title_search>2048</title_search>
+  </game>
+  <game name="Alter Ego">
+    <description>Alter Ego</description>
+    <title_clean>Alter Ego</title_clean>
+    <title_search>alter ego</title_search>
+  </game>
+  <game name="Arkanoid">
+    <description>Arkanoid</description>
+    <title_clean>Arkanoid</title_clean>
+    <title_search>arkanoid</title_search>
+  </game>
+  <game name="Atomix">
+    <description>Atomix</description>
+    <title_clean>Atomix</title_clean>
+    <title_search>atomix</title_search>
+  </game>
+  <game name="B.C. Dash">
+    <description>B.C. Dash</description>
+    <title_clean>B.C. Dash</title_clean>
+    <title_search>bc dash</title_search>
+  </game>
+  <game name="Babylon Tower">
+    <description>Babylon Tower</description>
+    <title_clean>Babylon Tower</title_clean>
+    <title_search>babylon tower</title_search>
+  </game>
+  <game name="Boulderdash">
+    <description>Boulderdash</description>
+    <title_clean>Boulderdash</title_clean>
+    <title_search>boulderdash</title_search>
+  </game>
+  <game name="Buddha">
+    <description>Buddha</description>
+    <title_clean>Buddha</title_clean>
+    <title_search>buddha</title_search>
+  </game>
+  <game name="Candle Burner">
+    <description>Candle Burner</description>
+    <title_clean>Candle Burner</title_clean>
+    <title_search>candle burner</title_search>
+  </game>
+  <game name="Chess for Uzebox">
+    <description>Chess for Uzebox</description>
+    <title_clean>Chess for Uzebox</title_clean>
+    <title_search>chess for uzebox</title_search>
+  </game>
+  <game name="Chuckie Egg">
+    <description>Chuckie Egg</description>
+    <title_clean>Chuckie Egg</title_clean>
+    <title_search>chuckie egg</title_search>
+  </game>
+  <game name="Columns">
+    <description>Columns</description>
+    <title_clean>Columns</title_clean>
+    <title_search>columns</title_search>
+  </game>
+  <game name="Controller Tester">
+    <description>Controller Tester</description>
+    <title_clean>Controller Tester</title_clean>
+    <title_search>controller tester</title_search>
+  </game>
+  <game name="Conway's Game of Life">
+    <description>Conway's Game of Life</description>
+    <title_clean>Conway's Game of Life</title_clean>
+    <title_search>conways game of life</title_search>
+  </game>
+  <game name="Corrida Nebososa">
+    <description>Corrida Nebososa</description>
+    <title_clean>Corrida Nebososa</title_clean>
+    <title_search>corrida nebososa</title_search>
+  </game>
+  <game name="Daleks">
+    <description>Daleks</description>
+    <title_clean>Daleks</title_clean>
+    <title_search>daleks</title_search>
+  </game>
+  <game name="Das Boot">
+    <description>Das Boot</description>
+    <title_clean>Das Boot</title_clean>
+    <title_search>das boot</title_search>
+  </game>
+  <game name="Donkey Kong">
+    <description>Donkey Kong</description>
+    <title_clean>Donkey Kong</title_clean>
+    <title_search>donkey kong</title_search>
+  </game>
+  <game name="Dr. Mario">
+    <description>Dr. Mario</description>
+    <title_clean>Dr. Mario</title_clean>
+    <title_search>dr mario</title_search>
+  </game>
+  <game name="ESD Attack">
+    <description>ESD Attack</description>
+    <title_clean>ESD Attack</title_clean>
+    <title_search>esd attack</title_search>
+  </game>
+  <game name="Fifteen Puzzle">
+    <description>Fifteen Puzzle</description>
+    <title_clean>Fifteen Puzzle</title_clean>
+    <title_search>fifteen puzzle</title_search>
+  </game>
+  <game name="Fireman Rescue">
+    <description>Fireman Rescue</description>
+    <title_clean>Fireman Rescue</title_clean>
+    <title_search>fireman rescue</title_search>
+  </game>
+  <game name="Frog Feast">
+    <description>Frog Feast</description>
+    <title_clean>Frog Feast</title_clean>
+    <title_search>frog feast</title_search>
+  </game>
+  <game name="Frogger">
+    <description>Frogger</description>
+    <title_clean>Frogger</title_clean>
+    <title_search>frogger</title_search>
+  </game>
+  <game name="Ghosty Ghost">
+    <description>Ghosty Ghost</description>
+    <title_clean>Ghosty Ghost</title_clean>
+    <title_search>ghosty ghost</title_search>
+  </game>
+  <game name="Gorillas">
+    <description>Gorillas</description>
+    <title_clean>Gorillas</title_clean>
+    <title_search>gorillas</title_search>
+  </game>
+  <game name="Happy Easter">
+    <description>Happy Easter</description>
+    <title_clean>Happy Easter</title_clean>
+    <title_search>happy easter</title_search>
+  </game>
+  <game name="Holey Moley">
+    <description>Holey Moley</description>
+    <title_clean>Holey Moley</title_clean>
+    <title_search>holey moley</title_search>
+  </game>
+  <game name="Joyrider">
+    <description>Joyrider</description>
+    <title_clean>Joyrider</title_clean>
+    <title_search>joyrider</title_search>
+  </game>
+  <game name="Lander">
+    <description>Lander</description>
+    <title_clean>Lander</title_clean>
+    <title_search>lander</title_search>
+  </game>
+  <game name="Lode Runner">
+    <description>Lode Runner</description>
+    <title_clean>Lode Runner</title_clean>
+    <title_search>lode runner</title_search>
+  </game>
+  <game name="Mega Sokoban">
+    <description>Mega Sokoban</description>
+    <title_clean>Mega Sokoban</title_clean>
+    <title_search>mega sokoban</title_search>
+  </game>
+  <game name="Megatris">
+    <description>Megatris</description>
+    <title_clean>Megatris</title_clean>
+    <title_search>megatris</title_search>
+  </game>
+  <game name="Melli's Retro land">
+    <description>Melli's Retro land</description>
+    <title_clean>Melli's Retro land</title_clean>
+    <title_search>mellis retro land</title_search>
+  </game>
+  <game name="Memory">
+    <description>Memory</description>
+    <title_clean>Memory</title_clean>
+    <title_search>memory</title_search>
+  </game>
+  <game name="Ninja Beatdown">
+    <description>Ninja Beatdown</description>
+    <title_clean>Ninja Beatdown</title_clean>
+    <title_search>ninja beatdown</title_search>
+  </game>
+  <game name="Pac-Man">
+    <description>Pac-Man</description>
+    <title_clean>Pac-Man</title_clean>
+    <title_search>pacman</title_search>
+  </game>
+  <game name="Pengo">
+    <description>Pengo</description>
+    <title_clean>Pengo</title_clean>
+    <title_search>pengo</title_search>
+  </game>
+  <game name="Pentago">
+    <description>Pentago</description>
+    <title_clean>Pentago</title_clean>
+    <title_search>pentago</title_search>
+  </game>
+  <game name="Pipes">
+    <description>Pipes</description>
+    <title_clean>Pipes</title_clean>
+    <title_search>pipes</title_search>
+  </game>
+  <game name="Pong">
+    <description>Pong</description>
+    <title_clean>Pong</title_clean>
+    <title_search>pong</title_search>
+  </game>
+  <game name="Ruby Crush">
+    <description>Ruby Crush</description>
+    <title_clean>Ruby Crush</title_clean>
+    <title_search>ruby crush</title_search>
+  </game>
+  <game name="Simon">
+    <description>Simon</description>
+    <title_clean>Simon</title_clean>
+    <title_search>simon</title_search>
+  </game>
+  <game name="Snakes">
+    <description>Snakes</description>
+    <title_clean>Snakes</title_clean>
+    <title_search>snakes</title_search>
+  </game>
+  <game name="Sokoban">
+    <description>Sokoban</description>
+    <title_clean>Sokoban</title_clean>
+    <title_search>sokoban</title_search>
+  </game>
+  <game name="Sokoban World">
+    <description>Sokoban World</description>
+    <title_clean>Sokoban World</title_clean>
+    <title_search>sokoban world</title_search>
+  </game>
+  <game name="Sokoban World 2">
+    <description>Sokoban World 2</description>
+    <title_clean>Sokoban World 2</title_clean>
+    <title_search>sokoban world 2</title_search>
+  </game>
+  <game name="Space Age">
+    <description>Space Age</description>
+    <title_clean>Space Age</title_clean>
+    <title_search>space age</title_search>
+  </game>
+  <game name="Space Invaders">
+    <description>Space Invaders</description>
+    <title_clean>Space Invaders</title_clean>
+    <title_search>space invaders</title_search>
+  </game>
+  <game name="SubMarine">
+    <description>SubMarine</description>
+    <title_clean>SubMarine</title_clean>
+    <title_search>submarine</title_search>
+  </game>
+  <game name="Tron">
+    <description>Tron</description>
+    <title_clean>Tron</title_clean>
+    <title_search>tron</title_search>
+  </game>
+  <game name="Uze Feud">
+    <description>Uze Feud</description>
+    <title_clean>Uze Feud</title_clean>
+    <title_search>uze feud</title_search>
+  </game>
+  <game name="Uze Snakes">
+    <description>Uze Snakes</description>
+    <title_clean>Uze Snakes</title_clean>
+    <title_search>uze snakes</title_search>
+  </game>
+  <game name="Uze Wars">
+    <description>Uze Wars</description>
+    <title_clean>Uze Wars</title_clean>
+    <title_search>uze wars</title_search>
+  </game>
+  <game name="Uze8">
+    <description>Uze8</description>
+    <title_clean>Uze8</title_clean>
+    <title_search>uze8</title_search>
+  </game>
+  <game name="UzeBeats">
+    <description>UzeBeats</description>
+    <title_clean>UzeBeats</title_clean>
+    <title_search>uzebeats</title_search>
+  </game>
+  <game name="Uzeamp">
+    <description>Uzeamp</description>
+    <title_clean>Uzeamp</title_clean>
+    <title_search>uzeamp</title_search>
+  </game>
+  <game name="Uzekickers">
+    <description>Uzekickers</description>
+    <title_clean>Uzekickers</title_clean>
+    <title_search>uzekickers</title_search>
+  </game>
+  <game name="Uzepede">
+    <description>Uzepede</description>
+    <title_clean>Uzepede</title_clean>
+    <title_search>uzepede</title_search>
+  </game>
+  <game name="Uzesweeper">
+    <description>Uzesweeper</description>
+    <title_clean>Uzesweeper</title_clean>
+    <title_search>uzesweeper</title_search>
+  </game>
+  <game name="Vector Game">
+    <description>Vector Game</description>
+    <title_clean>Vector Game</title_clean>
+    <title_search>vector game</title_search>
+  </game>
+  <game name="Videopoker">
+    <description>Videopoker</description>
+    <title_clean>Videopoker</title_clean>
+    <title_search>videopoker</title_search>
+  </game>
+  <game name="Whack-a-Mole">
+    <description>Whack-a-Mole</description>
+    <title_clean>Whack-a-Mole</title_clean>
+    <title_search>whackamole</title_search>
+  </game>
+  <game name="XOR">
+    <description>XOR</description>
+    <title_clean>XOR</title_clean>
+    <title_search>xor</title_search>
+  </game>
+  <game name="Zombienator">
+    <description>Zombienator</description>
+    <title_clean>Zombienator</title_clean>
+    <title_search>zombienator</title_search>
+  </game>
+</datafile>

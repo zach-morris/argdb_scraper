@@ -1,0 +1,105 @@
+<datafile>
+  <game name="Bubble Boy (Germany)">
+    <description>Bubble Boy (Germany)</description>
+    <title_clean>Bubble Boy</title_clean>
+    <title_search>bubble boy</title_search>
+    <image ext="png" id="Bubble Boy (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Bubble Boy (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Bubble Boy (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Car Racing (Germany)">
+    <description>Car Racing (Germany)</description>
+    <title_clean>Car Racing</title_clean>
+    <title_search>car racing</title_search>
+  </game>
+  <game name="Continental Galaxy 2020 (Germany)">
+    <description>Continental Galaxy 2020 (Germany)</description>
+    <title_clean>Continental Galaxy 2020</title_clean>
+    <title_search>continental galaxy 2020</title_search>
+    <image ext="png" id="Continental Galaxy 2020 (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Continental Galaxy 2020 (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Continental Galaxy 2020 (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dungeon Adventure (Germany)">
+    <description>Dungeon Adventure (Germany)</description>
+    <title_clean>Dungeon Adventure</title_clean>
+    <title_search>dungeon adventure</title_search>
+    <image ext="png" id="Dungeon Adventure (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dungeon Adventure (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dungeon Adventure (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Falling Block! (Germany)">
+    <description>Falling Block! (Germany)</description>
+    <title_clean>Falling Block!</title_clean>
+    <title_search>falling block</title_search>
+    <image ext="png" id="Falling Block! (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Falling Block! (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fuss-ball (Germany)">
+    <description>Fuss-ball (Germany)</description>
+    <title_clean>Fuss-ball</title_clean>
+    <title_search>fussball</title_search>
+    <image ext="png" id="Fuss-ball (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="Go Bang (Germany)">
+    <description>Go Bang (Germany)</description>
+    <title_clean>Go Bang</title_clean>
+    <title_search>go bang</title_search>
+    <image ext="png" id="Go Bang (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Go Bang (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Go Bang (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hyper Space (Germany)">
+    <description>Hyper Space (Germany)</description>
+    <title_clean>Hyper Space</title_clean>
+    <title_search>hyper space</title_search>
+    <image ext="png" id="Hyper Space (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hyper Space (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hyper Space (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Kung Fu Challenge (Germany)">
+    <description>Kung Fu Challenge (Germany)</description>
+    <title_clean>Kung Fu Challenge</title_clean>
+    <title_search>kung fu challenge</title_search>
+    <image ext="png" id="Kung Fu Challenge (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kung Fu Challenge (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kung Fu Challenge (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Move It (Germany)">
+    <description>Move It (Germany)</description>
+    <title_clean>Move It</title_clean>
+    <title_search>move it</title_search>
+  </game>
+  <game name="Pin Ball (Germany)">
+    <description>Pin Ball (Germany)</description>
+    <title_clean>Pin Ball</title_clean>
+    <title_search>pin ball</title_search>
+    <image ext="png" id="Pin Ball (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pin Ball (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pin Ball (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Space Castle (Germany)">
+    <description>Space Castle (Germany)</description>
+    <title_clean>Space Castle</title_clean>
+    <title_search>space castle</title_search>
+    <image ext="png" id="Space Castle (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Space Castle (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Space Castle (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tennis Master (Germany)">
+    <description>Tennis Master (Germany)</description>
+    <title_clean>Tennis Master</title_clean>
+    <title_search>tennis master</title_search>
+    <image ext="png" id="Tennis Master (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tennis Master (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tennis Master (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Urban Champion (Germany)">
+    <description>Urban Champion (Germany)</description>
+    <title_clean>Urban Champion</title_clean>
+    <title_search>urban champion</title_search>
+    <image ext="png" id="Urban Champion (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Urban Champion (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Urban Champion (Germany)" source="https://github.com/libretro-thumbnails/Hartung_-_Game_Master/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

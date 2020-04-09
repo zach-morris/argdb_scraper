@@ -1,0 +1,162 @@
+<datafile>
+  <game name="Air Sea Attack (Asia, Europe)">
+    <description>Air Sea Attack (Asia, Europe)</description>
+    <title_clean>Air Sea Attack</title_clean>
+    <title_search>air sea attack</title_search>
+    <image ext="png" id="Air Sea Attack (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Air Sea Attack (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Air Sea Attack (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Astro Pinball (Asia, Europe)">
+    <description>Astro Pinball (Asia, Europe)</description>
+    <title_clean>Astro Pinball</title_clean>
+    <title_search>astro pinball</title_search>
+    <image ext="png" id="Astro Pinball (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Astro Pinball (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Astro Pinball (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Auto Chase (Asia, Europe)">
+    <description>Auto Chase (Asia, Europe)</description>
+    <title_clean>Auto Chase</title_clean>
+    <title_search>auto chase</title_search>
+    <image ext="png" id="Auto Chase (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Auto Chase (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Auto Chase (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chopper Rescue (Asia, Europe)">
+    <description>Chopper Rescue (Asia, Europe)</description>
+    <title_clean>Chopper Rescue</title_clean>
+    <title_search>chopper rescue</title_search>
+    <image ext="png" id="Chopper Rescue (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chopper Rescue (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chopper Rescue (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chopper Rescue (Asia, Europe) (Alt 1)">
+    <description>Chopper Rescue (Asia, Europe) (Alt 1)</description>
+    <title_clean>Chopper Rescue</title_clean>
+    <title_search>chopper rescue</title_search>
+    <image ext="png" id="Chopper Rescue (Asia, Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Chopper Rescue (Asia, Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Chopper Rescue (Asia, Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Crazy Chicky (Asia, Europe)">
+    <description>Crazy Chicky (Asia, Europe)</description>
+    <title_clean>Crazy Chicky</title_clean>
+    <title_search>crazy chicky</title_search>
+    <image ext="png" id="Crazy Chicky (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Crazy Chicky (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Crazy Chicky (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="CreatiVision Basic (Asia, Europe)">
+    <description>CreatiVision Basic (Asia, Europe)</description>
+    <title_clean>CreatiVision Basic</title_clean>
+    <title_search>creativision basic</title_search>
+    <image ext="png" id="CreatiVision Basic (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="CreatiVision Basic (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="CreatiVision Basic (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Deep Sea Adventure (Asia, Europe)">
+    <description>Deep Sea Adventure (Asia, Europe)</description>
+    <title_clean>Deep Sea Adventure</title_clean>
+    <title_search>deep sea adventure</title_search>
+    <image ext="png" id="Deep Sea Adventure (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Deep Sea Adventure (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Deep Sea Adventure (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Hapmon (Asia, Europe)">
+    <description>Hapmon (Asia, Europe)</description>
+    <title_clean>Hapmon</title_clean>
+    <title_search>hapmon</title_search>
+    <image ext="png" id="Hapmon (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Hapmon (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Hapmon (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Locomotive (Asia, Europe)">
+    <description>Locomotive (Asia, Europe)</description>
+    <title_clean>Locomotive</title_clean>
+    <title_search>locomotive</title_search>
+    <image ext="png" id="Locomotive (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Locomotive (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Locomotive (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Mouse Puzzle (Asia, Europe)">
+    <description>Mouse Puzzle (Asia, Europe)</description>
+    <title_clean>Mouse Puzzle</title_clean>
+    <title_search>mouse puzzle</title_search>
+    <image ext="png" id="Mouse Puzzle (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Mouse Puzzle (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Mouse Puzzle (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Music Maker (Asia, Europe)">
+    <description>Music Maker (Asia, Europe)</description>
+    <title_clean>Music Maker</title_clean>
+    <title_search>music maker</title_search>
+    <image ext="png" id="Music Maker (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Music Maker (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Music Maker (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Planet Defender (Asia, Europe)">
+    <description>Planet Defender (Asia, Europe)</description>
+    <title_clean>Planet Defender</title_clean>
+    <title_search>planet defender</title_search>
+    <image ext="png" id="Planet Defender (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Planet Defender (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Planet Defender (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Planet Defender (Asia, Europe) (Alt 1)">
+    <description>Planet Defender (Asia, Europe) (Alt 1)</description>
+    <title_clean>Planet Defender</title_clean>
+    <title_search>planet defender</title_search>
+    <image ext="png" id="Planet Defender (Asia, Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Planet Defender (Asia, Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Planet Defender (Asia, Europe) (Alt 1)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Police Jump (Asia, Europe)">
+    <description>Police Jump (Asia, Europe)</description>
+    <title_clean>Police Jump</title_clean>
+    <title_search>police jump</title_search>
+    <image ext="png" id="Police Jump (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Police Jump (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Police Jump (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Soccer (Asia, Europe)">
+    <description>Soccer (Asia, Europe)</description>
+    <title_clean>Soccer</title_clean>
+    <title_search>soccer</title_search>
+    <image ext="png" id="Soccer (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Soccer (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Soccer (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sonic Invader (Asia, Europe)">
+    <description>Sonic Invader (Asia, Europe)</description>
+    <title_clean>Sonic Invader</title_clean>
+    <title_search>sonic invader</title_search>
+    <image ext="png" id="Sonic Invader (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sonic Invader (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sonic Invader (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tank Attack (Asia, Europe)">
+    <description>Tank Attack (Asia, Europe)</description>
+    <title_clean>Tank Attack</title_clean>
+    <title_search>tank attack</title_search>
+    <image ext="png" id="Tank Attack (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tank Attack (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tank Attack (Asia, Europe)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tennis (Asia, Europe) (DSE)">
+    <description>Tennis (Asia, Europe) (DSE)</description>
+    <title_clean>Tennis</title_clean>
+    <title_search>tennis</title_search>
+    <image ext="png" id="Tennis (Asia, Europe) (DSE)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tennis (Asia, Europe) (DSE)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tennis (Asia, Europe) (DSE)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Tennis (Asia, Europe) (VTL)">
+    <description>Tennis (Asia, Europe) (VTL)</description>
+    <title_clean>Tennis</title_clean>
+    <title_search>tennis</title_search>
+    <image ext="png" id="Tennis (Asia, Europe) (VTL)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Tennis (Asia, Europe) (VTL)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Tennis (Asia, Europe) (VTL)" source="https://github.com/libretro-thumbnails/VTech_-_CreatiVision/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+</datafile>

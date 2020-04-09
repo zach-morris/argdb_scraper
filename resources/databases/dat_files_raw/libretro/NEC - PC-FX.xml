@@ -1,0 +1,300 @@
+<datafile>
+  <game name="Aa! Megami-sama (Japan) (Disc 1)">
+    <description>Aa! Megami-sama (Japan) (Disc 1)</description>
+    <title_clean>Aa! Megami-sama</title_clean>
+    <title_search>aa megamisama</title_search>
+  </game>
+  <game name="Aa! Megami-sama (Japan) (Disc 2)">
+    <description>Aa! Megami-sama (Japan) (Disc 2)</description>
+    <title_clean>Aa! Megami-sama</title_clean>
+    <title_search>aa megamisama</title_search>
+  </game>
+  <game name="Akazukin ChaCha - Osawagase! Panic Race! (Japan)">
+    <description>Akazukin ChaCha - Osawagase! Panic Race! (Japan)</description>
+    <title_clean>Akazukin ChaCha - Osawagase! Panic Race!</title_clean>
+    <title_search>akazukin chacha osawagase panic race</title_search>
+  </game>
+  <game name="Albaria no Otome (Japan)">
+    <description>Albaria no Otome (Japan)</description>
+    <title_clean>Albaria no Otome</title_clean>
+    <title_search>albaria no otome</title_search>
+  </game>
+  <game name="Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA)">
+    <description>Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA)</description>
+    <title_clean>Amateur Teikyou CD-ROM</title_clean>
+    <title_search>amateur teikyou cdrom</title_search>
+  </game>
+  <game name="Angelique Special 2 (Japan)">
+    <description>Angelique Special 2 (Japan)</description>
+    <title_clean>Angelique Special 2</title_clean>
+    <title_search>angelique special 2</title_search>
+  </game>
+  <game name="AnimeFreak FX Vol. 1 (Japan)">
+    <description>AnimeFreak FX Vol. 1 (Japan)</description>
+    <title_clean>AnimeFreak FX Vol. 1</title_clean>
+    <title_search>animefreak fx vol 1</title_search>
+  </game>
+  <game name="AnimeFreak FX Vol. 2 (Japan)">
+    <description>AnimeFreak FX Vol. 2 (Japan)</description>
+    <title_clean>AnimeFreak FX Vol. 2</title_clean>
+    <title_search>animefreak fx vol 2</title_search>
+  </game>
+  <game name="AnimeFreak FX Vol. 3 (Japan)">
+    <description>AnimeFreak FX Vol. 3 (Japan)</description>
+    <title_clean>AnimeFreak FX Vol. 3</title_clean>
+    <title_search>animefreak fx vol 3</title_search>
+  </game>
+  <game name="AnimeFreak FX Vol. 4 (Japan)">
+    <description>AnimeFreak FX Vol. 4 (Japan)</description>
+    <title_clean>AnimeFreak FX Vol. 4</title_clean>
+    <title_search>animefreak fx vol 4</title_search>
+  </game>
+  <game name="AnimeFreak FX Vol. 5 (Japan) (Disc 1)">
+    <description>AnimeFreak FX Vol. 5 (Japan) (Disc 1)</description>
+    <title_clean>AnimeFreak FX Vol. 5</title_clean>
+    <title_search>animefreak fx vol 5</title_search>
+  </game>
+  <game name="AnimeFreak FX Vol. 5 (Japan) (Disc 2)">
+    <description>AnimeFreak FX Vol. 5 (Japan) (Disc 2)</description>
+    <title_clean>AnimeFreak FX Vol. 5</title_clean>
+    <title_search>animefreak fx vol 5</title_search>
+  </game>
+  <game name="AnimeFreak FX Vol. 6 (Japan) (Disc 1)">
+    <description>AnimeFreak FX Vol. 6 (Japan) (Disc 1)</description>
+    <title_clean>AnimeFreak FX Vol. 6</title_clean>
+    <title_search>animefreak fx vol 6</title_search>
+  </game>
+  <game name="AnimeFreak FX Vol. 6 (Japan) (Disc 2)">
+    <description>AnimeFreak FX Vol. 6 (Japan) (Disc 2)</description>
+    <title_clean>AnimeFreak FX Vol. 6</title_clean>
+    <title_search>animefreak fx vol 6</title_search>
+  </game>
+  <game name="Blue Breaker - Ken Yori mo Hohoemi o (Japan)">
+    <description>Blue Breaker - Ken Yori mo Hohoemi o (Japan)</description>
+    <title_clean>Blue Breaker - Ken Yori mo Hohoemi o</title_clean>
+    <title_search>blue breaker ken yori mo hohoemi o</title_search>
+    <image ext="png" id="Blue Breaker - Ken Yori mo Hohoemi o (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Blue Breaker - Ken Yori mo Hohoemi o (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Blue Breaker - Ken Yori mo Hohoemi o (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Can Can Bunny Extra DX (Japan)">
+    <description>Can Can Bunny Extra DX (Japan)</description>
+    <title_clean>Can Can Bunny Extra DX</title_clean>
+    <title_search>can can bunny extra dx</title_search>
+    <image ext="png" id="Can Can Bunny Extra DX (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Can Can Bunny Extra DX (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Can Can Bunny Extra DX (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Chip-chan Kick! (Japan)">
+    <description>Chip-chan Kick! (Japan)</description>
+    <title_clean>Chip-chan Kick!</title_clean>
+    <title_search>chipchan kick</title_search>
+  </game>
+  <game name="Comic Road (Japan)">
+    <description>Comic Road (Japan)</description>
+    <title_clean>Comic Road</title_clean>
+    <title_search>comic road</title_search>
+  </game>
+  <game name="Doukyuusei 2 (Japan)">
+    <description>Doukyuusei 2 (Japan)</description>
+    <title_clean>Doukyuusei 2</title_clean>
+    <title_search>doukyuusei 2</title_search>
+    <image ext="png" id="Doukyuusei 2 (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Doukyuusei 2 (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Doukyuusei 2 (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Dragon Knight 4 (Japan)">
+    <description>Dragon Knight 4 (Japan)</description>
+    <title_clean>Dragon Knight 4</title_clean>
+    <title_search>dragon knight 4</title_search>
+    <image ext="png" id="Dragon Knight 4 (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Dragon Knight 4 (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Dragon Knight 4 (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Fire Woman Matoigumi (Japan)">
+    <description>Fire Woman Matoigumi (Japan)</description>
+    <title_clean>Fire Woman Matoigumi</title_clean>
+    <title_search>fire woman matoigumi</title_search>
+    <image ext="png" id="Fire Woman Matoigumi (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Fire Woman Matoigumi (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Fire Woman Matoigumi (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="First Kiss Story (Japan)">
+    <description>First Kiss Story (Japan)</description>
+    <title_clean>First Kiss Story</title_clean>
+    <title_search>first kiss story</title_search>
+    <image ext="png" id="First Kiss Story (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="First Kiss Story (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="First Kiss Story (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan)">
+    <description>Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan)</description>
+    <title_clean>Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene</title_clean>
+    <title_search>ginga ojousama densetsu yuna fx kanashimi no selene</title_search>
+  </game>
+  <game name="Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample)">
+    <description>Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample)</description>
+    <title_clean>Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene</title_clean>
+    <title_search>ginga ojousama densetsu yuna fx kanashimi no selene</title_search>
+  </game>
+  <game name="Hataraku Shoujo - Tekipaki Working Love FX (Japan)">
+    <description>Hataraku Shoujo - Tekipaki Working Love FX (Japan)</description>
+    <title_clean>Hataraku Shoujo - Tekipaki Working Love FX</title_clean>
+    <title_search>hataraku shoujo tekipaki working love fx</title_search>
+  </game>
+  <game name="Kokuu Hyouryuu - Nirgends (Japan)">
+    <description>Kokuu Hyouryuu - Nirgends (Japan)</description>
+    <title_clean>Kokuu Hyouryuu - Nirgends</title_clean>
+    <title_search>kokuu hyouryuu nirgends</title_search>
+    <image ext="png" id="Kokuu Hyouryuu - Nirgends (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Kokuu Hyouryuu - Nirgends (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Kokuu Hyouryuu - Nirgends (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Konpeki no Kantai (Japan)">
+    <description>Konpeki no Kantai (Japan)</description>
+    <title_clean>Konpeki no Kantai</title_clean>
+    <title_search>konpeki no kantai</title_search>
+  </game>
+  <game name="Langrisser FX, Der (Japan)">
+    <description>Langrisser FX, Der (Japan)</description>
+    <title_clean>Langrisser FX, Der</title_clean>
+    <title_search>langrisser fx der</title_search>
+  </game>
+  <game name="Mahjong Gokuu Tenjiku (Japan) (SABS)">
+    <description>Mahjong Gokuu Tenjiku (Japan) (SABS)</description>
+    <title_clean>Mahjong Gokuu Tenjiku</title_clean>
+    <title_search>mahjong gokuu tenjiku</title_search>
+  </game>
+  <game name="Makeruna! Makendou Z (Japan)">
+    <description>Makeruna! Makendou Z (Japan)</description>
+    <title_clean>Makeruna! Makendou Z</title_clean>
+    <title_search>makeruna makendou z</title_search>
+  </game>
+  <game name="Megami Paradise II (Japan)">
+    <description>Megami Paradise II (Japan)</description>
+    <title_clean>Megami Paradise II</title_clean>
+    <title_search>megami paradise ii</title_search>
+    <image ext="png" id="Megami Paradise II (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Megami Paradise II (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Megami Paradise II (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Ojousama Sousamou (Japan)">
+    <description>Ojousama Sousamou (Japan)</description>
+    <title_clean>Ojousama Sousamou</title_clean>
+    <title_search>ojousama sousamou</title_search>
+    <image ext="png" id="Ojousama Sousamou (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Boxarts/" type="Box - Front"/>
+  </game>
+  <game name="PC Engine Fan - Special CD-ROM Vol. 2 (Japan)">
+    <description>PC Engine Fan - Special CD-ROM Vol. 2 (Japan)</description>
+    <title_clean>PC Engine Fan - Special CD-ROM Vol. 2</title_clean>
+    <title_search>pc engine fan special cdrom vol 2</title_search>
+  </game>
+  <game name="PC Engine Fan - Special CD-ROM Vol. 3 (Japan)">
+    <description>PC Engine Fan - Special CD-ROM Vol. 3 (Japan)</description>
+    <title_clean>PC Engine Fan - Special CD-ROM Vol. 3</title_clean>
+    <title_search>pc engine fan special cdrom vol 3</title_search>
+  </game>
+  <game name="Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)">
+    <description>Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)</description>
+    <title_clean>Pachio-kun FX - Maboroshi no Shima Daisakusen</title_clean>
+    <title_search>pachiokun fx maboroshi no shima daisakusen</title_search>
+  </game>
+  <game name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)">
+    <description>Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)</description>
+    <title_clean>Pia Carrot e Youkoso!! We've Been Waiting for You</title_clean>
+    <title_search>pia carrot e youkoso weve been waiting for you</title_search>
+    <image ext="png" id="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Return to Zork (Japan)">
+    <description>Return to Zork (Japan)</description>
+    <title_clean>Return to Zork</title_clean>
+    <title_search>return to zork</title_search>
+    <image ext="png" id="Return to Zork (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Return to Zork (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Return to Zork (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Same Game FX (Japan) (NEC PC-FXGA)">
+    <description>Same Game FX (Japan) (NEC PC-FXGA)</description>
+    <title_clean>Same Game FX</title_clean>
+    <title_search>same game fx</title_search>
+  </game>
+  <game name="Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS)">
+    <description>Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS)</description>
+    <title_clean>Sotsugyou II FX - Neo Generation</title_clean>
+    <title_search>sotsugyou ii fx neo generation</title_search>
+    <image ext="png" id="Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Sotsugyou R - Graduation Real (Japan)">
+    <description>Sotsugyou R - Graduation Real (Japan)</description>
+    <title_clean>Sotsugyou R - Graduation Real</title_clean>
+    <title_search>sotsugyou r graduation real</title_search>
+  </game>
+  <game name="Sparkling Feather (Japan)">
+    <description>Sparkling Feather (Japan)</description>
+    <title_clean>Sparkling Feather</title_clean>
+    <title_search>sparkling feather</title_search>
+    <image ext="png" id="Sparkling Feather (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Sparkling Feather (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Sparkling Feather (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Super PC Engine Fan Deluxe - Special CD-ROM Vol. 1 (Japan)">
+    <description>Super PC Engine Fan Deluxe - Special CD-ROM Vol. 1 (Japan)</description>
+    <title_clean>Super PC Engine Fan Deluxe - Special CD-ROM Vol. 1</title_clean>
+    <title_search>super pc engine fan deluxe special cdrom vol 1</title_search>
+  </game>
+  <game name="Super Power League FX (Japan)">
+    <description>Super Power League FX (Japan)</description>
+    <title_clean>Super Power League FX</title_clean>
+    <title_search>super power league fx</title_search>
+    <image ext="png" id="Super Power League FX (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Super Power League FX (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Super Power League FX (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (SABS)">
+    <description>Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (SABS)</description>
+    <title_clean>Team Innocent - The Point of No Return - G.C.P.O.SS</title_clean>
+    <title_search>team innocent the point of no return gcposs</title_search>
+  </game>
+  <game name="Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou)">
+    <description>Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou)</description>
+    <title_clean>Tenchi Muyou! Ryououki FX</title_clean>
+    <title_search>tenchi muyou ryououki fx</title_search>
+  </game>
+  <game name="Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu)">
+    <description>Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu)</description>
+    <title_clean>Tenchi Muyou! Ryououki FX</title_clean>
+    <title_search>tenchi muyou ryououki fx</title_search>
+  </game>
+  <game name="Tengai Makyou - Dennou Karakuri Kakutouden (Japan)">
+    <description>Tengai Makyou - Dennou Karakuri Kakutouden (Japan)</description>
+    <title_clean>Tengai Makyou - Dennou Karakuri Kakutouden</title_clean>
+    <title_search>tengai makyou dennou karakuri kakutouden</title_search>
+  </game>
+  <game name="Tonari no Princess Rolfee! (Japan)">
+    <description>Tonari no Princess Rolfee! (Japan)</description>
+    <title_clean>Tonari no Princess Rolfee!</title_clean>
+    <title_search>tonari no princess rolfee</title_search>
+  </game>
+  <game name="Wakusei Koukitai - Little Cats (Japan)">
+    <description>Wakusei Koukitai - Little Cats (Japan)</description>
+    <title_clean>Wakusei Koukitai - Little Cats</title_clean>
+    <title_search>wakusei koukitai little cats</title_search>
+    <image ext="png" id="Wakusei Koukitai - Little Cats (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Boxarts/" type="Box - Front"/>
+    <image ext="png" id="Wakusei Koukitai - Little Cats (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Snaps/" type="Screenshot - Gameplay"/>
+    <image ext="png" id="Wakusei Koukitai - Little Cats (Japan)" source="https://github.com/libretro-thumbnails/NEC_-_PC-FX/raw/master/Named_Titles/" type="Screenshot - Game Title"/>
+  </game>
+  <game name="Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo)">
+    <description>Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo)</description>
+    <title_clean>Zen Nihon Joshi Pro Wres - Queen of Queens</title_clean>
+    <title_search>zen nihon joshi pro wres queen of queens</title_search>
+  </game>
+  <game name="Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP)">
+    <description>Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP)</description>
+    <title_clean>Zen Nihon Joshi Pro Wres - Queen of Queens</title_clean>
+    <title_search>zen nihon joshi pro wres queen of queens</title_search>
+  </game>
+</datafile>

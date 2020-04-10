@@ -1,0 +1,4 @@
+fuzzywuzzy
+html2text
+unidecode
+lxml

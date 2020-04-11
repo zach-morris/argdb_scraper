@@ -230,13 +230,10 @@ Running the script [simple_example2.py](https://github.com/zach-morris/argdb_scr
 
 Running the script [simple_example3.py](https://github.com/zach-morris/argdb_scraper/blob/main/simple_example3.py) will result in the xml output [Arcade_3_Game_Example_2.xml](https://github.com/zach-morris/argdb_scraper/blob/main/resources/output/Arcade_3_Game_Example_2.xml)
 
-### 4.  More complex list based on an archive.org source xml file, then scrape against one metadata source for exact filename (with no file extension) matches (Arcade Italia for example), then scrape again against the same source for non-exact filename (with no file extension) matches
+### 4.  More complex list based on an archive.org source htm file, then scrape against multiple metadata sources for matches with various keys
 
-... to be added
+Running the script [simple_example4.py](https://github.com/zach-morris/argdb_scraper/blob/main/simple_example4.py) will result in the xml output [Gen_Game_Example.xml](https://github.com/zach-morris/argdb_scraper/blob/main/resources/output/Gen_Game_Example.xml)
 
-### 5.  Same as #4 but iterate over several other sources of metadata
-
-... to be added
 
 ### Issues
 

@@ -1,0 +1,160 @@
+<datafile>
+  <header>
+    <emu_name>Genesis Games Example</emu_name>
+    <emu_description>Genesis Games Example</emu_description>
+    <emu_category>TBD</emu_category>
+    <emu_version/>
+    <emu_date>11042020</emu_date>
+    <emu_author>Zach Morris</emu_author>
+    <emu_visibility>visible</emu_visibility>
+    <emu_homepage/>
+    <emu_baseurl>https://archive.org/download/</emu_baseurl>
+    <emu_launcher>retroplayer</emu_launcher>
+    <emu_default_addon>none</emu_default_addon>
+    <emu_ext_launch_cmd>none</emu_ext_launch_cmd>
+    <emu_downloadpath>default</emu_downloadpath>
+    <emu_postdlaction>none</emu_postdlaction>
+    <emu_comment>TBD</emu_comment>
+    <emu_thumb>TBD</emu_thumb>
+    <emu_banner>TBD</emu_banner>
+    <emu_fanart>TBD</emu_fanart>
+    <emu_logo>TBD</emu_logo>
+    <emu_trailer>TBD</emu_trailer>
+  </header>
+  <game name="Aaahh!!! Real Monsters (Europe)">
+    <description>Aaahh!!! Real Monsters (Europe)</description>
+    <rom name="No-Intro-Collection_2016-01-03_Fixed/Sega%20-%20Mega%20Drive%20-%20Genesis.zip/Aaahh%21%21%21%20Real%20Monsters%20%28Europe%29.zip" size="952979"/>
+    <rating>2.68</rating>
+    <ESRB>E - Everyone</ESRB>
+    <studio>Realtime Associates</studio>
+    <releasedate>15/09/1995</releasedate>
+    <year>1995</year>
+    <plot>Greetings, terror-trainees! Ickis, Krumm, and Oblina will have to prove themselves on the Monster midterm exams if they want to call themselves real monsters! They must work together as a team to receive a single gruesome grade on their frightful performance. So...go out and petrify someone!</plot>
+    <genre>Action,Platform,2D</genre>
+    <groups>Nickelodeon licensees</groups>
+    <nplayers>1</nplayers>
+    <boxart1>https://gamefaqs1.cbsistatic.com/box/9/9/6/46996_front.jpg</boxart1>
+    <boxart2>https://images.launchbox-app.com/e58bdc89-1a2a-480c-b35d-035a0e8ee231.png</boxart2>
+    <boxart3>https://images.launchbox-app.com/3cfbe253-885d-4fe5-adac-544c55b5197f.jpg</boxart3>
+    <boxart4>https://images.launchbox-app.com/32ed079b-8458-4186-91db-f4144818684d.jpg</boxart4>
+    <boxart5>https://images.launchbox-app.com/f1db1d08-8185-46d4-93d3-ea3b19e41f03.png</boxart5>
+    <boxart6>https://images.launchbox-app.com/be4f11f0-5526-4814-9c7d-9ea92a033180.png</boxart6>
+    <boxart7>https://images.launchbox-app.com/968e0935-3149-4462-a793-ac2cf135bb1d.png</boxart7>
+    <boxart8>https://images.launchbox-app.com/cf02c6fa-3773-434d-bcdd-f7e80f34e918.png</boxart8>
+    <snapshot1>https://images.launchbox-app.com/587af603-27a8-4b02-8e9d-6f855e12467b.jpg</snapshot1>
+    <snapshot2>https://images.launchbox-app.com/b598be2e-6b97-4aa9-875b-e83984c6662a.png</snapshot2>
+    <snapshot3>http://www.mobygames.com/images/shots/l/40432-nickelodeon-aaahh-real-monsters-genesis-screenshot-intro.gif</snapshot3>
+    <snapshot4>http://www.mobygames.com/images/shots/l/40433-nickelodeon-aaahh-real-monsters-genesis-screenshot-starting.gif</snapshot4>
+    <fanart1>https://images.launchbox-app.com/cd5be26c-a4eb-41cb-8d79-c4fe6e745eea.jpg</fanart1>
+    <clearlogo1>https://images.launchbox-app.com/4caa888d-9d6c-4bbc-8f90-b4fefd5abc46.png</clearlogo1>
+    <videoid>xIr3w005iro</videoid>
+  </game>
+  <game name="Mortal Kombat (World) (v1.1)">
+    <description>Mortal Kombat (World) (v1.1)</description>
+    <rom name="No-Intro-Collection_2016-01-03_Fixed/Sega%20-%20Mega%20Drive%20-%20Genesis.zip/Mortal%20Kombat%20%28World%29%20%28v1.1%29.zip" size="1014402"/>
+    <rating>1.50</rating>
+    <ESRB>M - Mature</ESRB>
+    <studio>Probe Entertainment Limited</studio>
+    <releasedate>13/09/1993</releasedate>
+    <year>1993</year>
+    <plot>PREPARE YOURSELF! The #1 arcade hit is here: from Sub-Zero, Rayden and the rest of the Kombat Warriors to the grueling endurance and intense mirror matches! Execute bone-shattering combos and awesome finishing moves! Defeat the half-human dragon Goro, and destroy the shape-changing Shang Tsung to become the Supreme Mortal Kombat Warrior!</plot>
+    <genre>Action,Fighter,2D</genre>
+    <groups>Mortal Kombat games,Games made into movies,BPjS / BPjM indexed games,Games made into TV series,Germany Criminal Code confiscations (SS131: Excess Violence),Games made into comics,Video games turned into board / card games,Games with manual lookup copy protection,Visual technique / style: Digitized sprites</groups>
+    <nplayers>1</nplayers>
+    <boxart1>https://gamefaqs1.cbsistatic.com/box/1/0/6/21106_back.jpg</boxart1>
+    <boxart2>https://gamefaqs1.cbsistatic.com/box/1/0/6/21106_front.jpg</boxart2>
+    <snapshot1>https://images.launchbox-app.com/cdc91855-da92-43ba-bf5d-5cf7cb89c8b3.png</snapshot1>
+    <snapshot2>https://images.launchbox-app.com/7931497f-d627-41e1-893b-e0a68cee5e0d.png</snapshot2>
+    <snapshot3>https://images.launchbox-app.com/38eefd05-3ec7-4000-8f7c-ef75c3e8d3b5.png</snapshot3>
+    <snapshot4>http://www.mobygames.com/images/shots/l/661390-mortal-kombat-arcade-screenshot-raiden-special-move-on-sub.png</snapshot4>
+    <fanart1>https://cdn.thegamesdb.net/images/original/fanart/642-1.jpg</fanart1>
+    <clearlogo1>https://cdn.thegamesdb.net/images/original/clearlogo/642.png</clearlogo1>
+  </game>
+  <game name="Sonic &amp;amp; Knuckles (World)">
+    <description>Sonic &amp;amp; Knuckles (World)</description>
+    <rom name="No-Intro-Collection_2016-01-03_Fixed/Sega%20-%20Mega%20Drive%20-%20Genesis.zip/Sonic%20%26%20Knuckles%20%28World%29.zip" size="1285711"/>
+    <rating>4.54</rating>
+    <ESRB>E - Everyone</ESRB>
+    <studio>Sonic Team</studio>
+    <releasedate>17/10/1994</releasedate>
+    <year>1994</year>
+    <plot>Sonic and Knuckles join forces to defeat rotten Dr. Robotnik's Death Egg invasion! Play Sonic and Knuckles by itself or Lock-on with other Sonic games. This game's revolutionary Lock-on technology adds all new features to your other Sonic games for ultimate replays! Play as Sonic and let loose on Robotnik with amazing new powers. Play as Knuckles and tackle Robotnik and Metal Sonic with bare-fisted attacks, high-speed glides and wall-climbing power! Lock-on with Sonic 3 and transform Floating Island into a huge 34 meg Sonic-epic loaded with new secrets! Play as Sonic, Knuckles, and even Tails - with Game Save! Lock-on with Sonic 2 and play as Knuckles with all his signature moves!</plot>
+    <genre>Action,Platform,2D</genre>
+    <groups>Sonic the Hedgehog universe,SEGA Vintage Collection series,Gameplay feature: New Game+,Animals: Hedgehogs</groups>
+    <nplayers>1</nplayers>
+    <boxart1>https://gamefaqs1.cbsistatic.com/box/3/3/5/7335_back.jpg</boxart1>
+    <boxart2>https://gamefaqs1.cbsistatic.com/box/3/3/5/7335_front.jpg</boxart2>
+    <boxart3>https://images.launchbox-app.com/226dfa0f-bd57-406a-a37e-88f2adf87333.png</boxart3>
+    <boxart4>https://images.launchbox-app.com/cac5ef1e-6f2c-412b-9d1f-a299545ebeed.jpg</boxart4>
+    <boxart5>https://images.launchbox-app.com/0240922f-9c83-4a73-80cd-3a3cd4195c26.jpg</boxart5>
+    <boxart6>https://images.launchbox-app.com/06f22bc4-96d7-4afc-a846-bbd3ca3a99a4.jpg</boxart6>
+    <boxart7>https://images.launchbox-app.com/b31c0c33-ffe0-4cf4-991f-e803ea4498e5.png</boxart7>
+    <boxart8>https://images.launchbox-app.com/0efa4d72-4b00-4cef-8703-b4fbd620465f.jpg</boxart8>
+    <snapshot1>http://www.mobygames.com/images/shots/l/30830-sonic-knuckles-genesis-screenshot-title-screen.gif</snapshot1>
+    <snapshot2>http://www.mobygames.com/images/shots/l/30831-sonic-knuckles-genesis-screenshot-mushroom-hill.gif</snapshot2>
+    <snapshot3>http://www.mobygames.com/images/shots/l/30832-sonic-knuckles-genesis-screenshot-this-bonus-round-is-similar.gif</snapshot3>
+    <snapshot4>http://www.mobygames.com/images/shots/l/30833-sonic-knuckles-genesis-screenshot-first-level-boss.gif</snapshot4>
+    <banner1>https://images.launchbox-app.com/2e3122ff-4435-4cd7-aa68-d24776a85fc9.jpg</banner1>
+    <fanart1>https://images.launchbox-app.com/3c4fb0f6-cc6c-45a3-92ae-9022bc0b064d.png</fanart1>
+    <fanart2>https://images.launchbox-app.com/861d4bc9-c5bd-4681-8ca0-3fb8477ecd72.jpg</fanart2>
+    <clearlogo1>https://images.launchbox-app.com/6230f113-675a-42c4-9a83-aa7260ec5006.png</clearlogo1>
+    <videoid>3brewFc7kAE</videoid>
+  </game>
+  <game name="Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <rom name="No-Intro-Collection_2016-01-03_Fixed/Sega%20-%20Mega%20Drive%20-%20Genesis.zip/Streets%20of%20Rage%202%20%28USA%29.zip" size="1031009"/>
+    <rating>4.44</rating>
+    <studio>Sega</studio>
+    <releasedate>19/03/1992</releasedate>
+    <year>1992</year>
+    <plot>Original rumblers Axel and Blaze slam the asphalt with bigger, better, totally devastating attacks! Skull-crushing ex-wrestler Max Thunder joins up with earth-shattering body slams and spinning fist attacks. New thrasher Skate slices punks with high speed in-line skate attacks and spinning jump kicks. Go maniac with jaw-shattering, bone-busting punches, head-cracking jump kicks and secret weapons. Gangs of dirt bikers dive into you from every side. Smash 'em with a pipe as they speed by. 16 gigantic megs of compound fractures! All new moves, and more of 'em! Bust knuckles with a friend in an all-new 2-player head-to-head mode!</plot>
+    <genre>Action,Beat Em Up</genre>
+    <groups>Streets of Rage / Bare Knuckle series,Games referenced in movies,SEGA Vintage Collection series,Gameplay feature: Multiple endings,SEGA Forever series</groups>
+    <nplayers>1-2 Co-Op</nplayers>
+    <boxart1>https://gamefaqs1.cbsistatic.com/box/5/9/8/21598_back.jpg</boxart1>
+    <boxart2>https://gamefaqs1.cbsistatic.com/box/5/9/8/21598_front.jpg</boxart2>
+    <boxart3>https://images.launchbox-app.com/d1cc5d72-2fb5-4d07-8a8e-86c8c6ea2478.jpg</boxart3>
+    <boxart4>https://images.launchbox-app.com/a64a9186-2857-476b-a0d4-d1a3bb940583.jpg</boxart4>
+    <boxart5>https://images.launchbox-app.com/7e19c8a0-2a55-43e7-a657-ba83a5f73387.jpg</boxart5>
+    <boxart6>https://images.launchbox-app.com/5b36b3be-87f7-4b7d-898a-84bfe6b60783.jpg</boxart6>
+    <boxart7>https://images.launchbox-app.com/a9af9497-f319-4d3d-842b-1c3e14123a8a.png</boxart7>
+    <boxart8>https://images.launchbox-app.com/2fc79f4a-db8c-4b5f-8cf4-b8eae2aa2bc6.png</boxart8>
+    <snapshot1>https://images.launchbox-app.com/7cbc9d88-9fdf-48c0-b951-62d0ec5b5613.jpg</snapshot1>
+    <snapshot2>https://images.launchbox-app.com/0318072f-6b28-419a-8fc2-fe8e3320fd44.jpg</snapshot2>
+    <snapshot3>https://images.launchbox-app.com/d2d483c8-a3d7-41cc-b7a8-ffac57867731.jpg</snapshot3>
+    <snapshot4>https://images.launchbox-app.com/9da5b402-2294-464f-9666-00fbfbf5f7dc.jpg</snapshot4>
+    <snapshot5>https://images.launchbox-app.com/338f11a8-cff8-4603-80bf-cc086987d0e2.jpg</snapshot5>
+    <banner1>https://images.launchbox-app.com/3ba9a457-6607-4576-aa8f-691a7647b73c.jpg</banner1>
+    <fanart1>https://images.launchbox-app.com/17ba5c01-d83a-401f-9caf-7d95e329d3a7.jpg</fanart1>
+    <fanart2>https://images.launchbox-app.com/05276ea1-69fb-4570-bb3f-4b10debeeaeb.jpg</fanart2>
+    <clearlogo1>https://images.launchbox-app.com/b23848b9-632f-41cf-a22f-e19e950f1337.png</clearlogo1>
+  </game>
+  <game name="Wonder Boy in Monster World (USA, Europe)">
+    <description>Wonder Boy in Monster World (USA, Europe)</description>
+    <rom name="No-Intro-Collection_2016-01-03_Fixed/Sega%20-%20Mega%20Drive%20-%20Genesis.zip/Wonder%20Boy%20in%20Monster%20World%20%28USA%2C%20Europe%29.zip" size="529227"/>
+    <rating>3.99</rating>
+    <ESRB>E - Everyone</ESRB>
+    <studio>West One</studio>
+    <releasedate>19/03/1992</releasedate>
+    <year>1992</year>
+    <plot>Townsfolk cower in fear as legions of deadly monsters invade the planet. Only Wonder Boy can fight smart enough - and tough enough - to wipe out the terrible beasts. Sleuth out secret clues to thwart the undead. Match wits against an evil force of otherwordly dimensions. And prove the awesome strength and courage of the amazing Wonder Boy! Team up with a companion to battle scores of fiendish monsters. Play magical tunes to enter secret rooms and passageways.</plot>
+    <genre>Action,Platform,2D</genre>
+    <groups>Wonder Boy series,SEGA Vintage Collection series,Genre: Explorable platformer / Metroidvania</groups>
+    <nplayers>1</nplayers>
+    <boxart1>https://gamefaqs1.cbsistatic.com/box/9/9/6/19996_back.jpg</boxart1>
+    <boxart2>https://gamefaqs1.cbsistatic.com/box/9/9/6/19996_front.jpg</boxart2>
+    <boxart3>https://images.launchbox-app.com/dd55175f-1c5d-48f8-b5e4-edc46cbc944c.jpg</boxart3>
+    <boxart4>https://images.launchbox-app.com/dae0e6c4-2046-4714-8dfd-e274aef1f8d5.jpg</boxart4>
+    <boxart5>https://images.launchbox-app.com/21992a5c-dffd-4075-89f4-30241046f26f.jpg</boxart5>
+    <boxart6>https://images.launchbox-app.com/3db144d8-6ed1-450e-a931-dc354781df20.jpg</boxart6>
+    <boxart7>https://images.launchbox-app.com/6a25a70b-77e5-4ebe-b430-754b804c2ab6.jpg</boxart7>
+    <boxart8>https://images.launchbox-app.com/6541f5fa-32f7-47be-b7e9-dc3f768aee76.png</boxart8>
+    <snapshot1>http://www.mobygames.com/images/shots/l/34926-wonder-boy-in-monster-world-genesis-screenshot-title-screen.gif</snapshot1>
+    <snapshot2>http://www.mobygames.com/images/shots/l/34927-wonder-boy-in-monster-world-genesis-screenshot-in-a-village.gif</snapshot2>
+    <snapshot3>http://www.mobygames.com/images/shots/l/34928-wonder-boy-in-monster-world-genesis-screenshot-buying-things.gif</snapshot3>
+    <snapshot4>http://www.mobygames.com/images/shots/l/34931-wonder-boy-in-monster-world-genesis-screenshot-equipping.gif</snapshot4>
+    <fanart1>https://images.launchbox-app.com/50cab9ca-76c8-43bb-a15c-d8352b275e8e.jpg</fanart1>
+    <fanart2>https://images.launchbox-app.com/9b4b37e8-be5b-4e70-8b7c-c5e2f3645d15.jpg</fanart2>
+    <clearlogo1>https://images.launchbox-app.com/13baefc7-a9f9-48af-b868-bccd8a6daec1.png</clearlogo1>
+  </game>
+</datafile>

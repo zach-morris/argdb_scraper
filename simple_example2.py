@@ -1,4 +1,4 @@
-#Simplest Example
+#Example 2
 
 from resources.lib.argdb_scraper import *
 

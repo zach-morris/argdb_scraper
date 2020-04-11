@@ -1,0 +1,80 @@
+<datafile>
+  <header>
+    <emu_name>Arcade Games Example 2</emu_name>
+    <emu_description>Arcade Games Example 2</emu_description>
+    <emu_category>Arcade</emu_category>
+    <emu_version>010101</emu_version>
+    <emu_date>040820</emu_date>
+    <emu_author>Zach Morris</emu_author>
+    <emu_visibility>visible</emu_visibility>
+    <emu_homepage/>
+    <emu_baseurl>https://archive.org/download/</emu_baseurl>
+    <emu_launcher>retroplayer</emu_launcher>
+    <emu_default_addon>none</emu_default_addon>
+    <emu_ext_launch_cmd>none</emu_ext_launch_cmd>
+    <emu_downloadpath>default</emu_downloadpath>
+    <emu_postdlaction>none</emu_postdlaction>
+    <emu_comment>TBD</emu_comment>
+    <emu_thumb>TBD</emu_thumb>
+    <emu_banner>TBD</emu_banner>
+    <emu_fanart>TBD</emu_fanart>
+    <emu_logo>TBD</emu_logo>
+    <emu_trailer>TBD</emu_trailer>
+  </header>
+  <game name="captcomm">
+    <description>Captain Commando</description>
+    <rom name="MAME2003_Reference_Set_MAME0.78_ROMs_CHDs_Samples/roms/captcomm.zip" size="0"/>
+    <rating>3.99</rating>
+    <ESRB>E - Everyone</ESRB>
+    <studio>Capcom</studio>
+    <releasedate>11/04/1991</releasedate>
+    <year>1991</year>
+    <plot>Four good-guy psychos wade their way through hordes of bad-guy psychos in this horizontal scrolling punch and kick-em-up. You get to ride some mean robot walkers and pickup some useful limited ammo weaponry on the way.[CR]Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</plot>
+    <genre>Action,Beat Em Up</genre>
+    <nplayers>1-4 Co-Op</nplayers>
+    <boxart1>https://raw.githubusercontent.com/clobber/arcade-titles/master/captcomm.png</boxart1>
+    <boxart2>https://images.launchbox-app.com/captcomm.png</boxart2>
+    <boxart3>https://images.launchbox-app.com/7b58a412-a89d-4193-af06-a1bd799de137.jpg</boxart3>
+    <boxart4>https://images.launchbox-app.com/1f690bdb-86c9-4696-9ab4-017850f3c8be.png</boxart4>
+    <boxart5>https://images.launchbox-app.com/629a9631-0168-4001-aabd-e82ad92740a5.png</boxart5>
+    <boxart6>https://images.launchbox-app.com/dc1a28cf-9941-4dbb-9362-d38f27b07a4f.png</boxart6>
+    <snapshot1>https://images.launchbox-app.com/7d971c16-afb5-4867-b56e-e1baa5395386.png</snapshot1>
+    <snapshot2>https://images.launchbox-app.com/6a78bb8c-08ae-4538-b19d-d53b31fb165d.png</snapshot2>
+    <snapshot3>https://images.launchbox-app.com/984d6a9d-1b49-4055-a5b9-06285baf6640.png</snapshot3>
+    <fanart1>https://images.launchbox-app.com/3993eec2-98a0-483f-80ef-08911e81068c.jpg</fanart1>
+    <fanart2>https://images.launchbox-app.com/b0565664-16a4-40ae-9f3f-63646c78e850.jpg</fanart2>
+    <clearlogo1>https://images.launchbox-app.com/f59511e1-cf8c-4075-b138-3dd66f108c94.png</clearlogo1>
+    <videoid>uPTS_AwWDwk</videoid>
+  </game>
+  <game name="puckman">
+    <description>Puck-Man</description>
+    <rom name="MAME2003_Reference_Set_MAME0.78_ROMs_CHDs_Samples/roms/puckman.zip" size="0"/>
+    <rating>3.94</rating>
+    <studio>Namco</studio>
+    <releasedate>11/04/1980</releasedate>
+    <year>1980</year>
+    <plot>A yellow, pie-shaped character runs along inside a maze, eating dots as it avoids four ghosts. Each ghost has its own unique personality and gobbling one of the four super dots makes Puckman invincible to the ghosts for a given period of time. Each maze has its own unique bonus fruit or object with bonus points increasing as the game progresses.[CR]Puckman must clear the maze of all 240 dots and all four energizers to proceed to the next level of difficulty. As Puckman eats the dots, the ghosts chase him around the maze and if Puckman collides with one of the ghosts, he loses a life.[CR]He can eat one of the energizers to turn the ghosts dark blue, which make them edible for him. But after Puckman has eaten any of the ghosts, their eyes will return to the pen in the middle of the maze where they will each regenerate into their former selves and return to chase him again.[CR]Occasionally, a bonus fruit or prize will temporarily appear in the middle of the maze below the ghosts' pen. Puckman can eat those bonus items to receive extra points. Also, there is an escape tunnel in the sides of the maze which Puckman can use to get away from any of the ghosts that may be pursuing him.[CR]After the maze has been cleared of all 240 dots and all four energizers, the entire sequence will begin again with increased difficulty. Between every three, four or five completions, there are musical, animated intermissions to amuse the player while he or she waits for the next challenge to begin.[CR]Everything Puckman eats has different point values. The dots are 10 points each, the energizers are 50 points each, the dark blue ghosts are respectively 200, 400, 800 and 1600 points. There are different point values for every bonus fruit or prize that is eaten: cherries, 100 points strawberry, 300 points peach, 500 points apple, 700 points grapes, 1000 points Galaxian, 2000 points bell, 3000 points and key, 5000 points. You will also get a bonus Puckman at 10000 points.</plot>
+    <genre>Puzzle</genre>
+    <nplayers>1</nplayers>
+    <boxart1>https://raw.githubusercontent.com/clobber/arcade-titles/master/puckman.png</boxart1>
+    <boxart2>https://images.launchbox-app.com/f7447586-f85e-4d82-a663-974ccbe2cff4.png</boxart2>
+    <snapshot1>https://images.launchbox-app.com/6e53c01f-566e-4ca3-b3c4-10ccc8127b23.png</snapshot1>
+    <clearlogo1>https://images.launchbox-app.com/ad780f44-d196-477b-869f-be755253dd0f.png</clearlogo1>
+    <videoid>n7gxKYY9I3A</videoid>
+  </game>
+  <game name="tmnt">
+    <description>Teenage Mutant Ninja Turtles: Turtles In Time</description>
+    <rom name="MAME2003_Reference_Set_MAME0.78_ROMs_CHDs_Samples/roms/tmnt.zip" size="0"/>
+    <rating>3.00</rating>
+    <studio>Konami</studio>
+    <releasedate>11/04/1989</releasedate>
+    <year>1989</year>
+    <plot>Teenage Mutant Ninja Turtles: Turtles in Time is an arcade video game produced by Konami. A sequel to the original Teenage Mutant Ninja Turtles arcade game, it is a scrolling beat 'em up based mainly on the 1987 animated series.[CR]Like its predecessor, Turtles in Time was available for the arcades in two and four-player versions. Each playable character has his own strengths and weaknesses. New features in this game include the ability to execute a power attack by hitting an enemy several times in a row, and the ability to slam Foot Soldiers into surrounding enemies.[CR]Players guide the turtles through a series of levels. The first takes place in the streets of New York City. Later levels transport the turtles to representations of various historical eras. In each level, players face enemies from both the 1987 cartoon and the feature film Teenage Mutant Ninja Turtles II: The Secret of the Ooze, including Foot Soldiers and Stone Warriors. Bosses include the fly form of Baxter Stockman, Metalhead, Tokka, Rahzar and Leatherhead.</plot>
+    <genre>Shooter</genre>
+    <nplayers>1-4 Co-Op</nplayers>
+    <boxart1>https://raw.githubusercontent.com/clobber/arcade-titles/master/tmnt.png</boxart1>
+    <fanart1>https://cdn.thegamesdb.net/images/original/fanart/7999-1.jpg</fanart1>
+    <fanart2>https://cdn.thegamesdb.net/images/original/fanart/7999-2.jpg</fanart2>
+    <clearlogo1>https://images.launchbox-app.com/6e65d508-7321-48f5-9a51-2f245d898be4.png</clearlogo1>
+  </game>
+</datafile>

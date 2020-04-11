@@ -216,22 +216,27 @@ Other commands of interest:
 
 ... to be added
 
+## Examples
+
 ### 1.  Simplest example.  A list of three games with no metadata
 
 Running the script [simple_example1.py](https://github.com/zach-morris/argdb_scraper/blob/main/simple_example1.py) will result in the xml output [NES_PD_GAMES.xml](https://github.com/zach-morris/argdb_scraper/blob/main/resources/output/NES_PD_GAMES.xml)
 
 ### 2.  Simple list of games, made up of only the URL you have for the source, then scrape against one metadata source for exact filename matches (OVGDB for example)
 
-Running the script [simple_example1.py](https://github.com/zach-morris/argdb_scraper/blob/main/simple_example2.py) will result in the xml output [Arcade_3_Game_Example.xml](https://github.com/zach-morris/argdb_scraper/blob/main/resources/output/Arcade_3_Game_Example.xml)
+Running the script [simple_example2.py](https://github.com/zach-morris/argdb_scraper/blob/main/simple_example2.py) will result in the xml output [Arcade_3_Game_Example.xml](https://github.com/zach-morris/argdb_scraper/blob/main/resources/output/Arcade_3_Game_Example.xml)
 
-### 3.  More complex list based on an archive.org source xml file, then scrape against one metadata source for exact filename (with no file extension) matches (Arcade Italia for example), then scrape again against the same source for non-exact filename (with no file extension) matches
+### 3.  Same as #2 but iterate over several other sources of metadata
+
+Running the script [simple_example3.py](https://github.com/zach-morris/argdb_scraper/blob/main/simple_example3.py) will result in the xml output [Arcade_3_Game_Example_2.xml](https://github.com/zach-morris/argdb_scraper/blob/main/resources/output/Arcade_3_Game_Example_2.xml)
+
+### 4.  More complex list based on an archive.org source xml file, then scrape against one metadata source for exact filename (with no file extension) matches (Arcade Italia for example), then scrape again against the same source for non-exact filename (with no file extension) matches
 
 ... to be added
 
-### 4.  Same as #2 but iterate over several other sources of metadata
+### 5.  Same as #4 but iterate over several other sources of metadata
 
 ... to be added
-
 
 ### Issues
 

@@ -1,0 +1,48 @@
+<datafile>
+  <header>
+    <emu_name>Arcade Games Example</emu_name>
+    <emu_description>Arcade Games Example</emu_description>
+    <emu_category>Arcade</emu_category>
+    <emu_version>010101</emu_version>
+    <emu_date>040820</emu_date>
+    <emu_author>Zach Morris</emu_author>
+    <emu_visibility>visible</emu_visibility>
+    <emu_homepage/>
+    <emu_baseurl>https://archive.org/download/</emu_baseurl>
+    <emu_launcher>retroplayer</emu_launcher>
+    <emu_default_addon>none</emu_default_addon>
+    <emu_ext_launch_cmd>none</emu_ext_launch_cmd>
+    <emu_downloadpath>default</emu_downloadpath>
+    <emu_postdlaction>none</emu_postdlaction>
+    <emu_comment>TBD</emu_comment>
+    <emu_thumb>TBD</emu_thumb>
+    <emu_banner>TBD</emu_banner>
+    <emu_fanart>TBD</emu_fanart>
+    <emu_logo>TBD</emu_logo>
+    <emu_trailer>TBD</emu_trailer>
+  </header>
+  <game name="captcomm">
+    <description>Captain Commando (World 911202)</description>
+    <rom name="MAME2003_Reference_Set_MAME0.78_ROMs_CHDs_Samples/roms/captcomm.zip" size="0"/>
+    <studio>Capcom</studio>
+    <releasedate>11/04/1991</releasedate>
+    <year>1991</year>
+    <boxart1>https://raw.githubusercontent.com/clobber/arcade-titles/master/captcomm.png</boxart1>
+  </game>
+  <game name="puckman">
+    <description>Puck Man (Japan set 1)</description>
+    <rom name="MAME2003_Reference_Set_MAME0.78_ROMs_CHDs_Samples/roms/puckman.zip" size="0"/>
+    <studio>Namco</studio>
+    <releasedate>11/04/1980</releasedate>
+    <year>1980</year>
+    <boxart1>https://raw.githubusercontent.com/clobber/arcade-titles/master/puckman.png</boxart1>
+  </game>
+  <game name="tmnt">
+    <description>Teenage Mutant Ninja Turtles (World 4 Players, version X)</description>
+    <rom name="MAME2003_Reference_Set_MAME0.78_ROMs_CHDs_Samples/roms/tmnt.zip" size="0"/>
+    <studio>Konami</studio>
+    <releasedate>11/04/1989</releasedate>
+    <year>1989</year>
+    <boxart1>https://raw.githubusercontent.com/clobber/arcade-titles/master/tmnt.png</boxart1>
+  </game>
+</datafile>

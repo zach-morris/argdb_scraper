@@ -48,21 +48,9 @@ One key part of the main scraper is that it does *not* pull metadata from the in
 ```
 Python 3.x (3.7+ is probably best)
 ```
-Then the main scraper currently imports a ton of :poop:, make sure you have all this :poop: in your environment (pip or conda are your friend):
+See requirements.txt for other python modules required, or use:
 ```
-import os, re, json, logging, time, itertools, six, zlib, io, html2text, sqlite3, glob
-import xml.etree.ElementTree as ET
-from collections import defaultdict
-from collections import OrderedDict
-from unidecode import unidecode
-from decimal import Decimal as round_dec
-import concurrent.futures
-import dateutil.parser as date_parser
-from fuzzywuzzy import fuzz
-from fuzzywuzzy import process as fuzzp
-from urllib.parse import quote as url_quote
-from urllib.parse import unquote as url_unquote
-from lxml import etree as lxml_etree
+pip install -r ...path_to/requirements.txt
 ```
 
 In addition, to upload this to github, several of the supporting files in dat_files_raw had to be compressed to be able to upload to github.  You'll need to unzip these files in order to use them in the tool.  You'll see a handy ```Unzip_these_files.txt``` file in the folder.  The goal though is for you to add your own files to the correct folder after having scoured the internet for that sweet sweet metadata.
@@ -234,7 +222,7 @@ Running the script [simple_example1.py](https://github.com/zach-morris/argdb_scr
 
 ### 2.  Simple list of games, made up of only the URL you have for the source, then scrape against one metadata source for exact filename matches (OVGDB for example)
 
-... to be added
+Running the script [simple_example1.py](https://github.com/zach-morris/argdb_scraper/blob/main/simple_example2.py) will result in the xml output [Arcade_3_Game_Example.xml](https://github.com/zach-morris/argdb_scraper/blob/main/resources/output/Arcade_3_Game_Example.xml)
 
 ### 3.  More complex list based on an archive.org source xml file, then scrape against one metadata source for exact filename (with no file extension) matches (Arcade Italia for example), then scrape again against the same source for non-exact filename (with no file extension) matches
 

@@ -46,7 +46,7 @@ dat_file_out['datafile']['game'] = list()
 
 #Populate the list of games by name/description and rom url
 for ff in files:
-	dat_file_out['datafile']['game'].append(argdb_scraper.get_new_IAGL_game_dict(name = ff.split('/')[-1].split('.')[0],description=ff.split('/')[-1].split('.')[0],rom_in={'@name':ff}))
+	dat_file_out['datafile']['game'].append(argdb_scraper.get_new_IAGL_game_dict(name = ff.split('/')[-1].split('.')[0],description=ff.split('/')[-1].split('.')[0],rom_in={'@name':ff,'@size':'0'}))
 
 #Save the xml file to ...resources/output/
 if output_settings['save_output']:

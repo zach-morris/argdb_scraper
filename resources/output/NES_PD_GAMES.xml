@@ -23,14 +23,14 @@
   </header>
   <game name="2048">
     <description>2048</description>
-    <rom name="uc?export=download&amp;id=11-S0be1FQqV_Lvn0e3st9AUtvimStZDg&amp;name=/2048.nes"/>
+    <rom name="uc?export=download&amp;id=11-S0be1FQqV_Lvn0e3st9AUtvimStZDg&amp;name=/2048.nes" size="0"/>
   </game>
   <game name="BladeBuster">
     <description>BladeBuster</description>
-    <rom name="uc?export=download&amp;id=1lvwzcqBCrm4ODPEY9P6ih03uN7SyAiDe&amp;name=/BladeBuster.nes"/>
+    <rom name="uc?export=download&amp;id=1lvwzcqBCrm4ODPEY9P6ih03uN7SyAiDe&amp;name=/BladeBuster.nes" size="0"/>
   </game>
   <game name="dpadhero2">
     <description>dpadhero2</description>
-    <rom name="uc?export=download&amp;id=13_QczPj-5faspIj_kB2nNW8BUtE7yBP7&amp;name=/dpadhero2.nes"/>
+    <rom name="uc?export=download&amp;id=13_QczPj-5faspIj_kB2nNW8BUtE7yBP7&amp;name=/dpadhero2.nes" size="0"/>
   </game>
 </datafile>
